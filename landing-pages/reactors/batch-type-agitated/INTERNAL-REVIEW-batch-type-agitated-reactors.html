@@ -1118,7 +1118,6 @@
             line-height: 1;
         }
         .src-tooltip .close-tip:hover { color: #fff; }
-        .src.active .src-tooltip { display: block; }
 
         /* Source link icon */
         .src-link {
@@ -2195,81 +2194,90 @@ document.querySelectorAll('.faq-tab-content').forEach((content, index) => {
 });
 
 // === SOURCE ANNOTATION TOOLTIPS ===
-// Build tooltips from data attributes and src-link siblings
-document.querySelectorAll('.src[data-src-label]').forEach(el => {
+// Single global tooltip element — moves to wherever is clicked
+const globalTip = document.createElement('div');
+globalTip.className = 'src-tooltip';
+globalTip.style.display = 'none';
+document.body.appendChild(globalTip);
+
+let activeSrc = null;
+
+function closeTooltip() {
+    globalTip.style.display = 'none';
+    if (activeSrc) activeSrc.classList.remove('active');
+    activeSrc = null;
+}
+
+function openTooltip(el) {
     const label = el.getAttribute('data-src-label');
-    // Find the nearest src-link (clickable verification link)
     const linkEl = el.nextElementSibling?.classList?.contains('src-link') ? el.nextElementSibling :
                    el.parentElement?.querySelector('.src-link');
     const href = linkEl ? linkEl.getAttribute('href') : null;
 
-    const tooltip = document.createElement('div');
-    tooltip.className = 'src-tooltip';
     let html = '<span class="close-tip">&times;</span>' + label;
     if (href) {
         html += '<br><a href="' + href + '" target="_blank">Verify source &rarr;</a>';
     }
-    tooltip.innerHTML = html;
-    el.style.position = 'relative';
-    el.appendChild(tooltip);
+    globalTip.innerHTML = html;
 
-    // Click to toggle sticky tooltip with smart positioning
-    el.addEventListener('click', (e) => {
+    // Position
+    const rect = el.getBoundingClientRect();
+    let top = rect.top - 12;
+    let left = rect.left;
+
+    // Measure tooltip
+    globalTip.style.display = 'block';
+    globalTip.style.left = '0px';
+    globalTip.style.top = '0px';
+    const tipRect = globalTip.getBoundingClientRect();
+
+    // Place above
+    top = rect.top - tipRect.height - 12;
+    // If no room above, place below
+    if (top < 60) top = rect.bottom + 12;
+    // If too far right
+    if (left + tipRect.width > window.innerWidth - 20) left = window.innerWidth - tipRect.width - 20;
+    if (left < 10) left = 10;
+
+    globalTip.style.left = left + 'px';
+    globalTip.style.top = top + 'px';
+
+    if (activeSrc && activeSrc !== el) activeSrc.classList.remove('active');
+    el.classList.add('active');
+    activeSrc = el;
+
+    // Close button
+    globalTip.querySelector('.close-tip').onclick = (e) => {
         e.stopPropagation();
-        // Close all other tooltips
-        document.querySelectorAll('.src.active').forEach(s => {
-            if (s !== el) s.classList.remove('active');
-        });
-        el.classList.toggle('active');
+        closeTooltip();
+    };
+}
 
-        if (el.classList.contains('active')) {
-            // Position tooltip smartly
-            const rect = el.getBoundingClientRect();
-            const tipEl = el.querySelector('.src-tooltip');
-            tipEl.style.left = '0';
-            tipEl.style.top = '0';
-            tipEl.style.display = 'block';
-            const tipRect = tipEl.getBoundingClientRect();
-
-            // Try above first
-            let top = rect.top - tipRect.height - 12;
-            let left = rect.left;
-
-            // If no room above, show below
-            if (top < 60) {
-                top = rect.bottom + 12;
-            }
-            // If no room on right, shift left
-            if (left + tipRect.width > window.innerWidth - 20) {
-                left = window.innerWidth - tipRect.width - 20;
-            }
-            // If off-screen left
-            if (left < 10) left = 10;
-
-            tipEl.style.left = left + 'px';
-            tipEl.style.top = top + 'px';
+// Attach click to all src elements
+document.querySelectorAll('.src[data-src-label]').forEach(el => {
+    el.addEventListener('click', (e) => {
+        e.preventDefault();
+        if (activeSrc === el) {
+            closeTooltip();
+        } else {
+            openTooltip(el);
         }
     });
-
-    // Close button inside tooltip
-    tooltip.querySelector('.close-tip').addEventListener('click', (e) => {
-        e.stopPropagation();
-        el.classList.remove('active');
-    });
 });
 
-// Click anywhere else to close all tooltips
-document.addEventListener('click', (e) => {
-    // Only close if click is NOT inside a tooltip or a src element
-    if (!e.target.closest('.src')) {
-        document.querySelectorAll('.src.active').forEach(s => s.classList.remove('active'));
-    }
+// Click ANYWHERE on document closes tooltip
+document.addEventListener('mousedown', (e) => {
+    if (!activeSrc) return;
+    // If click is inside the tooltip itself (e.g. the verify link), don't close
+    if (globalTip.contains(e.target)) return;
+    // If click is on the same src that's active, let the click handler toggle it
+    if (activeSrc.contains(e.target)) return;
+    // Otherwise close
+    closeTooltip();
 });
 
-// Close tooltips on scroll
-window.addEventListener('scroll', () => {
-    document.querySelectorAll('.src.active').forEach(s => s.classList.remove('active'));
-}, { passive: true });
+// Scroll closes tooltip
+window.addEventListener('scroll', closeTooltip, { passive: true });
 
 // Hide old src-link icons (now integrated into tooltips)
 document.querySelectorAll('.src-link').forEach(el => el.style.display = 'none');
