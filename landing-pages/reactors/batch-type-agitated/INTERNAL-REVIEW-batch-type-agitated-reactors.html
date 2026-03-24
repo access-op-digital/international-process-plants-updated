@@ -2259,9 +2259,17 @@ document.querySelectorAll('.src[data-src-label]').forEach(el => {
 });
 
 // Click anywhere else to close all tooltips
-document.addEventListener('click', () => {
-    document.querySelectorAll('.src.active').forEach(s => s.classList.remove('active'));
+document.addEventListener('click', (e) => {
+    // Only close if click is NOT inside a tooltip or a src element
+    if (!e.target.closest('.src')) {
+        document.querySelectorAll('.src.active').forEach(s => s.classList.remove('active'));
+    }
 });
+
+// Close tooltips on scroll
+window.addEventListener('scroll', () => {
+    document.querySelectorAll('.src.active').forEach(s => s.classList.remove('active'));
+}, { passive: true });
 
 // Hide old src-link icons (now integrated into tooltips)
 document.querySelectorAll('.src-link').forEach(el => el.style.display = 'none');
