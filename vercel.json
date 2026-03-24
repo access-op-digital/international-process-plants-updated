@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/buy-used-agitators.html", "destination": "/landing-pages/agitators/buy-used-agitators.html" },
+    { "source": "/buy-used-drive-agitators.html", "destination": "/landing-pages/agitators/buy-used-drive-agitators.html" },
+    { "source": "/buy-used-glass-lined-agitators.html", "destination": "/landing-pages/agitators/buy-used-glass-lined-agitators.html" },
+    { "source": "/buy-used-shaft-mixer-agitators.html", "destination": "/landing-pages/agitators/buy-used-shaft-mixer-agitators.html" },
+    { "source": "/buy-used-batch-type-agitated-reactors.html", "destination": "/landing-pages/reactors/batch-type-agitated/buy-used-batch-type-agitated-reactors.html" },
+    { "source": "/review-batch-type-agitated-reactors.html", "destination": "/landing-pages/reactors/batch-type-agitated/INTERNAL-REVIEW-batch-type-agitated-reactors.html" }
+  ]
+}

@@ -276,6 +276,28 @@ IPP coordinates packaging, crating, freight, and delivery to your plant site. Wo
 
 ## 9. Frequently Asked Questions
 
+### Where These Questions & Answers Come From
+
+**How the questions were selected:**
+These FAQ questions were sourced from three places:
+
+1. **Google's "People Also Ask" data** — Real questions that users are actively searching when looking for used agitators, glass-lined drives, and related equipment. These represent actual buyer intent, not guesses about what people might ask.
+2. **Keyword research via Ahrefs** — Search volume and keyword clustering analysis identified the specific topics, comparisons, and specification questions that buyers search for most frequently (e.g., "Pfaudler vs DeDietrich," "belt drive vs direct coupled," "re-glassed vs new").
+3. **Competitive content gaps** — Questions that competing equipment dealers either don't answer or answer poorly, giving IPP an opportunity to be the authoritative source.
+
+**How the answers were built:**
+Each answer was constructed from verifiable, specific sources — not general industry knowledge or assumptions:
+
+- **IPP's actual inventory data** — Every model number, power rating, gear ratio, material of construction, and condition referenced in the answers comes directly from IPP's current stock listings. Nothing is fabricated or generalized.
+- **OEM manufacturer specifications** — Pfaudler, DeDietrich, Lightnin, and Philadelphia product data was cross-referenced to ensure technical accuracy on drive types, transmission configurations, and compatibility statements.
+- **IPP's own operational details** — Warehouse locations, the UGE re-glassing division, the purchasing process, and delivery timelines come from IPP's published company information and prior client-approved content.
+- **Industry-standard engineering knowledge** — Statements about glass lining technology, belt-drive vs direct-coupled mechanics, and material selection (Hastelloy, SS 316, titanium) reflect established process engineering principles, not opinions.
+
+**What this means for review:**
+Where an answer could be verified against IPP's inventory or OEM specs, it has been. Items marked with ⚠️ are places where we could not verify the claim from available data and need your team's confirmation. If any answer contradicts your operational experience, flag it — the goal is accuracy, not assumptions.
+
+---
+
 ### FAQ Tab: Specifications
 
 **Q: What types of used agitators does IPP sell?**
