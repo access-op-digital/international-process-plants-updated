@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/212007",
+    "stock_number": "212007",
+    "title": "Mixer-Muller 37 kW (49.6 HP) Carbon Steel For Sale - IPP# 212007",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Mixer-Muller",
+      "Manufacturer": "Zwangsmischer Baumaschinen Gmbh",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Motor Power": "37 kW (49.6 HP)",
+      "Chamber Diameter": "2,400 mm (94.5 in)",
+      "Chamber Height": "675 mm (26.6 in)",
+      "Chamber Volume": "1,100 L (297.2 gallons)",
+      "Muller Material": "Carbon Steel",
+      "Rotor RPM": "27"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/93993",
+    "stock_number": "93993",
+    "title": "Mixer-Muller 7.5 kW (10 HP) Stainless Steel 304 For Sale - IPP# 93993",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Mixer-Muller",
+      "Manufacturer": "Kersher",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Motor Power": "7.5 kW (10 HP)",
+      "Chamber Diameter": "1,500 mm (60 in)",
+      "Chamber Height": "304.8 mm (12 in)",
+      "Muller Material": "Stainless Steel 304",
+      "Muller Diameter": "431.8 mm (17 in)",
+      "Muller Width": "152.4 mm (6 in)"
+    }
+  }
+]

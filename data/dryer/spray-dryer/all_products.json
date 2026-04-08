@@ -1,0 +1,503 @@
+[
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/109000",
+    "stock_number": "109000",
+    "title": "Stainless Steel 316 Niro F10-1-D-P-S-N Dryer-Spray - IPP# 109000",
+    "attribute_count": 7,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "F10-1-D-P-S-N",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Diameter": "2,150 mm (84 in)",
+      "Atomizer Type": "Rotary Disc-Wheel"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/203801",
+    "stock_number": "203801",
+    "title": "Stainless Steel 304 Niro  Dryer-Spray - IPP# 203801",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Diameter": "3,650 mm (144 in)",
+      "Atomizer Type": "Rotary Disc-Wheel",
+      "Evaporation Rate": "544 kg/h (1,200 lb/h)",
+      "Inlet Temperature": "593 \u00b0C (1,100 \u00b0F)",
+      "Outlet Temperature": "166.1 \u00b0C (331 \u00b0F)",
+      "Air Flow Rate": "2,350 m3/h (1,400 CFM)",
+      "Heating Type": "Gas",
+      "Counter Current or Co Current": "Co Current",
+      "Height": "3,850 mm (151 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/207374",
+    "stock_number": "207374",
+    "title": "Stainless Steel 304 Niro SD-25 N-R Dryer-Spray - IPP# 207374",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "SD-25 N-R",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Diameter": "3,400 mm (133.9 in)",
+      "Atomizer Type": "Rotary Disc-Wheel",
+      "Evaporation Rate": "210 kg/h (463 lb/h)",
+      "Inlet Temperature": "435 \u00b0C (815 \u00b0F)",
+      "Outlet Temperature": "130 \u00b0C (266 \u00b0F)",
+      "Heating Type": "Gas"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/207375",
+    "stock_number": "207375",
+    "title": "Dryer-Spray 3,400 mm (133.9 in) Stainless Steel 304 For Sale - IPP# 207375",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "SD-25 N-R",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Diameter": "3,400 mm (133.9 in)",
+      "Atomizer Type": "Inline Mixing Nozzle",
+      "Evaporation Rate": "210 kg/h (463 lb/h)",
+      "Inlet Temperature": "425 \u00b0C (797 \u00b0F)",
+      "Outlet Temperature": "130 \u00b0C (266 \u00b0F)",
+      "Heating Type": "Gas"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/207376",
+    "stock_number": "207376",
+    "title": "Stainless Steel Other Bowen Engineering Inc BE-1410 Dryer-Spray - IPP# 207376",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Bowen Engineering Inc",
+      "Model": "BE-1410",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Diameter": "800 mm (31.5 in)",
+      "Atomizer Type": "Single Fluid Pressure Nozzle",
+      "Evaporation Rate": "40 kg/h (88.2 lb/h)",
+      "Inlet Temperature": "500 \u00b0C (932 \u00b0F)",
+      "Heating Type": "Gas",
+      "Counter Current or Co Current": "Counter Current",
+      "Height": "1,000 mm (39.4 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/220469",
+    "stock_number": "220469",
+    "title": "Stainless Steel 304 Niro  Dryer-Spray - IPP# 220469",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Diameter": "7,000 mm (275.6 in)",
+      "Evaporation Rate": "1,800 kg/h (3,950 lb/h)",
+      "Inlet Temperature": "280 \u00b0C (536 \u00b0F)",
+      "Air Flow Rate": "54,000 m3/h (31,800 CFM)",
+      "Pressure": "1.3 bar (18.9 psi)",
+      "CIP": "Yes",
+      "Heating Type": "Gas",
+      "Height": "18,000 mm (709 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/222441",
+    "stock_number": "222441",
+    "title": "Stainless Steel 304 Anhydro III-A size #2 Dryer-Spray - IPP# 222441",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Anhydro",
+      "Model": "III-A size #2",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Diameter": "2,400 mm (94.3 in)",
+      "Atomizer Type": "Rotary Disc-Wheel",
+      "Evaporation Rate": "40.8 kg/h (90 lb/h)",
+      "Inlet Temperature": "204.4 \u00b0C (400 \u00b0F)",
+      "Outlet Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Heating Type": "Gas",
+      "Height": "2,150 mm (84 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/222747",
+    "stock_number": "222747",
+    "title": "Dryer-Spray 431.8 mm (17 in)  For Sale - IPP# 222747",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Bowen Engineering Inc",
+      "Model": "Type CC",
+      "Condition": "Used",
+      "Diameter": "431.8 mm (17 in)",
+      "Atomizer Type": "Rotary Disc-Wheel"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/222748",
+    "stock_number": "222748",
+    "title": "Dryer-Spray 431.8 mm (17 in)  For Sale - IPP# 222748",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Bowen Engineering Inc",
+      "Model": "Type CC",
+      "Condition": "Used",
+      "Diameter": "431.8 mm (17 in)",
+      "Atomizer Type": "Rotary Disc-Wheel"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/223648",
+    "stock_number": "223648",
+    "title": "Stainless Steel 304 Anhydro type III-A no.4 ANHYDRO Dryer-Spray - IPP# 223648",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Anhydro",
+      "Model": "type III-A no.4 ANHYDRO",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Diameter": "2,600 mm (102 in)",
+      "Atomizer Type": "Rotary Disc-Wheel",
+      "Evaporation Rate": "67.6 kg/h (149 lb/h)",
+      "Inlet Temperature": "198.9 \u00b0C (390 \u00b0F)",
+      "Outlet Temperature": "78.6 \u00b0C (173.5 \u00b0F)",
+      "Height": "2,750 mm (108 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/232742",
+    "stock_number": "232742",
+    "title": "Niro Spray Dryer Stainless Steel 304 - IPP# 232742",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "Utility Unit",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Diameter": "1,200 mm (48 in)",
+      "Atomizer Type": "Single Fluid Pressure Nozzle",
+      "Evaporation Rate": "9.1 kg/h (20 lb/h)",
+      "Heating Type": "Gas",
+      "Height": "1,850 mm (72 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/237065",
+    "stock_number": "237065",
+    "title": "Dryer-Spray   For Sale - IPP# 237065",
+    "attribute_count": 3,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Mazzoni",
+      "Condition": "Used"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/237066",
+    "stock_number": "237066",
+    "title": "Dryer-Spray   For Sale - IPP# 237066",
+    "attribute_count": 3,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Mazzoni",
+      "Condition": "Used"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/237067",
+    "stock_number": "237067",
+    "title": "Dryer-Spray   For Sale - IPP# 237067",
+    "attribute_count": 3,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Mazzoni",
+      "Condition": "Used"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/237068",
+    "stock_number": "237068",
+    "title": "Dryer-Spray   For Sale - IPP# 237068",
+    "attribute_count": 3,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Mazzoni",
+      "Condition": "Used"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/237069",
+    "stock_number": "237069",
+    "title": "Dryer-Spray   For Sale - IPP# 237069",
+    "attribute_count": 3,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Mazzoni",
+      "Condition": "Used"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/238212",
+    "stock_number": "238212",
+    "title": "Dryer Spray APV Anhydro Stainless Steel 316 - IPP# 238212",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "APV Anhydro",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Diameter": "1,250 mm (49 in)",
+      "Atomizer Type": "Two Fluid Atomizing Nozzle",
+      "Evaporation Rate": "31.8 kg/h (70 lb/h)",
+      "Inlet Temperature": "354.4 \u00b0C (670 \u00b0F)",
+      "Air Flow Rate": "510 m3/h (300 CFM)",
+      "Heating Type": "Gas",
+      "Counter Current or Co Current": "Co Current",
+      "Explosion-Shock Resistant": "Yes"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/240122",
+    "stock_number": "240122",
+    "title": "Dryer-Spray   For Sale - IPP# 240122",
+    "attribute_count": 2,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Condition": "Used"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/701971",
+    "stock_number": "701971",
+    "title": "Dryer-Spray  Stainless Steel 316 For Sale - IPP# 701971",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "F60-BBC06",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Atomizer Type": "Rotary Disc-Wheel"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/701972",
+    "stock_number": "701972",
+    "title": "Dryer-Spray  Stainless Steel 316 For Sale - IPP# 701972",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "F60-BBC06",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Atomizer Type": "Rotary Disc-Wheel"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706100",
+    "stock_number": "706100",
+    "title": "Dryer-Spray 3,000 mm (118.1 in) Stainless Steel 316 For Sale - IPP# 706100",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "FSD-0050-N",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Diameter": "3,000 mm (118.1 in)",
+      "Atomizer Type": "Single Fluid Pressure Nozzle",
+      "Evaporation Rate": "350 kg/h (772 lb/h)",
+      "Inlet Temperature": "250 \u00b0C (482 \u00b0F)",
+      "Outlet Temperature": "60 \u00b0C (140 \u00b0F)",
+      "CIP": "Yes",
+      "Heating Type": "Gas",
+      "Explosion-Shock Resistant": "Yes",
+      "Height": "7,000 mm (275.6 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706104",
+    "stock_number": "706104",
+    "title": "Dryer-Spray 2,500 mm (98.4 in) Stainless Steel 304 For Sale - IPP# 706104",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Tetre",
+      "Model": "Type 150",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Diameter": "2,500 mm (98.4 in)",
+      "Atomizer Type": "Single Fluid Pressure Nozzle",
+      "Evaporation Rate": "160 kg/h (352.7 lb/h)",
+      "Inlet Temperature": "195 \u00b0C (383 \u00b0F)",
+      "Air Flow Rate": "8,000 m3/h (4,700 CFM)",
+      "Heating Type": "Gas",
+      "Explosion-Shock Resistant": "Yes",
+      "Height": "12,500 mm (492.1 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706105",
+    "stock_number": "706105",
+    "title": "Dryer-Spray 2,500 mm (98.4 in) Stainless Steel 304 For Sale - IPP# 706105",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Tetre",
+      "Model": "Type 150",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Diameter": "2,500 mm (98.4 in)",
+      "Atomizer Type": "Single Fluid Pressure Nozzle",
+      "Evaporation Rate": "160 kg/h (352.7 lb/h)",
+      "Inlet Temperature": "195 \u00b0C (383 \u00b0F)",
+      "Air Flow Rate": "8,000 m3/h (4,700 CFM)",
+      "Heating Type": "Gas",
+      "Explosion-Shock Resistant": "Yes",
+      "Height": "12,500 mm (492.1 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706106",
+    "stock_number": "706106",
+    "title": "Stainless Steel 304 Tetre Type 150 Dryer-Spray - IPP# 706106",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Tetre",
+      "Model": "Type 150",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Diameter": "2,500 mm (98.4 in)",
+      "Atomizer Type": "Single Fluid Pressure Nozzle",
+      "Evaporation Rate": "160 kg/h (352.7 lb/h)",
+      "Inlet Temperature": "195 \u00b0C (383 \u00b0F)",
+      "Air Flow Rate": "8,000 m3/h (4,700 CFM)",
+      "Heating Type": "Gas",
+      "Explosion-Shock Resistant": "Yes",
+      "Height": "12,500 mm (492.1 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706164",
+    "stock_number": "706164",
+    "title": "Niro F10-FBC18 Dryer-Spray - IPP# 706164",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "F10-FBC18",
+      "Condition": "Used",
+      "Atomizer Type": "Rotary Disc-Wheel",
+      "Height": "980 mm (38.6 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706165",
+    "stock_number": "706165",
+    "title": "Niro F10-FBC18 Dryer-Spray - IPP# 706165",
+    "attribute_count": 5,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "F10-FBC18",
+      "Condition": "Used",
+      "Atomizer Type": "Rotary Disc-Wheel"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706166",
+    "stock_number": "706166",
+    "title": "Niro F10-FBC18 Dryer-Spray - IPP# 706166",
+    "attribute_count": 5,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "F10-FBC18",
+      "Condition": "Used",
+      "Atomizer Type": "Rotary Disc-Wheel"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706209",
+    "stock_number": "706209",
+    "title": "Niro F10-1-D-S-S-T Dryer-Spray - IPP# 706209",
+    "attribute_count": 5,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "F10-1-D-S-S-T",
+      "Condition": "Used",
+      "Atomizer Type": "Rotary Disc-Wheel"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706210",
+    "stock_number": "706210",
+    "title": "Niro F10-FBC18 Dryer-Spray - IPP# 706210",
+    "attribute_count": 5,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "F10-FBC18",
+      "Condition": "Used",
+      "Atomizer Type": "Rotary Disc-Wheel"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706270",
+    "stock_number": "706270",
+    "title": "Dryer-Spray   For Sale - IPP# 706270",
+    "attribute_count": 5,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "F35H.769",
+      "Condition": "Used",
+      "Atomizer Type": "Rotary Disc-Wheel"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706272",
+    "stock_number": "706272",
+    "title": "Dryer-Spray   For Sale - IPP# 706272",
+    "attribute_count": 5,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "F35H",
+      "Condition": "Used",
+      "Atomizer Type": "Rotary Disc-Wheel"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/8552",
+    "stock_number": "8552",
+    "title": "Dryer-Spray - IPP# 8552",
+    "attribute_count": 4,
+    "attributes": {
+      "Type": "Dryer-Spray",
+      "Manufacturer": "Niro",
+      "Model": "TS33-502",
+      "Condition": "Used"
+    }
+  }
+]

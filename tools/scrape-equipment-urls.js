@@ -32,8 +32,8 @@ function parseArgs() {
         else if (args[i] === '--output' && args[i + 1]) opts.output = args[++i];
         else if (args[i] === '--headless') opts.headless = true;
     }
-    if (!opts.type || !opts.subtype) {
-        console.error('Usage: node scrape-equipment-urls.js --type "Reactor" --subtype "Batch-Type Agitated" [--output file.txt] [--headless]');
+    if (!opts.type) {
+        console.error('Usage: node scrape-equipment-urls.js --type "Reactor" [--subtype "Batch-Type Agitated"] [--output file.txt] [--headless]');
         process.exit(1);
     }
     return opts;
@@ -44,7 +44,7 @@ function parseArgs() {
     const browser = await puppeteer.launch({ headless: opts.headless, defaultViewport: null });
     const page = await browser.newPage();
 
-    console.log(`Scraping IPP IMS: ${opts.type} > ${opts.subtype}`);
+    console.log(`Scraping IPP IMS: ${opts.type}${opts.subtype ? ' > ' + opts.subtype : ' (all subtypes)'}`);
     console.log('1. Opening IMS search page...');
     await page.goto('https://ims.internationalprocessplants.com/search?asset=equipment', {
         waitUntil: 'networkidle2',
@@ -78,63 +78,100 @@ function parseArgs() {
     console.log(`3. Selecting Equipment Type: ${opts.type}...`);
     await page.click('#EquipmentTypeDropdown');
     await DELAY(1500);
-    const typeSelected = await page.evaluate((targetType) => {
+    const typeResult = await page.evaluate((targetType) => {
         const items = document.querySelectorAll('.k-list-item, .k-item, li[role="option"]');
-        for (const item of items) {
-            if (item.textContent.trim() === targetType) { item.click(); return true; }
-        }
-        return false;
-    }, opts.type);
-    if (!typeSelected) {
-        console.error(`ERROR: Could not find equipment type "${opts.type}"`);
-        await browser.close();
-        process.exit(1);
-    }
-    await DELAY(3000);
-
-    // Step 3: Select Equipment Subtype
-    console.log(`4. Selecting Equipment Subtype: ${opts.subtype}...`);
-    const subtypeClicked = await page.evaluate(() => {
-        const allText = document.querySelectorAll('h4, .filterRow h4');
-        for (const el of allText) {
-            if (el.textContent.includes('Subtype') || el.textContent.includes('Equipment Subtype')) {
-                const container = el.closest('.filtersContainer') || el.closest('div')?.parentElement;
-                const dd = container?.querySelector('.k-dropdownlist');
-                if (dd) { dd.click(); return true; }
-            }
-        }
-        const dds = document.querySelectorAll('.k-dropdownlist');
-        for (const dd of dds) {
-            const text = dd.querySelector('.k-input-value-text')?.textContent || '';
-            const id = dd.id || '';
-            if (id !== 'EquipmentTypeDropdown' && (text.includes('All') || text.includes('Subtype'))) {
-                dd.click();
-                return true;
-            }
-        }
-        return false;
-    });
-    if (!subtypeClicked) {
-        console.error('ERROR: Could not find subtype dropdown');
-        await browser.close();
-        process.exit(1);
-    }
-    await DELAY(1500);
-
-    const subtypeSelected = await page.evaluate((targetSubtype) => {
-        const items = document.querySelectorAll('.k-list-item, .k-item, li[role="option"]');
+        const available = [];
+        // Normalize for comparison: lowercase, collapse whitespace, strip special chars
+        const normalize = (s) => s.toLowerCase().replace(/[&]/g, 'and').replace(/[-–—]/g, ' ').replace(/\s+/g, ' ').trim();
+        const target = normalize(targetType);
         for (const item of items) {
             const text = item.textContent.trim();
-            if (text === targetSubtype || text.includes(targetSubtype)) { item.click(); return true; }
+            available.push(text);
+            if (text === targetType) { item.click(); return { found: true, matched: text }; }
         }
-        return false;
-    }, opts.subtype);
-    if (!subtypeSelected) {
-        console.error(`ERROR: Could not find subtype "${opts.subtype}"`);
+        // Fuzzy: try normalized match
+        for (const item of items) {
+            const text = item.textContent.trim();
+            if (normalize(text) === target) { item.click(); return { found: true, matched: text }; }
+        }
+        // Fuzzy: try includes
+        for (const item of items) {
+            const text = item.textContent.trim();
+            if (normalize(text).includes(target) || target.includes(normalize(text))) { item.click(); return { found: true, matched: text }; }
+        }
+        return { found: false, available };
+    }, opts.type);
+    if (!typeResult.found) {
+        console.error(`ERROR: Could not find equipment type "${opts.type}"`);
+        console.error('Available types:', typeResult.available.join(', '));
         await browser.close();
         process.exit(1);
     }
-    await DELAY(4000);
+    console.log(`   Matched: "${typeResult.matched}"`);
+    await DELAY(3000);
+
+    // Step 3: Select Equipment Subtype (if provided)
+    if (opts.subtype) {
+        console.log(`4. Selecting Equipment Subtype: ${opts.subtype}...`);
+        const subtypeClicked = await page.evaluate(() => {
+            const allText = document.querySelectorAll('h4, .filterRow h4');
+            for (const el of allText) {
+                if (el.textContent.includes('Subtype') || el.textContent.includes('Equipment Subtype')) {
+                    const container = el.closest('.filtersContainer') || el.closest('div')?.parentElement;
+                    const dd = container?.querySelector('.k-dropdownlist');
+                    if (dd) { dd.click(); return true; }
+                }
+            }
+            const dds = document.querySelectorAll('.k-dropdownlist');
+            for (const dd of dds) {
+                const text = dd.querySelector('.k-input-value-text')?.textContent || '';
+                const id = dd.id || '';
+                if (id !== 'EquipmentTypeDropdown' && (text.includes('All') || text.includes('Subtype'))) {
+                    dd.click();
+                    return true;
+                }
+            }
+            return false;
+        });
+        if (!subtypeClicked) {
+            console.error('ERROR: Could not find subtype dropdown');
+            await browser.close();
+            process.exit(1);
+        }
+        await DELAY(1500);
+
+        const subtypeResult = await page.evaluate((targetSubtype) => {
+            const items = document.querySelectorAll('.k-list-item, .k-item, li[role="option"]');
+            const available = [];
+            const normalize = (s) => s.toLowerCase().replace(/[&]/g, 'and').replace(/[-–—]/g, ' ').replace(/[\/]/g, ' ').replace(/\s+/g, ' ').trim();
+            const target = normalize(targetSubtype);
+            for (const item of items) {
+                const text = item.textContent.trim();
+                available.push(text);
+                if (text === targetSubtype) { item.click(); return { found: true, matched: text }; }
+            }
+            for (const item of items) {
+                const text = item.textContent.trim();
+                if (normalize(text) === target) { item.click(); return { found: true, matched: text }; }
+            }
+            for (const item of items) {
+                const text = item.textContent.trim();
+                if (normalize(text).includes(target) || target.includes(normalize(text))) { item.click(); return { found: true, matched: text }; }
+            }
+            return { found: false, available };
+        }, opts.subtype);
+        if (!subtypeResult.found) {
+            console.error(`ERROR: Could not find subtype "${opts.subtype}"`);
+            console.error('Available subtypes:', subtypeResult.available.join(', '));
+            await browser.close();
+            process.exit(1);
+        }
+        console.log(`   Matched: "${subtypeResult.matched}"`);
+        await DELAY(4000);
+    } else {
+        console.log('4. No subtype specified — using all subtypes for this type.');
+        await DELAY(2000);
+    }
 
     // Check result count
     let paginationInfo = await page.evaluate(() => {

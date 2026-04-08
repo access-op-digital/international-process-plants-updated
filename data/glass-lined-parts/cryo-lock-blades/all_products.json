@@ -1,0 +1,615 @@
+[
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/235289",
+    "stock_number": "235289",
+    "title": "Glasslined Agitator Glass Lined Parts - IPP# 235289",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "1,900 L (500 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Clockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "584 mm (23 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/235291",
+    "stock_number": "235291",
+    "title": "CBT Agitator Glass Lined Parts - IPP# 235291",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "UGE",
+      "Model": "CBT",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "15,150 L (4,000 gallons)",
+      "Hub size": "4.5",
+      "Reglassed": "Yes",
+      "Rotation": "Clockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "1,050 mm (41 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/235595",
+    "stock_number": "235595",
+    "title": "Glasslined Miscellaneous Glass Lined Parts - IPP# 235595",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "15,150 L (4,000 gallons)",
+      "Hub size": "4.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counter-Clockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "1,050 mm (41 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/238352",
+    "stock_number": "238352",
+    "title": "Glasslined Agitator Glass Lined Parts - IPP# 238352",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "1,900 L (500 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counter-Clockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "584 mm (23 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/238428",
+    "stock_number": "238428",
+    "title": "Glasslined  Miscellaneous Glass Lined Parts - IPP# 238428",
+    "attribute_count": 7,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "15,150 L (4,000 gallons)",
+      "Rotation": "Counter-Clockwise",
+      "CBT Span": "1,050 mm (41 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/238438",
+    "stock_number": "238438",
+    "title": "Glasslined  Agitator Glass Lined Parts - IPP# 238438",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "15,150 L (4,000 gallons)",
+      "Hub size": "4.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counterclockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "1,050 mm (41 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/239011",
+    "stock_number": "239011",
+    "title": "Glasslined Agitator Glass Lined Parts - IPP# 239011",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "3,800 L (1,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counterclockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "737 mm (29 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/239082",
+    "stock_number": "239082",
+    "title": "Glasslined Agitator Glass Lined Parts - IPP# 239082",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Model": "Cryo-Lock",
+      "Condition": "Unused",
+      "Material": "Glasslined",
+      "Vessel Size": "7,550 L (2,000 gallons)",
+      "Hub size": "3.5\" bore",
+      "Reglassed": "Yes",
+      "Rotation": "Clockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "838 mm (33 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/239091",
+    "stock_number": "239091",
+    "title": "Glasslined Agitator Glass Lined Parts - IPP# 239091",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "7,550 L (2,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counter-Clockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "838 mm (33 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/240422",
+    "stock_number": "240422",
+    "title": "Glasslined Cryo-Lock Blades Glass Lined Parts - IPP# 240422",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "30,300 L (8,000 gallons)",
+      "Hub size": "5.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counterclockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "PBT Span": "1,400 mm (56 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/240603",
+    "stock_number": "240603",
+    "title": "Pfaudler 2,000-Gal Glass-Lined Cryo-Lock Blades - IPP# 240603",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "7,550 L (2,000 gallons)",
+      "Hub size": "3.5\"",
+      "Reglassed": "Yes",
+      "CBT Span": "838 mm (33 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/240687",
+    "stock_number": "240687",
+    "title": "Glasslined Agitator Glass Lined Parts - IPP# 240687",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "7,550 L (2,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counterclockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "PBT Span": "889 mm (35 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/240688",
+    "stock_number": "240688",
+    "title": "Glasslined Cryo-Lock Blades Glass Lined Parts - IPP# 240688",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "7,550 L (2,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counterclockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "838 mm (33 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/240751",
+    "stock_number": "240751",
+    "title": "Glass&#x2010;Lined Pfaudler Cryo-Lock PBT Blades &#x2013; 2&#xD7; for 1,500/2,000 Gal Vessels - IPP# 240751",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock PBT",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "7,550 L (2,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Clockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "PBT Span": "889 mm (35 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/240840",
+    "stock_number": "240840",
+    "title": "Glasslined Agitator Glass Lined Parts - IPP# 240840",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "3,800 L (1,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counterclockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "737 mm (29 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/240847",
+    "stock_number": "240847",
+    "title": "Glasslined Miscellaneous Glass Lined Parts - IPP# 240847",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "3,800 L (1,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "737 mm (29 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246406",
+    "stock_number": "246406",
+    "title": "Glasslined Agitator Glass Lined Parts - IPP# 246406",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "15,150 L (4,000 gallons)",
+      "Hub size": "4.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counterclockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "1,100 mm (43 in)",
+      "PBT Span": "50.8 mm (2 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246407",
+    "stock_number": "246407",
+    "title": "Glasslined Agitator Glass Lined Parts - IPP# 246407",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "15,150 L (4,000 gallons)",
+      "Hub size": "4.5",
+      "Reglassed": "Yes",
+      "Rotation": "Clockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "PBT Span": "1,100 mm (43 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246408",
+    "stock_number": "246408",
+    "title": "Glasslined Agitator Glass Lined Parts - IPP# 246408",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "11,350 L (3,000 gallons)",
+      "Hub size": "4.5",
+      "Reglassed": "Yes",
+      "Rotation": "Clockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "PBT Span": "1,100 mm (43 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246606",
+    "stock_number": "246606",
+    "title": "Glasslined Pfaudler Cryo-Lock Hub CBT Miscellaneous Glass Lined Parts - IPP# 246606",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock Hub CBT",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "3,800 L (1,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counterclockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "737 mm (29 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246616",
+    "stock_number": "246616",
+    "title": "Glasslined Agitator Glass Lined Parts - IPP# 246616",
+    "attribute_count": 7,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Hub size": "3.5\" bore"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246639",
+    "stock_number": "246639",
+    "title": "Glasslined Pfaudler Cryo-Lock Miscellaneous Glass Lined Parts - IPP# 246639",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Used",
+      "Material": "Glasslined",
+      "Hub size": "2.5",
+      "Glass Fire Polish": "Some Fire Polish (F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246653",
+    "stock_number": "246653",
+    "title": "Pfaudler Glass-Lined Cryo-Lock Blades &#x2013; 2,000-Gal Capacity, 33&#x2033; Span - IPP# 246653",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "7,550 L (2,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counter-Clockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "838 mm (33 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246683",
+    "stock_number": "246683",
+    "title": "Glasslined Agitator Glass Lined Parts - IPP# 246683",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "7,550 L (2,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counterclockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "838 mm (33 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246686",
+    "stock_number": "246686",
+    "title": "Glasslined  Agitator Glass Lined Parts - IPP# 246686",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "7,550 L (2,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counterclockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "838 mm (33 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/247018",
+    "stock_number": "247018",
+    "title": "Glasslined Miscellaneous Glass Lined Parts - IPP# 247018",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "3,800 L (1,000 gallons)",
+      "Hub size": "29",
+      "Reglassed": "Yes",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "737 mm (29 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/247086",
+    "stock_number": "247086",
+    "title": "Cryo-Lock Blades Glass Lined Parts - IPP# 247086",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "7,550 L (2,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Clockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "838 mm (33 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/247147",
+    "stock_number": "247147",
+    "title": "Cryo-Lock Blades Glass Lined Parts - IPP# 247147",
+    "attribute_count": 7,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Condition": "Re-glassed",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counterclockwise",
+      "CBT Span": "737 mm (29 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/247159",
+    "stock_number": "247159",
+    "title": "Cryo-Lock Blades Glass Lined Parts - IPP# 247159",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Manufacturer": "Pfaudler",
+      "Model": "Cryo-Lock",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "7,550 L (2,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Counter-Clockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "838 mm (33 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/247224",
+    "stock_number": "247224",
+    "title": "Cryo-Lock Blades Glass Lined Parts - IPP# 247224",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Hub size": "2.5&#x201D;",
+      "Reglassed": "Yes",
+      "Rotation": "Clockwise",
+      "Glass Fire Polish": "Full Fire Polish (FF)",
+      "Glass Condition": "Very Clean (VC)",
+      "CBT Span": "737 mm (29 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/247655",
+    "stock_number": "247655",
+    "title": "Cryo-Lock Blades Glass Lined Parts - IPP# 247655",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Glass Lined Parts",
+      "Subtype": "Cryo-Lock Blades",
+      "Condition": "Re-glassed",
+      "Material": "Glasslined",
+      "Vessel Size": "7,550 L (2,000 gallons)",
+      "Hub size": "3.5",
+      "Reglassed": "Yes",
+      "Rotation": "Clockwise",
+      "CBT Span": "838 mm (33 in)"
+    }
+  }
+]

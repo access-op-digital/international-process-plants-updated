@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/39799",
+    "stock_number": "39799",
+    "title": "Unused Dryer Freeze lyophilizer vacuum shelf freeze dryer Hochvakuum Technik Dresden (Germany), Model TG16.10 Stainless Steel 304 - IPP# 39799",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Dryer-Freeze",
+      "Manufacturer": "Hochvakuum Technik Dresden (Germany)",
+      "Model": "TG16.10",
+      "Condition": "Unused",
+      "Material": "Stainless Steel 304",
+      "Shelf Area - Drying Surface": "1.57 m&#xB2; (16.9 ft&#xB2;)",
+      "Number of Shelves": "5",
+      "Shelf Temperature Range": "-40\u00b0 C to 80\u00b0 C",
+      "Refrigerant Type": "R-22"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/43079",
+    "stock_number": "43079",
+    "title": "Stainless Steel 316 Hull 653FXRS Dryer-Freeze - IPP# 43079",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Dryer-Freeze",
+      "Manufacturer": "Hull",
+      "Model": "653FXRS",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Shelf Area - Drying Surface": "8.9 m&#xB2; (96 ft&#xB2;)",
+      "Number of Shelves": "8",
+      "Shelf Temperature Range": "-55\u00b0 C to 75\u00b0 C",
+      "Gallon Volume": "2,400 L (636 gallons)",
+      "Refrigerant Type": "R-502",
+      "Stoppering": "Yes"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/94972",
+    "stock_number": "94972",
+    "title": "Dryer-Freeze 63.2 m&#xB2; (680 ft&#xB2;)  For Sale - IPP# 94972",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Dryer-Freeze",
+      "Manufacturer": "Hull",
+      "Model": "680-FXS-800",
+      "Condition": "Used",
+      "Shelf Area - Drying Surface": "63.2 m&#xB2; (680 ft&#xB2;)",
+      "Number of Shelves": "34",
+      "Shelf Temperature Range": "-55\u00b0 C to 75\u00b0 C",
+      "Stoppering": "Yes"
+    }
+  }
+]
