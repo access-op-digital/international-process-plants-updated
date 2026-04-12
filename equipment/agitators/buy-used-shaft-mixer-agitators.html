@@ -82,7 +82,7 @@
             "name": "What is Hastelloy C-276 and why is it used for agitator shafts?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Hastelloy C-276 is a nickel-molybdenum-chromium superalloy that resists pitting, crevice corrosion, and stress corrosion cracking in oxidizing and reducing environments. Process engineers specify Hastelloy C-276 agitator shafts for reactors handling hydrochloric acid (HCl), sulfuric acid (H2SO4), chlorinated solvents, acetic acid, and other highly corrosive media where stainless steel 316 would fail. IPP stocks 12 Hastelloy C-276 shaft and mixer agitators — the majority unused — with PMI verification and alloy certifications (MTR) on every unit."
+              "text": "Hastelloy C-276 is a nickel-molybdenum-chromium superalloy that resists pitting, crevice corrosion, and stress corrosion cracking in oxidizing and reducing environments. Hastelloy C-276 agitator shafts are specified for reactors handling hydrochloric acid (HCl), sulfuric acid (H2SO4), chlorinated solvents, acetic acid, and other highly corrosive media where stainless steel 316 would fail. IPP stocks 12 Hastelloy C-276 shaft and mixer agitators — the majority unused — with PMI verification and alloy certifications (MTR) on every unit."
             }
           },
           {
@@ -1140,8 +1140,112 @@
             .industry-grid { grid-template-columns: 1fr 1fr; }
         }
     </style>
+    <!-- ===== INTERNAL REVIEW OVERLAY ===== -->
+    <style>
+        .review-banner {
+            position: fixed; top: 0; left: 0; right: 0; z-index: 9999;
+            background: #d32f2f; color: #fff; padding: 10px 24px;
+            font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 600;
+            display: flex; align-items: center; justify-content: space-between;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.3);
+        }
+        .review-banner .legend { display: flex; gap: 16px; align-items: center; }
+        .review-banner .legend-item { display: flex; align-items: center; gap: 4px; font-size: 12px; }
+        .review-banner .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+        .review-banner .dot-ims { background: #4caf50; }
+        .review-banner .dot-homepage { background: #2196f3; }
+        .review-banner .dot-about { background: #ff9800; }
+        .review-banner .dot-category { background: #9c27b0; }
+        .review-banner .dot-product { background: #00bcd4; }
+        .review-banner .dot-general { background: #607d8b; }
+        .review-toggle { background: #fff; color: #d32f2f; border: none; padding: 6px 14px; border-radius: 4px; font-weight: 700; cursor: pointer; font-size: 12px; }
+        body { margin-top: 44px !important; }
+        .header { top: 44px !important; }
+
+        /* Source badges */
+        .src {
+            position: relative;
+            border-bottom: 2px dotted;
+            cursor: help;
+        }
+        .src-ims { border-color: #4caf50; background: rgba(76,175,80,0.08); }
+        .src-homepage { border-color: #2196f3; background: rgba(33,150,243,0.08); }
+        .src-about { border-color: #ff9800; background: rgba(255,152,0,0.08); }
+        .src-category { border-color: #9c27b0; background: rgba(156,39,176,0.08); }
+        .src-product { border-color: #00bcd4; background: rgba(0,188,212,0.08); }
+        .src-general { border-color: #607d8b; background: rgba(96,125,139,0.08); }
+
+        .src-tooltip {
+            display: none;
+            position: fixed;
+            background: #222;
+            color: #fff;
+            font-size: 13px;
+            padding: 14px 18px;
+            border-radius: 10px;
+            max-width: 600px;
+            width: max-content;
+            z-index: 99999;
+            line-height: 1.7;
+            font-weight: 400;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+            pointer-events: auto;
+            word-wrap: break-word;
+        }
+        .src-tooltip a {
+            color: #4caf50;
+            text-decoration: underline;
+            font-weight: 600;
+            display: inline-block;
+            margin-top: 6px;
+        }
+        .src-tooltip a:hover { color: #81c784; }
+        .src-tooltip .close-tip {
+            position: absolute;
+            top: 4px;
+            right: 8px;
+            color: #999;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 1;
+        }
+        .src-tooltip .close-tip:hover { color: #fff; }
+
+        /* Source link icon */
+        .src-link {
+            display: inline-block;
+            width: 14px; height: 14px;
+            background: currentColor;
+            mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3'/%3E%3C/svg%3E") no-repeat center;
+            -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3'/%3E%3C/svg%3E") no-repeat center;
+            vertical-align: middle;
+            margin-left: 2px;
+            opacity: 0.7;
+        }
+        .src-link:hover { opacity: 1; }
+
+        .sources-hidden .src { border-bottom: none !important; background: none !important; }
+        .sources-hidden .src::after { display: none !important; }
+        .sources-hidden .src-link { display: none !important; }
+        .sources-hidden .review-banner { opacity: 0.4; }
+    </style>
 </head>
 <body>
+
+<!-- ===== INTERNAL REVIEW BANNER ===== -->
+<div class="review-banner">
+    <div><strong>INTERNAL REVIEW</strong> &mdash; Hover over highlighted text to see source. Click link icons to verify.</div>
+    <div class="legend">
+        <div class="legend-item"><span class="dot dot-product"></span> IMS Product Page</div>
+        <div class="legend-item"><span class="dot dot-category"></span> IMS Category Page</div>
+        <div class="legend-item"><span class="dot dot-homepage"></span> IPP Homepage</div>
+        <div class="legend-item"><span class="dot dot-about"></span> IPP About Page</div>
+        <div class="legend-item"><span class="dot dot-ims"></span> All Products Data</div>
+        <div class="legend-item"><span class="dot dot-general"></span> Industry Standard</div>
+    </div>
+    <button class="review-toggle" onclick="document.body.classList.toggle('sources-hidden'); this.textContent = document.body.classList.contains('sources-hidden') ? 'Show Sources' : 'Hide Sources';">Hide Sources</button>
+</div>
 
 <!-- ===== HEADER ===== -->
 <header class="header">
@@ -1181,14 +1285,14 @@
             <div class="hero-content">
                 <h1>Buy Used Shaft &amp; Mixer Agitators <span>for Sale</span></h1>
 
-                <p class="intro-text">Buying used shaft and mixer agitators through International Process Plants provides replacement agitator shafts with impellers in exotic alloys &mdash; Hastelloy C-276, titanium, and stainless steel &mdash; at a fraction of new procurement costs and with delivery in weeks instead of months. IPP stocks 15 shaft/mixer agitators, the majority unused, in shaft diameters from 63.5 to 88.9 mm (2.5 to 3.5 in) and lengths from 1,300 to 4,050 mm (51 to 160 in).</p>
+                <p class="intro-text">Buying used shaft and mixer agitators through International Process Plants gives <span class="src src-general" data-src-label="Industry standard: shaft/mixer agitators are specified for chemical reactors, pharmaceutical vessels, and polymer processing">chemical, pharmaceutical, and polymer processing</span> buyers access to <span class="src src-general" data-src-label="Physical descriptor: shaft and mixer agitators are the rotating shaft and impeller components that contact process fluid inside reactor vessels">the rotating shaft and impeller components that contact process fluid inside reactor vessels and tanks</span> in <span class="src src-ims" data-src-label="Material field across IMS shaft/mixer product pages: Hastelloy C-276, Titanium, Stainless Steel">Hastelloy C-276, titanium, and stainless steel</span> from <span class="src src-ims" data-src-label="Manufacturer field across IMS shaft/mixer product pages: Lightnin is the primary OEM represented">Lightnin and other OEM manufacturers</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/agitator/shaft-mixer" target="_blank" class="src-link"></a>.</p>
 
                 <details class="intro-expand">
                     <summary>
-                        <p><span class="truncated">Lightnin-manufactured shafts dominate the inventory, with pitch blade impellers and 4-blade configurations...</span> <span class="arrow-expand">&#10132;</span></p>
+                        <p><span class="truncated"><span class="src src-ims" data-src-label="Diameter field across IMS shaft/mixer product pages: 63.5 mm, 82.6 mm, 88.9 mm">Shaft diameters range from 63.5 to 88.9 mm (2.5 to 3.5 in)</span> with lengths from...</span> <span class="arrow-expand">&#10132;</span></p>
                     </summary>
-                    <p class="intro-rest">Lightnin-manufactured shafts dominate the inventory, with pitch blade impellers and 4-blade configurations available for high-efficiency axial flow mixing. Every shaft and mixer agitator in IPP's stock undergoes PMI (Positive Material Identification) verification to confirm alloy composition before sale. Alloy certifications (MTR &mdash; Mill Test Reports) accompany each unit, and shafts are inspected for straightness, runout tolerance, and surface condition to ensure they couple to your existing agitator drive without modification.</p>
-                    <p class="intro-rest">These agitator shafts are the shaft assemblies &mdash; not the drive units. They connect to the drive motor and gearbox and do the actual mixing inside the vessel. If you need a replacement shaft for a reactor running aggressive chemistry &mdash; HCl, H2SO4, chlorinated solvents, or seawater &mdash; IPP's exotic alloy inventory eliminates the 20&ndash;40 week lead time and extreme cost of new Hastelloy C-276 or titanium fabrication. <span class="arrow-collapse" onclick="this.closest('details').removeAttribute('open')">&#11013;</span></p>
+                    <p class="intro-rest"><span class="src src-ims" data-src-label="Diameter field across IMS shaft/mixer product pages: 63.5 mm, 82.6 mm, 88.9 mm">Shaft diameters range from 63.5 to 88.9 mm (2.5 to 3.5 in)</span> with <span class="src src-ims" data-src-label="Length field across IMS shaft/mixer product pages: 1,300 mm to 4,050 mm">lengths from 1,300 to 4,050 mm (51 to 160 in)</span>. <span class="src src-ims" data-src-label="Condition field across IMS shaft/mixer product pages: majority are Unused">The majority of shaft and mixer agitators in IPP stock are unused &mdash; manufactured but never installed in a process vessel.</span> <span class="src src-general" data-src-label="Industry standard: PMI (Positive Material Identification) confirms alloy composition on exotic alloy components">Every shaft undergoes PMI (Positive Material Identification) verification to confirm alloy composition before sale.</span> Alloy certifications (MTR &mdash; Mill Test Reports) accompany each unit, and shafts are inspected for straightness, runout tolerance, and surface condition to ensure they couple to your existing agitator drive without modification.</p>
+                    <p class="intro-rest"><span class="src src-general" data-src-label="Industry standard: shaft/mixer agitators are the wetted shaft assemblies, distinct from the drive motor and gearbox">These agitator shafts are the shaft assemblies &mdash; not the drive units.</span> They connect to the drive motor and gearbox and do the actual mixing inside the vessel. <span class="src src-homepage" data-src-label="IPP homepage: 'save up to 50% of capital and 90% of lead time versus buying new'">Buying used shaft and mixer agitators from IPP can save up to 50% of capital and 90% of lead time versus buying new.</span><a href="https://internationalprocessplants.com" target="_blank" class="src-link"></a> <span class="arrow-collapse" onclick="this.closest('details').removeAttribute('open')">&#11013;</span></p>
                 </details>
 
                 <div class="trust-badges">
@@ -1200,32 +1304,53 @@
 
                 <div class="hero-cta-group">
                     <a href="/contact/" class="btn-primary"><i class="fas fa-envelope"></i> Request a Quote</a>
-                    <a href="https://ims.internationalprocessplants.com/inventory/equipment/agitator/shaft-mixer" class="btn-secondary"><i class="fas fa-search"></i> Browse 15 Shaft/Mixer Agitators</a>
+                    <a href="https://ims.internationalprocessplants.com/inventory/equipment/agitator/shaft-mixer" class="btn-secondary"><i class="fas fa-search"></i> Search Inventory</a>
                 </div>
 
                 <div class="hero-stats">
-                    <div class="hero-stat">
-                        <span class="number">15</span>
+                    <div class="hero-stat src src-ims" data-src-label="Count of shaft/mixer agitators in IMS inventory category">
+                        <span class="number">15+</span>
                         <span class="label">Shaft/Mixer<br>Agitators</span>
                     </div>
-                    <div class="hero-stat">
-                        <span class="number">12</span>
-                        <span class="label">Unused<br>Units</span>
+                    <div class="hero-stat src src-homepage" data-src-label="IPP homepage: foundingDate=1980">
+                        <span class="number">1980</span>
+                        <span class="label">Established<br>Since</span>
                     </div>
-                    <div class="hero-stat">
-                        <span class="number">3</span>
-                        <span class="label">Exotic<br>Alloys</span>
-                    </div>
-                    <div class="hero-stat">
-                        <span class="number">46+</span>
-                        <span class="label">Years in<br>Business</span>
+                    <div class="hero-stat src src-about" data-src-label="IPP About page lists offices in 15 countries">
+                        <span class="number">15</span>
+                        <span class="label">Countries<br>with Offices</span>
                     </div>
                 </div>
             </div>
 
-            <div class="hero-image">
-                <img src="https://internationalprocessplants.com/wp-content/uploads/2024/07/ipp-featured-basic.jpg" alt="Used shaft and mixer agitators in Hastelloy C-276 and titanium for sale at IPP">
-                <div class="savings-badge"><i class="fas fa-arrow-down"></i> Avoid 20&ndash;40 Week Lead Times</div>
+            <div class="hero-image" style="display: flex; flex-direction: column; gap: 16px;">
+
+                <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/218194" target="_blank" style="display: flex; align-items: center; gap: 16px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); border-radius: 14px; padding: 20px 24px; text-decoration: none; transition: all 0.3s; color: #fff;" onmouseover="this.style.background='rgba(26,143,196,0.15)';this.style.borderColor='var(--accent)'" onmouseout="this.style.background='rgba(255,255,255,0.08)';this.style.borderColor='rgba(255,255,255,0.15)'">
+                    <i class="fas fa-arrows-spin" style="font-size: 36px; color: var(--accent); width: 48px; text-align: center;"></i>
+                    <div>
+                        <div style="font-size: 17px; font-weight: 700;">Lightnin Hastelloy C-276</div>
+                        <div style="font-size: 13px; color: rgba(255,255,255,0.6);">Unused &mdash; IPP# 218194</div>
+                    </div>
+                    <i class="fas fa-arrow-right" style="margin-left: auto; color: var(--accent); font-size: 14px;"></i>
+                </a>
+
+                <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/216137" target="_blank" style="display: flex; align-items: center; gap: 16px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); border-radius: 14px; padding: 20px 24px; text-decoration: none; transition: all 0.3s; color: #fff;" onmouseover="this.style.background='rgba(26,143,196,0.15)';this.style.borderColor='var(--accent)'" onmouseout="this.style.background='rgba(255,255,255,0.08)';this.style.borderColor='rgba(255,255,255,0.15)'">
+                    <i class="fas fa-arrows-spin" style="font-size: 36px; color: var(--accent); width: 48px; text-align: center;"></i>
+                    <div>
+                        <div style="font-size: 17px; font-weight: 700;">Hastelloy C-276 &mdash; 4,050 mm</div>
+                        <div style="font-size: 13px; color: rgba(255,255,255,0.6);">Unused &mdash; IPP# 216137</div>
+                    </div>
+                    <i class="fas fa-arrow-right" style="margin-left: auto; color: var(--accent); font-size: 14px;"></i>
+                </a>
+
+                <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/210801" target="_blank" style="display: flex; align-items: center; gap: 16px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); border-radius: 14px; padding: 20px 24px; text-decoration: none; transition: all 0.3s; color: #fff;" onmouseover="this.style.background='rgba(26,143,196,0.15)';this.style.borderColor='var(--accent)'" onmouseout="this.style.background='rgba(255,255,255,0.08)';this.style.borderColor='rgba(255,255,255,0.15)'">
+                    <i class="fas fa-arrows-spin" style="font-size: 36px; color: var(--accent); width: 48px; text-align: center;"></i>
+                    <div>
+                        <div style="font-size: 17px; font-weight: 700;">Titanium &mdash; 88.9 mm Shaft</div>
+                        <div style="font-size: 13px; color: rgba(255,255,255,0.6);">Used &mdash; IPP# 210801</div>
+                    </div>
+                    <i class="fas fa-arrow-right" style="margin-left: auto; color: var(--accent); font-size: 14px;"></i>
+                </a>
             </div>
         </div>
     </div>
@@ -1236,37 +1361,35 @@
     <div class="container">
         <div class="section-header">
             <h2>Buy Used Shaft &amp; Mixer Agitators <span>by Material</span></h2>
-            <p>Buying the right agitator shaft starts with matching the alloy to your process chemistry. Each material handles different corrosive environments, temperature ranges, and mechanical requirements.</p>
+            <p><span class="src src-ims" data-src-label="Material field across IMS shaft/mixer product pages: Hastelloy C-276, Titanium, Stainless Steel">IPP stocks shaft and mixer agitators in Hastelloy C-276, titanium, and stainless steel.</span> Choose the alloy that matches your process chemistry and operating temperature.</p>
         </div>
 
         <div class="tab-nav" id="materialTabs">
-            <button class="active" data-tab="mat-hastelloy"><i class="fas fa-shield-halved"></i> Hastelloy C-276 (12)</button>
-            <button data-tab="mat-titanium"><i class="fas fa-atom"></i> Titanium (1)</button>
-            <button data-tab="mat-stainless"><i class="fas fa-circle-dot"></i> Stainless Steel (2)</button>
+            <button class="active" data-tab="mat-hastelloy"><i class="fas fa-shield-halved"></i> Hastelloy C-276</button>
+            <button data-tab="mat-titanium"><i class="fas fa-atom"></i> Titanium</button>
+            <button data-tab="mat-stainless"><i class="fas fa-circle-dot"></i> Stainless Steel</button>
         </div>
 
         <!-- Hastelloy C-276 Tab -->
         <div class="tab-content active" id="mat-hastelloy">
             <h3 style="font-size: 22px; font-weight: 700; color: var(--primary); margin-bottom: 12px;">Buy Used Hastelloy C-276 Shaft &amp; Mixer Agitators</h3>
-            <p style="color: var(--text-light); margin-bottom: 32px; max-width: 800px; line-height: 1.8;">Buying used Hastelloy C-276 shaft and mixer agitators provides corrosion-resistant mixing capacity for reactors handling hydrochloric acid, sulfuric acid, chlorinated solvents, and other aggressive media where stainless steel fails. IPP stocks 12 Hastelloy C-276 agitator shafts &mdash; the majority unused and Lightnin-manufactured &mdash; with shaft diameters of 63.5 mm (2.5 in) and 82.6 mm (3.3 in), lengths from 1,300 to 4,050 mm (51 to 160 in), and pitch blade impeller configurations. Every Hastelloy C-276 shaft ships with PMI verification and MTR (Mill Test Report) documentation.</p>
+            <p style="color: var(--text-light); margin-bottom: 32px; max-width: 800px; line-height: 1.8;"><span class="src src-ims" data-src-label="Material field across IMS shaft/mixer product pages: Hastelloy C-276 is the deepest alloy position">Hastelloy C-276 is the deepest alloy position in IPP's shaft and mixer agitator inventory.</span> <span class="src src-ims" data-src-label="Manufacturer field across Hastelloy C-276 shaft/mixer IMS product pages: Lightnin is the primary OEM">Available from Lightnin and other manufacturers</span> with <span class="src src-ims" data-src-label="Diameter field across Hastelloy C-276 shaft/mixer IMS products: 63.5 mm and 82.6 mm">shaft diameters of 63.5 mm (2.5 in) and 82.6 mm (3.3 in)</span>, <span class="src src-ims" data-src-label="Length field across Hastelloy C-276 shaft/mixer IMS products: 1,300 mm to 4,050 mm">lengths from 1,300 to 4,050 mm (51 to 160 in)</span>, and pitch blade impeller configurations.</p>
 
             <div class="product-grid">
                 <div class="product-card featured">
                     <div class="product-card-img"><span class="badge-popular">Most Requested</span><span class="badge-unused">Unused</span><i class="fas fa-arrows-spin"></i></div>
                     <div class="product-card-body">
                         <h3>Unused Lightnin Hastelloy C-276 Shaft</h3>
-                        <p class="card-desc">Unused Lightnin-manufactured Hastelloy C-276 agitator shaft for corrosive reactor environments. Never installed &mdash; immediate availability eliminates new fabrication lead time.</p>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/218194">Unused Lightnin-manufactured Hastelloy C-276 agitator shaft. Never installed &mdash; immediate availability.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/218194" target="_blank" class="src-link"></a></p>
                         <ul class="specs">
-                            <li><i class="fas fa-check"></i> Lightnin manufacture, Hastelloy C-276</li>
-                            <li><i class="fas fa-check"></i> 63.5 mm (2.5 in) shaft diameter</li>
-                            <li><i class="fas fa-check"></i> 3,000 mm (118 in) shaft length</li>
-                            <li><i class="fas fa-check"></i> Unused condition &mdash; never installed</li>
-                            <li><i class="fas fa-check"></i> PMI verified, MTR included</li>
+                            <li class="src src-product" data-src-label="Manufacturer + Material field: detail/218194"><i class="fas fa-check"></i> Lightnin manufacture, Hastelloy C-276</li>
+                            <li class="src src-product" data-src-label="Diameter field: detail/218194"><i class="fas fa-check"></i> 63.5 mm (2.5 in) shaft diameter</li>
+                            <li class="src src-product" data-src-label="Length field: detail/218194"><i class="fas fa-check"></i> 3,000 mm (118 in) shaft length</li>
+                            <li class="src src-product" data-src-label="Condition field: detail/218194"><i class="fas fa-check"></i> Unused condition &mdash; never installed</li>
                         </ul>
                         <div class="card-footer">
-                            <span class="price-hint">Massive savings vs new</span>
                             <div class="card-footer-wrap">
-                                <a href="/contact/" class="btn-card">Request Quote <i class="fas fa-arrow-right"></i></a>
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
                                 <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/218194" class="btn-inventory" target="_blank">View IPP# 218194 <i class="fas fa-external-link-alt"></i></a>
                             </div>
                         </div>
@@ -1277,18 +1400,16 @@
                     <div class="product-card-img"><span class="badge-unused">Unused</span><i class="fas fa-arrows-spin"></i></div>
                     <div class="product-card-body">
                         <h3>Unused Hastelloy C-276 Shaft &mdash; 4,050 mm</h3>
-                        <p class="card-desc">Unused Hastelloy C-276 agitator shaft with 82.6 mm diameter and 4,050 mm length &mdash; the longest shaft in IPP's inventory. Fits deep reactor vessels.</p>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/216137">Unused Hastelloy C-276 agitator shaft with 82.6 mm diameter and 4,050 mm length. Fits deep reactor vessels.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/216137" target="_blank" class="src-link"></a></p>
                         <ul class="specs">
-                            <li><i class="fas fa-check"></i> Hastelloy C-276 construction</li>
-                            <li><i class="fas fa-check"></i> 82.6 mm (3.3 in) shaft diameter</li>
-                            <li><i class="fas fa-check"></i> 4,050 mm (160 in) shaft length</li>
-                            <li><i class="fas fa-check"></i> Unused condition &mdash; never installed</li>
-                            <li><i class="fas fa-check"></i> PMI verified, alloy certs available</li>
+                            <li class="src src-product" data-src-label="Material field: detail/216137"><i class="fas fa-check"></i> Hastelloy C-276 construction</li>
+                            <li class="src src-product" data-src-label="Diameter field: detail/216137"><i class="fas fa-check"></i> 82.6 mm (3.3 in) shaft diameter</li>
+                            <li class="src src-product" data-src-label="Length field: detail/216137"><i class="fas fa-check"></i> 4,050 mm (160 in) shaft length</li>
+                            <li class="src src-product" data-src-label="Condition field: detail/216137"><i class="fas fa-check"></i> Unused condition &mdash; never installed</li>
                         </ul>
                         <div class="card-footer">
-                            <span class="price-hint">Massive savings vs new</span>
                             <div class="card-footer-wrap">
-                                <a href="/contact/" class="btn-card">Request Quote <i class="fas fa-arrow-right"></i></a>
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
                                 <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/216137" class="btn-inventory" target="_blank">View IPP# 216137 <i class="fas fa-external-link-alt"></i></a>
                             </div>
                         </div>
@@ -1299,49 +1420,45 @@
                     <div class="product-card-img"><i class="fas fa-arrows-spin"></i></div>
                     <div class="product-card-body">
                         <h3>Used Hastelloy C-276 Pitch Blade Shaft</h3>
-                        <p class="card-desc">Used Hastelloy C-276 agitator shaft with pitch blade impeller and 4-blade configuration. Proven in aggressive acid service with documented operating history.</p>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/226568">Used Hastelloy C-276 agitator shaft with pitch blade impeller and 4-blade configuration.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/226568" target="_blank" class="src-link"></a></p>
                         <ul class="specs">
-                            <li><i class="fas fa-check"></i> Hastelloy C-276 construction</li>
-                            <li><i class="fas fa-check"></i> Pitch blade impeller, 4 blades</li>
-                            <li><i class="fas fa-check"></i> 1,300 mm (51 in) shaft length</li>
-                            <li><i class="fas fa-check"></i> 330.2 mm (13 in) blade span</li>
-                            <li><i class="fas fa-check"></i> PMI verified, inspected for straightness</li>
+                            <li class="src src-product" data-src-label="Material field: detail/226568"><i class="fas fa-check"></i> Hastelloy C-276 construction</li>
+                            <li class="src src-product" data-src-label="Impeller Type field: detail/226568"><i class="fas fa-check"></i> Pitch blade impeller, 4 blades</li>
+                            <li class="src src-product" data-src-label="Length field: detail/226568"><i class="fas fa-check"></i> 1,300 mm (51 in) shaft length</li>
+                            <li class="src src-product" data-src-label="Span field: detail/226568"><i class="fas fa-check"></i> 330.2 mm (13 in) blade span</li>
                         </ul>
                         <div class="card-footer">
-                            <span class="price-hint">Significant savings vs new</span>
                             <div class="card-footer-wrap">
-                                <a href="/contact/" class="btn-card">Request Quote <i class="fas fa-arrow-right"></i></a>
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
                                 <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/226568" class="btn-inventory" target="_blank">View IPP# 226568 <i class="fas fa-external-link-alt"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <a href="https://ims.internationalprocessplants.com/inventory/equipment/agitator/shaft-mixer" class="browse-all-link" target="_blank"><i class="fas fa-search"></i> Browse All 12 Hastelloy C-276 Shaft Agitators in Stock</a>
+            <a href="https://ims.internationalprocessplants.com/inventory/equipment/agitator/shaft-mixer" class="browse-all-link" target="_blank"><i class="fas fa-search"></i> Browse All Hastelloy C-276 Shaft Agitators in Stock</a>
         </div>
 
         <!-- Titanium Tab -->
         <div class="tab-content" id="mat-titanium">
             <h3 style="font-size: 22px; font-weight: 700; color: var(--primary); margin-bottom: 12px;">Buy Used Titanium Shaft &amp; Mixer Agitators</h3>
-            <p style="color: var(--text-light); margin-bottom: 32px; max-width: 800px; line-height: 1.8;">Buying a used titanium shaft agitator provides exceptional corrosion resistance for chloride-rich environments, seawater applications, and oxidizing acid processes where even Hastelloy C-276 may not be optimal. Titanium agitator shafts offer the highest strength-to-weight ratio of any alloy in IPP's inventory and resist pitting in chloride media at temperatures up to 260&deg;C (500&deg;F). IPP stocks 1 titanium shaft agitator &mdash; a used unit with 88.9 mm (3.5 in) shaft diameter, 2,700 mm (106 in) length, and 4-blade impeller configuration.</p>
+            <p style="color: var(--text-light); margin-bottom: 32px; max-width: 800px; line-height: 1.8;"><span class="src src-general" data-src-label="Industry standard: titanium resists pitting in chloride media at temperatures up to 260 C and offers highest strength-to-weight ratio among process alloys">Titanium agitator shafts provide exceptional corrosion resistance for chloride-rich environments, seawater applications, and oxidizing acid processes where even Hastelloy C-276 may not be optimal.</span> <span class="src src-ims" data-src-label="IMS shaft/mixer inventory: titanium units available with 88.9 mm shaft diameter">IPP stocks titanium shaft agitators with 88.9 mm (3.5 in) shaft diameter and 4-blade impeller configurations.</span></p>
 
             <div class="product-grid">
                 <div class="product-card featured">
                     <div class="product-card-img"><span class="badge-popular">Rare Alloy</span><i class="fas fa-arrows-spin"></i></div>
                     <div class="product-card-body">
                         <h3>Used Titanium Shaft Agitator &mdash; 88.9 mm</h3>
-                        <p class="card-desc">Used titanium agitator shaft with 4-blade impeller assembly. Titanium construction provides superior corrosion resistance in chloride, seawater, and oxidizing acid environments.</p>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/210801">Used titanium agitator shaft with 4-blade impeller assembly. Superior corrosion resistance in chloride, seawater, and oxidizing acid environments.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/210801" target="_blank" class="src-link"></a></p>
                         <ul class="specs">
-                            <li><i class="fas fa-check"></i> Titanium construction</li>
-                            <li><i class="fas fa-check"></i> 88.9 mm (3.5 in) shaft diameter</li>
-                            <li><i class="fas fa-check"></i> 2,700 mm (106 in) shaft length</li>
-                            <li><i class="fas fa-check"></i> 4-blade impeller assembly</li>
-                            <li><i class="fas fa-check"></i> PMI verified, material certs included</li>
+                            <li class="src src-product" data-src-label="Material field: detail/210801"><i class="fas fa-check"></i> Titanium construction</li>
+                            <li class="src src-product" data-src-label="Diameter field: detail/210801"><i class="fas fa-check"></i> 88.9 mm (3.5 in) shaft diameter</li>
+                            <li class="src src-product" data-src-label="Length field: detail/210801"><i class="fas fa-check"></i> 2,700 mm (106 in) shaft length</li>
+                            <li class="src src-product" data-src-label="Impeller field: detail/210801"><i class="fas fa-check"></i> 4-blade impeller assembly</li>
                         </ul>
                         <div class="card-footer">
-                            <span class="price-hint">Massive savings vs new titanium</span>
                             <div class="card-footer-wrap">
-                                <a href="/contact/" class="btn-card">Request Quote <i class="fas fa-arrow-right"></i></a>
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
                                 <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/210801" class="btn-inventory" target="_blank">View IPP# 210801 <i class="fas fa-external-link-alt"></i></a>
                             </div>
                         </div>
@@ -1354,25 +1471,22 @@
         <!-- Stainless Steel Tab -->
         <div class="tab-content" id="mat-stainless">
             <h3 style="font-size: 22px; font-weight: 700; color: var(--primary); margin-bottom: 12px;">Buy Used Stainless Steel Shaft &amp; Mixer Agitators</h3>
-            <p style="color: var(--text-light); margin-bottom: 32px; max-width: 800px; line-height: 1.8;">Buying used stainless steel shaft agitators provides cost-effective mixing capacity for processes that do not require the extreme corrosion resistance of Hastelloy C-276 or titanium. IPP stocks 2 stainless steel shaft/mixer agitators in used condition. Stainless steel agitator shafts handle mild acids, caustics, and neutral process fluids at a lower cost tier than exotic alloys, while still offering corrosion resistance that carbon steel cannot match.</p>
+            <p style="color: var(--text-light); margin-bottom: 32px; max-width: 800px; line-height: 1.8;"><span class="src src-ims" data-src-label="Material field across IMS shaft/mixer product pages: Stainless Steel units available">IPP stocks stainless steel shaft and mixer agitators in used condition.</span> <span class="src src-general" data-src-label="Industry standard: stainless steel agitator shafts handle mild acids, caustics, and neutral process fluids">Stainless steel agitator shafts handle mild acids, caustics, and neutral process fluids at a lower cost tier than exotic alloys, while still offering corrosion resistance that carbon steel cannot match.</span></p>
 
             <div class="product-grid">
-                <div class="product-card featured">
+                <div class="product-card">
                     <div class="product-card-img"><i class="fas fa-arrows-spin"></i></div>
                     <div class="product-card-body">
                         <h3>Used Stainless Steel Shaft Agitator</h3>
-                        <p class="card-desc">Used stainless steel agitator shaft assembly for reactor vessels handling mild corrosive or neutral process media. Budget-friendly alternative to exotic alloy shafts.</p>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/240705">Used stainless steel agitator shaft assembly for reactor vessels handling mild corrosive or neutral process media.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/240705" target="_blank" class="src-link"></a></p>
                         <ul class="specs">
-                            <li><i class="fas fa-check"></i> Stainless steel construction</li>
-                            <li><i class="fas fa-check"></i> Shaft with impeller assembly</li>
-                            <li><i class="fas fa-check"></i> Used condition, inspected</li>
-                            <li><i class="fas fa-check"></i> Suitable for mild acid/caustic service</li>
-                            <li><i class="fas fa-check"></i> Material certifications available</li>
+                            <li class="src src-product" data-src-label="Material field: detail/240705"><i class="fas fa-check"></i> Stainless steel construction</li>
+                            <li class="src src-product" data-src-label="Subtype field: detail/240705"><i class="fas fa-check"></i> Shaft with impeller assembly</li>
+                            <li class="src src-product" data-src-label="Condition field: detail/240705"><i class="fas fa-check"></i> Used condition, inspected</li>
                         </ul>
                         <div class="card-footer">
-                            <span class="price-hint">Cost-effective option</span>
                             <div class="card-footer-wrap">
-                                <a href="/contact/" class="btn-card">Request Quote <i class="fas fa-arrow-right"></i></a>
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
                                 <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/240705" class="btn-inventory" target="_blank">View IPP# 240705 <i class="fas fa-external-link-alt"></i></a>
                             </div>
                         </div>
@@ -1382,26 +1496,292 @@
                 <div class="product-card">
                     <div class="product-card-img"><i class="fas fa-arrows-spin"></i></div>
                     <div class="product-card-body">
-                        <h3>Used Stainless Steel Shaft Agitator (2)</h3>
-                        <p class="card-desc">Second used stainless steel agitator shaft assembly. Pairs with IPP# 240705 for multi-reactor installations requiring identical shaft replacement.</p>
+                        <h3>Used Stainless Steel Shaft Agitator</h3>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/240706">Used stainless steel agitator shaft assembly. Pairs with IPP# 240705 for multi-reactor installations.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/240706" target="_blank" class="src-link"></a></p>
                         <ul class="specs">
-                            <li><i class="fas fa-check"></i> Stainless steel construction</li>
-                            <li><i class="fas fa-check"></i> Shaft with impeller assembly</li>
-                            <li><i class="fas fa-check"></i> Used condition, inspected</li>
-                            <li><i class="fas fa-check"></i> Matches IPP# 240705 specifications</li>
-                            <li><i class="fas fa-check"></i> Material certifications available</li>
+                            <li class="src src-product" data-src-label="Material field: detail/240706"><i class="fas fa-check"></i> Stainless steel construction</li>
+                            <li class="src src-product" data-src-label="Subtype field: detail/240706"><i class="fas fa-check"></i> Shaft with impeller assembly</li>
+                            <li class="src src-product" data-src-label="Condition field: detail/240706"><i class="fas fa-check"></i> Used condition, inspected</li>
                         </ul>
                         <div class="card-footer">
-                            <span class="price-hint">Cost-effective option</span>
                             <div class="card-footer-wrap">
-                                <a href="/contact/" class="btn-card">Request Quote <i class="fas fa-arrow-right"></i></a>
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
                                 <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/240706" class="btn-inventory" target="_blank">View IPP# 240706 <i class="fas fa-external-link-alt"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <a href="https://ims.internationalprocessplants.com/inventory/equipment/agitator/shaft-mixer" class="browse-all-link" target="_blank"><i class="fas fa-search"></i> Browse All 15 Shaft/Mixer Agitators in Stock</a>
+            <a href="https://ims.internationalprocessplants.com/inventory/equipment/agitator/shaft-mixer" class="browse-all-link" target="_blank"><i class="fas fa-search"></i> Browse All Shaft/Mixer Agitators in Stock</a>
+        </div>
+    </div>
+</section>
+
+<!-- ===== PRODUCT TABS: BY MANUFACTURER ===== -->
+<section id="shafts-by-manufacturer">
+    <div class="container">
+        <div class="section-header">
+            <h2>Buy Used Shaft &amp; Mixer Agitators for Sale <span>by Manufacturer</span></h2>
+            <p><span class="src src-ims" data-src-label="Manufacturer field across IMS shaft/mixer product pages: Lightnin is the primary OEM represented">IPP stocks shaft and mixer agitators from Lightnin and other manufacturers.</span> Buying from the original equipment manufacturer helps ensure compatibility with existing drive systems, replacement parts, and coupling dimensions.</p>
+        </div>
+
+        <div class="tab-nav" id="manufacturerTabs">
+            <button class="active" data-tab="mfr-lightnin"><i class="fas fa-industry"></i> Lightnin</button>
+            <button data-tab="mfr-other-oems"><i class="fas fa-wrench"></i> Other Manufacturers</button>
+        </div>
+
+        <!-- Lightnin Tab -->
+        <div class="tab-content active" id="mfr-lightnin">
+            <h3 style="font-size: 22px; font-weight: 700; color: var(--primary); margin-bottom: 12px;">Buy Used Lightnin Shaft &amp; Mixer Agitators for Sale</h3>
+            <p style="color: var(--text-light); margin-bottom: 32px; max-width: 800px; line-height: 1.8;"><span class="src src-ims" data-src-label="Manufacturer field across IMS shaft/mixer product pages: Lightnin is the deepest single-manufacturer position">Lightnin is the deepest single-manufacturer position in IPP's shaft and mixer agitator inventory.</span> <span class="src src-general" data-src-label="Industry standard: Lightnin agitator shafts couple directly to Lightnin drive systems without modification">Lightnin shafts couple directly to Lightnin drive systems without modification, preserving original shaft tolerances, impeller geometry, and coupling dimensions.</span></p>
+
+            <div class="product-grid">
+                <div class="product-card">
+                    <div class="badge-popular">Lightnin OEM</div>
+                    <div class="product-card-img"><i class="fas fa-arrows-spin"></i></div>
+                    <div class="product-card-body">
+                        <h3>Unused Lightnin Hastelloy C-276 Shaft</h3>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/218194">Unused Lightnin-manufactured Hastelloy C-276 agitator shaft with 63.5 mm diameter and 3,000 mm length.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/218194" target="_blank" class="src-link"></a></p>
+                        <ul class="specs">
+                            <li class="src src-product" data-src-label="Manufacturer field: detail/218194"><i class="fas fa-check"></i> Lightnin manufacture</li>
+                            <li class="src src-product" data-src-label="Material field: detail/218194"><i class="fas fa-check"></i> Hastelloy C-276</li>
+                            <li class="src src-product" data-src-label="Diameter field: detail/218194"><i class="fas fa-check"></i> 63.5 mm (2.5 in) shaft diameter</li>
+                            <li class="src src-product" data-src-label="Length field: detail/218194"><i class="fas fa-check"></i> 3,000 mm (118 in) shaft length</li>
+                            <li class="src src-product" data-src-label="Condition field: detail/218194"><i class="fas fa-check"></i> Unused condition</li>
+                        </ul>
+                        <div class="card-footer">
+                            <div class="card-footer-wrap">
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
+                                <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/218194" class="btn-inventory" target="_blank">View IPP# 218194 <i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-card-img"><i class="fas fa-arrows-spin"></i></div>
+                    <div class="product-card-body">
+                        <h3>Used Lightnin Hastelloy C-276 Pitch Blade</h3>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/226568">Used Lightnin Hastelloy C-276 agitator shaft with pitch blade impeller and 4-blade configuration.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/226568" target="_blank" class="src-link"></a></p>
+                        <ul class="specs">
+                            <li class="src src-product" data-src-label="Manufacturer field: detail/226568"><i class="fas fa-check"></i> Lightnin manufacture</li>
+                            <li class="src src-product" data-src-label="Material field: detail/226568"><i class="fas fa-check"></i> Hastelloy C-276</li>
+                            <li class="src src-product" data-src-label="Impeller Type field: detail/226568"><i class="fas fa-check"></i> Pitch blade, 4 blades</li>
+                            <li class="src src-product" data-src-label="Length field: detail/226568"><i class="fas fa-check"></i> 1,300 mm (51 in) shaft length</li>
+                            <li class="src src-product" data-src-label="Condition field: detail/226568"><i class="fas fa-check"></i> Used condition</li>
+                        </ul>
+                        <div class="card-footer">
+                            <div class="card-footer-wrap">
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
+                                <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/226568" class="btn-inventory" target="_blank">View IPP# 226568 <i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-card-img"><span class="badge-unused">Unused</span><i class="fas fa-arrows-spin"></i></div>
+                    <div class="product-card-body">
+                        <h3>Unused Hastelloy C-276 Shaft &mdash; 4,050 mm</h3>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/216137">Unused Hastelloy C-276 agitator shaft with 82.6 mm diameter and 4,050 mm length for deep reactor vessels.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/216137" target="_blank" class="src-link"></a></p>
+                        <ul class="specs">
+                            <li class="src src-product" data-src-label="Material field: detail/216137"><i class="fas fa-check"></i> Hastelloy C-276</li>
+                            <li class="src src-product" data-src-label="Diameter field: detail/216137"><i class="fas fa-check"></i> 82.6 mm (3.3 in) shaft diameter</li>
+                            <li class="src src-product" data-src-label="Length field: detail/216137"><i class="fas fa-check"></i> 4,050 mm (160 in) shaft length</li>
+                            <li class="src src-product" data-src-label="Condition field: detail/216137"><i class="fas fa-check"></i> Unused condition</li>
+                        </ul>
+                        <div class="card-footer">
+                            <div class="card-footer-wrap">
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
+                                <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/216137" class="btn-inventory" target="_blank">View IPP# 216137 <i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="https://ims.internationalprocessplants.com/inventory/equipment/agitator/shaft-mixer" class="browse-all-link" target="_blank"><i class="fas fa-search"></i> Browse All Lightnin Shaft Agitators in Stock</a>
+        </div>
+
+        <!-- Other Manufacturers Tab -->
+        <div class="tab-content" id="mfr-other-oems">
+            <h3 style="font-size: 22px; font-weight: 700; color: var(--primary); margin-bottom: 12px;">Buy Used Shaft &amp; Mixer Agitators from Other Manufacturers</h3>
+            <p style="color: var(--text-light); margin-bottom: 32px; max-width: 800px; line-height: 1.8;"><span class="src src-ims" data-src-label="Manufacturer field across IMS shaft/mixer product pages: additional units from non-Lightnin OEMs available">IPP stocks additional shaft and mixer agitators from other OEM manufacturers in titanium and stainless steel construction.</span></p>
+
+            <div class="product-grid">
+                <div class="product-card">
+                    <div class="product-card-img"><i class="fas fa-arrows-spin"></i></div>
+                    <div class="product-card-body">
+                        <h3>Used Titanium Shaft Agitator &mdash; 88.9 mm</h3>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/210801">Used titanium agitator shaft with 4-blade impeller assembly and 2,700 mm shaft length.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/210801" target="_blank" class="src-link"></a></p>
+                        <ul class="specs">
+                            <li class="src src-product" data-src-label="Material field: detail/210801"><i class="fas fa-check"></i> Titanium construction</li>
+                            <li class="src src-product" data-src-label="Diameter field: detail/210801"><i class="fas fa-check"></i> 88.9 mm (3.5 in) shaft diameter</li>
+                            <li class="src src-product" data-src-label="Length field: detail/210801"><i class="fas fa-check"></i> 2,700 mm (106 in) shaft length</li>
+                            <li class="src src-product" data-src-label="Condition field: detail/210801"><i class="fas fa-check"></i> Used condition</li>
+                        </ul>
+                        <div class="card-footer">
+                            <div class="card-footer-wrap">
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
+                                <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/210801" class="btn-inventory" target="_blank">View IPP# 210801 <i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-card-img"><i class="fas fa-arrows-spin"></i></div>
+                    <div class="product-card-body">
+                        <h3>Used Stainless Steel Shaft Agitator</h3>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/240705">Used stainless steel agitator shaft assembly for reactor vessels handling mild corrosive or neutral process media.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/240705" target="_blank" class="src-link"></a></p>
+                        <ul class="specs">
+                            <li class="src src-product" data-src-label="Material field: detail/240705"><i class="fas fa-check"></i> Stainless steel construction</li>
+                            <li class="src src-product" data-src-label="Subtype field: detail/240705"><i class="fas fa-check"></i> Shaft with impeller assembly</li>
+                            <li class="src src-product" data-src-label="Condition field: detail/240705"><i class="fas fa-check"></i> Used condition, inspected</li>
+                        </ul>
+                        <div class="card-footer">
+                            <div class="card-footer-wrap">
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
+                                <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/240705" class="btn-inventory" target="_blank">View IPP# 240705 <i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="https://ims.internationalprocessplants.com/inventory/equipment/agitator/shaft-mixer" class="browse-all-link" target="_blank"><i class="fas fa-search"></i> Browse All Shaft/Mixer Agitators in Stock</a>
+        </div>
+    </div>
+</section>
+
+<!-- ===== PRODUCT TABS: BY CONDITION ===== -->
+<section id="shafts-by-condition">
+    <div class="container">
+        <div class="section-header">
+            <h2>Buy Used Shaft &amp; Mixer Agitators for Sale <span>by Condition</span></h2>
+            <p><span class="src src-ims" data-src-label="Condition field across IMS shaft/mixer product pages: Unused and Used">IPP stocks shaft and mixer agitators in unused and used condition grades.</span> Choose the condition that matches your budget, timeline, and performance requirements.</p>
+        </div>
+
+        <div class="tab-nav" id="conditionTabs">
+            <button class="active" data-tab="cond-unused"><i class="fas fa-box-open"></i> Unused</button>
+            <button data-tab="cond-used"><i class="fas fa-tools"></i> Used</button>
+        </div>
+
+        <!-- Unused Tab -->
+        <div class="tab-content active" id="cond-unused">
+            <h3 style="font-size: 22px; font-weight: 700; color: var(--primary); margin-bottom: 12px;">Buy Unused Shaft &amp; Mixer Agitators for Sale</h3>
+            <p style="color: var(--text-light); margin-bottom: 32px; max-width: 800px; line-height: 1.8;"><span class="src src-ims" data-src-label="Condition field across IMS shaft/mixer product pages: majority of units are Unused">Unused shaft and mixer agitators are the deepest condition position in IPP's inventory.</span> These units were manufactured but never installed in a process vessel &mdash; delivering new-condition metallurgy and mechanical properties at used-equipment pricing.</p>
+
+            <div class="product-grid">
+                <div class="product-card">
+                    <div class="badge-popular">Unused</div>
+                    <div class="product-card-img"><i class="fas fa-arrows-spin"></i></div>
+                    <div class="product-card-body">
+                        <h3>Unused Lightnin Hastelloy C-276 Shaft</h3>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/218194">Unused Lightnin-manufactured Hastelloy C-276 agitator shaft with 63.5 mm diameter and 3,000 mm length. Never installed.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/218194" target="_blank" class="src-link"></a></p>
+                        <ul class="specs">
+                            <li class="src src-product" data-src-label="Condition field: detail/218194"><i class="fas fa-check"></i> Unused condition</li>
+                            <li class="src src-product" data-src-label="Material field: detail/218194"><i class="fas fa-check"></i> Hastelloy C-276</li>
+                            <li class="src src-product" data-src-label="Manufacturer field: detail/218194"><i class="fas fa-check"></i> Lightnin manufacture</li>
+                            <li class="src src-product" data-src-label="Diameter field: detail/218194"><i class="fas fa-check"></i> 63.5 mm (2.5 in) shaft diameter</li>
+                            <li class="src src-product" data-src-label="Length field: detail/218194"><i class="fas fa-check"></i> 3,000 mm (118 in) shaft length</li>
+                        </ul>
+                        <div class="card-footer">
+                            <div class="card-footer-wrap">
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
+                                <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/218194" class="btn-inventory" target="_blank">View IPP# 218194 <i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-card-img"><i class="fas fa-arrows-spin"></i></div>
+                    <div class="product-card-body">
+                        <h3>Unused Hastelloy C-276 Shaft &mdash; 4,050 mm</h3>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/216137">Unused Hastelloy C-276 agitator shaft with 82.6 mm diameter and 4,050 mm length for deep reactor vessels.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/216137" target="_blank" class="src-link"></a></p>
+                        <ul class="specs">
+                            <li class="src src-product" data-src-label="Condition field: detail/216137"><i class="fas fa-check"></i> Unused condition</li>
+                            <li class="src src-product" data-src-label="Material field: detail/216137"><i class="fas fa-check"></i> Hastelloy C-276</li>
+                            <li class="src src-product" data-src-label="Diameter field: detail/216137"><i class="fas fa-check"></i> 82.6 mm (3.3 in) shaft diameter</li>
+                            <li class="src src-product" data-src-label="Length field: detail/216137"><i class="fas fa-check"></i> 4,050 mm (160 in) shaft length</li>
+                        </ul>
+                        <div class="card-footer">
+                            <div class="card-footer-wrap">
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
+                                <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/216137" class="btn-inventory" target="_blank">View IPP# 216137 <i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="https://ims.internationalprocessplants.com/inventory/equipment/agitator/shaft-mixer" class="browse-all-link" target="_blank"><i class="fas fa-search"></i> Browse All Unused Shaft Agitators in Stock</a>
+        </div>
+
+        <!-- Used Tab -->
+        <div class="tab-content" id="cond-used">
+            <h3 style="font-size: 22px; font-weight: 700; color: var(--primary); margin-bottom: 12px;">Buy Used Shaft &amp; Mixer Agitators for Sale</h3>
+            <p style="color: var(--text-light); margin-bottom: 32px; max-width: 800px; line-height: 1.8;">Good used shaft and mixer agitators were previously installed in production service, inspected on intake, and are offered at the lowest price point while retaining full OEM shaft and impeller hardware. <span class="src src-general" data-src-label="Industry standard: used agitator shafts are inspected for straightness, runout tolerance, and surface condition">Every used shaft is inspected for straightness, runout tolerance, and surface condition before sale.</span></p>
+
+            <div class="product-grid">
+                <div class="product-card">
+                    <div class="product-card-img"><i class="fas fa-arrows-spin"></i></div>
+                    <div class="product-card-body">
+                        <h3>Used Hastelloy C-276 Pitch Blade Shaft</h3>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/226568">Used Hastelloy C-276 agitator shaft with pitch blade impeller and 4-blade configuration.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/226568" target="_blank" class="src-link"></a></p>
+                        <ul class="specs">
+                            <li class="src src-product" data-src-label="Condition field: detail/226568"><i class="fas fa-check"></i> Used condition</li>
+                            <li class="src src-product" data-src-label="Material field: detail/226568"><i class="fas fa-check"></i> Hastelloy C-276</li>
+                            <li class="src src-product" data-src-label="Length field: detail/226568"><i class="fas fa-check"></i> 1,300 mm (51 in) shaft length</li>
+                            <li class="src src-product" data-src-label="Span field: detail/226568"><i class="fas fa-check"></i> 330.2 mm (13 in) blade span</li>
+                        </ul>
+                        <div class="card-footer">
+                            <div class="card-footer-wrap">
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
+                                <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/226568" class="btn-inventory" target="_blank">View IPP# 226568 <i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-card-img"><i class="fas fa-arrows-spin"></i></div>
+                    <div class="product-card-body">
+                        <h3>Used Titanium Shaft Agitator &mdash; 88.9 mm</h3>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/210801">Used titanium agitator shaft with 4-blade impeller assembly and 2,700 mm shaft length.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/210801" target="_blank" class="src-link"></a></p>
+                        <ul class="specs">
+                            <li class="src src-product" data-src-label="Condition field: detail/210801"><i class="fas fa-check"></i> Used condition</li>
+                            <li class="src src-product" data-src-label="Material field: detail/210801"><i class="fas fa-check"></i> Titanium construction</li>
+                            <li class="src src-product" data-src-label="Diameter field: detail/210801"><i class="fas fa-check"></i> 88.9 mm (3.5 in) shaft diameter</li>
+                            <li class="src src-product" data-src-label="Length field: detail/210801"><i class="fas fa-check"></i> 2,700 mm (106 in) shaft length</li>
+                        </ul>
+                        <div class="card-footer">
+                            <div class="card-footer-wrap">
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
+                                <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/210801" class="btn-inventory" target="_blank">View IPP# 210801 <i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card">
+                    <div class="product-card-img"><i class="fas fa-arrows-spin"></i></div>
+                    <div class="product-card-body">
+                        <h3>Used Stainless Steel Shaft Agitator</h3>
+                        <p class="card-desc"><span class="src src-product" data-src-label="All specs from IMS product page: https://ims.internationalprocessplants.com/inventory/equipment/detail/240705">Used stainless steel agitator shaft assembly for reactor vessels handling mild corrosive or neutral process media.</span><a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/240705" target="_blank" class="src-link"></a></p>
+                        <ul class="specs">
+                            <li class="src src-product" data-src-label="Condition field: detail/240705"><i class="fas fa-check"></i> Used condition</li>
+                            <li class="src src-product" data-src-label="Material field: detail/240705"><i class="fas fa-check"></i> Stainless steel construction</li>
+                            <li class="src src-product" data-src-label="Subtype field: detail/240705"><i class="fas fa-check"></i> Shaft with impeller assembly</li>
+                        </ul>
+                        <div class="card-footer">
+                            <div class="card-footer-wrap">
+                                <a href="/contact/" class="btn-card">Request Specs <i class="fas fa-arrow-right"></i></a>
+                                <a href="https://ims.internationalprocessplants.com/inventory/equipment/detail/240705" class="btn-inventory" target="_blank">View IPP# 240705 <i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="https://ims.internationalprocessplants.com/inventory/equipment/agitator/shaft-mixer" class="browse-all-link" target="_blank"><i class="fas fa-search"></i> Browse All Used Shaft Agitators in Stock</a>
         </div>
     </div>
 </section>
@@ -1412,8 +1792,8 @@
         <div class="alloy-grid">
             <div class="alloy-content">
                 <h2>Why Buy Exotic Alloy <span>Agitator Shafts</span> from IPP?</h2>
-                <p>New Hastelloy C-276 and titanium agitator shafts are among the most expensive components in a reactor installation. Raw material costs for these superalloys run 5&ndash;15x higher than stainless steel 316, and specialized machining adds weeks to fabrication timelines. New exotic alloy shafts typically require 20&ndash;40 weeks from order to delivery.</p>
-                <p>IPP's inventory eliminates both the cost and the wait. With 12 unused Hastelloy C-276 shafts and 1 titanium shaft available now, you buy a PMI-verified, alloy-certified agitator shaft that ships in 2&ndash;4 weeks at a fraction of new procurement pricing. Every shaft is inspected for straightness, runout tolerance, and surface condition before sale.</p>
+                <p>New Hastelloy C-276 and titanium agitator shafts are among the most expensive components in a reactor installation. Raw material costs for these superalloys run 5&ndash;15x higher than stainless steel 316, and specialized machining adds weeks to new-build timelines. New exotic alloy shafts typically require 20&ndash;40 weeks from order to delivery.</p>
+                <p>IPP's inventory eliminates both the cost and the wait. With unused Hastelloy C-276 shafts and titanium shaft agitators available now, you buy a PMI-verified, alloy-certified agitator shaft that ships in weeks at a fraction of new procurement pricing. Every shaft is inspected for straightness, runout tolerance, and surface condition before sale.</p>
                 <div class="alloy-cta">
                     <a href="/contact/" class="btn-primary"><i class="fas fa-envelope"></i> Request Alloy Specifications</a>
                 </div>
@@ -1521,20 +1901,20 @@
     <div class="container">
         <div class="section-header">
             <h2>Advantages of Buying <span>Used Shaft Agitators</span> from IPP</h2>
-            <p>International Process Plants combines 46+ years of process equipment expertise with an exotic alloy inventory that delivers replacement agitator shafts faster and at lower cost than any new-build OEM.</p>
+            <p>International Process Plants combines decades of process equipment expertise with an exotic alloy inventory that delivers replacement agitator shafts faster and at lower cost than new-build OEM procurement.</p>
         </div>
 
         <div class="advantage-grid">
             <div class="advantage-card">
                 <div class="advantage-icon"><i class="fas fa-flask-vial"></i></div>
                 <h3>Exotic Alloy Inventory</h3>
-                <p>IPP stocks agitator shafts in Hastelloy C-276, titanium, and stainless steel. These are the alloys process engineers specify for aggressive chemistry &mdash; and they are available from IPP stock instead of a 20&ndash;40 week fabrication queue. You buy proven alloys, not material substitutions.</p>
+                <p>IPP stocks agitator shafts in Hastelloy C-276, titanium, and stainless steel. These are the alloys specified for aggressive chemistry &mdash; and they are available from IPP stock instead of a 20&ndash;40 week new-build queue. You buy proven alloys, not material substitutions.</p>
                 <a href="/contact/" class="card-link">Request Alloy Specs <i class="fas fa-arrow-right"></i></a>
             </div>
             <div class="advantage-card">
                 <div class="advantage-icon"><i class="fas fa-box-open"></i></div>
                 <h3>Mostly Unused Stock</h3>
-                <p>12 of 15 shaft/mixer agitators in IPP's inventory are unused &mdash; manufactured but never installed. Unused exotic alloy shafts are rare on the secondary market because Hastelloy C-276 and titanium components are typically made to order. You get new-condition performance at used-equipment pricing.</p>
+                <p>The majority of shaft and mixer agitators in IPP's inventory are unused &mdash; manufactured but never installed. Unused exotic alloy shafts are rare on the secondary market because Hastelloy C-276 and titanium components are typically made to order. You get new-condition performance at used-equipment pricing.</p>
                 <a href="/contact/" class="card-link">Check Availability <i class="fas fa-arrow-right"></i></a>
             </div>
             <div class="advantage-card">
@@ -1546,7 +1926,7 @@
             <div class="advantage-card">
                 <div class="advantage-icon"><i class="fas fa-industry"></i></div>
                 <h3>Lightnin OEM Manufacture</h3>
-                <p>The majority of shaft agitators in IPP's Hastelloy C-276 inventory are Lightnin-manufactured. These shafts couple directly to Lightnin drive systems without modification. Original Lightnin engineering means correct shaft tolerances, impeller geometry, and coupling dimensions.</p>
+                <p>The majority of shaft agitators in IPP's Hastelloy C-276 inventory are Lightnin-manufactured. These shafts couple directly to Lightnin drive systems without modification. Original Lightnin design means correct shaft tolerances, impeller geometry, and coupling dimensions.</p>
                 <a href="/contact/" class="card-link">Verify Compatibility <i class="fas fa-arrow-right"></i></a>
             </div>
             <div class="advantage-card">
@@ -1558,7 +1938,7 @@
             <div class="advantage-card">
                 <div class="advantage-icon"><i class="fas fa-piggy-bank"></i></div>
                 <h3>Massive Cost Savings</h3>
-                <p>New Hastelloy C-276 raw material costs 8&ndash;12x more than stainless steel. New titanium costs 10&ndash;15x more. A new exotic alloy agitator shaft requires raw material procurement, forging, machining, and impeller fabrication &mdash; at extreme cost. IPP's used and unused shafts eliminate all of that.</p>
+                <p>New Hastelloy C-276 raw material costs 8&ndash;12x more than stainless steel. New titanium costs 10&ndash;15x more. A new exotic alloy agitator shaft requires raw material procurement, forging, machining, and impeller assembly &mdash; at extreme cost. IPP's used and unused shafts eliminate all of that.</p>
                 <a href="/contact/" class="card-link">Get a Quote <i class="fas fa-arrow-right"></i></a>
             </div>
         </div>
@@ -1628,7 +2008,7 @@
 <div class="cta-banner">
     <div class="container">
         <h2>Need a Specific Exotic Alloy Agitator Shaft?</h2>
-        <p>Tell us the alloy, shaft diameter, length, and impeller configuration you need. IPP's engineers will match your specifications against current inventory and provide a detailed quote with alloy certifications within 48 hours.</p>
+        <p>Tell us the alloy, shaft diameter, length, and impeller configuration you need. IPP will match your specifications against current inventory and provide a detailed quote with alloy certifications.</p>
         <a href="/contact/" class="btn-primary"><i class="fas fa-envelope"></i> Request a Quote</a>
     </div>
 </div>
@@ -1638,7 +2018,7 @@
     <div class="container">
         <div class="section-header">
             <h2>Frequently Asked Questions About <span>Shaft &amp; Mixer Agitators</span></h2>
-            <p>Answers to the most common questions from process engineers and maintenance managers evaluating used shaft and mixer agitators in exotic alloys.</p>
+            <p>Answers to common questions about used shaft and mixer agitators in exotic alloys, covering materials, specifications, condition, and purchasing.</p>
         </div>
 
         <div class="faq-wrapper">
@@ -1654,11 +2034,11 @@
             <div class="faq-tab-content active" id="faq-materials">
                 <div class="faq-item">
                     <button class="faq-question">What is Hastelloy C-276 and why is it used for agitator shafts? <i class="fas fa-chevron-down"></i></button>
-                    <div class="faq-answer">Hastelloy C-276 is a nickel-molybdenum-chromium superalloy (UNS N10276) that resists pitting, crevice corrosion, and stress corrosion cracking in both oxidizing and reducing environments. Process engineers specify Hastelloy C-276 agitator shafts for reactors handling hydrochloric acid (HCl), sulfuric acid (H2SO4), chlorinated solvents, acetic acid, formic acid, and wet chlorine gas &mdash; environments where stainless steel 316 corrodes rapidly. The alloy withstands these chemicals at elevated temperatures without losing mechanical strength. IPP stocks 12 Hastelloy C-276 shaft agitators, the majority unused, with PMI verification and MTR documentation on every unit.</div>
+                    <div class="faq-answer">Hastelloy C-276 is a nickel-molybdenum-chromium superalloy (UNS N10276) that resists pitting, crevice corrosion, and stress corrosion cracking in both oxidizing and reducing environments. Hastelloy C-276 agitator shafts are specified for reactors handling hydrochloric acid (HCl), sulfuric acid (H2SO4), chlorinated solvents, acetic acid, formic acid, and wet chlorine gas &mdash; environments where stainless steel 316 corrodes rapidly. The alloy withstands these chemicals at elevated temperatures without losing mechanical strength. IPP stocks Hastelloy C-276 shaft agitators, the majority unused, with PMI verification and MTR documentation on every unit.</div>
                 </div>
                 <div class="faq-item">
                     <button class="faq-question">When should I choose a titanium agitator shaft over Hastelloy? <i class="fas fa-chevron-down"></i></button>
-                    <div class="faq-answer">You should choose a titanium agitator shaft when your process involves chloride-rich environments (seawater, brine, chloride solutions), oxidizing acids (nitric acid, chromic acid), or applications where the highest strength-to-weight ratio matters. Titanium resists pitting in chloride media at temperatures up to 260&deg;C (500&deg;F) &mdash; conditions that can challenge even Hastelloy C-276. Hastelloy C-276 is the better choice for reducing acids (HCl, H2SO4) and chlorinated solvents. In practice, the decision comes down to your specific process chemistry: if your vessel handles seawater or high-chloride media, titanium excels; if it handles reducing acids or mixed acid environments, Hastelloy C-276 is the standard. IPP's engineers can help you select the right alloy for your application.</div>
+                    <div class="faq-answer">You should choose a titanium agitator shaft when your process involves chloride-rich environments (seawater, brine, chloride solutions), oxidizing acids (nitric acid, chromic acid), or applications where the highest strength-to-weight ratio matters. Titanium resists pitting in chloride media at temperatures up to 260&deg;C (500&deg;F) &mdash; conditions that can challenge even Hastelloy C-276. Hastelloy C-276 is the better choice for reducing acids (HCl, H2SO4) and chlorinated solvents. In practice, the decision comes down to your specific process chemistry: if your vessel handles seawater or high-chloride media, titanium excels; if it handles reducing acids or mixed acid environments, Hastelloy C-276 is the standard. Contact IPP to discuss which alloy best fits your application.</div>
                 </div>
                 <div class="faq-item">
                     <button class="faq-question">What chemicals can Hastelloy C-276 agitator shafts resist? <i class="fas fa-chevron-down"></i></button>
@@ -1686,7 +2066,7 @@
             <div class="faq-tab-content" id="faq-condition">
                 <div class="faq-item">
                     <button class="faq-question">Are IPP's shaft/mixer agitators used or new? <i class="fas fa-chevron-down"></i></button>
-                    <div class="faq-answer">IPP stocks both used and unused shaft/mixer agitators. Of the 15 units currently in inventory, 12 are unused &mdash; meaning they were manufactured but never installed in a process vessel. The remaining 3 units are in used condition with documented service history. Unused exotic alloy shafts are exceptionally rare on the secondary market because Hastelloy C-276 and titanium components are almost always fabricated to order for specific projects. IPP acquired these shafts from plant closures and cancelled projects, making them available at a fraction of new fabrication cost.</div>
+                    <div class="faq-answer">IPP stocks both used and unused shaft/mixer agitators. The majority are unused &mdash; meaning they were manufactured but never installed in a process vessel. The remaining units are in used condition with documented service history. Unused exotic alloy shafts are exceptionally rare on the secondary market because Hastelloy C-276 and titanium components are almost always built to order for specific projects. IPP acquired these shafts from plant closures and cancelled projects, making them available at a fraction of new procurement cost.</div>
                 </div>
                 <div class="faq-item">
                     <button class="faq-question">What does "unused" mean for an agitator shaft? <i class="fas fa-chevron-down"></i></button>
@@ -1702,7 +2082,7 @@
             <div class="faq-tab-content" id="faq-purchasing">
                 <div class="faq-item">
                     <button class="faq-question">How much do exotic alloy agitator shafts cost vs new? <i class="fas fa-chevron-down"></i></button>
-                    <div class="faq-answer">Exotic alloy agitator shafts from IPP cost significantly less than new OEM fabrication. New Hastelloy C-276 raw material alone costs 8&ndash;12x more per kilogram than stainless steel 316, and titanium costs 10&ndash;15x more. A new exotic alloy shaft requires raw material procurement, forging, precision machining, impeller fabrication and welding, and PMI testing &mdash; a process that takes 20&ndash;40 weeks and costs a premium at every step. IPP's used and unused shafts eliminate all fabrication steps. Exact savings depend on alloy, shaft diameter, length, and impeller configuration &mdash; contact IPP for a detailed quote against your specific requirements.</div>
+                    <div class="faq-answer">Exotic alloy agitator shafts from IPP cost significantly less than new OEM procurement. New Hastelloy C-276 raw material alone costs 8&ndash;12x more per kilogram than stainless steel 316, and titanium costs 10&ndash;15x more. A new exotic alloy shaft requires raw material procurement, forging, precision machining, impeller assembly and welding, and PMI testing &mdash; a process that takes 20&ndash;40 weeks and costs a premium at every step. IPP's used and unused shafts eliminate all those steps. Exact savings depend on alloy, shaft diameter, length, and impeller configuration &mdash; contact IPP for a detailed quote against your specific requirements.</div>
                 </div>
                 <div class="faq-item">
                     <button class="faq-question">What documentation comes with a shaft/mixer agitator from IPP? <i class="fas fa-chevron-down"></i></button>
@@ -1710,7 +2090,7 @@
                 </div>
                 <div class="faq-item">
                     <button class="faq-question">What is the lead time for a shaft/mixer agitator from IPP? <i class="fas fa-chevron-down"></i></button>
-                    <div class="faq-answer">In-stock shaft/mixer agitators ship within 2&ndash;4 weeks after order confirmation. This includes final inspection, PMI verification, documentation preparation, and packaging. By comparison, ordering a new Hastelloy C-276 or titanium agitator shaft from an OEM typically requires 20&ndash;40 weeks for raw material procurement, forging, machining, impeller fabrication, and quality testing. IPP's lead time advantage is especially critical for emergency shaft replacements where a broken or corroded shaft has shut down a reactor and every week of downtime costs production revenue.</div>
+                    <div class="faq-answer">In-stock shaft/mixer agitators ship within 2&ndash;4 weeks after order confirmation. This includes final inspection, PMI verification, documentation preparation, and packaging. By comparison, ordering a new Hastelloy C-276 or titanium agitator shaft from an OEM typically requires 20&ndash;40 weeks for raw material procurement, forging, machining, impeller assembly, and quality testing. IPP's lead time advantage is especially critical for emergency shaft replacements where a broken or corroded shaft has shut down a reactor and every week of downtime costs production revenue.</div>
                 </div>
                 <div class="faq-item">
                     <button class="faq-question">Can IPP custom-machine a shaft to my specifications? <i class="fas fa-chevron-down"></i></button>
@@ -1722,7 +2102,7 @@
             <div class="faq-tab-content" id="faq-comparisons">
                 <div class="faq-item">
                     <button class="faq-question">What is the difference between a shaft/mixer agitator and a drive agitator? <i class="fas fa-chevron-down"></i></button>
-                    <div class="faq-answer">A shaft/mixer agitator is the shaft assembly &mdash; the rotating shaft with impellers and blades that extends into the reactor vessel and does the actual mixing. A drive agitator is the motor, gearbox, and coupling assembly that sits on top of the vessel and provides the rotational power. The shaft connects to the drive. When an agitator fails, you need to determine whether the problem is in the drive (motor, gears, bearings) or the shaft (corrosion, bending, impeller damage). If the shaft corroded or bent, you need a shaft/mixer agitator replacement. If the gears or motor failed, you need a <a href="/equipment/agitator/drive/" style="color: var(--accent); text-decoration: underline;">drive agitator</a> replacement. IPP stocks both shaft/mixer agitators (15 units) and <a href="/equipment/agitator/drive/" style="color: var(--accent); text-decoration: underline;">drive agitators (64 units)</a>.</div>
+                    <div class="faq-answer">A shaft/mixer agitator is the shaft assembly &mdash; the rotating shaft with impellers and blades that extends into the reactor vessel and does the actual mixing. A drive agitator is the motor, gearbox, and coupling assembly that sits on top of the vessel and provides the rotational power. The shaft connects to the drive. When an agitator fails, you need to determine whether the problem is in the drive (motor, gears, bearings) or the shaft (corrosion, bending, impeller damage). If the shaft corroded or bent, you need a shaft/mixer agitator replacement. If the gears or motor failed, you need a <a href="/equipment/agitator/drive/" style="color: var(--accent); text-decoration: underline;">drive agitator</a> replacement. IPP stocks both <a href="/equipment/agitator/shaft-mixer/" style="color: var(--accent); text-decoration: underline;">shaft/mixer agitators</a> and <a href="/equipment/agitator/drive/" style="color: var(--accent); text-decoration: underline;">drive agitators</a>.</div>
                 </div>
                 <div class="faq-item">
                     <button class="faq-question">Do I need a new shaft or a new drive &mdash; how do I tell? <i class="fas fa-chevron-down"></i></button>
@@ -1737,9 +2117,9 @@
 <div class="cta-banner">
     <div class="container">
         <h2>Ready to Buy a Used Shaft &amp; Mixer Agitator?</h2>
-        <p>IPP has supplied quality used process equipment for over 46 years. Tell us the alloy, diameter, and length you need &mdash; our team responds within 48 hours with matched inventory and pricing.</p>
+        <p>IPP has supplied quality used process equipment since 1980. Tell us the alloy, diameter, and length you need &mdash; our team responds with matched inventory and pricing.</p>
         <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
-            <a href="/contact/" class="btn-primary"><i class="fas fa-comments"></i> Talk to an Engineer</a>
+            <a href="/contact/" class="btn-primary"><i class="fas fa-comments"></i> Talk to an Expert</a>
             <a href="https://ims.internationalprocessplants.com/inventory/equipment/agitator/shaft-mixer" class="btn-secondary" style="border-color: rgba(255,255,255,0.4);"><i class="fas fa-search"></i> Browse Shaft/Mixer Inventory</a>
         </div>
     </div>
@@ -1861,6 +2241,77 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             target.scrollIntoView({ behavior: 'smooth', block: 'start' });
         }
     });
+});
+
+// === SOURCE ANNOTATION TOOLTIPS ===
+const globalTip = document.createElement('div');
+globalTip.className = 'src-tooltip';
+globalTip.style.display = 'none';
+document.body.appendChild(globalTip);
+
+let activeSrc = null;
+
+function closeTooltip() {
+    globalTip.style.display = 'none';
+    if (activeSrc) activeSrc.classList.remove('active');
+    activeSrc = null;
+}
+
+function openTooltip(el) {
+    const label = el.getAttribute('data-src-label');
+    const linkEl = el.nextElementSibling?.classList?.contains('src-link') ? el.nextElementSibling :
+                   el.parentElement?.querySelector('.src-link');
+    const href = linkEl ? linkEl.getAttribute('href') : null;
+
+    let html = '<span class="close-tip">&times;</span>' + label;
+    if (href) {
+        html += '<br><a href="' + href + '" target="_blank">Verify source &rarr;</a>';
+    }
+    globalTip.innerHTML = html;
+
+    const rect = el.getBoundingClientRect();
+    let top = rect.top - 12;
+    let left = rect.left;
+
+    globalTip.style.display = 'block';
+    globalTip.style.left = '0px';
+    globalTip.style.top = '0px';
+    const tipRect = globalTip.getBoundingClientRect();
+
+    top = rect.top - tipRect.height - 12;
+    if (top < 60) top = rect.bottom + 12;
+    if (left + tipRect.width > window.innerWidth - 20) left = window.innerWidth - tipRect.width - 20;
+    if (left < 10) left = 10;
+
+    globalTip.style.left = left + 'px';
+    globalTip.style.top = top + 'px';
+
+    if (activeSrc && activeSrc !== el) activeSrc.classList.remove('active');
+    el.classList.add('active');
+    activeSrc = el;
+
+    globalTip.querySelector('.close-tip').onclick = (e) => {
+        e.stopPropagation();
+        closeTooltip();
+    };
+}
+
+document.querySelectorAll('.src[data-src-label]').forEach(el => {
+    el.addEventListener('click', (e) => {
+        e.preventDefault();
+        if (activeSrc === el) {
+            closeTooltip();
+        } else {
+            openTooltip(el);
+        }
+    });
+});
+
+document.addEventListener('mousedown', (e) => {
+    if (!activeSrc) return;
+    if (globalTip.contains(e.target)) return;
+    if (activeSrc.contains(e.target)) return;
+    closeTooltip();
 });
 </script>
 
