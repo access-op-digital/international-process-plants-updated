@@ -1,0 +1,63 @@
+Type / Subtype Name,URL
+Equipment Hub,https://ipp-wheat.vercel.app/equipment/
+,,
+Reactors (Parent),https://ipp-wheat.vercel.app/equipment/reactor/
+  Batch-Type Agitated Reactors,https://ipp-wheat.vercel.app/equipment/reactor/batch-type-agitated/
+  Batch-Type Body-Only Reactors,https://ipp-wheat.vercel.app/equipment/reactor/batch-type-body-only/
+,,
+Agitators (Parent — buy-used-agitators),https://ipp-wheat.vercel.app/equipment/agitators/buy-used-agitators
+  Drive Agitators,https://ipp-wheat.vercel.app/equipment/agitators/buy-used-drive-agitators
+  Glass-Lined Drive Agitators,https://ipp-wheat.vercel.app/equipment/agitators/buy-used-glass-lined-agitators
+  Shaft & Mixer Agitators,https://ipp-wheat.vercel.app/equipment/agitators/buy-used-shaft-mixer-agitators
+,,
+Centrifuges (Parent),https://ipp-wheat.vercel.app/equipment/centrifuge/
+  Auto Discharge-Bottom Basket Centrifuges,https://ipp-wheat.vercel.app/equipment/centrifuge/auto-discharge-bottom/
+  Basket Centrifuge Parts,https://ipp-wheat.vercel.app/equipment/centrifuge/basket-centrifuge-parts/
+  Disc Bowl Centrifuges,https://ipp-wheat.vercel.app/equipment/centrifuge/disc-bowl-centrifuge/
+  Inverting Filter Centrifuges,https://ipp-wheat.vercel.app/equipment/centrifuge/inverting-filter-centrifuge/
+  Manual Discharge-Top Basket Centrifuges,https://ipp-wheat.vercel.app/equipment/centrifuge/manual-discharge-top/
+  Solid Bowl-Decanter Centrifuges,https://ipp-wheat.vercel.app/equipment/centrifuge/solid-bowl-decanter-centrifuge/
+,,
+Dryers (Parent),https://ipp-wheat.vercel.app/equipment/dryer/
+  Fluid Bed Dryers,https://ipp-wheat.vercel.app/equipment/dryer/fluid-bed-dryer/
+  Freeze Dryers,https://ipp-wheat.vercel.app/equipment/dryer/freeze-dryer/
+  Holoflite & Screw Dryers,https://ipp-wheat.vercel.app/equipment/dryer/holoflite-and-screw-dryer/
+  Horizontal Belt & Continuous Dryers,https://ipp-wheat.vercel.app/equipment/dryer/horizontal-belt-continuous-dryer/
+  Porcupine Dryers,https://ipp-wheat.vercel.app/equipment/dryer/porcupine-dryer/
+  Ribbon & Paddle Dryers,https://ipp-wheat.vercel.app/equipment/dryer/ribbon-and-paddle-dryer/
+  Rotary Steam Tube Dryers,https://ipp-wheat.vercel.app/equipment/dryer/rotary-steam-tube-dryer/
+  Rotary Vacuum Dryers,https://ipp-wheat.vercel.app/equipment/dryer/rotary-vacuum-dryer/
+  Spray Dryers,https://ipp-wheat.vercel.app/equipment/dryer/spray-dryer/
+  Twin Shell & Double Cone Dryers,https://ipp-wheat.vercel.app/equipment/dryer/twin-shell-and-double-cone-dryer/
+  Wyssmont Dryers,https://ipp-wheat.vercel.app/equipment/dryer/wyssmont-dryer/
+,,
+Evaporators (Parent),https://ipp-wheat.vercel.app/equipment/evaporator/
+  Crystallizer Evaporators,https://ipp-wheat.vercel.app/equipment/evaporator/crystalizer-evaporator/
+  Flash Evaporators,https://ipp-wheat.vercel.app/equipment/evaporator/flash/
+  Rising/Falling Film Evaporators,https://ipp-wheat.vercel.app/equipment/evaporator/rising-falling-film/
+  Wiped/Thin Film Evaporators,https://ipp-wheat.vercel.app/equipment/evaporator/wiped-thin-film/
+,,
+Filters (Parent),https://ipp-wheat.vercel.app/equipment/filter/
+  Nutsche Filters,https://ipp-wheat.vercel.app/equipment/filter/nutsche/
+  Pressure Leaf Filters,https://ipp-wheat.vercel.app/equipment/filter/pressure-leaf/
+  Rosenmund & Cogeim Filters,https://ipp-wheat.vercel.app/equipment/filter/rosenmund-and-cogiem/
+,,
+Glass Lined Parts (Parent),https://ipp-wheat.vercel.app/equipment/glass-lined-parts/
+  Glass Lined Agitators,https://ipp-wheat.vercel.app/equipment/glass-lined-parts/agitator/
+  Glass Lined Baffles,https://ipp-wheat.vercel.app/equipment/glass-lined-parts/baffle/
+  Glass Lined Cryo-Lock Blades,https://ipp-wheat.vercel.app/equipment/glass-lined-parts/cryo-lock-blades/
+  Glass Lined Pro-Ring,https://ipp-wheat.vercel.app/equipment/glass-lined-parts/pro-ring/
+,,
+Heat Exchangers (Parent),https://ipp-wheat.vercel.app/equipment/heat-exchanger/
+  Shell and Tube Heat Exchangers,https://ipp-wheat.vercel.app/equipment/heat-exchanger/shell-and-tube/
+,,
+Mixers (Parent),https://ipp-wheat.vercel.app/equipment/mixer/
+  Continuous Mixers,https://ipp-wheat.vercel.app/equipment/mixer/continuous-mixer/
+  Double Arm Mixers,https://ipp-wheat.vercel.app/equipment/mixer/double-arm-mixer/
+  Intensive Mixers,https://ipp-wheat.vercel.app/equipment/mixer/intensive-mixer/
+  Muller Mixers,https://ipp-wheat.vercel.app/equipment/mixer/muller-mixer/
+  Nauta Mixers,https://ipp-wheat.vercel.app/equipment/mixer/nauta-mixer/
+  Ribbon & Paddle Mixers,https://ipp-wheat.vercel.app/equipment/mixer/ribbon-paddle-mixer/
+  Twin Shell & Double Cone Mixers,https://ipp-wheat.vercel.app/equipment/mixer/twin-shell-and-double-cone-mixer/
+,,
+Tanks (Parent),https://ipp-wheat.vercel.app/equipment/tank/
