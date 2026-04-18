@@ -1,0 +1,731 @@
+
+equipment/centrifuge/auto-discharge-bottom/index.html  (96 bullets across 9 distinct labels)
+      25  Material
+      21  Condition
+      13  Basket Diameter
+      13  Motor Power
+      12  Speed-RPM Maximum
+       5  Manufacturer
+       5  Model
+       1  G Force
+       1  Sanitary Construction
+
+equipment/centrifuge/basket-centrifuge-parts/index.html  (87 bullets across 7 distinct labels)
+      23  Condition
+      22  Material
+      20  Basket Diameter
+      13  Basket Depth
+       3  Model
+       3  Motor Power
+       3  Plow Action
+
+equipment/centrifuge/disc-bowl-centrifuge/index.html  (131 bullets across 13 distinct labels)
+      25  Motor Horsepower
+      22  Material
+      20  Condition
+      13  RPM Maximum
+       9  Bowl Volume
+       9  Manufacturer
+       9  Model
+       7  Bowl Diameter
+       6  Number of Phases
+       4  Product Flow Rate
+       3  Clean In Place
+       3  Sanitary Construction
+       1  Clarifier
+
+equipment/centrifuge/inverting-filter-centrifuge/index.html  (77 bullets across 10 distinct labels)
+      18  Material
+      14  G Force
+      13  Main Drive Motor Power
+      11  Load Weight
+       6  Filtration Area
+       5  Basket Diameter
+       4  Condition
+       4  Speed-RPM Maximum
+       1  Controls
+       1  Washing
+
+equipment/centrifuge/manual-discharge-top/index.html  (155 bullets across 7 distinct labels)
+      31  Basket Diameter
+      31  Condition
+      31  Material
+      29  Motor Power
+      27  Speed-RPM Maximum
+       4  Load Weight
+       2  Basket Depth
+
+equipment/centrifuge/solid-bowl-decanter-centrifuge/index.html  (93 bullets across 11 distinct labels)
+      17  Material
+      15  Bowl Diameter
+      13  Bowl Max RPM
+      13  Main Motor Horsepower
+      11  Condition
+       8  Bowl Length
+       5  Manufacturer
+       5  Model
+       3  G-Force
+       2  Gas Tight
+       1  Back Drive
+
+equipment/dryer/fluid-bed-dryer/index.html  (124 bullets across 16 distinct labels)
+      22  Capacity
+      22  Material
+      19  Condition
+      16  Pressure
+      13  Air Flow Rate
+      10  Temperature
+       8  Bowl Diameter
+       3  Clean in Place
+       2  Explosion-Shock Resistant
+       2  HEPA Filtration
+       2  Operational Mode
+       1  Dust Collection
+       1  Lab Size
+       1  Manufacturer
+       1  Particle Coating Ability
+       1  Vacuum Rated
+
+equipment/dryer/freeze-dryer/index.html  (45 bullets across 7 distinct labels)
+       9  Shelf Area - Drying Surface
+       9  Shelf Temperature Range
+       8  Number of Shelves
+       7  Condition
+       6  Material
+       5  Stoppering
+       1  Refrigerant Type
+
+equipment/dryer/holoflite-and-screw-dryer/index.html  (98 bullets across 11 distinct labels)
+      18  Number of Screws
+      16  Material
+      14  Condition
+      14  Heat Transfer Surface Area
+      10  Product Rate
+       7  Internal Temperature
+       6  Internal Pressure
+       5  Jacket Pressure
+       5  Length
+       2  Jacket Temperature
+       1  Width
+
+equipment/dryer/horizontal-belt-continuous-dryer/index.html  (23 bullets across 7 distinct labels)
+       4  Belt Length
+       4  Belt Width
+       4  Condition
+       4  Material
+       3  Manufacturer
+       3  Model
+       1  Belt MOC
+
+equipment/dryer/index.html  (117 bullets across 49 distinct labels)
+      25  Material
+      10  Model
+       8  Condition
+       7  Diameter
+       7  Type
+       4  Length
+       3  Capacity
+       3  Capacity Design
+       3  Temperature
+       2  Air Flow Rate
+       2  Bowl Diameter
+       2  Evaporation Rate
+       2  Heating Type
+       2  Jacket Pressure
+       2  Pressure
+       2  Vessel Temperature
+       1  Atomizer Type
+       1  Bowl Height
+       1  Counter Current or Co Current
+       1  Design Capacity
+       1  Full Vacuum
+       1  Heat Transfer Surface Area
+       1  Heating Transfer Surface Area
+       1  Inlet Temperature
+       1  Internal Pressure
+       1  Jacket Temperature
+       1  Manufacturer
+       1  Number of Screws
+       1  Number of Shelves
+       1  Number of Trays
+       1  Number of Tubes
+       1  Operational Mode
+       1  Operational mode
+       1  Outlet Temperature
+       1  Rated for Vacuum
+       1  Shelf Area - Drying Surface
+       1  Shelf Temperature Range
+       1  Shell Configuration
+       1  Stoppering
+       1  Total Heat Transfer Surface Area
+       1  Total Working Volume
+       1  Tray Diameter
+       1  Tube Pressure
+       1  Tube Surface Area
+       1  Tube Temperature
+       1  Tube sheet Material
+       1  Vacuum System Available
+       1  Vessel Pressure
+       1  Width
+
+equipment/dryer/porcupine-dryer/index.html  (57 bullets across 9 distinct labels)
+       9  Condition
+       9  Diameter
+       9  Length
+       9  Material
+       7  Total Heat Transfer Surface Area
+       6  Porcupine Operating Pressure
+       3  Manufacturer
+       3  Model
+       2  Total Working Volume
+
+equipment/dryer/ribbon-and-paddle-dryer/index.html  (61 bullets across 7 distinct labels)
+      19  Condition
+      17  Material
+      13  Design Capacity
+       5  Manufacturer
+       5  Model
+       1  Jacket Pressure
+       1  Operational mode
+
+equipment/dryer/rotary-steam-tube-dryer/index.html  (17 bullets across 11 distinct labels)
+       3  Material
+       2  Condition
+       2  Diameter
+       2  Length
+       2  Temperature
+       1  Heat Transfer Surface Area
+       1  Manufacturer
+       1  Model
+       1  Number of Tubes
+       1  Tube Pressure
+       1  Tube Surface Area
+
+equipment/dryer/rotary-vacuum-dryer/index.html  (141 bullets across 13 distinct labels)
+      21  Material
+      18  Diameter
+      16  Condition
+      16  Temperature
+      15  Capacity Design
+      14  Heat Transfer Surface Area
+      14  Length
+      12  Pressure
+       6  Manufacturer
+       6  Model
+       1  Agitation Seal Type
+       1  Motor Power
+       1  Operational Mode
+
+equipment/dryer/spray-dryer/index.html  (91 bullets across 11 distinct labels)
+      18  Manufacturer
+      13  Diameter
+      12  Atomizer Type
+      12  Material
+      11  Model
+       9  Condition
+       7  Evaporation Rate
+       4  Type
+       3  Inlet Temperature
+       1  Air Flow Rate
+       1  Height
+
+equipment/dryer/twin-shell-and-double-cone-dryer/index.html  (102 bullets across 11 distinct labels)
+      24  Condition
+      24  Material
+      16  Capacity Design
+       9  Jacket Pressure
+       8  Vessel Temperature
+       7  Full Vacuum
+       4  Manufacturer
+       4  Model
+       3  Jacket Temperature
+       2  Capacity Operating
+       1  Vessel Pressure
+
+equipment/dryer/wyssmont-dryer/index.html  (52 bullets across 10 distinct labels)
+      10  Condition
+      10  Material
+       8  Number of Trays
+       8  Temperature
+       6  Tray Diameter
+       4  Diameter
+       2  Evaporation Rate
+       2  Height
+       1  Manufacturer
+       1  Model
+
+equipment/evaporator/crystalizer-evaporator/index.html  (70 bullets across 16 distinct labels)
+      15  Material
+      14  Condition
+       7  Diameter
+       5  Pressure
+       4  Temperature
+       4  Total Heat Transfer Surface Area
+       4  Tube Length
+       4  Vacuum
+       2  Capacity in Gallons
+       2  Drive Motor HP
+       2  Evaporation Rate
+       2  Height
+       2  Orientation
+       1  Manufacturer
+       1  Model
+       1  Support Type
+
+equipment/evaporator/index.html  (154 bullets across 28 distinct labels)
+      23  Total Heat Transfer Surface Area
+      19  Evaporation Rate
+      16  Temperature
+      14  Pressure
+      12  Diameter
+      12  Height
+      11  Condition
+       7  Material
+       6  Vacuum
+       4  Subtype
+       4  Wipers MOC
+       3  Bottom Head Type
+       3  Internal Condenser
+       2  Capacity in Gallons
+       2  Drive Motor HP
+       2  Model
+       2  Number of Tubes
+       2  Tube Material
+       1  Agitation
+       1  Internal Condenser size
+       1  Mechanical Seal on Shaft
+       1  Number of Effects
+       1  Orientation
+       1  Pump Details
+       1  Support Type
+       1  Top Head type
+       1  Tube Diameter
+       1  Tubesheet Material
+
+equipment/evaporator/rising-falling-film/index.html  (106 bullets across 15 distinct labels)
+      19  Condition
+      17  Evaporation Rate
+      15  Total Heat Transfer Surface Area
+      12  Material
+      12  Pressure
+       8  Temperature
+       7  Vacuum
+       4  Number of Effects
+       4  Tube Material
+       2  Controls
+       2  Model
+       1  MVR
+       1  Manufacturer
+       1  Pump Details
+       1  Tubesheet Material
+
+equipment/evaporator/wiped-thin-film/index.html  (41 bullets across 8 distinct labels)
+       6  Condition
+       6  Diameter
+       6  Length
+       6  Material
+       5  Temperature
+       4  Manufacturer
+       4  Model
+       4  Pressure
+
+equipment/filter/index.html  (176 bullets across 32 distinct labels)
+      28  Filtration Area
+      19  Condition
+      19  Material
+      17  Pressure
+      17  Temperature
+      10  Jacket
+       7  Jacket Type
+       5  Diameter
+       5  Motor Power
+       5  Subtype
+       4  Jacket MOC
+       3  Agitation Seal Type
+       3  Bottom Head Type
+       3  Orientation
+       3  Support  Type
+       3  Top Head Type
+       3  Vacuum
+       2  Agitation
+       2  CIP
+       2  Dust Filter
+       2  Jacket Pressure
+       2  Jacket Temperature
+       2  Model
+       2  Number of Filter Elements
+       1  Agitator Cored for Heating/Cooling
+       1  Cake Volume
+       1  Internal Finish
+       1  Overall Height
+       1  Removable Bottom
+       1  Straight Side Length
+       1  Support Details
+       1  Vessel Liquid Capacity
+
+equipment/filter/nutsche/index.html  (87 bullets across 20 distinct labels)
+      13  Diameter
+      13  Material
+      12  Filtration Area
+      10  Pressure
+      10  Temperature
+       4  Condition
+       4  Jacket Pressure
+       3  Manufacturer
+       3  Rake
+       3  Support Details
+       3  Vacuum
+       1  Bottom Head Type
+       1  Cake Volume
+       1  Jacket
+       1  Jacket MOC
+       1  Jacket Type
+       1  Model
+       1  Nozzle Schedule
+       1  Overall Height
+       1  Top Head Type
+
+equipment/filter/pressure-leaf/index.html  (109 bullets across 10 distinct labels)
+      21  Condition
+      21  Material
+      21  Pressure
+      19  Filtration Area
+      15  Diameter
+       5  Manufacturer
+       4  Model
+       1  Filtrate Output
+       1  Motor Power
+       1  Temperature
+
+equipment/filter/rosenmund-and-cogiem/index.html  (113 bullets across 9 distinct labels)
+      19  Condition
+      19  Material
+      17  Pressure
+      16  Diameter
+      15  Filtration Area
+      13  Temperature
+       7  Manufacturer
+       6  Model
+       1  Vessel Liquid Capacity
+
+equipment/glass-lined-parts/agitator/index.html  (100 bullets across 13 distinct labels)
+      20  Diameter
+      19  Condition
+      17  Length
+      13  Material
+       9  Glass Agitator Type
+       5  Span
+       4  Glass Agitator Drive Model
+       4  Manufacturer
+       4  Model
+       2  Glass Fire Polish
+       1  Dual Tier
+       1  Seal Area Plated
+       1  Vessel Size
+
+equipment/glass-lined-parts/baffle/index.html  (121 bullets across 8 distinct labels)
+      22  Material
+      21  Condition
+      21  Glass Baffle Type
+      21  Vessel Size
+      13  Diameter
+      13  Length
+       9  Tip Type
+       1  Mounting Details
+
+equipment/glass-lined-parts/cryo-lock-blades/index.html  (63 bullets across 11 distinct labels)
+      12  Condition
+      11  Vessel Size
+      10  Hub size
+       8  CBT Span
+       4  Glass Fire Polish
+       4  Manufacturer
+       4  Material
+       3  Model
+       3  PBT Span
+       3  Rotation
+       1  Glass Condition
+
+equipment/glass-lined-parts/index.html  (211 bullets across 26 distinct labels)
+      29  Vessel Size
+      26  Diameter
+      23  Length
+      17  Span
+      16  Glass Agitator Type
+      15  Condition
+      15  Glass Fire Polish
+      14  Glass Condition
+       7  Glass Agitator Drive Model
+       7  Rotation
+       5  Agitator Details
+       4  CBT Span
+       4  Glass Baffle Type
+       4  Hinge Type
+       4  Hub size
+       4  Mounting Details
+       4  Tip Type
+       3  Manufacturer
+       2  Is Round
+       2  PBT Span
+       1  Dual Tier
+       1  Is Special
+       1  Material
+       1  Removable Tip Thread Size
+       1  Seal Area Plating MOC
+       1  Width
+
+equipment/glass-lined-parts/pro-ring/index.html  (127 bullets across 6 distinct labels)
+      28  Condition
+      28  Material
+      26  Diameter
+      15  Hinge Type
+      15  Length
+      15  Manufacturer
+
+equipment/heat-exchanger/index.html  (163 bullets across 20 distinct labels)
+      29  Heat Transfer Surface Area
+      23  Shell Pressure
+      22  Condition
+      21  Material
+      12  Tube Number
+      11  Tube Pressure
+       8  Shell Temperature
+       7  Vacuum
+       6  Shell Material
+       5  Tube Type
+       4  Orientation
+       3  Model
+       3  Shell Diameter
+       2  Tube Material
+       2  Tube-side Passes
+       1  Manufacturer
+       1  Shell-side Passes
+       1  Subtype
+       1  TEMA Type
+       1  Tube Temperature
+
+equipment/heat-exchanger/shell-and-tube/index.html  (149 bullets across 13 distinct labels)
+      27  Condition
+      23  Heat Transfer Surface Area
+      18  Shell Pressure
+      16  Shell Material
+      16  Tube Material
+      11  Manufacturer
+       8  Material
+       8  Model
+       8  Tube Number
+       4  Tube Diameter
+       4  Tube Length
+       3  Orientation
+       3  Tube Pressure
+
+equipment/mixer/continuous-mixer/index.html  (104 bullets across 16 distinct labels)
+      17  Condition
+      15  Motor Power
+      14  Material
+      12  Diameter
+      12  Length
+       5  Pressure
+       5  Temperature
+       4  Capacity (Design)
+       4  Manufacturer
+       4  Model
+       4  Orientation
+       4  Seal Type
+       1  Jacket Pressure
+       1  Number of Screws
+       1  Plow Type
+       1  Screw
+
+equipment/mixer/double-arm-mixer/index.html  (112 bullets across 14 distinct labels)
+      20  Capacity (Design)
+      14  Blade Type
+      14  Tilting
+      13  Material
+      12  Jacket Pressure
+       9  Hydraulics
+       8  Blade Speed (RPM)
+       7  Vacuum
+       4  Clad
+       4  Condition
+       3  Jacket Temperature
+       2  Shaft Seal
+       1  Manufacturer
+       1  Model
+
+equipment/mixer/index.html  (137 bullets across 40 distinct labels)
+      26  Material
+      17  Condition
+       8  Design Capacity
+       8  Type
+       6  Blade Type
+       6  Capacity
+       6  Capacity (Design)
+       6  Model
+       5  Motor Power
+       3  Blade Speed (RPM)
+       3  Capacity (Working)
+       3  Manufacturer
+       3  Tilting
+       2  Hydraulics
+       2  Jacket Pressure
+       2  Length
+       2  Operating Capacity
+       2  Orientation
+       2  Pressure
+       2  Ribbon Type
+       2  Temperature
+       2  Vacuum
+       2  Width
+       1  Bowl Jacket
+       1  Capacity Design
+       1  Capacity Operating
+       1  Chamber Diameter
+       1  Clad
+       1  Diameter
+       1  Dust Collection
+       1  Height
+       1  Jacket Material
+       1  Jacket Temperature
+       1  Muller Diameter
+       1  Muller Material
+       1  Muller Width
+       1  Number of Screws
+       1  Seal Type
+       1  Vessel Pressure
+       1  Vessel Temperature
+
+equipment/mixer/intensive-mixer/index.html  (111 bullets across 14 distinct labels)
+      21  Condition
+      19  Capacity (Design)
+      19  Material
+      19  Motor Power
+       7  Bowl Diameter
+       6  Manufacturer
+       6  Model
+       5  Vacuum
+       2  Bowl Jacket
+       2  Pressure
+       2  Temperature
+       1  Blade Type
+       1  Controls
+       1  Flow Rate
+
+equipment/mixer/muller-mixer/index.html  (36 bullets across 9 distinct labels)
+       6  Material
+       6  Motor Power
+       5  Chamber Diameter
+       5  Condition
+       4  Chamber Height
+       3  Chamber Volume
+       3  Muller Diameter
+       2  Muller Width
+       2  Rotor RPM
+
+equipment/mixer/nauta-mixer/index.html  (94 bullets across 10 distinct labels)
+      18  Capacity
+      18  Condition
+      17  Material
+      10  Mixer Type
+       7  Manufacturer
+       7  Model
+       6  Dust Collection
+       6  Vessel Pressure
+       3  Vessel Vacuum Rated
+       2  Vessel Temperature
+
+equipment/mixer/ribbon-paddle-mixer/index.html  (142 bullets across 19 distinct labels)
+      19  Design Capacity
+      19  Material
+      17  Operating Capacity
+      17  Ribbon Type
+      13  Length
+      13  Width
+      11  Height
+       6  Condition
+       5  Agitation Shaft Sealing
+       5  Operational mode
+       4  Vessel Pressure
+       3  Manufacturer
+       3  Model
+       2  Vessel Temperature
+       1  Clad
+       1  Drive Make
+       1  Jacket Pressure
+       1  Jacket Type
+       1  Paddle/Ribbon MOC
+
+equipment/mixer/twin-shell-and-double-cone-mixer/index.html  (91 bullets across 11 distinct labels)
+      16  Condition
+      15  Capacity Design
+      15  Capacity Operating
+      14  Material
+       8  Manufacturer
+       6  Intensifier Bar
+       6  Product Density
+       4  Internal Finish
+       3  Model
+       2  Vessel Pressure
+       2  Vessel Temperature
+
+equipment/reactor/batch-type-agitated/index.html  (123 bullets across 12 distinct labels)
+      16  Capacity (Design)
+      16  Internal Pressure
+      14  Internal Full Vacuum
+      14  Internal Temperature
+      12  Diameter
+      12  Motor Power
+      12  Straight Side Length
+      12  Support Type
+       8  Condition
+       3  Agitation Seal Type
+       3  Material
+       1  Impeller Type
+
+equipment/reactor/batch-type-body-only/index.html  (143 bullets across 14 distinct labels)
+      17  Capacity (Design)
+      17  Diameter
+      17  Internal Pressure
+      17  Internal Temperature
+      17  Straight Side Length
+      17  Support Type
+      12  Internal Full Vacuum
+       9  Condition
+       7  Glass Condition
+       7  Glass Fire Polish
+       2  Bottom Head Type
+       2  Material
+       1  Sanitary Construction
+       1  Sanitary Jacket Shroud
+
+equipment/reactor/index.html  (170 bullets across 19 distinct labels)
+      24  Capacity (Design)
+      24  Internal Pressure
+      23  Internal Temperature
+      19  Motor Power
+      14  Impeller Type
+      13  Agitation Seal Type
+      11  Condition
+       8  Manufacturer
+       7  Material
+       5  Glass Condition
+       5  Glass Fire Polish
+       4  Diameter
+       4  Internal Full Vacuum
+       4  Straight Side Length
+       1  Agitator Details
+       1  CIP
+       1  Jacket Pressure
+       1  Model
+       1  Sanitary Construction
+
+equipment/tank/index.html  (54 bullets across 9 distinct labels)
+       8  Condition
+       8  Internal Pressure
+       8  Material
+       7  Capacity (Design)
+       7  Internal Temperature
+       5  Diameter
+       5  Length
+       3  Manufacturer
+       3  Model
