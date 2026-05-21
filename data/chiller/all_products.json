@@ -1,0 +1,716 @@
+[
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/201633",
+    "stock_number": "201633",
+    "title": "Carbon Steel Edwards CE2AHP Water Cooled Chiller - IPP# 201633",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Water Cooled",
+      "Manufacturer": "Edwards",
+      "Model": "CE2AHP",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Capacity Design": "30,250 kcal/h (10 Ref. Ton)",
+      "Temperature": "4.4 \u00b0C (40 \u00b0F)",
+      "Height": "1,350 mm (54 in)",
+      "Length": "1,200 mm (48 in)",
+      "Width": "1,850 mm (72 in)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/203125",
+    "stock_number": "203125",
+    "title": "Low Temp Chiller 604,800 kcal/h (200 Ref. Ton)  For Sale - IPP# 203125",
+    "attribute_count": 17,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Low Temp",
+      "Manufacturer": "Vilter",
+      "Model": "VSS-601 (VVR-A-H-NEC-L1)",
+      "Condition": "Used",
+      "Capacity Design": "604,800 kcal/h (200 Ref. Ton)",
+      "Pressure": "10.3 bar (150 psi)",
+      "Controls": "Yes",
+      "Support Details": "Mounted on reciever",
+      "Height": "1,850 mm (72 in)",
+      "Length": "3,350 mm (132 in)",
+      "Width": "1,200 mm (48 in)",
+      "Motor frame Size": "444TS",
+      "Motor Hertz": "60",
+      "Motor Power": "171.5 kW (230 HP)",
+      "Motor Speed(RPM)": "3,560",
+      "Motor Voltage": "460"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/203636",
+    "stock_number": "203636",
+    "title": "Carbon Steel York International RWBII-100E Compressor Chiller - IPP# 203636",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Manufacturer": "York International",
+      "Model": "RWBII-100E",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Capacity Design": "907,200 kcal/h (300 Ref. Ton)",
+      "Pressure": "24.1 bar (350 psi)",
+      "Refrigerant Type": "R-22",
+      "Motor Power": "261 kW (350 HP)",
+      "Motor Speed(RPM)": "4,500"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/207433",
+    "stock_number": "207433",
+    "title": "Low Temp Chiller - IPP# 207433",
+    "attribute_count": 15,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Low Temp",
+      "Manufacturer": "FES",
+      "Model": "19ME",
+      "Condition": "Used",
+      "Capacity Design": "378,000 kcal/h (125 Ref. Ton)",
+      "Pressure": "20.7 bar (300 psi)",
+      "Refrigerant Type": "R-22",
+      "Temperature": "204.4 \u00b0C (400 \u00b0F)",
+      "Compressor Power": "223.7 kW (300 HP)",
+      "Controls": "Yes",
+      "Cooling water Flow rate": "113.6 m3/h (500 GPM)",
+      "Support Type": "Skid",
+      "Motor Speed(RPM)": "3,575",
+      "Motor Voltage": "4,160"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/212475",
+    "stock_number": "212475",
+    "title": "Water Cooled Chiller  Carbon Steel For Sale - IPP# 212475",
+    "attribute_count": 18,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Water Cooled",
+      "Manufacturer": "York",
+      "Model": "LCHM 115 WL",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Pressure": "31 bar (450 psi)",
+      "Refrigerant Type": "R-22",
+      "Temperature": "10 \u00b0C (50 \u00b0F)",
+      "Compressor Power": "83 kW (111.3 HP)",
+      "Controls": "Yes",
+      "Number of Tubes": "272",
+      "Product Flow rate": "54 m3/h (237.8 GPM)",
+      "Support Details": "mounted on c/steel skid",
+      "Support Type": "Skid",
+      "Motor Hertz": "50",
+      "Motor Power": "112 kW (150.2 HP)",
+      "Motor Voltage": "400"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/212476",
+    "stock_number": "212476",
+    "title": "Water Cooled Chiller  Carbon Steel For Sale - IPP# 212476",
+    "attribute_count": 18,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Water Cooled",
+      "Manufacturer": "York",
+      "Model": "LCHM 115 WL",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Pressure": "31 bar (450 psi)",
+      "Refrigerant Type": "R-22",
+      "Temperature": "10 \u00b0C (50 \u00b0F)",
+      "Compressor Power": "83 kW (111.3 HP)",
+      "Controls": "Yes",
+      "Number of Tubes": "272",
+      "Product Flow rate": "54 m3/h (237.8 GPM)",
+      "Support Details": "mounted on c/steel skid",
+      "Support Type": "Skid",
+      "Motor Hertz": "50",
+      "Motor Power": "112 kW (150.2 HP)",
+      "Motor Voltage": "400"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/212477",
+    "stock_number": "212477",
+    "title": "Water Cooled Chiller   For Sale - IPP# 212477",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Water Cooled",
+      "Manufacturer": "APV",
+      "Model": "LFEM 853Y-1",
+      "Condition": "Used",
+      "Pressure": "30 bar (435.1 psi)",
+      "Temperature": "-25 \u00b0C (-13 \u00b0F)",
+      "Product Flow rate": "19 m3/h (83.6 GPM)",
+      "Motor Power": "200 kW (268.2 HP)",
+      "Motor Voltage": "400"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/212478",
+    "stock_number": "212478",
+    "title": "Water Cooled Chiller   For Sale - IPP# 212478",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Water Cooled",
+      "Manufacturer": "APV",
+      "Model": "LFEM 853Y-1",
+      "Condition": "Used",
+      "Pressure": "30 bar (435.1 psi)",
+      "Temperature": "-25 \u00b0C (-13 \u00b0F)",
+      "Product Flow rate": "83.6 m3/h (368.1 GPM)",
+      "Motor Power": "200 kW (268.2 HP)",
+      "Motor Voltage": "400"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/216000",
+    "stock_number": "216000",
+    "title": "Low Temp Chiller 453,600 kcal/h (150 Ref. Ton)  For Sale - IPP# 216000",
+    "attribute_count": 16,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Low Temp",
+      "Manufacturer": "Trane",
+      "Model": "RTHC1D1SFSOD1L3E11FVOUCO",
+      "Condition": "Used",
+      "Capacity Design": "453,600 kcal/h (150 Ref. Ton)",
+      "Pressure": "13.8 bar (200 psi)",
+      "Product Flow Rate": "139.6 m3/h (607 GPM)",
+      "Refrigerant Type": "R-134a",
+      "Temperature": "-3.9 \u00b0C (25 \u00b0F)",
+      "Controls": "Yes",
+      "Height": "2,050 mm (80 in)",
+      "Length": "3,250 mm (128 in)",
+      "Width": "1,900 mm (75 in)",
+      "Motor Hertz": "60",
+      "Motor Voltage": "480"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/216001",
+    "stock_number": "216001",
+    "title": "Trane RTHB255 FLEOSLWPOOOUNC4LF2LFOOQUO Low Temp Chiller - IPP# 216001",
+    "attribute_count": 17,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Low Temp",
+      "Manufacturer": "Trane",
+      "Model": "RTHB255 FLEOSLWPOOOUNC4LF2LFOOQUO",
+      "Condition": "Used",
+      "Capacity Design": "771,100 kcal/h (255 Ref. Ton)",
+      "Pressure": "20.7 bar (300 psi)",
+      "Product Flow Rate": "98.4 m3/h (428 GPM)",
+      "Refrigerant Type": "R-22",
+      "Temperature": "-3.9 \u00b0C (25 \u00b0F)",
+      "Controls": "Yes",
+      "Height": "2,150 mm (84 in)",
+      "Length": "3,500 mm (137 in)",
+      "Width": "1,300 mm (52 in)",
+      "Motor Hertz": "60",
+      "Motor Power": "197 kW (264.2 HP)",
+      "Motor Voltage": "460"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/216002",
+    "stock_number": "216002",
+    "title": "Low Temp Chiller 771,100 kcal/h (255 Ref. Ton)  For Sale - IPP# 216002",
+    "attribute_count": 17,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Low Temp",
+      "Manufacturer": "Trane",
+      "Model": "RTHB255FLEOSLWPOOOUNC4LF2LFOOQUO",
+      "Condition": "Used",
+      "Capacity Design": "771,100 kcal/h (255 Ref. Ton)",
+      "Pressure": "20.7 bar (300 psi)",
+      "Product Flow Rate": "98.4 m3/h (428 GPM)",
+      "Refrigerant Type": "R-22",
+      "Temperature": "-3.9 \u00b0C (25 \u00b0F)",
+      "Controls": "Yes",
+      "Height": "2,150 mm (84 in)",
+      "Length": "3,500 mm (137 in)",
+      "Width": "1,300 mm (52 in)",
+      "Motor Hertz": "60",
+      "Motor Power": "197 kW (264.2 HP)",
+      "Motor Voltage": "460"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/216323",
+    "stock_number": "216323",
+    "title": "Trane CV6C95H4 Compressor Chiller - IPP# 216323",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Manufacturer": "Trane",
+      "Model": "CV6C95H4",
+      "Condition": "Used",
+      "Capacity Design": "1,905,100 kcal/h (630 Ref. Ton)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/216599",
+    "stock_number": "216599",
+    "title": "Unused Carbon Steel Water Cooled Chiller - IPP# 216599",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Water Cooled",
+      "Manufacturer": "Trane",
+      "Model": "CDHF3000",
+      "Condition": "Unused",
+      "Material": "Carbon Steel",
+      "Capacity Design": "9,071,850 kcal/h (3,000 Ref. Ton)",
+      "Pressure": "1.03 bar (15 psi)",
+      "Refrigerant Type": "R-123",
+      "Temperature": "1.11 \u00b0C (34 \u00b0F)",
+      "Support Type": "Legs",
+      "Motor Hertz": "60",
+      "Motor Voltage": "4,160"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/225211",
+    "stock_number": "225211",
+    "title": "Water Cooled Chiller 982,800 kcal/h (325 Ref. Ton)  For Sale - IPP# 225211",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Water Cooled",
+      "Manufacturer": "McQuay",
+      "Model": "WHS.325.3.ST",
+      "Condition": "Used",
+      "Capacity Design": "982,800 kcal/h (325 Ref. Ton)",
+      "Refrigerant Type": "R-134a",
+      "Compressor Power": "1,150 kW (1,550 HP)",
+      "Controls": "Yes",
+      "Support Details": "skid mounted packaged chiller,",
+      "Support Type": "Skid",
+      "Motor Hertz": "50",
+      "Motor Voltage": "415"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/225212",
+    "stock_number": "225212",
+    "title": "Snyder General PEH-100 Water Cooled Chiller - IPP# 225212",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Water Cooled",
+      "Manufacturer": "Snyder General",
+      "Model": "PEH-100",
+      "Condition": "Used",
+      "Capacity Design": "2,570,350 kcal/h (850 Ref. Ton)",
+      "Refrigerant Type": "R-134a",
+      "Temperature": "6 \u00b0C (42.8 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/230663",
+    "stock_number": "230663",
+    "title": "York Y22AC04Q9KBSBE Air Cooled Chiller - IPP# 230663",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Air Cooled",
+      "Manufacturer": "York",
+      "Model": "Y22AC04Q9KBSBE",
+      "Condition": "Used",
+      "Capacity Design": "60,500 kcal/h (20 Ref. Ton)",
+      "Refrigerant Type": "R-22",
+      "Fan Details": "(4) condenser fans each .75 HP 3/60/460 volt.",
+      "Fan Power": "0.56 kW (0.75 HP)",
+      "Number of Fans": "4"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/232796",
+    "stock_number": "232796",
+    "title": "New Tower Chiller   For Sale - IPP# 232796",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Tower",
+      "Manufacturer": "Baltimore Aircoil International",
+      "Model": "S15E-1218-07KE",
+      "Condition": "New",
+      "Fan Power": "3,000 kW (4,050 HP)",
+      "Number of Fans": "3",
+      "Height": "3,500 mm (137.8 in)",
+      "Length": "6,400 mm (252 in)",
+      "Width": "3,500 mm (137.8 in)",
+      "Motor Hertz": "50",
+      "Motor Power": "7.5 kW (10.1 HP)",
+      "Motor Speed(RPM)": "1,500",
+      "Motor Voltage": "690"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/233260",
+    "stock_number": "233260",
+    "title": "Carbon Steel Trane RTHD UC1E HX0U AE1A 3RAL FIAZ LALA VCQA EXAA BXA2 09DK UA6X. Compressor Chiller - IPP# 233260",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Manufacturer": "Trane",
+      "Model": "RTHD UC1E HX0U AE1A 3RAL FIAZ LALA VCQA EXAA BXA2 09DK UA6X.",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Capacity Design": "604,800 kcal/h (200 Ref. Ton)",
+      "Refrigerant Type": "R-134a",
+      "Compressor Type": "Hermetically sealed"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/233261",
+    "stock_number": "233261",
+    "title": "Carbon Steel Trane RTHD UC1E HX0U AE1A 3RAL FIAZ LALA VCQA EXAA BXA2 09DK UA6X Compressor Chiller - IPP# 233261",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Manufacturer": "Trane",
+      "Model": "RTHD UC1E HX0U AE1A 3RAL FIAZ LALA VCQA EXAA BXA2 09DK UA6X",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Capacity Design": "604,800 kcal/h (200 Ref. Ton)",
+      "Refrigerant Type": "R-134a",
+      "Compressor Type": "Hermetically sealed"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/238369",
+    "stock_number": "238369",
+    "title": "York YGCH163S1086YA Compressor Chiller - IPP# 238369",
+    "attribute_count": 7,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Manufacturer": "York",
+      "Model": "YGCH163S1086YA",
+      "Condition": "Used",
+      "Capacity Design": "907,200 kcal/h (300 Ref. Ton)",
+      "Refrigerant Type": "R-22"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/242740",
+    "stock_number": "242740",
+    "title": "York International  164.92 ton Chiller Packaged skid - IPP# 242740",
+    "attribute_count": 18,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Manufacturer": "York International Industrial refrigeration",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Capacity Design": "498,700 kcal/h (164.9 Ref. Ton)",
+      "Pressure": "20.7 bar (300.2 psi)",
+      "Product Flow Rate": "175 m3/h (761 GPM)",
+      "Refrigerant Type": "NH3 (Ammonia)",
+      "Temperature": "-25 \u00b0C (-13 \u00b0F)",
+      "Compressor Power": "315 kW (422.4 HP)",
+      "Compressor Type": "Rotary",
+      "Product Flow rate": "175 m3/h (771 GPM)",
+      "Support Type": "Skid",
+      "Motor Hertz": "50",
+      "Motor Power": "315 kW (422.4 HP)",
+      "Motor Speed(RPM)": "2,970",
+      "Motor Voltage": "415"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/242741",
+    "stock_number": "242741",
+    "title": "York International  164.92 ton Chiller Packaged skid - IPP# 242741",
+    "attribute_count": 18,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Manufacturer": "York International Industrial refrigeration",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Capacity Design": "498,700 kcal/h (164.9 Ref. Ton)",
+      "Pressure": "20.7 bar (300.2 psi)",
+      "Product Flow Rate": "175 m3/h (761 GPM)",
+      "Refrigerant Type": "NH3 (Ammonia)",
+      "Temperature": "-25 \u00b0C (-13 \u00b0F)",
+      "Compressor Power": "315 kW (422.4 HP)",
+      "Compressor Type": "Rotary",
+      "Product Flow rate": "175 m3/h (771 GPM)",
+      "Support Type": "Skid",
+      "Motor Hertz": "50",
+      "Motor Power": "315 kW (422.4 HP)",
+      "Motor Speed(RPM)": "2,970",
+      "Motor Voltage": "415"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246471",
+    "stock_number": "246471",
+    "title": "Unused Carbon Steel CaptiveAire Integrated HVAC Soluctions CASRTU3-1.300-18-20T Compressor Chiller - IPP# 246471",
+    "attribute_count": 20,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Manufacturer": "CaptiveAire Integrated HVAC Soluctions",
+      "Model": "CASRTU3-1.300-18-20T",
+      "Condition": "Unused",
+      "Material": "Carbon Steel",
+      "Capacity Design": "60,500 kcal/h (20 Ref. Ton)",
+      "Pressure": "48.3 bar (700 psi)",
+      "Refrigerant Type": "R-410a",
+      "Temperature": "37.8 \u00b0C (100 \u00b0F)",
+      "Compressor Type": "Hermetically sealed",
+      "Fan Details": "Supply Fan 5 HP 460 VAC",
+      "Support Details": "With Roof top Transition plate",
+      "Support Type": "Pads",
+      "Temperature Delta": "25",
+      "Motor Hertz": "60",
+      "Motor Make": "CaptiveAir",
+      "Motor Power": "3.7 kW (5 HP)",
+      "Motor Speed(RPM)": "10,900",
+      "Motor Voltage": "4,690"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246805",
+    "stock_number": "246805",
+    "title": "Carbon Steel York YLAA0101HE46 Air Cooled Chiller - IPP# 246805",
+    "attribute_count": 19,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Air Cooled",
+      "Manufacturer": "York",
+      "Model": "YLAA0101HE46",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Capacity Design": "302,400 kcal/h (100 Ref. Ton)",
+      "Refrigerant Type": "R-410a",
+      "Controls": "Yes",
+      "Fan Details": "Three fans",
+      "Number of Fans": "3",
+      "Support Details": "Mounted on legs",
+      "Support Type": "Legs",
+      "Height": "3,250 mm (128 in)",
+      "Length": "3,650 mm (144 in)",
+      "Width": "2,300 mm (90 in)",
+      "Motor Hertz": "60",
+      "Motor Make": "YORK",
+      "Motor Voltage": "460"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/26266",
+    "stock_number": "26266",
+    "title": "Compressor Chiller   For Sale - IPP# 26266",
+    "attribute_count": 3,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Condition": "Used"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/705719",
+    "stock_number": "705719",
+    "title": "Compressor Chiller 124,000 kcal/h (41 Ref. Ton)  For Sale - IPP# 705719",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Manufacturer": "Alarko",
+      "Condition": "Used",
+      "Capacity Design": "124,000 kcal/h (41 Ref. Ton)",
+      "Temperature": "40 \u00b0C (104 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/705720",
+    "stock_number": "705720",
+    "title": "Compressor Chiller 124,000 kcal/h (41 Ref. Ton)  For Sale - IPP# 705720",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Manufacturer": "Bitzer",
+      "Condition": "Used",
+      "Capacity Design": "124,000 kcal/h (41 Ref. Ton)",
+      "Compressor Power": "193.2 kW (259.1 HP)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/705721",
+    "stock_number": "705721",
+    "title": "Compressor Chiller 124,000 kcal/h (41 Ref. Ton)  For Sale - IPP# 705721",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Manufacturer": "Bitzer",
+      "Condition": "Used",
+      "Capacity Design": "124,000 kcal/h (41 Ref. Ton)",
+      "Compressor Power": "193.2 kW (259.1 HP)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/705722",
+    "stock_number": "705722",
+    "title": "Compressor Chiller 124,000 kcal/h (41 Ref. Ton)  For Sale - IPP# 705722",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Manufacturer": "Bitzer",
+      "Condition": "Used",
+      "Capacity Design": "124,000 kcal/h (41 Ref. Ton)",
+      "Compressor Power": "193.2 kW (259.1 HP)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706011",
+    "stock_number": "706011",
+    "title": "Ice Machine Chiller 6,050 kcal/h (2 Ref. Ton)  For Sale - IPP# 706011",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Ice Machine",
+      "Manufacturer": "Northstar",
+      "Condition": "Used",
+      "Capacity Design": "6,050 kcal/h (2 Ref. Ton)",
+      "Pressure": "10.3 bar (150 psi)",
+      "Temperature": "148.9 \u00b0C (300 \u00b0F)",
+      "Motor Power": "0.75 kW (1 HP)",
+      "Motor Speed(RPM)": "900"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706049",
+    "stock_number": "706049",
+    "title": "Carrier 30HR-161-6911LE Compressor Chiller - IPP# 706049",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Compressor",
+      "Manufacturer": "Carrier",
+      "Model": "30HR-161-6911LE",
+      "Condition": "Used",
+      "Pressure": "30 bar (435.1 psi)",
+      "Refrigerant Type": "R-22",
+      "Compressor Type": "Reciprocating",
+      "Controls": "Yes",
+      "Support Details": "mounted on carbon steel skid",
+      "Motor Hertz": "50",
+      "Motor Power": "180 kW (241.4 HP)",
+      "Motor Voltage": "400"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706525",
+    "stock_number": "706525",
+    "title": "Tower Chiller  Galvanized For Sale - IPP# 706525",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Tower",
+      "Manufacturer": "Marley",
+      "Model": "2-8912",
+      "Condition": "Used",
+      "Material": "Galvanized",
+      "Air Flow Rate": "140 m3/h (82.4 CFM)",
+      "Motor Hertz": "50",
+      "Motor Voltage": "415"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706855",
+    "stock_number": "706855",
+    "title": "SCM Frigo SW002F Air Cooled Chiller - IPP# 706855",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Air Cooled",
+      "Manufacturer": "SCM Frigo",
+      "Model": "SW002F",
+      "Condition": "Used",
+      "Capacity Design": "341,700 kcal/h (113 Ref. Ton)",
+      "Refrigerant Type": "R404a",
+      "Temperature": "40 \u00b0C (104 \u00b0F)",
+      "Fan Power": "2.2 kW (3 HP)",
+      "Number of Fans": "16",
+      "Support Details": "all mounted on a carbon steel skid,",
+      "Support Type": "Skid",
+      "Motor Power": "2.2 kW (3 HP)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706856",
+    "stock_number": "706856",
+    "title": "SCM Frigo SW002F Air Cooled Chiller - IPP# 706856",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Air Cooled",
+      "Manufacturer": "SCM Frigo",
+      "Model": "SW002F",
+      "Condition": "Used",
+      "Capacity Design": "341,700 kcal/h (113 Ref. Ton)",
+      "Refrigerant Type": "R404a",
+      "Temperature": "40 \u00b0C (104 \u00b0F)",
+      "Fan Power": "2.2 kW (3 HP)",
+      "Number of Fans": "16",
+      "Support Details": "Mounted on a carbon steel skid",
+      "Support Type": "Skid",
+      "Motor Power": "2.2 kW (3 HP)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/802175",
+    "stock_number": "802175",
+    "title": "Tower Chiller   For Sale - IPP# 802175",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Tower",
+      "Manufacturer": "Marley",
+      "Condition": "Used",
+      "Air Flow Rate": "725 m3/h (426.7 CFM)",
+      "Cooling water Flow rate": "299 m3/h (1,300 GPM)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/95629",
+    "stock_number": "95629",
+    "title": "G &amp; S Hermetique 06ER099140 Air Cooled Chiller - IPP# 95629",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Chiller",
+      "Subtype": "Air Cooled",
+      "Manufacturer": "G & S Hermetique",
+      "Model": "06ER099140",
+      "Condition": "Used",
+      "Capacity Design": "90,700 kcal/h (30 Ref. Ton)",
+      "Temperature": "-12.2 \u00b0C (10 \u00b0F)",
+      "Motor Hertz": "60",
+      "Motor Power": "22.4 kW (30 HP)",
+      "Motor Speed(RPM)": "1,770",
+      "Motor TEFC": "Yes",
+      "Motor Voltage": "575"
+    }
+  }
+]

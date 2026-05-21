@@ -1,0 +1,657 @@
+[
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/207093",
+    "stock_number": "207093",
+    "title": "Copper AO Smith DB/DW-720-1810 Steam Boiler - IPP# 207093",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "AO Smith",
+      "Model": "DB/DW-720-1810",
+      "Condition": "Used",
+      "Material": "Copper",
+      "Temperature": "121.1 \u00b0C (250 \u00b0F)",
+      "Pressure": "11.4 bar (165 psi)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/212169",
+    "stock_number": "212169",
+    "title": "Steam Boiler Minister Oil Fired Beel Industrial Boilers Ltd. - IPP# 212169",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Beel Industrial Boilers Ltd.",
+      "Model": "Minister",
+      "Condition": "Used",
+      "Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "6.9 bar (100 psi)",
+      "Controls": "Yes",
+      "Capacity (Design)": "1,800 kg/h (4,000 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/212170",
+    "stock_number": "212170",
+    "title": "Beel Industrial Boilers Ltd. Minister Steam Boiler - IPP# 212170",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Beel Industrial Boilers Ltd.",
+      "Model": "Minister",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Water Tube",
+      "Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "6.9 bar (100 psi)",
+      "Controls": "Yes",
+      "Burner Manufacturer": "Hamworthy Conbustion",
+      "Capacity (Design)": "1,800 kg/h (4,000 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/212959",
+    "stock_number": "212959",
+    "title": "Steam Boiler Burnham LN3L-150-50-G-BNM - IPP# 212959",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Burnham",
+      "Model": "LN3L-150-50-G-BNM",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Firetube",
+      "Power": "111.9 kW (150 HP)",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "1.03 bar (15 psi)",
+      "Low NOx": "Yes",
+      "Capacity (Design)": "2,350 kg/h (5,200 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/212960",
+    "stock_number": "212960",
+    "title": "Carbon Steel Burnham LN3L-150-50-G-BNM Steam Boiler - IPP# 212960",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Burnham",
+      "Model": "LN3L-150-50-G-BNM",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Firetube",
+      "Power": "111.9 kW (150 HP)",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "1.03 bar (15 psi)",
+      "Low NOx": "Yes",
+      "Capacity (Design)": "2,350 kg/h (5,200 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/213039",
+    "stock_number": "213039",
+    "title": "Mokon HC 4B24-T4 Hot Oil Boiler - IPP# 213039",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Hot Oil",
+      "Manufacturer": "Mokon",
+      "Model": "HC 4B24-T4",
+      "Condition": "Used",
+      "Power": "48 kW (64.4 HP)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/216598",
+    "stock_number": "216598",
+    "title": "Steam Boiler - IPP# 216598",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Cleaver Brooks",
+      "Model": "D-34-R.H",
+      "Condition": "Used",
+      "Boiler Type": "Water Tube",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "44.8 bar (650 psi)",
+      "Capacity (Design)": "6,800 kg/h (15,000 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/218660",
+    "stock_number": "218660",
+    "title": "Hot Oil Boiler H.E.A.T SL550-360-WC-483 - IPP# 218660",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Hot Oil",
+      "Manufacturer": "H.E.A.T.",
+      "Model": "SL550-360-WC-483",
+      "Condition": "Used",
+      "Boiler Type": "Other",
+      "Temperature": "287.8 \u00b0C (550 \u00b0F)",
+      "Power": "360 kW (482.8 HP)",
+      "Pressure": "10.3 bar (150 psi)",
+      "Controls": "Yes"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/222572",
+    "stock_number": "222572",
+    "title": "Fulton FT-0640N Hot Oil Boiler - IPP# 222572",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Hot Oil",
+      "Manufacturer": "Fulton",
+      "Model": "FT-0640N",
+      "Condition": "Used",
+      "Temperature": "343.3 \u00b0C (650 \u00b0F)",
+      "Power": "189 kW (253.4 HP)",
+      "Pressure": "6.9 bar (100 psi)",
+      "Controls": "Yes"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/222577",
+    "stock_number": "222577",
+    "title": "Chromalox Hot Oil Boiler - IPP# 222577",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Hot Oil",
+      "Manufacturer": "Chromalox",
+      "Condition": "Used",
+      "Power": "18 kW (24.1 HP)",
+      "Controls": "Yes"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/222584",
+    "stock_number": "222584",
+    "title": "Chromalox Hot Oil Boiler - IPP# 222584",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Hot Oil",
+      "Manufacturer": "Chromalox",
+      "Condition": "Used",
+      "Power": "200 kW (268.2 HP)",
+      "Controls": "Yes"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/228336",
+    "stock_number": "228336",
+    "title": "QPC HO-125OX-24 Hot Oil Boiler - IPP# 228336",
+    "attribute_count": 7,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Hot Oil",
+      "Manufacturer": "QPC",
+      "Model": "HO-125OX-24",
+      "Condition": "Used",
+      "Boiler Type": "Hot Oil",
+      "Power": "24 kW (32.2 HP)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/228337",
+    "stock_number": "228337",
+    "title": "Fulton 0080 Hot Oil Boiler - IPP# 228337",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Hot Oil",
+      "Manufacturer": "Fulton",
+      "Model": "0080",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Heat Output": "25,444 BTU's/Hr.",
+      "Power": "7.5 kW (10 HP)",
+      "Fuel Type": "Natural Gas",
+      "Controls": "Yes",
+      "Burner Manufacturer": "Fulton"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/230727",
+    "stock_number": "230727",
+    "title": "BFS Industies Duplex Vessel Assy Steam Boiler - IPP# 230727",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "BFS Industies",
+      "Model": "Duplex Vessel Assy",
+      "Condition": "Used",
+      "Pressure": "2.8 bar (40 psi)",
+      "Controls": "Yes",
+      "Deaerator System": "Yes"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/230730",
+    "stock_number": "230730",
+    "title": "Cleaver Brooks SMP-7 Steam Boiler - IPP# 230730",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Cleaver Brooks",
+      "Model": "SMP-7",
+      "Condition": "Used",
+      "Power": "2,000 kW (2,650 HP)",
+      "Deaerator System": "Yes",
+      "Capacity (Design)": "3,200 kg/h (7,000 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/234972",
+    "stock_number": "234972",
+    "title": "Carbon Steel Chromalox Hot Oil Boiler - IPP# 234972",
+    "attribute_count": 7,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Hot Oil",
+      "Manufacturer": "Chromalox",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Power": "40 kW (53.6 HP)",
+      "Controls": "Yes"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/235918",
+    "stock_number": "235918",
+    "title": "Chromalox CHPES-036ASF10-483 Steam Boiler - IPP# 235918",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Chromalox",
+      "Model": "CHPES-036ASF10-483",
+      "Condition": "Used",
+      "Boiler Type": "Other",
+      "Power": "34 kW (45.6 HP)",
+      "Fuel Type": "Electric",
+      "Pressure": "16.2 bar (235 psi)",
+      "Controls": "Yes",
+      "Capacity (Design)": "46.5 kg/h (102.5 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/245490",
+    "stock_number": "245490",
+    "title": "Steam Boiler - IPP# 245490",
+    "attribute_count": 15,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Cleaver Brooks",
+      "Model": "CFH-700-70HP-150#ST",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Firetube",
+      "Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Power": "52.2 kW (70 HP)",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "10.3 bar (150 psi)",
+      "Controls": "Yes",
+      "Deaerator System": "Yes",
+      "Capacity (Design)": "1,100 kg/h (2,400 lb/h)",
+      "Capacity Working": "1,300 kg/h (2,850 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/245491",
+    "stock_number": "245491",
+    "title": "Steam Boiler - IPP# 245491",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Kewanee",
+      "Model": "H3S100-G06",
+      "Condition": "Used",
+      "Boiler Type": "Firetube",
+      "Power": "74.6 kW (100 HP)",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "10.3 bar (150 psi)",
+      "Burner Manufacturer": "Kawanee",
+      "Deaerator System": "Yes",
+      "Capacity (Design)": "1,500 kg/h (3,350 lb/h)",
+      "Capacity Working": "1,500 kg/h (3,350 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/245533",
+    "stock_number": "245533",
+    "title": "UNUSED Carbon Steel Euroboilers TH/AR-V1500 Hot Oil Boiler - IPP# 245533",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Hot Oil",
+      "Manufacturer": "Euroboilers",
+      "Model": "TH/AR-V1500",
+      "Condition": "Unused",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Hot Oil",
+      "Temperature": "350 \u00b0C (662 \u00b0F)",
+      "Power": "1,750 kW (2,350 HP)",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "10 bar (145 psi)",
+      "Controls": "Yes",
+      "Burner Manufacturer": "Riello"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/245587",
+    "stock_number": "245587",
+    "title": "Carbon Steel Steam Boiler - IPP# 245587",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Cleaver Brooks",
+      "Model": "CB200X-440-200ST",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Firetube",
+      "Power": "328.1 kW (440 HP)",
+      "Fuel Type": "Natural Gas, Diesel",
+      "Pressure": "13.8 bar (200 psi)",
+      "Controls": "Yes",
+      "Burner Manufacturer": "Cleaver Brooks",
+      "Deaerator System": "Yes",
+      "Capacity Working": "6,900 kg/h (15,200 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/245588",
+    "stock_number": "245588",
+    "title": "First Thermal Systems 200-4-2-HHC-PF-G-IRI-H4 3.24 mm/BTU Hot Oil Boiler - IPP# 245588",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Hot Oil",
+      "Manufacturer": "First Thermal Systems",
+      "Model": "200-4-2-HHC-PF-G-IRI-H4",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Firetube",
+      "Heat Output": "3.24 mm/BTU",
+      "Temperature": "343.3 \u00b0C (650 \u00b0F)",
+      "Power": "72.3 kW (97 HP)",
+      "Fuel Type": "Natural Gas",
+      "Controls": "Yes",
+      "Burner Manufacturer": "First Thermal Systems"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246802",
+    "stock_number": "246802",
+    "title": "Carbon Steel Cleaver Brooks CB200-730-150 Steam Boiler - IPP# 246802",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Cleaver Brooks",
+      "Model": "CB200-730-150",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Water Tube",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "10.3 bar (150 psi)",
+      "Burner Manufacturer": "Cleaver Brooks",
+      "Capacity (Design)": "11,350 kg/h (25,000 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246803",
+    "stock_number": "246803",
+    "title": "Carbon Steel Cleaver Brooks CB200-730-150 Steam Boiler - IPP# 246803",
+    "attribute_count": 15,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Cleaver Brooks",
+      "Model": "CB200-730-150",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Water Tube",
+      "Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Power": "544 kW (730 HP)",
+      "Fuel Type": "Natural Gas, Diesel",
+      "Pressure": "10.3 bar (150 psi)",
+      "Burner Manufacturer": "Cleaver Brooks",
+      "Deaerator System": "Yes",
+      "Capacity (Design)": "10,450 kg/h (23,000 lb/h)",
+      "Capacity Working": "9,050 kg/h (20,000 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246804",
+    "stock_number": "246804",
+    "title": "Carbon Steel Cleaver Brooks CB666-700 Steam Boiler - IPP# 246804",
+    "attribute_count": 16,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Cleaver Brooks",
+      "Model": "CB666-700",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Water Tube",
+      "Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Power": "496.6 kW (666 HP)",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "10.3 bar (150 psi)",
+      "Controls": "Yes",
+      "Burner Manufacturer": "Cleaver brooks",
+      "Deaerator System": "Yes",
+      "Capacity (Design)": "10,450 kg/h (23,000 lb/h)",
+      "Capacity Working": "10,450 kg/h (23,000 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246931",
+    "stock_number": "246931",
+    "title": "Carbon Steel Trane CA-Max 9 Miscellaneous Boiler - IPP# 246931",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Miscellaneous",
+      "Manufacturer": "Trane",
+      "Model": "CA-Max 9",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Firetube",
+      "Temperature": "426.7 \u00b0C (800 \u00b0F)",
+      "Power": "2,300 kW (3,050 HP)",
+      "Fuel Type": "Natural Gas",
+      "Controls": "Yes",
+      "Burner Manufacturer": "TRane",
+      "Capacity (Design)": "21,750 kg/h (48,000 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/247045",
+    "stock_number": "247045",
+    "title": "Unused Steam Boiler Bosch Firetube UL-S - IPP# 247045",
+    "attribute_count": 16,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Bosch",
+      "Model": "UL-S",
+      "Condition": "Unused",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Firetube",
+      "Temperature": "130 \u00b0C (266 \u00b0F)",
+      "Power": "285.6 kW (383 HP)",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "10 bar (145 psi)",
+      "Controls": "Yes",
+      "Burner Manufacturer": "Bosch",
+      "Low NOx": "Yes",
+      "Capacity (Design)": "6,000 kg/h (13,250 lb/h)",
+      "Capacity Working": "6,000 kg/h (13,250 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/247056",
+    "stock_number": "247056",
+    "title": "Clayton EG-604-2 ST Steam Boiler - IPP# 247056",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Clayton",
+      "Model": "EG-604-2 ST",
+      "Condition": "Used",
+      "Boiler Type": "Water Tube",
+      "Temperature": "195 \u00b0C (383 \u00b0F)",
+      "Power": "447.4 kW (600 HP)",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "13 bar (188.5 psi)",
+      "Controls": "Yes",
+      "Capacity (Design)": "9,400 kg/h (20,700 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/248078",
+    "stock_number": "248078",
+    "title": "Carbon Steel  Babcock Wanson Steam Boiler - IPP# 248078",
+    "attribute_count": 16,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Babcock Wanson",
+      "Model": "Steambloc BWD 40",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Firetube",
+      "Temperature": "192 \u00b0C (377.6 \u00b0F)",
+      "Power": "2,650 kW (3,550 HP)",
+      "Fuel Type": "Natural Gas, Gas Oil",
+      "Heating Surface Area": "78.4 m&#xB2; (844 ft&#xB2;)",
+      "Pressure": "12 bar (174 psi)",
+      "Controls": "Yes",
+      "Burner Manufacturer": "Babcock Wanson",
+      "Capacity (Design)": "4,350 kg/h (9,600 lb/h)",
+      "Capacity Working": "4,000 kg/h (8,800 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/248282",
+    "stock_number": "248282",
+    "title": "Carbon Steel HKB Ketelbouw SHP-E25000-019 Steam Boiler - IPP# 248282",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "HKB Ketelbouw",
+      "Model": "SHP-E-25000-019",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Temperature": "212 \u00b0C (413.6 \u00b0F)",
+      "Power": "12,900 kW (17,300 HP)",
+      "Fuel Type": "Natural Gas",
+      "Heating Surface Area": "450 m&#xB2; (4,850 ft&#xB2;)",
+      "Pressure": "19 bar (275.6 psi)",
+      "Controls": "Yes",
+      "Burner Manufacturer": "Puripher",
+      "Capacity (Design)": "25,000 kg/h (55,100 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706520",
+    "stock_number": "706520",
+    "title": "Carbon Steel Ansaldo Volund Steam Boiler - IPP# 706520",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Ansaldo Volund",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Water Tube",
+      "Temperature": "297 \u00b0C (567 \u00b0F)",
+      "Power": "13,100 kW (17,550 HP)",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "80 bar (1,150 psi)",
+      "Controls": "Yes",
+      "Burner Manufacturer": "Saacke",
+      "Deaerator System": "Yes",
+      "Capacity (Design)": "40,350 kg/h (89,000 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706521",
+    "stock_number": "706521",
+    "title": "Carbon Steel Ansaldo Volund Steam Boiler - IPP# 706521",
+    "attribute_count": 15,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Ansaldo Volund",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Boiler Type": "Water Tube",
+      "Temperature": "105 \u00b0C (221 \u00b0F)",
+      "Power": "13,100 kW (17,550 HP)",
+      "Fuel Type": "Natural Gas",
+      "Pressure": "91 bar (1,300 psi)",
+      "Controls": "Yes",
+      "Burner Manufacturer": "Saacke",
+      "Low NOx": "Yes",
+      "Deaerator System": "Yes",
+      "Capacity (Design)": "19,950 kg/h (44,000 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706522",
+    "stock_number": "706522",
+    "title": "Steam Boiler MCR Ansaldo Volund water tube boiler - IPP# 706522",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Ansaldo Volund",
+      "Condition": "Used",
+      "Boiler Type": "Water Tube",
+      "Temperature": "105 \u00b0C (221 \u00b0F)",
+      "Power": "13,100 kW (17,550 HP)",
+      "Fuel Type": "Natural Gas, Heavy Fuel Oil",
+      "Pressure": "91 bar (1,300 psi)",
+      "Controls": "Yes",
+      "Burner Manufacturer": "Saacke",
+      "Deaerator System": "Yes",
+      "Capacity (Design)": "19,950 kg/h (44,000 lb/h)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/706829",
+    "stock_number": "706829",
+    "title": "Steam Boiler 5,000 kg/h (11,050 lb/h)  For Sale - IPP# 706829",
+    "attribute_count": 7,
+    "attributes": {
+      "Type": "Boiler",
+      "Subtype": "Steam",
+      "Manufacturer": "Cochran Boilers Limited",
+      "Condition": "Used",
+      "Temperature": "430 \u00b0C (806 \u00b0F)",
+      "Pressure": "13 bar (188.5 psi)",
+      "Capacity (Design)": "5,000 kg/h (11,050 lb/h)"
+    }
+  }
+]

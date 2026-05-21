@@ -1,0 +1,49 @@
+[
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/216028",
+    "stock_number": "216028",
+    "title": "Stainless Steel 304 Tubular Reactor - IPP# 216028",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Reactor",
+      "Subtype": "Tubular",
+      "Manufacturer": "Fox Fabricators",
+      "Model": "Tubular loop reactor",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Tube Length": "182,900 mm (7,200 in)",
+      "Tube Pressure": "85.1 bar (1,250 psi)",
+      "Tube Temperature": "204.4 \u00b0C (400 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/216053",
+    "stock_number": "216053",
+    "title": "Stainless Steel 304 Tubular Reactor - IPP# 216053",
+    "attribute_count": 7,
+    "attributes": {
+      "Type": "Reactor",
+      "Subtype": "Tubular",
+      "Model": "Tubular loop reactor",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Tube Length": "243,850 mm (9,600 in)",
+      "Tube Temperature": "204.4 \u00b0C (400 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/232538",
+    "stock_number": "232538",
+    "title": "Stainless Steel 316 Snowtech Hydro Cracker &amp; Fisher Tropsch Tubular Reactor - IPP# 232538",
+    "attribute_count": 7,
+    "attributes": {
+      "Type": "Reactor",
+      "Subtype": "Tubular",
+      "Manufacturer": "Snowtech Hydro Cracker & Fisher Tropsch",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Tube Length": "15.7 mm (0.62 in)",
+      "Tube Temperature": "500 \u00b0C (932 \u00b0F)"
+    }
+  }
+]

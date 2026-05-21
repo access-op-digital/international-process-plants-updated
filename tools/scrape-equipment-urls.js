@@ -48,9 +48,10 @@ function parseArgs() {
     console.log('1. Opening IMS search page...');
     await page.goto('https://ims.internationalprocessplants.com/search?asset=equipment', {
         waitUntil: 'networkidle2',
-        timeout: 30000
+        timeout: 60000
     });
-    await DELAY(3000);
+    // Blazor uses WebSocket for hydration — networkidle2 doesn't catch it. Wait longer.
+    await DELAY(8000);
 
     // Step 1: Handle Welcome modal — select US/Standard and close
     console.log('2. Selecting US/Standard and closing welcome modal...');
@@ -65,42 +66,47 @@ function parseArgs() {
             }
         }
     });
-    await DELAY(500);
+    await DELAY(700);
     await page.evaluate(() => {
         const buttons = document.querySelectorAll('button');
         for (const btn of buttons) {
             if (btn.textContent.trim() === 'Close') { btn.click(); return; }
         }
     });
-    await DELAY(2000);
+    await DELAY(4000);
 
-    // Step 2: Select Equipment Type
+    // Step 2: Select Equipment Type — retry the items grab in case the SPA hasn't rendered options yet
     console.log(`3. Selecting Equipment Type: ${opts.type}...`);
     await page.click('#EquipmentTypeDropdown');
-    await DELAY(1500);
-    const typeResult = await page.evaluate((targetType) => {
-        const items = document.querySelectorAll('.k-list-item, .k-item, li[role="option"]');
-        const available = [];
-        // Normalize for comparison: lowercase, collapse whitespace, strip special chars
-        const normalize = (s) => s.toLowerCase().replace(/[&]/g, 'and').replace(/[-–—]/g, ' ').replace(/\s+/g, ' ').trim();
-        const target = normalize(targetType);
-        for (const item of items) {
-            const text = item.textContent.trim();
-            available.push(text);
-            if (text === targetType) { item.click(); return { found: true, matched: text }; }
-        }
-        // Fuzzy: try normalized match
-        for (const item of items) {
-            const text = item.textContent.trim();
-            if (normalize(text) === target) { item.click(); return { found: true, matched: text }; }
-        }
-        // Fuzzy: try includes
-        for (const item of items) {
-            const text = item.textContent.trim();
-            if (normalize(text).includes(target) || target.includes(normalize(text))) { item.click(); return { found: true, matched: text }; }
-        }
-        return { found: false, available };
-    }, opts.type);
+    await DELAY(3000);
+    const normalize = (s) => s.toLowerCase().replace(/[&]/g, 'and').replace(/[-–—]/g, ' ').replace(/\s+/g, ' ').trim();
+    let typeResult = { found: false, available: [] };
+    for (let attempt = 0; attempt < 4; attempt++) {
+        typeResult = await page.evaluate((targetType, normStr) => {
+            const normalize = (s) => s.toLowerCase().replace(/[&]/g, 'and').replace(/[-–—]/g, ' ').replace(/\s+/g, ' ').trim();
+            const items = document.querySelectorAll('.k-list-item, .k-item, li[role="option"], [role="option"]');
+            const available = [];
+            const target = normalize(targetType);
+            for (const item of items) {
+                const text = item.textContent.trim();
+                if (!text) continue;
+                available.push(text);
+                if (text === targetType) { item.click(); return { found: true, matched: text }; }
+            }
+            for (const item of items) {
+                const text = item.textContent.trim();
+                if (normalize(text) === target) { item.click(); return { found: true, matched: text }; }
+            }
+            for (const item of items) {
+                const text = item.textContent.trim();
+                if (normalize(text).includes(target) || target.includes(normalize(text))) { item.click(); return { found: true, matched: text }; }
+            }
+            return { found: false, available };
+        }, opts.type);
+        if (typeResult.found || typeResult.available.length > 5) break;
+        console.log(`   attempt ${attempt + 1}/4: ${typeResult.available.length} options visible, waiting and retrying...`);
+        await DELAY(2500);
+    }
     if (!typeResult.found) {
         console.error(`ERROR: Could not find equipment type "${opts.type}"`);
         console.error('Available types:', typeResult.available.join(', '));

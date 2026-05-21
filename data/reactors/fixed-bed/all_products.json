@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/246935",
+    "stock_number": "246935",
+    "title": "Carbon Steel Nooter Fixed Bed Reactor - IPP# 246935",
+    "attribute_count": 31,
+    "attributes": {
+      "Type": "Reactor",
+      "Subtype": "Fixed Bed",
+      "Manufacturer": "Nooter",
+      "Condition": "Used",
+      "Material": "Carbon Steel",
+      "Capacity (Design)": "49,200 L (13,000 gallons)",
+      "Internal Finish": "Mill 2B",
+      "Internal Pressure": "2.1 bar (30 psi)",
+      "Internal Full Vacuum": "Yes",
+      "Internal Temperature": "371.1 \u00b0C (700 \u00b0F)",
+      "Tube Surface Area": "1,450 m&#xB2; (15,700 ft&#xB2;)",
+      "Jacket Pressure": "2.1 bar (30 psi)",
+      "Jacket Temperature": "398.9 \u00b0C (750 \u00b0F)",
+      "Orientation": "Vertical",
+      "Straight Side Length": "3,650 mm (144 in)",
+      "Number of Tubes": "12,008",
+      "Catalyst Type": "Iron Oxides with Molybdenum",
+      "Manway": "Yes",
+      "Support Type": "Ring",
+      "Tube Diameter": "25.4 mm (1 in)",
+      "Tube Length": "1,500 mm (60 in)",
+      "Tube Material": "Carbon Steel",
+      "Tube Number": "12,008",
+      "Tube Sheet Material": "Carbon Steel",
+      "Tube Pressure": "2.8 bar (40 psi)",
+      "Tube Temperature": "398.9 \u00b0C (750 \u00b0F)",
+      "Top Head Type": "Dish",
+      "Top Head Material": "Carbon Steel",
+      "Bottom Head Type": "Dish",
+      "Bottom Head Material": "Carbon Steel",
+      "Nozzle Schedule": "Nozzles : One 24\", One 20\", one 18\", one 16\", one 14\",two 8\", one 4\", one 2', three 1\"."
+    }
+  }
+]

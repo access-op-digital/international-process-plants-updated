@@ -1325,7 +1325,7 @@
     <div class="container">
         <div class="section-header">
             <h2>Browse Used Reactors <span>by Type</span></h2>
-            <p><span class="src src-ims" data-src-label="Subtype field across IMS product pages: two distinct values Batch-Type Agitated and Batch Type Body Only">IPP stocks two reactor subtypes: batch-type agitated systems with complete agitation and batch type body only shells.</span> Choose the subtype that matches your process requirements.</p>
+            <p><span class="src src-ims" data-src-label="Subtype field across IMS product pages: seven distinct values (Batch-Type Agitated, Batch Type Body Only, Fixed Bed, Fluid Bed, Hydrogenation, Polymerization, Tubular)">IPP organizes its reactor inventory across seven subtypes &mdash; from batch-type agitated systems to fixed bed, fluid bed, hydrogenation, polymerization, and tubular configurations.</span> Choose the subtype that matches your process requirements.</p>
         </div>
 
         <div class="type-grid">
@@ -1343,6 +1343,46 @@
                 <span class="type-count src src-ims" data-src-label="all_products.json for batch-type-body-only">Reactors in Stock</span>
                 <p><span class="src src-ims" data-src-label="Body Only field on batch type body only IMS products shows 'Yes'. These products lack Agitation, Impeller Type, Motor Power fields">Reactor shells including vessel, jacket, heads, and nozzles &mdash; sold without agitation components.</span> <span class="src src-ims" data-src-label="Manufacturer field on batch type body only products: Pfaudler, DeDietrich , UGE ">Available from Pfaudler, DeDietrich, and UGE as the primary manufacturers.</span> <span class="src src-ims" data-src-label="Material field on batch type body only products: all 172 are Glasslined">Primarily glass-lined construction.</span> <span class="src src-ims" data-src-label="Condition field on body only products: Re-glassed , Used , New , Needs Reglass , Unused ">Available in re-glassed, used, new, and unused conditions.</span></p>
                 <span class="type-link">Browse Body Only Reactors <i class="fas fa-arrow-right"></i></span>
+            </a>
+
+            <a href="fixed-bed/" class="type-card">
+                <div class="type-icon"><i class="fas fa-layer-group"></i></div>
+                <h3>Fixed Bed Reactors</h3>
+                <span class="type-count src src-ims" data-src-label="all_products.json for fixed-bed: 1 product">Reactors in Stock</span>
+                <p><span class="src src-ims" data-src-label="IMS Reactor subtype: Fixed Bed">Catalytic reactors with stationary catalyst beds for continuous gas- or liquid-phase reactions.</span> <span class="src src-ims" data-src-label="Manufacturer field on fixed-bed IMS product: Nooter">Available from Nooter.</span> <span class="src src-ims" data-src-label="Material field on fixed-bed IMS product: Carbon Steel">Carbon steel construction.</span> <span class="src src-ims" data-src-label="Capacity (Design) field on fixed-bed IMS product: 49,200 L">49,200 L (13,000 gal) capacity in stock.</span></p>
+                <span class="type-link">Browse Fixed Bed Reactors <i class="fas fa-arrow-right"></i></span>
+            </a>
+
+            <a href="fluid-bed/" class="type-card">
+                <div class="type-icon"><i class="fas fa-wind"></i></div>
+                <h3>Fluid Bed Reactors</h3>
+                <span class="type-count src src-ims" data-src-label="all_products.json for fluid-bed: 0 products currently in IMS">Inquire for Availability</span>
+                <p><span class="src src-ims" data-src-label="IMS Reactor subtype: Fluid Bed">Reactors that suspend solid catalyst particles in an upward-flowing gas or liquid stream for high heat-transfer and uniform mixing.</span> <span class="src src-ims" data-src-label="No fluid bed reactors currently listed in IMS inventory">No units currently in IPP inventory.</span> <span class="src src-about" data-src-label="IPP About page: GPS provides custom-fabricated equipment with 12-16 week delivery">Contact IPP to source from our global network or for new fabrication via Gale Process Solutions (GPS).</span></p>
+                <span class="type-link">Browse Fluid Bed Reactors <i class="fas fa-arrow-right"></i></span>
+            </a>
+
+            <a href="hydrogenation/" class="type-card">
+                <div class="type-icon"><i class="fas fa-vial"></i></div>
+                <h3>Hydrogenation Reactors</h3>
+                <span class="type-count src src-ims" data-src-label="all_products.json for hydrogenation: 8 products">Reactors in Stock</span>
+                <p><span class="src src-ims" data-src-label="IMS Reactor subtype: Hydrogenation">High-pressure reactors purpose-built for hydrogenation reactions with hydrogen gas.</span> <span class="src src-ims" data-src-label="Manufacturer field on hydrogenation products: Reschka GmbH, Applied Fusions Ltd, Gebr. Quast/Gothe KG, Johann Stahl, and others">Available from Reschka GmbH, Applied Fusions Ltd, Gebr. Quast/Gothe KG, and other European fabricators.</span> <span class="src src-ims" data-src-label="Material field on hydrogenation products: Stainless Steel 316, Stainless Steel Austenitic, Hastelloy C-276, and others">Stainless steel 316, austenitic, and Hastelloy C-276 construction.</span> <span class="src src-ims" data-src-label="Capacity (Design) field on hydrogenation products: 1,250 L to 13,150 L">Capacities from 1,250 L to 13,150 L (328 to 3,450 gal).</span></p>
+                <span class="type-link">Browse Hydrogenation Reactors <i class="fas fa-arrow-right"></i></span>
+            </a>
+
+            <a href="polymerization/" class="type-card">
+                <div class="type-icon"><i class="fas fa-link"></i></div>
+                <h3>Polymerization Reactors</h3>
+                <span class="type-count src src-ims" data-src-label="all_products.json for polymerization: 0 products currently in IMS">Inquire for Availability</span>
+                <p><span class="src src-ims" data-src-label="IMS Reactor subtype: Polymerization">Reactors engineered for polymerization processes including bulk, solution, suspension, and emulsion polymerization.</span> <span class="src src-ims" data-src-label="No polymerization reactors currently listed in IMS inventory">No units currently in IPP inventory.</span> <span class="src src-about" data-src-label="IPP About page: GPS provides custom-fabricated equipment with 12-16 week delivery">Contact IPP to source from our global network or for new fabrication via Gale Process Solutions (GPS).</span></p>
+                <span class="type-link">Browse Polymerization Reactors <i class="fas fa-arrow-right"></i></span>
+            </a>
+
+            <a href="tubular/" class="type-card">
+                <div class="type-icon"><i class="fas fa-grip-lines-vertical"></i></div>
+                <h3>Tubular Reactors</h3>
+                <span class="type-count src src-ims" data-src-label="all_products.json for tubular: 3 products">Reactors in Stock</span>
+                <p><span class="src src-ims" data-src-label="IMS Reactor subtype: Tubular">Continuous-flow reactors with reactants flowing through long, narrow tubes for precise residence-time control.</span> <span class="src src-ims" data-src-label="Manufacturer field on tubular products: Fox Fabricators, Snowtech Hydro Cracker &amp; Fisher Tropsch">Available from Fox Fabricators and Snowtech.</span> <span class="src src-ims" data-src-label="Material field on tubular products: Stainless Steel 304 (2 of 3 units), Stainless Steel 316 (1 of 3 units)">Stainless steel 304 and 316 construction.</span></p>
+                <span class="type-link">Browse Tubular Reactors <i class="fas fa-arrow-right"></i></span>
             </a>
         </div>
     </div>

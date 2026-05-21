@@ -64,6 +64,11 @@ CATEGORIES = [
     ("evaporator/flash", "evaporator/flash", "Flash Evaporators", "/equipment/evaporator/flash/", "https://ims.internationalprocessplants.com/inventory/equipment/evaporator/flash", "used flash evaporator for sale", "flash evaporator"),
     ("evaporator/rising-falling-film", "evaporator/rising-falling-film", "Rising/Falling Film Evaporators", "/equipment/evaporator/rising-falling-film/", "https://ims.internationalprocessplants.com/inventory/equipment/evaporator/rising-falling-film", "used rising falling film evaporator for sale", "rising falling film evaporator"),
     ("evaporator/wiped-thin-film", "evaporator/wiped-thin-film", "Wiped/Thin Film Evaporators", "/equipment/evaporator/wiped-thin-film/", "https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film", "used wiped thin film evaporator for sale", "wiped thin film evaporator"),
+    ("reactors/fixed-bed", "reactor/fixed-bed", "Fixed Bed Reactors", "/equipment/reactor/fixed-bed/", "https://ims.internationalprocessplants.com/inventory/equipment/reactor/fixed-bed", "used fixed bed reactor for sale", "fixed bed reactor"),
+    ("reactors/fluid-bed", "reactor/fluid-bed", "Fluid Bed Reactors", "/equipment/reactor/fluid-bed/", "https://ims.internationalprocessplants.com/inventory/equipment/reactor/fluid-bed", "used fluid bed reactor for sale", "fluid bed reactor"),
+    ("reactors/hydrogenation", "reactor/hydrogenation", "Hydrogenation Reactors", "/equipment/reactor/hydrogenation/", "https://ims.internationalprocessplants.com/inventory/equipment/reactor/hydrogenation", "used hydrogenation reactor for sale", "hydrogenation reactor"),
+    ("reactors/polymerization", "reactor/polymerization", "Polymerization Reactors", "/equipment/reactor/polymerization/", "https://ims.internationalprocessplants.com/inventory/equipment/reactor/polymerization", "used polymerization reactor for sale", "polymerization reactor"),
+    ("reactors/tubular", "reactor/tubular", "Tubular Reactors", "/equipment/reactor/tubular/", "https://ims.internationalprocessplants.com/inventory/equipment/reactor/tubular", "used tubular reactor for sale", "tubular reactor"),
 ]
 
 # Cross-sell mapping: equipment type -> related types
@@ -76,6 +81,7 @@ CROSS_SELL_MAP = {
     "mixer": [("Reactors", "/equipment/reactor/", "fas fa-flask"), ("Tanks", "/equipment/tank/", "fas fa-database"), ("Dryers", "/equipment/dryer/", "fas fa-fan")],
     "glass-lined-parts": [("Reactors", "/equipment/reactor/", "fas fa-flask"), ("Glass Lined Agitators", "/equipment/glass-lined-parts/agitator/", "fas fa-gears"), ("Glass Lined Baffles", "/equipment/glass-lined-parts/baffle/", "fas fa-grip-lines")],
     "evaporator": [("Heat Exchangers", "/equipment/heat-exchanger/shell-and-tube/", "fas fa-temperature-half"), ("Reactors", "/equipment/reactor/", "fas fa-flask"), ("Tanks", "/equipment/tank/", "fas fa-database")],
+    "reactor": [("Tanks", "/equipment/tank/", "fas fa-database"), ("Mixers", "/equipment/mixer/", "fas fa-blender"), ("Heat Exchangers", "/equipment/heat-exchanger/shell-and-tube/", "fas fa-temperature-half")],
 }
 
 # Industry icons map
@@ -110,6 +116,7 @@ DEFAULT_INDUSTRIES = {
     "mixer": ["Pharmaceutical", "Chemical Processing", "Food & Beverage", "Cosmetics", "Paints & Coatings", "Polymers & Resins", "Biotechnology", "Agrochemicals"],
     "glass-lined-parts": ["Pharmaceutical", "Chemical Processing", "Fine Chemicals", "Biotechnology", "Agrochemicals", "Cosmetics"],
     "evaporator": ["Chemical Processing", "Pharmaceutical", "Food & Beverage", "Dairy", "Petrochemicals", "Environmental", "Biotechnology", "Pulp & Paper"],
+    "reactor": ["Pharmaceutical", "Chemical Processing", "Biotechnology", "Fine Chemicals", "Polymers & Resins", "Petrochemicals", "Agrochemicals", "Food & Beverage"],
 }
 
 
@@ -122,8 +129,11 @@ def esc(text):
     return html_module.escape(str(text))
 
 def get_equipment_type(data_folder):
-    """Get the top-level equipment type from folder path."""
-    return data_folder.split("/")[0]
+    """Get the top-level equipment type from folder path. Normalize 'reactors' → 'reactor' (data folder is plural, URL/keys are singular)."""
+    first = data_folder.split("/")[0]
+    if first == "reactors":
+        return "reactor"
+    return first
 
 def is_glass_lined_part(data_folder):
     """Check if this is a glass-lined parts category."""
@@ -471,6 +481,7 @@ def get_breadcrumb_parent(data_folder, display_name):
         "mixer": "Mixers",
         "glass-lined-parts": "Glass Lined Parts",
         "evaporator": "Evaporators",
+        "reactor": "Reactors",
     }
     return type_names.get(eq_type, eq_type.replace("-", " ").title())
 
