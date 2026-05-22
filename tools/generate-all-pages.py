@@ -400,15 +400,18 @@ def select_tab_products(products, n=2):
 
 
 def format_product_count(count):
-    """Format product count for display (e.g., 700+ for 714)."""
+    """Format product count for display — never reveal exact counts (client rule).
+    Round down to the nearest 5/10/100 with a trailing '+'. Counts 1-9 collapse to '5+'.
+    Zero inventory shows '—' (the page already surfaces a Coming Soon section)."""
+    if count <= 0:
+        return "&mdash;"
+    if count < 10:
+        return "5+"
     if count >= 1000:
         return f"{(count // 100) * 100}+"
-    elif count >= 100:
+    if count >= 100:
         return f"{(count // 10) * 10}+"
-    elif count >= 10:
-        return f"{count}"
-    else:
-        return str(count)
+    return f"{(count // 10) * 10}+"
 
 
 def get_top_manufacturers(manufacturers, n=5):
@@ -953,7 +956,7 @@ def generate_product_tabs(cat_tuple, analysis):
         tab_id = make_safe_id(f"tab-{tab_name}")
         icon = get_tab_icon(tab_name)
         count = len(tab_products)
-        html += f'            <button{active} data-tab="{tab_id}"><i class="{icon}"></i> {esc(tab_name)} ({count})</button>\n'
+        html += f'            <button{active} data-tab="{tab_id}"><i class="{icon}"></i> {esc(tab_name)}</button>\n'
         first = False
 
     html += '        </div>\n\n'
@@ -999,20 +1002,21 @@ def generate_product_card(product, featured=False, badge_text=""):
     cap = attrs.get("Capacity (Design)", "") or attrs.get("Volume", "") or attrs.get("Bowl Volume", "")
     cond = attrs.get("Condition", "")
 
-    # Card title
+    # Card title — keep dual units (metric + imperial) per client convention.
+    # Shorten "gallons" → "gal" so the card title stays compact.
+    def _short_cap(c):
+        return c.replace("gallons", "gal").replace("gallon", "gal") if c else c
+
     title_parts = [mfr]
     if mat:
         title_parts.append(mat)
     if cap:
-        # Get just the metric part
-        cap_short = cap.split("(")[0].strip() if "(" in cap else cap
-        title_parts.append(f"&mdash; {cap_short}")
+        title_parts.append(f"&mdash; {_short_cap(cap)}")
     title = " ".join(title_parts)
-    if len(title) > 60:
+    if len(title) > 75:
         title = f"{mfr} {mat}" if mat else mfr
         if cap:
-            cap_short = cap.split("(")[0].strip() if "(" in cap else cap
-            title += f" &mdash; {cap_short}"
+            title += f" &mdash; {_short_cap(cap)}"
 
     # Description
     desc = f'{cond} {mfr} {mat} {attrs.get("Type", "").lower()}'.strip()
