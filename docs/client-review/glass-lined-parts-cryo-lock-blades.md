@@ -6,14 +6,14 @@ Blade types include CBT (curved blade turbine) and PBT (pitched blade turbine) c
 
 Available in re-glassed, unused, and used conditions. Most units carry a full fire polish (FF) glass finish with very clean (VC) glass condition ratings. Both clockwise and counter-clockwise rotation variants are stocked. Buying used glass lined cryo-lock blades from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts/cryo-lock-blades)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts/cryo-lock-blades)
 
 **Quick Stats:** 30+ Cryo-Lock Blades in Stock | 1980 Established Since | 15 Countries with Offices
 
 **Featured Equipment:**
-- [Pfaudler Cryo-Lock PBT — 8,000 Gal -- Re-glassed • IPP# 240422](https://ims.internationalprocessplants.com/inventory/equipment/detail/240422)
-- [UGE CBT — 4,000 Gal -- Re-glassed • IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291)
-- [Cryo-Lock CBT — 2,000 Gal -- Unused • IPP# 239082](https://ims.internationalprocessplants.com/inventory/equipment/detail/239082)
+- [Pfaudler Cryo-Lock PBT — 30,300 L (8,000 gal) -- Re-glassed • IPP# 240422](https://ims.internationalprocessplants.com/inventory/equipment/detail/240422)
+- [UGE CBT — 15,150 L (4,000 gal) -- Re-glassed • IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291)
+- [Cryo-Lock CBT — 7,550 L (2,000 gal) -- Unused • IPP# 239082](https://ims.internationalprocessplants.com/inventory/equipment/detail/239082)
 
 
 ---
@@ -24,43 +24,43 @@ All cryo-lock blades in IPP inventory feature glass-lined (fused glass enamel) c
 
 ### Buy Used Glasslined Cryo-Lock Blades for Sale
 
-IPP stocks glass lined cryo-lock blades exclusively in glasslined construction, covering vessel sizes from 500 to 8,000 gallons. Available in CBT (curved blade turbine) and PBT (pitched blade turbine) blade configurations from Pfaudler and UGE.
+IPP stocks glass lined cryo-lock blades exclusively in glasslined construction, covering vessel sizes from 1,900 L (500 gallons) to 30,300 L (8,000 gallons). Available in CBT (curved blade turbine) and PBT (pitched blade turbine) blade configurations from Pfaudler and UGE.
 
-#### [Glasslined] Pfaudler Cryo-Lock PBT — 8,000 Gal ([IPP# 240422](https://ims.internationalprocessplants.com/inventory/equipment/detail/240422))
+#### [Glasslined] Pfaudler Cryo-Lock PBT — 30,300 L (8,000 gal) ([IPP# 240422](https://ims.internationalprocessplants.com/inventory/equipment/detail/240422))
 
 Re-glassed Pfaudler Cryo-Lock glasslined PBT blade sized for 30,300 L (8,000 gallon) vessels with 5.5-inch hub bore and 1,400 mm (56 in) PBT span.
 
-- Glasslined
-- 30,300 L (8,000 gal) vessel
-- 5.5-inch hub bore
-- 1,400 mm (56 in) PBT span
-- Re-glassed condition
+- Material: Glasslined
+- Vessel Size: 30,300 L (8,000 gal) vessel
+- Hub size: 5.5-inch hub bore
+- PBT Span: 1,400 mm (56 in) PBT span
+- Condition: Re-glassed condition
 
-[Request Specs](/contact/) | [View IPP# 240422](https://ims.internationalprocessplants.com/inventory/equipment/detail/240422)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/240422) | [View IPP# 240422](https://ims.internationalprocessplants.com/inventory/equipment/detail/240422)
 
-#### UGE CBT — 4,000 Gal ([IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291))
+#### UGE CBT — 15,150 L (4,000 gal) ([IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291))
 
 Re-glassed UGE CBT glasslined cryo-lock blade sized for 15,150 L (4,000 gallon) vessels with 4.5-inch hub bore and 1,050 mm (41 in) CBT span.
 
-- Glasslined
-- 15,150 L (4,000 gal) vessel
-- 4.5-inch hub bore
-- 1,050 mm (41 in) CBT span
-- Re-glassed condition
+- Material: Glasslined
+- Vessel Size: 15,150 L (4,000 gal) vessel
+- Hub size: 4.5-inch hub bore
+- CBT Span: 1,050 mm (41 in) CBT span
+- Condition: Re-glassed condition
 
-[Request Specs](/contact/) | [View IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291) | [View IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291)
 
-#### Cryo-Lock CBT — 2,000 Gal ([IPP# 239082](https://ims.internationalprocessplants.com/inventory/equipment/detail/239082))
+#### Cryo-Lock CBT — 7,550 L (2,000 gal) ([IPP# 239082](https://ims.internationalprocessplants.com/inventory/equipment/detail/239082))
 
 Unused Cryo-Lock glasslined CBT blade sized for 7,550 L (2,000 gallon) vessels with 3.5-inch hub bore and 838 mm (33 in) CBT span.
 
-- Glasslined
-- 7,550 L (2,000 gal) vessel
-- 3.5-inch hub bore
-- 838 mm (33 in) CBT span
-- Unused condition
+- Material: Glasslined
+- Vessel Size: 7,550 L (2,000 gal) vessel
+- Hub size: 3.5-inch hub bore
+- CBT Span: 838 mm (33 in) CBT span
+- Condition: Unused condition
 
-[Request Specs](/contact/) | [View IPP# 239082](https://ims.internationalprocessplants.com/inventory/equipment/detail/239082)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/239082) | [View IPP# 239082](https://ims.internationalprocessplants.com/inventory/equipment/detail/239082)
 
 [Browse All Glasslined Cryo-Lock Blades in Stock](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts/cryo-lock-blades)
 
@@ -73,43 +73,43 @@ IPP stocks glass lined cryo-lock blades from Pfaudler and UGE, with Pfaudler rep
 
 ### Buy Used Pfaudler Cryo-Lock Blades for Sale
 
-Pfaudler is the dominant single-manufacturer position in IPP's cryo-lock blade inventory. Available model families include standard Cryo-Lock, Cryo-Lock PBT, and Cryo-Lock Hub CBT units across vessel sizes from 500 to 8,000 gallons.
+Pfaudler is the dominant single-manufacturer position in IPP's cryo-lock blade inventory. Available model families include standard Cryo-Lock, Cryo-Lock PBT, and Cryo-Lock Hub CBT units across vessel sizes from 1,900 L (500 gallons) to 30,300 L (8,000 gallons).
 
-#### [Pfaudler PBT] Pfaudler Cryo-Lock PBT — 8,000 Gal ([IPP# 240422](https://ims.internationalprocessplants.com/inventory/equipment/detail/240422))
+#### [Pfaudler PBT] Pfaudler Cryo-Lock PBT — 30,300 L (8,000 gal) ([IPP# 240422](https://ims.internationalprocessplants.com/inventory/equipment/detail/240422))
 
 Re-glassed Pfaudler Cryo-Lock glasslined PBT blade for 30,300 L (8,000 gallon) vessels with counterclockwise rotation and full fire polish.
 
-- 30,300 L (8,000 gal) vessel
-- 5.5-inch hub bore
-- 1,400 mm (56 in) PBT span
-- Full fire polish (FF)
-- Re-glassed condition
+- Vessel Size: 30,300 L (8,000 gal) vessel
+- Hub size: 5.5-inch hub bore
+- PBT Span: 1,400 mm (56 in) PBT span
+- Glass Fire Polish: Full fire polish (FF)
+- Condition: Re-glassed condition
 
-[Request Specs](/contact/) | [View IPP# 240422](https://ims.internationalprocessplants.com/inventory/equipment/detail/240422)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/240422) | [View IPP# 240422](https://ims.internationalprocessplants.com/inventory/equipment/detail/240422)
 
-#### Pfaudler Cryo-Lock CBT — 3,000 Gal ([IPP# 246408](https://ims.internationalprocessplants.com/inventory/equipment/detail/246408))
+#### Pfaudler Cryo-Lock CBT — 11,350 L (3,000 gal) ([IPP# 246408](https://ims.internationalprocessplants.com/inventory/equipment/detail/246408))
 
 Re-glassed Pfaudler Cryo-Lock glasslined blade for 11,350 L (3,000 gallon) vessels with clockwise rotation and 1,100 mm (43 in) PBT span.
 
-- 11,350 L (3,000 gal) vessel
-- 4.5-inch hub bore
-- 1,100 mm (43 in) PBT span
-- Clockwise rotation
-- Re-glassed condition
+- Vessel Size: 11,350 L (3,000 gal) vessel
+- Hub size: 4.5-inch hub bore
+- PBT Span: 1,100 mm (43 in) PBT span
+- Rotation: Clockwise rotation
+- Condition: Re-glassed condition
 
-[Request Specs](/contact/) | [View IPP# 246408](https://ims.internationalprocessplants.com/inventory/equipment/detail/246408)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246408) | [View IPP# 246408](https://ims.internationalprocessplants.com/inventory/equipment/detail/246408)
 
-#### Pfaudler Cryo-Lock CBT — 500 Gal ([IPP# 235289](https://ims.internationalprocessplants.com/inventory/equipment/detail/235289))
+#### Pfaudler Cryo-Lock CBT — 1,900 L (500 gal) ([IPP# 235289](https://ims.internationalprocessplants.com/inventory/equipment/detail/235289))
 
 Re-glassed Pfaudler Cryo-Lock glasslined blade for 1,900 L (500 gallon) vessels with 3.5-inch hub bore and 584 mm (23 in) CBT span.
 
-- 1,900 L (500 gal) vessel
-- 3.5-inch hub bore
-- 584 mm (23 in) CBT span
-- Clockwise rotation
-- Re-glassed condition
+- Vessel Size: 1,900 L (500 gal) vessel
+- Hub size: 3.5-inch hub bore
+- CBT Span: 584 mm (23 in) CBT span
+- Rotation: Clockwise rotation
+- Condition: Re-glassed condition
 
-[Request Specs](/contact/) | [View IPP# 235289](https://ims.internationalprocessplants.com/inventory/equipment/detail/235289)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/235289) | [View IPP# 235289](https://ims.internationalprocessplants.com/inventory/equipment/detail/235289)
 
 [Browse All Pfaudler Cryo-Lock Blades in Stock](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts/cryo-lock-blades)
 
@@ -117,17 +117,17 @@ Re-glassed Pfaudler Cryo-Lock glasslined blade for 1,900 L (500 gallon) vessels 
 
 UGE (Universal Glasteel Equipment) is an IPP Group company that manufactures and stocks glass-lined parts. UGE maintains thousands of ready-to-ship glass lined parts that reduce downtime and extend equipment life.
 
-#### [UGE CBT] UGE CBT — 4,000 Gal ([IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291))
+#### [UGE CBT] UGE CBT — 15,150 L (4,000 gal) ([IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291))
 
 Re-glassed UGE CBT glasslined cryo-lock blade for 15,150 L (4,000 gallon) vessels with 4.5-inch hub bore, clockwise rotation, and 1,050 mm (41 in) CBT span.
 
-- 15,150 L (4,000 gal) vessel
-- 4.5-inch hub bore
-- 1,050 mm (41 in) CBT span
-- Full fire polish (FF)
-- Re-glassed condition
+- Vessel Size: 15,150 L (4,000 gal) vessel
+- Hub size: 4.5-inch hub bore
+- CBT Span: 1,050 mm (41 in) CBT span
+- Glass Fire Polish: Full fire polish (FF)
+- Condition: Re-glassed condition
 
-[Request Specs](/contact/) | [View IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291) | [View IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291)
 
 [Browse All UGE Cryo-Lock Blades in Stock](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts/cryo-lock-blades)
 
@@ -142,41 +142,43 @@ IPP stocks glass lined cryo-lock blades in re-glassed, unused, and used conditio
 
 Re-glassed cryo-lock blades are the deepest condition position in IPP's inventory. These blades have been stripped, re-enameled with fresh glass lining, and inspected before resale, delivering like-new corrosion protection at a fraction of new OEM cost.
 
-#### [Re-Glassed] Pfaudler Cryo-Lock — 4,000 Gal ([IPP# 246406](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406))
+#### [Re-Glassed] Pfaudler Cryo-Lock — 15,150 L (4,000 gal) ([IPP# 246406](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406))
 
 Re-glassed Pfaudler Cryo-Lock glasslined blade for 15,150 L (4,000 gallon) vessels with 4.5-inch hub bore, counterclockwise rotation, and full fire polish.
 
-- Re-glassed condition
-- 15,150 L (4,000 gal) vessel
-- 1,100 mm (43 in) CBT span
-- Very clean (VC) glass
-- Pfaudler Cryo-Lock
+- Condition: Re-glassed condition
+- Vessel Size: 15,150 L (4,000 gal) vessel
+- CBT Span: 1,100 mm (43 in) CBT span
+- Glass Condition: Very clean (VC) glass
+- Manufacturer: Pfaudler
+- Model: Cryo-Lock
 
-[Request Specs](/contact/) | [View IPP# 246406](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406) | [View IPP# 246406](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406)
 
-#### Pfaudler Cryo-Lock — 2,000 Gal ([IPP# 240603](https://ims.internationalprocessplants.com/inventory/equipment/detail/240603))
+#### Pfaudler Cryo-Lock — 7,550 L (2,000 gal) ([IPP# 240603](https://ims.internationalprocessplants.com/inventory/equipment/detail/240603))
 
 Re-glassed Pfaudler Cryo-Lock glasslined blade for 7,550 L (2,000 gallon) vessels with 3.5-inch hub bore and 838 mm (33 in) CBT span.
 
-- Re-glassed condition
-- 7,550 L (2,000 gal) vessel
-- 838 mm (33 in) CBT span
-- 3.5-inch hub bore
-- Pfaudler Cryo-Lock
+- Condition: Re-glassed condition
+- Vessel Size: 7,550 L (2,000 gal) vessel
+- CBT Span: 838 mm (33 in) CBT span
+- Hub size: 3.5-inch hub bore
+- Manufacturer: Glasslined
 
-[Request Specs](/contact/) | [View IPP# 240603](https://ims.internationalprocessplants.com/inventory/equipment/detail/240603)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/240603) | [View IPP# 240603](https://ims.internationalprocessplants.com/inventory/equipment/detail/240603)
 
-#### Pfaudler Cryo-Lock — 4,000 Gal ([IPP# 238438](https://ims.internationalprocessplants.com/inventory/equipment/detail/238438))
+#### Pfaudler Cryo-Lock — 15,150 L (4,000 gal) ([IPP# 238438](https://ims.internationalprocessplants.com/inventory/equipment/detail/238438))
 
 Re-glassed Pfaudler Cryo-Lock glasslined blade for 15,150 L (4,000 gallon) vessels with 4.5-inch hub bore, counterclockwise rotation, and 1,050 mm (41 in) CBT span.
 
-- Re-glassed condition
-- 15,150 L (4,000 gal) vessel
-- 1,050 mm (41 in) CBT span
-- Full fire polish (FF)
-- Pfaudler Cryo-Lock
+- Condition: Re-glassed condition
+- Vessel Size: 15,150 L (4,000 gal) vessel
+- CBT Span: 1,050 mm (41 in) CBT span
+- Glass Fire Polish: Full fire polish (FF)
+- Manufacturer: Pfaudler
+- Model: Cryo-Lock
 
-[Request Specs](/contact/) | [View IPP# 238438](https://ims.internationalprocessplants.com/inventory/equipment/detail/238438)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/238438) | [View IPP# 238438](https://ims.internationalprocessplants.com/inventory/equipment/detail/238438)
 
 [Browse All Re-Glassed Cryo-Lock Blades in Stock](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts/cryo-lock-blades)
 
@@ -184,17 +186,17 @@ Re-glassed Pfaudler Cryo-Lock glasslined blade for 15,150 L (4,000 gallon) vesse
 
 IPP stocks unused glass lined cryo-lock blades that have never been installed in production service. These units carry original glass lining and offer the closest performance to new OEM parts at reduced cost.
 
-#### [Unused] Cryo-Lock CBT — 2,000 Gal ([IPP# 239082](https://ims.internationalprocessplants.com/inventory/equipment/detail/239082))
+#### [Unused] Cryo-Lock CBT — 7,550 L (2,000 gal) ([IPP# 239082](https://ims.internationalprocessplants.com/inventory/equipment/detail/239082))
 
 Unused Cryo-Lock glasslined CBT blade for 7,550 L (2,000 gallon) vessels with 3.5-inch hub bore, clockwise rotation, and 838 mm (33 in) CBT span.
 
-- Unused condition
-- 7,550 L (2,000 gal) vessel
-- 838 mm (33 in) CBT span
-- 3.5-inch hub bore
-- Clockwise rotation
+- Condition: Unused condition
+- Vessel Size: 7,550 L (2,000 gal) vessel
+- CBT Span: 838 mm (33 in) CBT span
+- Hub size: 3.5-inch hub bore
+- Rotation: Clockwise rotation
 
-[Request Specs](/contact/) | [View IPP# 239082](https://ims.internationalprocessplants.com/inventory/equipment/detail/239082)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/239082) | [View IPP# 239082](https://ims.internationalprocessplants.com/inventory/equipment/detail/239082)
 
 [Browse All Unused Cryo-Lock Blades in Stock](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts/cryo-lock-blades)
 
@@ -206,13 +208,14 @@ IPP stocks good used glass lined cryo-lock blades that were previously installed
 
 Used Pfaudler Cryo-Lock glasslined blade with 2.5-inch hub bore and some fire polish (F) glass finish.
 
-- Used condition
-- Glasslined
-- 2.5-inch hub bore
-- Some fire polish (F)
-- Pfaudler Cryo-Lock
+- Condition: Used condition
+- Material: Glasslined
+- Hub size: 2.5-inch hub bore
+- Glass Fire Polish: Some fire polish (F)
+- Manufacturer: Pfaudler
+- Model: Cryo-Lock
 
-[Request Specs](/contact/) | [View IPP# 246639](https://ims.internationalprocessplants.com/inventory/equipment/detail/246639)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246639) | [View IPP# 246639](https://ims.internationalprocessplants.com/inventory/equipment/detail/246639)
 
 [Browse All Used Cryo-Lock Blades in Stock](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts/cryo-lock-blades)
 
@@ -223,7 +226,7 @@ Used Pfaudler Cryo-Lock glasslined blade with 2.5-inch hub bore and some fire po
 
 Tell us your vessel size, hub bore, rotation, and blade type. Our team will match your requirements against current cryo-lock blade inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -293,7 +296,7 @@ A: IPP stocks glass lined cryo-lock blades from Pfaudler, UGE and other manufact
 A: IPP stocks glass lined cryo-lock blades in multiple conditions: Re-glassed, Unused, Used. Browse the current inventory for available condition options.
 
 **Q: Does IPP sell new glass lined cryo-lock blades as well as used?**
-A: Yes. IPP stocks new glass lined cryo-lock blades through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. Contact IPP for details on new inventory.
+A: Yes. IPP stocks new glass lined cryo-lock blades through its Universal Glasteel Equipment (UGE) subsidiary, which provides custom fabricated equipment. Contact IPP for details on new inventory.
 
 **Q: What materials of construction are available?**
 A: IPP stocks glass lined cryo-lock blades in Glasslined construction. Contact IPP to discuss material requirements for your application.
@@ -326,9 +329,9 @@ In addition to glass lined cryo-lock blades, IPP stocks parts and equipment acro
 
 ### Looking for New Glass Lined Cryo-Lock Blades?
 
-IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
+IPP offers new and re-glassed glass equipment through its UGE (Universal Glasteel Equipment) division, as well as supplying new from other manufacturers.
 
-[Ask About New Parts](/contact/)
+[Ask About New Parts](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -337,4 +340,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts/cryo-lock-blades)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts/cryo-lock-blades)

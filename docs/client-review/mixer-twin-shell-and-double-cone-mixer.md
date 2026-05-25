@@ -6,7 +6,7 @@ Materials of construction include Stainless Steel 304, Stainless Steel 316, and 
 
 Patterson Kelly units span lab-scale through production-scale V-blenders. Gemco inventory includes the Gemcomatic and HT-SP-AGII model families. Buying used twin shell & double cone mixers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-mixer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-mixer)
 
 **Quick Stats:** 20+ Twin Shell & Double Cone Mixers in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -30,36 +30,39 @@ IPP stocks stainless steel twin shell & double cone mixers in multiple grades in
 
 Used Gemco Gemcomatic stainless steel 304 twin shell mixer with 1.51 m3 (53.3 ft3) design capacity, intensifier bar, and #4 Ra50 internal finish.
 
-- 1.51 m3 (53.3 ft3) design / 1 m3 (35.3 ft3) operating
-- Stainless Steel 304
-- Intensifier bar included
-- #4 Ra50 internal finish
-- Used condition
+- Capacity Design: 1.51 m3 (53.3 ft3) design
+- Capacity Operating: 1 m3 (35.3 ft3) operating
+- Material: Stainless Steel 304
+- Intensifier Bar: Intensifier bar included
+- Internal Finish: #4 Ra50 internal finish
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 210327](https://ims.internationalprocessplants.com/inventory/equipment/detail/210327)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/210327) | [View IPP# 210327](https://ims.internationalprocessplants.com/inventory/equipment/detail/210327)
 
 #### Paul O Abbe RVB 36 Stainless Steel 304 — 0.85 m3 ([IPP# 216377](https://ims.internationalprocessplants.com/inventory/equipment/detail/216377))
 
 Used Paul O Abbe RVB 36 stainless steel 304 twin shell mixer with 0.85 m3 (30 ft3) design capacity, rated to 1.01 bar (14.7 psi) at 37.8 °C (100 °F).
 
-- 0.85 m3 (30 ft3) design / 0.57 m3 (20 ft3) operating
-- 1.01 bar (14.7 psi) vessel pressure
-- 37.8 °C (100 °F) vessel temperature
-- Stainless Steel 304
-- Used condition
+- Capacity Design: 0.85 m3 (30 ft3) design
+- Capacity Operating: 0.57 m3 (20 ft3) operating
+- Vessel Pressure: 1.01 bar (14.7 psi) vessel pressure
+- Vessel Temperature: 37.8 °C (100 °F) vessel temperature
+- Material: Stainless Steel 304
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 216377](https://ims.internationalprocessplants.com/inventory/equipment/detail/216377)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/216377) | [View IPP# 216377](https://ims.internationalprocessplants.com/inventory/equipment/detail/216377)
 
 #### APV Mitchell Stainless Steel 316 — 3.3 m3 ([IPP# 704810](https://ims.internationalprocessplants.com/inventory/equipment/detail/704810))
 
 Used APV Mitchell stainless steel 316 twin shell mixer with 3.3 m3 (116.5 ft3) design capacity and 2.2 m3 (76.6 ft3) operating capacity.
 
-- 3.3 m3 (116.5 ft3) design / 2.2 m3 (76.6 ft3) operating
-- Stainless Steel 316
-- Used condition
-- APV Mitchell
+- Capacity Design: 3.3 m3 (116.5 ft3) design
+- Capacity Operating: 2.2 m3 (76.6 ft3) operating
+- Material: Stainless Steel 316
+- Condition: Used condition
+- Manufacturer: APV Mitchell
 
-[Request Specs](/contact/) | [View IPP# 704810](https://ims.internationalprocessplants.com/inventory/equipment/detail/704810)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/704810) | [View IPP# 704810](https://ims.internationalprocessplants.com/inventory/equipment/detail/704810)
 
 [Browse All Stainless Steel Twin Shell & Double Cone Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-mixer)
 
@@ -78,36 +81,40 @@ Patterson Kelly is the deepest single-manufacturer position in IPP's twin shell 
 
 Used Patterson Kelly 990 stainless steel 304 twin shell mixer with 2.1 m3 (75 ft3) design capacity and 1.98 m3 (70 ft3) operating capacity.
 
-- 2.1 m3 (75 ft3) design / 1.98 m3 (70 ft3) operating
-- Stainless Steel 304
-- Used condition
-- Patterson Kelly 990
+- Capacity Design: 2.1 m3 (75 ft3) design
+- Capacity Operating: 1.98 m3 (70 ft3) operating
+- Material: Stainless Steel 304
+- Condition: Used condition
+- Manufacturer: Patterson Kelly
+- Model: 990
 
-[Request Specs](/contact/) | [View IPP# 102599](https://ims.internationalprocessplants.com/inventory/equipment/detail/102599)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/102599) | [View IPP# 102599](https://ims.internationalprocessplants.com/inventory/equipment/detail/102599)
 
 #### Patterson Kelly Stainless Steel 304 — 3.6 m3 ([IPP# 108281](https://ims.internationalprocessplants.com/inventory/equipment/detail/108281))
 
 Used Patterson Kelly stainless steel 304 twin shell mixer with 3.6 m3 (128 ft3) design capacity, intensifier bar, and product density rating of 881 kg/m3 (55 lb/ft3).
 
-- 3.6 m3 (128 ft3) design / 2.1 m3 (75 ft3) operating
-- Stainless Steel 304
-- Intensifier bar included
-- 881 kg/m3 (55 lb/ft3) product density
-- Used condition
+- Capacity Design: 3.6 m3 (128 ft3) design
+- Capacity Operating: 2.1 m3 (75 ft3) operating
+- Material: Stainless Steel 304
+- Intensifier Bar: Intensifier bar included
+- Product Density: 881 kg/m3 (55 lb/ft3) product density
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 108281](https://ims.internationalprocessplants.com/inventory/equipment/detail/108281)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/108281) | [View IPP# 108281](https://ims.internationalprocessplants.com/inventory/equipment/detail/108281)
 
 #### Patterson Kelly Stainless Steel 321 — 2.8 m3 ([IPP# 216376](https://ims.internationalprocessplants.com/inventory/equipment/detail/216376))
 
 Used Patterson Kelly stainless steel 321 twin shell mixer with 2.8 m3 (100 ft3) design capacity and product density rating of 801 kg/m3 (50 lb/ft3).
 
-- 2.8 m3 (100 ft3) design / 1.87 m3 (66 ft3) operating
-- Stainless Steel 321
-- 801 kg/m3 (50 lb/ft3) product density
-- Used condition
-- Patterson Kelly
+- Capacity Design: 2.8 m3 (100 ft3) design
+- Capacity Operating: 1.87 m3 (66 ft3) operating
+- Material: Stainless Steel 321
+- Product Density: 801 kg/m3 (50 lb/ft3) product density
+- Condition: Used condition
+- Manufacturer: Patterson Kelly
 
-[Request Specs](/contact/) | [View IPP# 216376](https://ims.internationalprocessplants.com/inventory/equipment/detail/216376)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/216376) | [View IPP# 216376](https://ims.internationalprocessplants.com/inventory/equipment/detail/216376)
 
 [Browse All Patterson Kelly Twin Shell & Double Cone Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-mixer)
 
@@ -119,37 +126,40 @@ IPP stocks Gemco twin shell mixers across the Gemcomatic and HT-SP-AGII model fa
 
 Used Gemco Gemcomatic stainless steel 304 twin shell mixer with 1.51 m3 (53.3 ft3) design capacity, intensifier bar, and #4 Ra50 internal finish.
 
-- 1.51 m3 (53.3 ft3) design / 1 m3 (35.3 ft3) operating
-- #4 Ra50 internal finish
-- Intensifier bar included
-- 881 kg/m3 (55 lb/ft3) product density
-- Used condition
+- Capacity Design: 1.51 m3 (53.3 ft3) design
+- Capacity Operating: 1 m3 (35.3 ft3) operating
+- Internal Finish: #4 Ra50 internal finish
+- Intensifier Bar: Intensifier bar included
+- Product Density: 881 kg/m3 (55 lb/ft3) product density
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 210327](https://ims.internationalprocessplants.com/inventory/equipment/detail/210327)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/210327) | [View IPP# 210327](https://ims.internationalprocessplants.com/inventory/equipment/detail/210327)
 
 #### Gemco HT-SP-AGII Stainless Steel 304 — 0.85 m3 ([IPP# 210319](https://ims.internationalprocessplants.com/inventory/equipment/detail/210319))
 
 Used Gemco HT-SP-AGII stainless steel 304 twin shell mixer with 0.85 m3 (30 ft3) design capacity and intensifier bar rated to 1,200 kg/m3 (75 lb/ft3) product density.
 
-- 0.85 m3 (30 ft3) design / 0.57 m3 (20 ft3) operating
-- Intensifier bar included
-- 1,200 kg/m3 (75 lb/ft3) product density
-- Stainless Steel 304
-- Used condition
+- Capacity Design: 0.85 m3 (30 ft3) design
+- Capacity Operating: 0.57 m3 (20 ft3) operating
+- Intensifier Bar: Intensifier bar included
+- Product Density: 1,200 kg/m3 (75 lb/ft3) product density
+- Material: Stainless Steel 304
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 210319](https://ims.internationalprocessplants.com/inventory/equipment/detail/210319)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/210319) | [View IPP# 210319](https://ims.internationalprocessplants.com/inventory/equipment/detail/210319)
 
 #### Gemco HI SP AGIT Stainless Steel 304 — 2.1 m3 ([IPP# 238390](https://ims.internationalprocessplants.com/inventory/equipment/detail/238390))
 
 Used Gemco HI SP AGIT stainless steel 304 twin shell mixer with 2.1 m3 (75 ft3) design capacity, #4 Ra50 internal finish, and intensifier bar.
 
-- 2.1 m3 (75 ft3) design / 1.98 m3 (70 ft3) operating
-- #4 Ra50 internal finish
-- 1,100 kg/m3 (70 lb/ft3) product density
-- Intensifier bar included
-- Used condition
+- Capacity Design: 2.1 m3 (75 ft3) design
+- Capacity Operating: 1.98 m3 (70 ft3) operating
+- Internal Finish: #4 Ra50 internal finish
+- Product Density: 1,100 kg/m3 (70 lb/ft3) product density
+- Intensifier Bar: Intensifier bar included
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 238390](https://ims.internationalprocessplants.com/inventory/equipment/detail/238390)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/238390) | [View IPP# 238390](https://ims.internationalprocessplants.com/inventory/equipment/detail/238390)
 
 [Browse All Gemco Twin Shell & Double Cone Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-mixer)
 
@@ -161,33 +171,37 @@ IPP also stocks twin shell & double cone mixers from Apex, Gale Process Solution
 
 Used Apex 185 E stainless steel 316 twin shell mixer with 0.2 m3 (7.1 ft3) design capacity and 0.1 m3 (3.5 ft3) operating capacity.
 
-- 0.2 m3 (7.1 ft3) design / 0.1 m3 (3.5 ft3) operating
-- Stainless Steel 316
-- Used condition
-- Apex 185 E
+- Capacity Design: 0.2 m3 (7.1 ft3) design
+- Capacity Operating: 0.1 m3 (3.5 ft3) operating
+- Material: Stainless Steel 316
+- Condition: Used condition
+- Manufacturer: Apex
+- Model: 185 E
 
-[Request Specs](/contact/) | [View IPP# 212924](https://ims.internationalprocessplants.com/inventory/equipment/detail/212924)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212924) | [View IPP# 212924](https://ims.internationalprocessplants.com/inventory/equipment/detail/212924)
 
 #### K & S I 462 Stainless Steel 316 — 2.8 m3 ([IPP# 234983](https://ims.internationalprocessplants.com/inventory/equipment/detail/234983))
 
 Used K & S I 462 stainless steel 316 twin shell mixer with 2.8 m3 (100 ft3) design capacity and 2.4 m3 (85 ft3) operating capacity.
 
-- 2.8 m3 (100 ft3) design / 2.4 m3 (85 ft3) operating
-- Stainless Steel 316
-- Used condition
-- K & S I 462
+- Capacity Design: 2.8 m3 (100 ft3) design
+- Capacity Operating: 2.4 m3 (85 ft3) operating
+- Material: Stainless Steel 316
+- Condition: Used condition
+- Manufacturer: K & S
+- Model: I 462
 
-[Request Specs](/contact/) | [View IPP# 234983](https://ims.internationalprocessplants.com/inventory/equipment/detail/234983)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/234983) | [View IPP# 234983](https://ims.internationalprocessplants.com/inventory/equipment/detail/234983)
 
 #### Della Stainless Steel 316 ([IPP# 92231](https://ims.internationalprocessplants.com/inventory/equipment/detail/92231))
 
 Used Della stainless steel 316 twin shell mixer.
 
-- Stainless Steel 316
-- Used condition
-- Della
+- Material: Stainless Steel 316
+- Condition: Used condition
+- Manufacturer: Della
 
-[Request Specs](/contact/) | [View IPP# 92231](https://ims.internationalprocessplants.com/inventory/equipment/detail/92231)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/92231) | [View IPP# 92231](https://ims.internationalprocessplants.com/inventory/equipment/detail/92231)
 
 [Browse All Twin Shell & Double Cone Mixers from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-mixer)
 
@@ -206,36 +220,39 @@ Good used twin shell & double cone mixers are the deepest condition position in 
 
 Used Patterson Kelly stainless steel 304 twin shell mixer with 0.57 m3 (20 ft3) design capacity, intensifier bar, and product density rating of 1,200 kg/m3 (75 lb/ft3).
 
-- Used condition
-- 0.57 m3 (20 ft3) design / 0.42 m3 (15 ft3) operating
-- Intensifier bar included
-- 1,200 kg/m3 (75 lb/ft3) product density
-- Stainless Steel 304
+- Condition: Used condition
+- Capacity Design: 0.57 m3 (20 ft3) design
+- Capacity Operating: 0.42 m3 (15 ft3) operating
+- Intensifier Bar: Intensifier bar included
+- Product Density: 1,200 kg/m3 (75 lb/ft3) product density
+- Material: Stainless Steel 304
 
-[Request Specs](/contact/) | [View IPP# 205898](https://ims.internationalprocessplants.com/inventory/equipment/detail/205898)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/205898) | [View IPP# 205898](https://ims.internationalprocessplants.com/inventory/equipment/detail/205898)
 
 #### Used Patterson Kelly Stainless Steel 304 — 0.42 m3 ([IPP# 39903](https://ims.internationalprocessplants.com/inventory/equipment/detail/39903))
 
 Used Patterson Kelly stainless steel 304 twin shell mixer with 0.42 m3 (15 ft3) design capacity, rated to -1.01 bar (-14.7 psi) vacuum at 93.3 °C (200 °F).
 
-- Used condition
-- 0.42 m3 (15 ft3) design / 0.28 m3 (10 ft3) operating
-- -1.01 bar (-14.7 psi) full vacuum
-- 93.3 °C (200 °F) vessel temperature
-- Stainless Steel 304
+- Condition: Used condition
+- Capacity Design: 0.42 m3 (15 ft3) design
+- Capacity Operating: 0.28 m3 (10 ft3) operating
+- Vessel Pressure: -1.01 bar (-14.7 psi) full vacuum
+- Vessel Temperature: 93.3 °C (200 °F) vessel temperature
+- Material: Stainless Steel 304
 
-[Request Specs](/contact/) | [View IPP# 39903](https://ims.internationalprocessplants.com/inventory/equipment/detail/39903)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/39903) | [View IPP# 39903](https://ims.internationalprocessplants.com/inventory/equipment/detail/39903)
 
 #### Used Patterson Kelly Stainless Steel 304 — 2.8 m3 ([IPP# 94105](https://ims.internationalprocessplants.com/inventory/equipment/detail/94105))
 
 Used Patterson Kelly stainless steel 304 twin shell mixer with 2.8 m3 (100 ft3) design capacity and 1.96 m3 (69.3 ft3) operating capacity.
 
-- Used condition
-- 2.8 m3 (100 ft3) design / 1.96 m3 (69.3 ft3) operating
-- Stainless Steel 304
-- Patterson Kelly
+- Condition: Used condition
+- Capacity Design: 2.8 m3 (100 ft3) design
+- Capacity Operating: 1.96 m3 (69.3 ft3) operating
+- Material: Stainless Steel 304
+- Manufacturer: Patterson Kelly
 
-[Request Specs](/contact/) | [View IPP# 94105](https://ims.internationalprocessplants.com/inventory/equipment/detail/94105)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/94105) | [View IPP# 94105](https://ims.internationalprocessplants.com/inventory/equipment/detail/94105)
 
 [Browse All Used Twin Shell & Double Cone Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-mixer)
 
@@ -247,13 +264,14 @@ New twin shell & double cone mixers in IPP's inventory are factory-fresh units a
 
 New Gale Process Solutions stainless steel 316 twin shell mixer with 0.2 m3 (7.1 ft3) design capacity and mirror polish internal finish.
 
-- New condition
-- 0.2 m3 (7.1 ft3) design / 0.1 m3 (3.5 ft3) operating
-- Stainless Steel 316
-- Mirror Polish internal finish
-- Gale Process Solutions
+- Condition: New condition
+- Capacity Design: 0.2 m3 (7.1 ft3) design
+- Capacity Operating: 0.1 m3 (3.5 ft3) operating
+- Material: Stainless Steel 316
+- Internal Finish: Mirror Polish internal finish
+- Manufacturer: Gale Process Solutions
 
-[Request Specs](/contact/) | [View IPP# 216325](https://ims.internationalprocessplants.com/inventory/equipment/detail/216325)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/216325) | [View IPP# 216325](https://ims.internationalprocessplants.com/inventory/equipment/detail/216325)
 
 [Browse All New Twin Shell & Double Cone Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-mixer)
 
@@ -264,7 +282,7 @@ New Gale Process Solutions stainless steel 316 twin shell mixer with 0.2 m3 (7.1
 
 Tell us your specifications and requirements. Our team will match your needs against current twin shell & double cone mixers inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -303,7 +321,7 @@ IPP stocks twin shell & double cone mixers from Patterson Kelly, Gemco, Apex, Ga
 IPP offers refurbishment services through its UGE (Universal Glasteel Equipment) division, founded in 1995, which stocks 700+ vessels and 2,700+ parts.
 
 ### Global Presence in 15 Countries
-IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom, and United States. IPP has served 160,000+ customers worldwide.
+IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom, and the United States. IPP has served 160,000+ customers worldwide.
 
 ### Full Range of Materials & Specs
 IPP stocks twin shell & double cone mixers across a wide range of specifications to match your process requirements.
@@ -386,7 +404,7 @@ In addition to twin shell & double cone mixers, IPP stocks equipment across mult
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom-built equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -395,4 +413,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to a Specialist](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-mixer)
+[Talk to a Specialist](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-mixer)

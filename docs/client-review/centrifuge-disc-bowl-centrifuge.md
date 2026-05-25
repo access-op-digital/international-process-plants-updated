@@ -6,7 +6,7 @@ Materials of construction include Stainless Steel 316, Stainless Steel 316L, Sta
 
 IPP stocks Alfa Laval units across the BRPX, WHPX, CHPX, LAPX, and AFPX model families. Westfalia inventory spans the HDB, HDA, MSA, OSA, SA, and TA model series. Condition options include used, refurbished/rebuilt, unused, and new stock. These units serve continuous clarification, purification, and concentration duties. Buying used disc bowl centrifuges from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)
 
 **Quick Stats:** 90+ Disc Bowl Centrifuges in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -30,36 +30,39 @@ IPP stocks stainless steel disc bowl centrifuges in multiple grades and conditio
 
 Used GEA Stainless Steel 304 centrifuge-disc bowl.
 
-- Stainless Steel 304
-- Used condition
-- GEA GSE 200-06-777
-- 75 kW (100.6 HP)
+- Material: Stainless Steel 304
+- Condition: Used condition
+- Manufacturer: GEA
+- Model: GSE 200-06-777
+- Motor Horsepower: 75 kW (100.6 HP)
 
-[Request Specs](/contact/) | [View IPP# 238437](https://ims.internationalprocessplants.com/inventory/equipment/detail/238437)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/238437) | [View IPP# 238437](https://ims.internationalprocessplants.com/inventory/equipment/detail/238437)
 
 #### Alfa Laval Stainless Steel Austenitic — 66 L ([IPP# 238457](https://ims.internationalprocessplants.com/inventory/equipment/detail/238457))
 
 Used Alfa Laval Stainless Steel Austenitic centrifuge-disc bowl. 66 L (17.4 gallons) capacity.
 
-- 66 L (17.4 gallons)
-- Stainless Steel Austenitic
-- Used condition
-- Alfa Laval CLARA 701H HSS
-- 37 kW (49.6 HP)
+- Bowl Volume: 66 L (17.4 gallons)
+- Material: Stainless Steel Austenitic
+- Condition: Used condition
+- Manufacturer: Alfa Laval
+- Model: CLARA 701H HSS
+- Motor Horsepower: 37 kW (49.6 HP)
 
-[Request Specs](/contact/) | [View IPP# 238457](https://ims.internationalprocessplants.com/inventory/equipment/detail/238457)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/238457) | [View IPP# 238457](https://ims.internationalprocessplants.com/inventory/equipment/detail/238457)
 
 #### Westfalia TA 140-02-576 — 70 L ([IPP# 211053](https://ims.internationalprocessplants.com/inventory/equipment/detail/211053))
 
 Used Westfalia TA 140-02-576 stainless steel 316 centrifuge-disc bowl. 70 L (18.5 gallons) bowl volume with 30 m3/h (132 GPM) product flow rate.
 
-- Stainless Steel 316
-- 70 L (18.5 gallons) bowl volume
-- 29.8 kW (40 HP) motor
-- 5,000 RPM maximum
-- Westfalia TA 140-02-576
+- Material: Stainless Steel 316
+- Bowl Volume: 70 L (18.5 gallons) bowl volume
+- Motor Horsepower: 29.8 kW (40 HP) motor
+- RPM Maximum: 5,000 RPM maximum
+- Manufacturer: Westfalia
+- Model: TA 140-02-576
 
-[Request Specs](/contact/) | [View IPP# 211053](https://ims.internationalprocessplants.com/inventory/equipment/detail/211053)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/211053) | [View IPP# 211053](https://ims.internationalprocessplants.com/inventory/equipment/detail/211053)
 
 [Browse All Stainless Steel Disc Bowl Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)
 
@@ -71,21 +74,23 @@ IPP stocks additional disc bowl centrifuges where the bowl material is not separ
 
 Used Westfalia centrifuge-disc bowl.
 
-- Used condition
-- Westfalia KO15006
-- 11.2 kW (15 HP)
+- Condition: Used condition
+- Manufacturer: Westfalia
+- Model: KO15006
+- Motor Horsepower: 11.2 kW (15 HP)
 
-[Request Specs](/contact/) | [View IPP# 92374](https://ims.internationalprocessplants.com/inventory/equipment/detail/92374)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/92374) | [View IPP# 92374](https://ims.internationalprocessplants.com/inventory/equipment/detail/92374)
 
 #### Alfa Laval ([IPP# 70446](https://ims.internationalprocessplants.com/inventory/equipment/detail/70446))
 
 Used Alfa Laval centrifuge-disc bowl.
 
-- Used condition
-- Alfa Laval MOPX209-TGT-24
-- 11 kW (14.8 HP)
+- Condition: Used condition
+- Manufacturer: Alfa Laval
+- Model: MOPX209-TGT-24
+- Motor Horsepower: 11 kW (14.8 HP)
 
-[Request Specs](/contact/) | [View IPP# 70446](https://ims.internationalprocessplants.com/inventory/equipment/detail/70446)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/70446) | [View IPP# 70446](https://ims.internationalprocessplants.com/inventory/equipment/detail/70446)
 
 [Browse All Other Disc Bowl Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)
 
@@ -97,12 +102,13 @@ IPP stocks select aluminum disc bowl centrifuges for applications where lighter 
 
 Refurbished/Rebuilt Westfalia Aluminum centrifuge-disc bowl.
 
-- Aluminum
-- Refurbished/Rebuilt condition
-- Westfalia OSA-20-02-066
-- 8.5 kW (11.4 HP)
+- Material: Aluminum
+- Condition: Refurbished/Rebuilt condition
+- Manufacturer: Westfalia
+- Model: OSA-20-02-066
+- Motor Horsepower: 8.5 kW (11.4 HP)
 
-[Request Specs](/contact/) | [View IPP# 212422](https://ims.internationalprocessplants.com/inventory/equipment/detail/212422)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212422) | [View IPP# 212422](https://ims.internationalprocessplants.com/inventory/equipment/detail/212422)
 
 [Browse All Aluminum Disc Bowl Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)
 
@@ -121,37 +127,37 @@ Westfalia (GEA Westfalia Separator) is the deepest single-manufacturer position 
 
 Used Westfalia TA 140-02-576 stainless steel 316 centrifuge-disc bowl with 70 L (18.5 gallons) bowl volume and 30 m3/h (132 GPM) product flow rate.
 
-- Stainless Steel 316
-- 70 L (18.5 gallons) bowl volume
-- 29.8 kW (40 HP) motor
-- 5,000 RPM maximum
-- Used condition
+- Material: Stainless Steel 316
+- Bowl Volume: 70 L (18.5 gallons) bowl volume
+- Motor Horsepower: 29.8 kW (40 HP) motor
+- RPM Maximum: 5,000 RPM maximum
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 211053](https://ims.internationalprocessplants.com/inventory/equipment/detail/211053)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/211053) | [View IPP# 211053](https://ims.internationalprocessplants.com/inventory/equipment/detail/211053)
 
 #### Westfalia MSA100-01-076 — 1,100 mm (43.3 in) Bowl ([IPP# 220187](https://ims.internationalprocessplants.com/inventory/equipment/detail/220187))
 
 Refurbished/rebuilt Westfalia MSA100-01-076 stainless steel 316 centrifuge-disc bowl configured for 3-phase liquid/solid separation.
 
-- Stainless Steel 316
-- 1,100 mm (43 in) bowl diameter
-- 30 kW (40.2 HP) motor
-- 3-phase liquid/solid separation
-- Refurbished/Rebuilt condition
+- Material: Stainless Steel 316
+- Bowl Diameter: 1,100 mm (43 in) bowl diameter
+- Motor Horsepower: 30 kW (40.2 HP) motor
+- Number of Phases: 3-phase liquid/solid separation
+- Condition: Refurbished/Rebuilt condition
 
-[Request Specs](/contact/) | [View IPP# 220187](https://ims.internationalprocessplants.com/inventory/equipment/detail/220187)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/220187) | [View IPP# 220187](https://ims.internationalprocessplants.com/inventory/equipment/detail/220187)
 
 #### Westfalia SA82-06-177 — 45 kW ([IPP# 103857](https://ims.internationalprocessplants.com/inventory/equipment/detail/103857))
 
 Used Westfalia SA82-06-177 stainless steel 316 centrifuge-disc bowl with 50 m3/h (220.1 GPM) product flow rate for high-throughput 2-phase separation.
 
-- Stainless Steel 316
-- 45 kW (60.3 HP) motor
-- 4,500 RPM maximum
-- 50 m3/h (220.1 GPM) flow rate
-- 2-phase, used condition
+- Material: Stainless Steel 316
+- Motor Horsepower: 45 kW (60.3 HP) motor
+- RPM Maximum: 4,500 RPM maximum
+- Product Flow Rate: 50 m3/h (220.1 GPM) flow rate
+- Number of Phases: 2-phase, used condition
 
-[Request Specs](/contact/) | [View IPP# 103857](https://ims.internationalprocessplants.com/inventory/equipment/detail/103857)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/103857) | [View IPP# 103857](https://ims.internationalprocessplants.com/inventory/equipment/detail/103857)
 
 [Browse All Westfalia Disc Bowl Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)
 
@@ -163,37 +169,37 @@ Alfa Laval is the second deepest OEM position in IPP's disc bowl centrifuge inve
 
 Used Alfa Laval BRPX-213-30S stainless steel 316 centrifuge-disc bowl with 29 L (7.7 gallons) bowl volume and 29.5 m3/h (130 GPM) product flow rate.
 
-- Stainless Steel 316
-- 29 L (7.7 gallons) bowl volume
-- 18.5 kW (24.8 HP) motor
-- 5,120 RPM maximum
-- 2-phase, used condition
+- Material: Stainless Steel 316
+- Bowl Volume: 29 L (7.7 gallons) bowl volume
+- Motor Horsepower: 18.5 kW (24.8 HP) motor
+- RPM Maximum: 5,120 RPM maximum
+- Number of Phases: 2-phase, used condition
 
-[Request Specs](/contact/) | [View IPP# 100119](https://ims.internationalprocessplants.com/inventory/equipment/detail/100119)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/100119) | [View IPP# 100119](https://ims.internationalprocessplants.com/inventory/equipment/detail/100119)
 
 #### Alfa Laval CHPX 510 SGD-35CGRX — 16 L ([IPP# 212877](https://ims.internationalprocessplants.com/inventory/equipment/detail/212877))
 
 Used Alfa Laval CHPX 510 SGD-35CGRX stainless steel 316 centrifuge-disc bowl with 405 mm (15.9 in) bowl diameter and controls included.
 
-- Stainless Steel 316
-- 405 mm (15.9 in) bowl diameter
-- 16 L (4.2 gallons) bowl volume
-- 22 kW (29.5 HP) motor
-- 6,236 RPM maximum
+- Material: Stainless Steel 316
+- Bowl Diameter: 405 mm (15.9 in) bowl diameter
+- Bowl Volume: 16 L (4.2 gallons) bowl volume
+- Motor Horsepower: 22 kW (29.5 HP) motor
+- RPM Maximum: 6,236 RPM maximum
 
-[Request Specs](/contact/) | [View IPP# 212877](https://ims.internationalprocessplants.com/inventory/equipment/detail/212877)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212877) | [View IPP# 212877](https://ims.internationalprocessplants.com/inventory/equipment/detail/212877)
 
 #### Alfa Laval LAPX 202-BGT-24 — 0.35 L ([IPP# 99783](https://ims.internationalprocessplants.com/inventory/equipment/detail/99783))
 
 Used Alfa Laval LAPX 202-BGT-24 stainless steel 316 centrifuge-disc bowl for small-batch and laboratory-scale 3-phase separation at 10,000 RPM.
 
-- Stainless Steel 316
-- 0.35 L (0.09 gallons) bowl volume
-- 1.5 kW (2 HP) motor
-- 10,000 RPM maximum
-- 3-phase, used condition
+- Material: Stainless Steel 316
+- Bowl Volume: 0.35 L (0.09 gallons) bowl volume
+- Motor Horsepower: 1.5 kW (2 HP) motor
+- RPM Maximum: 10,000 RPM maximum
+- Number of Phases: 3-phase, used condition
 
-[Request Specs](/contact/) | [View IPP# 99783](https://ims.internationalprocessplants.com/inventory/equipment/detail/99783)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/99783) | [View IPP# 99783](https://ims.internationalprocessplants.com/inventory/equipment/detail/99783)
 
 [Browse All Alfa Laval Disc Bowl Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)
 
@@ -205,37 +211,38 @@ Beyond Westfalia and Alfa Laval, IPP stocks disc bowl centrifuges from Kyffhause
 
 Used GEA GSE 200-06-777 stainless steel 304 centrifuge-disc bowl with 1,700 mm (66.9 in) bowl diameter, Clean In Place, and sanitary construction.
 
-- Stainless Steel 304
-- 1,700 mm (66.9 in) bowl diameter
-- 75 kW (100.6 HP) motor
-- Sanitary construction with CIP
-- Used condition
+- Material: Stainless Steel 304
+- Bowl Diameter: 1,700 mm (66.9 in) bowl diameter
+- Motor Horsepower: 75 kW (100.6 HP) motor
+- Sanitary Construction: Yes
+- Clean In Place: Yes
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 238437](https://ims.internationalprocessplants.com/inventory/equipment/detail/238437)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/238437) | [View IPP# 238437](https://ims.internationalprocessplants.com/inventory/equipment/detail/238437)
 
 #### Kyffhausehutte SMZB/1 — 22 kW ([IPP# 47512](https://ims.internationalprocessplants.com/inventory/equipment/detail/47512))
 
 Used Kyffhausehutte (Germany) SMZB/1 stainless steel centrifuge-disc bowl with 12.5 m3/h (55 GPM) product flow rate.
 
-- Stainless Steel Other
-- 22 kW (29.5 HP) motor
-- 4,800 RPM maximum
-- 12.5 m3/h (55 GPM) flow rate
-- Used condition
+- Material: Stainless Steel Other
+- Motor Horsepower: 22 kW (29.5 HP) motor
+- RPM Maximum: 4,800 RPM maximum
+- Product Flow Rate: 12.5 m3/h (55 GPM) flow rate
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 47512](https://ims.internationalprocessplants.com/inventory/equipment/detail/47512)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/47512) | [View IPP# 47512](https://ims.internationalprocessplants.com/inventory/equipment/detail/47512)
 
 #### [New] Shandong HG DHC730 — 55 kW ([IPP# 245649](https://ims.internationalprocessplants.com/inventory/equipment/detail/245649))
 
 New Shandong HG Machinery DHC730 stainless steel 304 centrifuge-disc bowl with 730 mm (28.7 in) bowl diameter and 35 m3/h (154.1 GPM) product flow rate.
 
-- Stainless Steel 304
-- 730 mm (28.7 in) bowl diameter
-- 55 kW (73.8 HP) motor
-- 35 m3/h (154.1 GPM) flow rate
-- New condition
+- Material: Stainless Steel 304
+- Bowl Diameter: 730 mm (28.7 in) bowl diameter
+- Motor Horsepower: 55 kW (73.8 HP) motor
+- Product Flow Rate: 35 m3/h (154.1 GPM) flow rate
+- Condition: New condition
 
-[Request Specs](/contact/) | [View IPP# 245649](https://ims.internationalprocessplants.com/inventory/equipment/detail/245649)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/245649) | [View IPP# 245649](https://ims.internationalprocessplants.com/inventory/equipment/detail/245649)
 
 [Browse All Disc Bowl Centrifuges from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)
 
@@ -254,37 +261,38 @@ Good used disc bowl centrifuges are the deepest condition position in IPP's inve
 
 Used Westfalia TA 140-02-576 stainless steel 316 centrifuge-disc bowl with 70 L (18.5 gallons) bowl volume and 30 m3/h (132 GPM) product flow rate.
 
-- Used condition
-- Stainless Steel 316
-- 70 L (18.5 gallons) bowl volume
-- 29.8 kW (40 HP) motor
-- 5,000 RPM maximum
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Bowl Volume: 70 L (18.5 gallons) bowl volume
+- Motor Horsepower: 29.8 kW (40 HP) motor
+- RPM Maximum: 5,000 RPM maximum
 
-[Request Specs](/contact/) | [View IPP# 211053](https://ims.internationalprocessplants.com/inventory/equipment/detail/211053)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/211053) | [View IPP# 211053](https://ims.internationalprocessplants.com/inventory/equipment/detail/211053)
 
 #### Used Alfa Laval BRPX-213-30S — 29 L ([IPP# 100119](https://ims.internationalprocessplants.com/inventory/equipment/detail/100119))
 
 Used Alfa Laval BRPX-213-30S stainless steel 316 centrifuge-disc bowl with 29 L (7.7 gallons) bowl volume and 29.5 m3/h (130 GPM) product flow rate.
 
-- Used condition
-- Stainless Steel 316
-- 29 L (7.7 gallons) bowl volume
-- 18.5 kW (24.8 HP) motor
-- 5,120 RPM maximum
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Bowl Volume: 29 L (7.7 gallons) bowl volume
+- Motor Horsepower: 18.5 kW (24.8 HP) motor
+- RPM Maximum: 5,120 RPM maximum
 
-[Request Specs](/contact/) | [View IPP# 100119](https://ims.internationalprocessplants.com/inventory/equipment/detail/100119)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/100119) | [View IPP# 100119](https://ims.internationalprocessplants.com/inventory/equipment/detail/100119)
 
 #### Used GEA GSE 200-06-777 — 75 kW ([IPP# 238437](https://ims.internationalprocessplants.com/inventory/equipment/detail/238437))
 
 Used GEA GSE 200-06-777 stainless steel 304 centrifuge-disc bowl with 1,700 mm (66.9 in) bowl diameter, sanitary construction, and Clean In Place capability.
 
-- Used condition
-- Stainless Steel 304
-- 1,700 mm (66.9 in) bowl diameter
-- 75 kW (100.6 HP) motor
-- Sanitary construction with CIP
+- Condition: Used condition
+- Material: Stainless Steel 304
+- Bowl Diameter: 1,700 mm (66.9 in) bowl diameter
+- Motor Horsepower: 75 kW (100.6 HP) motor
+- Sanitary Construction: Yes
+- Clean In Place: Yes
 
-[Request Specs](/contact/) | [View IPP# 238437](https://ims.internationalprocessplants.com/inventory/equipment/detail/238437)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/238437) | [View IPP# 238437](https://ims.internationalprocessplants.com/inventory/equipment/detail/238437)
 
 [Browse All Used Disc Bowl Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)
 
@@ -296,37 +304,38 @@ Refurbished/rebuilt disc bowl centrifuges have been disassembled, inspected, and
 
 Refurbished/rebuilt Westfalia MSA100-01-076 stainless steel 316 centrifuge-disc bowl configured for 3-phase liquid/solid separation with 1,100 mm (43.3 in) bowl diameter.
 
-- Refurbished/Rebuilt condition
-- Stainless Steel 316
-- 1,100 mm (43 in) bowl diameter
-- 30 kW (40.2 HP) motor
-- 3-phase liquid/solid separation
+- Condition: Refurbished/Rebuilt condition
+- Material: Stainless Steel 316
+- Bowl Diameter: 1,100 mm (43 in) bowl diameter
+- Motor Horsepower: 30 kW (40.2 HP) motor
+- Number of Phases: 3-phase liquid/solid separation
 
-[Request Specs](/contact/) | [View IPP# 220187](https://ims.internationalprocessplants.com/inventory/equipment/detail/220187)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/220187) | [View IPP# 220187](https://ims.internationalprocessplants.com/inventory/equipment/detail/220187)
 
 #### Refurbished Westfalia OSA-20-02-066 ([IPP# 212422](https://ims.internationalprocessplants.com/inventory/equipment/detail/212422))
 
 Refurbished/rebuilt Westfalia OSA-20-02-066 aluminum centrifuge-disc bowl purifier/clarifier with timed solid injection and 7.4 m3/h (32.6 GPM) product flow rate.
 
-- Refurbished/Rebuilt condition
-- Aluminum
-- 8.5 kW (11.4 HP) motor
-- 7,510 RPM maximum
-- Purifier/Clarifier, 2-phase
+- Condition: Refurbished/Rebuilt condition
+- Material: Aluminum
+- Motor Horsepower: 8.5 kW (11.4 HP) motor
+- RPM Maximum: 7,510 RPM maximum
+- Clarifier: Purifier/Clarifier, 2-phase
 
-[Request Specs](/contact/) | [View IPP# 212422](https://ims.internationalprocessplants.com/inventory/equipment/detail/212422)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212422) | [View IPP# 212422](https://ims.internationalprocessplants.com/inventory/equipment/detail/212422)
 
 #### Refurbished DeLaval CAFPX207-XGV-19S-60 ([IPP# 86467](https://ims.internationalprocessplants.com/inventory/equipment/detail/86467))
 
-Refurbished/rebuilt DeLaval CAFPX207-XGV-19S-60 centrifuge-disc bowl configured for 3-phase separation with 7.5 kW motor.
+Refurbished/rebuilt DeLaval CAFPX207-XGV-19S-60 centrifuge-disc bowl configured for 3-phase separation with 7.5 kW (10 HP) motor.
 
-- Refurbished/Rebuilt condition
-- DeLaval CAFPX207-XGV-19S-60
-- 7.5 kW (10 HP) motor
-- 1,800 RPM maximum
-- 3-phase separation
+- Condition: Refurbished/Rebuilt condition
+- Manufacturer: DeLaval
+- Model: CAFPX207-XGV-19S-60
+- Motor Horsepower: 7.5 kW (10 HP) motor
+- RPM Maximum: 1,800 RPM maximum
+- Number of Phases: 3-phase separation
 
-[Request Specs](/contact/) | [View IPP# 86467](https://ims.internationalprocessplants.com/inventory/equipment/detail/86467)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/86467) | [View IPP# 86467](https://ims.internationalprocessplants.com/inventory/equipment/detail/86467)
 
 [Browse All Refurbished/Rebuilt Disc Bowl Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)
 
@@ -338,37 +347,40 @@ Unused disc bowl centrifuges were manufactured and delivered but never placed in
 
 Unused Alfa Laval CLARA 701H HSS stainless steel austenitic centrifuge-disc bowl with 66 L (17.4 gallons) bowl volume, Clean In Place, and sanitary construction.
 
-- Unused condition
-- Stainless Steel Austenitic
-- 66 L (17.4 gallons) bowl volume
-- 37 kW (49.6 HP) motor
-- Sanitary construction with CIP
+- Condition: Unused condition
+- Material: Stainless Steel Austenitic
+- Bowl Volume: 66 L (17.4 gallons) bowl volume
+- Motor Horsepower: 37 kW (49.6 HP) motor
+- Sanitary Construction: Yes
+- Clean In Place: Yes
 
-[Request Specs](/contact/) | [View IPP# 238461](https://ims.internationalprocessplants.com/inventory/equipment/detail/238461)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/238461) | [View IPP# 238461](https://ims.internationalprocessplants.com/inventory/equipment/detail/238461)
 
 #### Unused Westfalia K015006 — 19 kW ([IPP# 702930](https://ims.internationalprocessplants.com/inventory/equipment/detail/702930))
 
 Unused Westfalia K015006 stainless steel 316 centrifuge-disc bowl at 4,500 RPM maximum, available for immediate installation.
 
-- Unused condition
-- Stainless Steel 316
-- 19 kW (25.5 HP) motor
-- 4,500 RPM maximum
-- Westfalia K015006
+- Condition: Unused condition
+- Material: Stainless Steel 316
+- Motor Horsepower: 19 kW (25.5 HP) motor
+- RPM Maximum: 4,500 RPM maximum
+- Manufacturer: Westfalia
+- Model: K015006
 
-[Request Specs](/contact/) | [View IPP# 702930](https://ims.internationalprocessplants.com/inventory/equipment/detail/702930)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/702930) | [View IPP# 702930](https://ims.internationalprocessplants.com/inventory/equipment/detail/702930)
 
 #### Unused Westfalia HFG12036 — 37.3 kW ([IPP# 70801](https://ims.internationalprocessplants.com/inventory/equipment/detail/70801))
 
 Unused Westfalia HFG12036 stainless steel centrifuge-disc bowl rated to 6,000 RPM maximum.
 
-- Unused condition
-- Stainless Steel Other
-- 37.3 kW (50 HP) motor
-- 6,000 RPM maximum
-- Westfalia HFG12036
+- Condition: Unused condition
+- Material: Stainless Steel Other
+- Motor Horsepower: 37.3 kW (50 HP) motor
+- RPM Maximum: 6,000 RPM maximum
+- Manufacturer: Westfalia
+- Model: HFG12036
 
-[Request Specs](/contact/) | [View IPP# 70801](https://ims.internationalprocessplants.com/inventory/equipment/detail/70801)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/70801) | [View IPP# 70801](https://ims.internationalprocessplants.com/inventory/equipment/detail/70801)
 
 [Browse All Unused Disc Bowl Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)
 
@@ -380,13 +392,13 @@ New disc bowl centrifuges in IPP's inventory are factory-fresh units available f
 
 New Shandong HG Machinery DHC730 stainless steel 304 centrifuge-disc bowl with 730 mm (28.7 in) bowl diameter and 35 m3/h (154.1 GPM) product flow rate.
 
-- New condition
-- Stainless Steel 304
-- 730 mm (28.7 in) bowl diameter
-- 55 kW (73.8 HP) motor
-- 35 m3/h (154.1 GPM) flow rate
+- Condition: New condition
+- Material: Stainless Steel 304
+- Bowl Diameter: 730 mm (28.7 in) bowl diameter
+- Motor Horsepower: 55 kW (73.8 HP) motor
+- Product Flow Rate: 35 m3/h (154.1 GPM) flow rate
 
-[Request Specs](/contact/) | [View IPP# 245649](https://ims.internationalprocessplants.com/inventory/equipment/detail/245649)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/245649) | [View IPP# 245649](https://ims.internationalprocessplants.com/inventory/equipment/detail/245649)
 
 [Browse All New Disc Bowl Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)
 
@@ -397,7 +409,7 @@ New Shandong HG Machinery DHC730 stainless steel 304 centrifuge-disc bowl with 7
 
 Tell us your specifications and requirements. Our team will match your needs against current disc bowl centrifuges inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -521,7 +533,7 @@ In addition to disc bowl centrifuges, IPP stocks equipment across multiple categ
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -530,4 +542,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/disc-bowl-centrifuge)

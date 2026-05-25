@@ -4,9 +4,9 @@ Buying used heat exchangers through International Process Plants gives chemical,
 
 IPP stocks shell and tube heat exchangers in stainless steel 316, 304, 316L, and 321, carbon steel, graphite, titanium, tantalum, Hastelloy C-276, Inconel, glass-lined, and duplex construction. Heat transfer surface areas range from 0.37 m² (4 ft²) to 1,050 m² (11,300 ft²). Shell and tube pressures range up to 179.3 bar (2,600 psi). Operating temperatures range up to 662 °C (1,224 °F).
 
-Orientations include horizontal, vertical, and inclined configurations. Condition options include good used, unused surplus, refurbished/rebuilt, and new. All heat exchangers feature ASME and TEMA-rated designs for compliance and reliability. Buying used heat exchangers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
+Orientations include horizontal, vertical, and inclined configurations. Condition options include good used, unused surplus, refurbished/rebuilt, and new. Heat exchangers feature ASME, TEMA-rated designs and others for compliance and reliability. Buying used heat exchangers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)
 
 **Quick Stats:** 46+ Years of Experience | 30+ Material Options | 1980 Established Since | 15 Countries with Offices
 
@@ -30,37 +30,41 @@ IPP stocks stainless steel shell and tube heat exchangers across multiple grades
 
 Unused Daekyung Machinery stainless steel 316 clad shell and tube heat exchanger. 790 m² (8,500 ft²) surface area with vacuum capability and 8-pass tube-side design.
 
-- 790 m² (8,500 ft²) surface area
-- 29.3 bar (425 psi) shell & tube
-- Up to 398.9 °C (750 °F)
-- 1,398 tubes, 8-pass design
-- Horizontal, vacuum capable
+- Heat Transfer Surface Area: 790 m² (8,500 ft²) surface area
+- Shell Pressure: Stainless Steel 316
+- Tube Pressure: 1,398
+- Shell Temperature: 29.3 bar (425 psi)
+- Tube Temperature: 29.3 bar (425 psi)
+- Tube Number: 1,398 tubes
+- Tube-side Passes: 8-pass design
+- Orientation: Horizontal
+- Vacuum: vacuum capable
 
-[Request Specs](/contact/) | [View IPP# 222143](https://ims.internationalprocessplants.com/inventory/equipment/detail/222143)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/222143) | [View IPP# 222143](https://ims.internationalprocessplants.com/inventory/equipment/detail/222143)
 
 #### Cust-O-Fab SS 316 — 556 m² ([IPP# 207854](https://ims.internationalprocessplants.com/inventory/equipment/detail/207854))
 
 Used Cust-O-Fab stainless steel 316 shell and tube heat exchanger. 556 m² (6,000 ft²) surface area with 1,248 tubes.
 
-- 556 m² (6,000 ft²) surface area
-- 5.2 bar (75 psi) shell & tube
-- Up to 232.2 °C (450 °F)
-- 1,248 tubes, SS 316 tubesheet
-- Horizontal orientation
+- Heat Transfer Surface Area: 556 m² (6,000 ft²) surface area
+- Tube Pressure: Stainless Steel 316
+- Shell Temperature: Up to 232.2 °C (450 °F)
+- Tube Number: 1,248 tubes, SS 316 tubesheet
+- Orientation: Horizontal orientation
 
-[Request Specs](/contact/) | [View IPP# 207854](https://ims.internationalprocessplants.com/inventory/equipment/detail/207854)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/207854) | [View IPP# 207854](https://ims.internationalprocessplants.com/inventory/equipment/detail/207854)
 
 #### [Largest SS 304] Harris Thermal SS 304 — 876 m² ([IPP# 218221](https://ims.internationalprocessplants.com/inventory/equipment/detail/218221))
 
 Used Harris Thermal stainless steel 304 shell and tube heat exchanger. 876 m² (9,400 ft²) surface area — the largest SS 304 unit in IPP inventory.
 
-- 876 m² (9,400 ft²) surface area
-- Stainless Steel 304 construction
-- Manufacturer: Harris Thermal
-- Good used condition
-- Shell and tube design
+- Heat Transfer Surface Area: 876 m² (9,400 ft²) surface area
+- Material: Stainless Steel 304 construction
+- Manufacturer: Manufacturer: Harris Thermal
+- Condition: Good used condition
+- Subtype: Shell and tube design
 
-[Request Specs](/contact/) | [View IPP# 218221](https://ims.internationalprocessplants.com/inventory/equipment/detail/218221)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/218221) | [View IPP# 218221](https://ims.internationalprocessplants.com/inventory/equipment/detail/218221)
 
 [Browse All Stainless Steel Heat Exchangers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)
 
@@ -72,37 +76,43 @@ IPP stocks carbon steel shell and tube heat exchangers in both primary construct
 
 Used Heatran carbon steel shell and tube heat exchanger. 1,050 m² (11,300 ft²) surface area — the largest heat exchanger in IPP inventory. Rated to 179.3 bar (2,600 psi).
 
-- 1,050 m² (11,300 ft²) surface area
-- 179.3 bar (2,600 psi) shell & tube
-- Up to 315.6 °C (600 °F)
-- 1,850 tubes, 1,050 mm (41 in) shell
-- Horizontal, single-pass
+- Heat Transfer Surface Area: 1,050 m² (11,300 ft²) surface area
+- Shell Pressure: 179.3 bar (2,600 psi)
+- Tube Pressure: 179.3 bar (2,600 psi)
+- Shell Temperature: Up to 315.6 °C (600 °F)
+- Tube Number: 1,850 tubes
+- Shell Diameter: 1,050 mm (41 in) shell
+- Orientation: Horizontal, single-pass
 
-[Request Specs](/contact/) | [View IPP# 212821](https://ims.internationalprocessplants.com/inventory/equipment/detail/212821)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212821) | [View IPP# 212821](https://ims.internationalprocessplants.com/inventory/equipment/detail/212821)
 
 #### [Unused] Delta Tee CS — 1,050 m² ([IPP# 230154](https://ims.internationalprocessplants.com/inventory/equipment/detail/230154))
 
 Unused Delta Tee International carbon steel shell and tube heat exchanger. 1,050 m² (11,250 ft²) surface area rated to 99.3 bar (1,450 psi) shell side.
 
-- 1,050 m² (11,250 ft²) surface area
-- 99.3 bar (1,450 psi) shell side
-- 27.6 bar (400 psi) tube side
-- 1,815 straight tubes
-- Unused surplus condition
+- Heat Transfer Surface Area: 1,050 m² (11,250 ft²) surface area
+- Shell Pressure: 99.3 bar (1,450 psi) shell side
+- Tube Pressure: 27.6 bar (400 psi) tube side
+- Tube Number: 15.7 mm (0.62 in)
+- Tube Type: 27.6 bar (400 psi)
+- Condition: Unused surplus condition
 
-[Request Specs](/contact/) | [View IPP# 230154](https://ims.internationalprocessplants.com/inventory/equipment/detail/230154)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/230154) | [View IPP# 230154](https://ims.internationalprocessplants.com/inventory/equipment/detail/230154)
 
 #### Johnson Hunt BEU CS — 6.4 m² ([IPP# 105527](https://ims.internationalprocessplants.com/inventory/equipment/detail/105527))
 
 Unused Johnson Hunt LTD BEU carbon steel shell and tube heat exchanger. 6.4 m² (69 ft²) compact unit rated to 9 bar (131 psi) and 200 °C (392 °F).
 
-- 6.4 m² (69 ft²) surface area
-- 9 bar (131 psi) shell & tube
-- Up to 200 °C (392 °F)
-- 2-pass tube, 1-pass shell
-- Unused, BEU model
+- Heat Transfer Surface Area: 6.4 m² (69 ft²) surface area
+- Shell Pressure: 9 bar (131 psi)
+- Tube Pressure: 9 bar (131 psi)
+- Shell Temperature: Up to 200 °C (392 °F)
+- Tube-side Passes: 2-pass tube
+- Shell-side Passes: 1-pass shell
+- Condition: Unused
+- Model: BEU model
 
-[Request Specs](/contact/) | [View IPP# 105527](https://ims.internationalprocessplants.com/inventory/equipment/detail/105527)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/105527) | [View IPP# 105527](https://ims.internationalprocessplants.com/inventory/equipment/detail/105527)
 
 [Browse All Carbon Steel Heat Exchangers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)
 
@@ -114,37 +124,45 @@ IPP stocks specialty alloy shell and tube heat exchangers in graphite, titanium,
 
 Used Industrial Alloy Fabricators titanium clad shell and tube heat exchanger. 530 m² (5,700 ft²) surface area with titanium tubes and SS 316 shell.
 
-- 530 m² (5,700 ft²) surface area
-- 1.03 bar shell / 1.72 bar tube
-- Titanium tubes, SS 316 shell
-- 1,450 straight tubes
-- 1,650 mm (64.5 in) shell diameter
+- Heat Transfer Surface Area: 530 m² (5,700 ft²) surface area
+- Shell Pressure: 1.03 bar shell
+- Tube Pressure: 1.72 bar tube
+- Tube Material: Titanium tubes
+- Shell Material: SS 316 shell
+- Tube Number: 1,450
+- Tube Type: Straight Tube
+- Shell Diameter: 1,650 mm (64.5 in) shell diameter
 
-[Request Specs](/contact/) | [View IPP# 228100](https://ims.internationalprocessplants.com/inventory/equipment/detail/228100)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/228100) | [View IPP# 228100](https://ims.internationalprocessplants.com/inventory/equipment/detail/228100)
 
 #### [Largest Graphite] Metaullics Graphite — 454.4 m² ([IPP# 223711](https://ims.internationalprocessplants.com/inventory/equipment/detail/223711))
 
 Used Metaullics Systems graphite (Impervite) shell and tube heat exchanger. 454.4 m² (4,900 ft²) with 721 graphite tubes and carbon steel shell.
 
-- 454.4 m² (4,900 ft²) surface area
-- 6 bar shell / 7 bar tube
-- 721 graphite tubes
-- Carbon steel shell
-- Horizontal, Impervite model
+- Heat Transfer Surface Area: 454.4 m² (4,900 ft²) surface area
+- Shell Pressure: 6 bar shell
+- Tube Pressure: 7 bar tube
+- Tube Number: 6,400 mm (252 in)
+- Tube Material: 31.8 mm (1.25 in)
+- Shell Material: Carbon steel shell
+- Orientation: Horizontal
+- Model: Impervite model
 
-[Request Specs](/contact/) | [View IPP# 223711](https://ims.internationalprocessplants.com/inventory/equipment/detail/223711)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/223711) | [View IPP# 223711](https://ims.internationalprocessplants.com/inventory/equipment/detail/223711)
 
 #### [Hastelloy] NL Schkopau Hastelloy — 364 m² ([IPP# 245604](https://ims.internationalprocessplants.com/inventory/equipment/detail/245604))
 
 Used NL Schkopau IRB GmbH Hastelloy shell and tube heat exchanger. 364 m² (3,900 ft²) surface area with Hastelloy tubes, tubesheet, and heads. Vacuum capable.
 
-- 364 m² (3,900 ft²) surface area
-- 7 bar shell / 5 bar tube
-- Up to 260 °C (500 °F)
-- 1,014 straight tubes
-- Vacuum capable
+- Heat Transfer Surface Area: 364 m² (3,900 ft²) surface area
+- Shell Pressure: 7 bar shell
+- Tube Pressure: 5 bar tube
+- Shell Temperature: Up to 260 °C (500 °F)
+- Tube Number: 1,014
+- Tube Type: Straight Tube
+- Vacuum: Vacuum capable
 
-[Request Specs](/contact/) | [View IPP# 245604](https://ims.internationalprocessplants.com/inventory/equipment/detail/245604)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/245604) | [View IPP# 245604](https://ims.internationalprocessplants.com/inventory/equipment/detail/245604)
 
 [Browse All Specialty Alloy Heat Exchangers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)
 
@@ -163,37 +181,37 @@ VICARB is the deepest single-manufacturer position in IPP's shell and tube heat 
 
 Used VICARB FTA 20 graphite shell and tube heat exchanger with 6.4 m² (68.9 ft²) surface area, carbon steel shell, and graphite tubes.
 
-- Graphite construction
-- 6.4 m² (68.9 ft²) surface area
-- 4 bar (58 psi) shell & tube
-- Carbon steel shell
-- Used condition
+- Material: Graphite construction
+- Heat Transfer Surface Area: 6.4 m² (68.9 ft²) surface area
+- Shell Pressure: 4 bar (58 psi) shell & tube
+- Shell Material: Carbon steel shell
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 204115](https://ims.internationalprocessplants.com/inventory/equipment/detail/204115)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/204115) | [View IPP# 204115](https://ims.internationalprocessplants.com/inventory/equipment/detail/204115)
 
 #### VICARB FTA20/24/26 Graphite — 12.1 m² ([IPP# 204125](https://ims.internationalprocessplants.com/inventory/equipment/detail/204125))
 
 Used VICARB FTA20/24/26 graphite shell and tube heat exchanger with 12.1 m² (130 ft²) surface area, 300 mm (11.8 in) shell diameter, and carbon steel shell.
 
-- Graphite construction
-- 12.1 m² (130 ft²) surface area
-- 6 bar (87 psi) shell & tube
-- 300 mm (11.8 in) shell diameter
-- Used condition
+- Material: Graphite construction
+- Heat Transfer Surface Area: 12.1 m² (130 ft²) surface area
+- Shell Pressure: 6 bar (87 psi) shell & tube
+- Shell Diameter: 300 mm (11.8 in) shell diameter
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 204125](https://ims.internationalprocessplants.com/inventory/equipment/detail/204125)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/204125) | [View IPP# 204125](https://ims.internationalprocessplants.com/inventory/equipment/detail/204125)
 
 #### VICARB Graphite — 23.3 m² ([IPP# 204133](https://ims.internationalprocessplants.com/inventory/equipment/detail/204133))
 
 Used VICARB graphite shell and tube heat exchanger with 23.3 m² (250.8 ft²) surface area, carbon steel shell, and graphite tubes rated to 6 bar (87 psi).
 
-- Graphite construction
-- 23.3 m² (250.8 ft²) surface area
-- 6 bar (87 psi) shell & tube
-- Carbon steel shell
-- Used condition
+- Material: Graphite construction
+- Heat Transfer Surface Area: 23.3 m² (250.8 ft²) surface area
+- Shell Pressure: 6 bar (87 psi) shell & tube
+- Shell Material: Carbon steel shell
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 204133](https://ims.internationalprocessplants.com/inventory/equipment/detail/204133)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/204133) | [View IPP# 204133](https://ims.internationalprocessplants.com/inventory/equipment/detail/204133)
 
 [Browse All VICARB Heat Exchangers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)
 
@@ -205,37 +223,37 @@ Doyle and Roth is the second deepest OEM position in IPP's shell and tube heat e
 
 Used Doyle and Roth stainless steel 304 shell and tube heat exchanger with 10.4 m² (112 ft²) surface area, U-tube design, rated to 165.6 °C (330 °F) shell side.
 
-- Stainless Steel 304
-- 10.4 m² (112 ft²) surface area
-- 3.4 bar (50 psi) shell side
-- 10.3 bar (150 psi) tube side
-- U-tube, used condition
+- Material: Stainless Steel 304
+- Heat Transfer Surface Area: 10.4 m² (112 ft²) surface area
+- Shell Pressure: 3.4 bar (50 psi) shell side
+- Tube Pressure: 10.3 bar (150 psi) tube side
+- Tube Type: U-tube, used condition
 
-[Request Specs](/contact/) | [View IPP# 112242](https://ims.internationalprocessplants.com/inventory/equipment/detail/112242)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/112242) | [View IPP# 112242](https://ims.internationalprocessplants.com/inventory/equipment/detail/112242)
 
 #### Doyle and Roth Inconel — 8.6 m² ([IPP# 230389](https://ims.internationalprocessplants.com/inventory/equipment/detail/230389))
 
 Used Doyle and Roth Inconel shell and tube heat exchanger with 8.6 m² (93 ft²) surface area, 66 straight tubes, vacuum capable, rated to 260 °C (500 °F).
 
-- Inconel construction
-- 8.6 m² (93 ft²) surface area
-- 10.3 bar (150 psi) shell & tube
-- Vacuum capable
-- Used condition
+- Material: Inconel construction
+- Heat Transfer Surface Area: 8.6 m² (93 ft²) surface area
+- Shell Pressure: 10.3 bar (150 psi) shell & tube
+- Vacuum: Vacuum capable
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 230389](https://ims.internationalprocessplants.com/inventory/equipment/detail/230389)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/230389) | [View IPP# 230389](https://ims.internationalprocessplants.com/inventory/equipment/detail/230389)
 
 #### Doyle and Roth SS 304 — 68.1 m² ([IPP# 232768](https://ims.internationalprocessplants.com/inventory/equipment/detail/232768))
 
 Used Doyle and Roth stainless steel 304 shell and tube heat exchanger with 68.1 m² (733 ft²) surface area, 282 U-tubes, rated to 10.3 bar (150 psi).
 
-- Stainless Steel 304
-- 68.1 m² (733 ft²) surface area
-- 10.3 bar (150 psi) shell & tube
-- 282 U-tubes
-- Used condition
+- Material: Stainless Steel 304
+- Heat Transfer Surface Area: 68.1 m² (733 ft²) surface area
+- Shell Pressure: 10.3 bar (150 psi) shell & tube
+- Tube Number: 282 U-tubes
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 232768](https://ims.internationalprocessplants.com/inventory/equipment/detail/232768)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/232768) | [View IPP# 232768](https://ims.internationalprocessplants.com/inventory/equipment/detail/232768)
 
 [Browse All Doyle and Roth Heat Exchangers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)
 
@@ -247,37 +265,37 @@ Beyond VICARB and Doyle and Roth, IPP stocks shell and tube heat exchangers from
 
 Unused Atlas Industrial carbon steel shell and tube heat exchanger with 28.5 m² (307 ft²) surface area, 135 straight tubes, vacuum capable, rated to 662 °C (1,200 °F).
 
-- Carbon Steel construction
-- 28.5 m² (307 ft²) surface area
-- 10.3 bar (150 psi) shell & tube
-- Up to 662 °C (1,200 °F)
-- Unused condition
+- Material: Carbon Steel construction
+- Heat Transfer Surface Area: 28.5 m² (307 ft²) surface area
+- Shell Pressure: 10.3 bar (150 psi) shell & tube
+- Shell Temperature: Up to 662 °C (1,200 °F)
+- Condition: Unused condition
 
-[Request Specs](/contact/) | [View IPP# 228360](https://ims.internationalprocessplants.com/inventory/equipment/detail/228360)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/228360) | [View IPP# 228360](https://ims.internationalprocessplants.com/inventory/equipment/detail/228360)
 
 #### Atlas Industrial Hastelloy BEM — 27.9 m² ([IPP# 241037](https://ims.internationalprocessplants.com/inventory/equipment/detail/241037))
 
 Used Atlas Industrial BEM 20-60 Hastelloy clad shell and tube heat exchanger with 27.9 m² (300 ft²) surface area, 324 straight tubes, vacuum capable.
 
-- Hastelloy construction (clad)
-- 27.9 m² (300 ft²) surface area
-- 10.3 bar (150 psi) shell & tube
-- Vacuum capable
-- Used condition
+- Material: Hastelloy construction (clad)
+- Heat Transfer Surface Area: 27.9 m² (300 ft²) surface area
+- Shell Pressure: 10.3 bar (150 psi) shell & tube
+- Vacuum: Vacuum capable
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 241037](https://ims.internationalprocessplants.com/inventory/equipment/detail/241037)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/241037) | [View IPP# 241037](https://ims.internationalprocessplants.com/inventory/equipment/detail/241037)
 
 #### [Largest in Stock] Heatran Carbon Steel — 1,050 m² ([IPP# 212821](https://ims.internationalprocessplants.com/inventory/equipment/detail/212821))
 
 Used Heatran carbon steel shell and tube heat exchanger — the largest in IPP inventory at 1,050 m² (11,300 ft²), rated to 179.3 bar (2,600 psi).
 
-- Carbon Steel construction
-- 1,050 m² (11,300 ft²) surface area
-- 179.3 bar (2,600 psi) shell & tube
-- Up to 315.6 °C (600 °F)
-- Used condition
+- Material: Carbon Steel construction
+- Heat Transfer Surface Area: 1,050 m² (11,300 ft²) surface area
+- Shell Pressure: 179.3 bar (2,600 psi) shell & tube
+- Shell Temperature: Up to 315.6 °C (600 °F)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 212821](https://ims.internationalprocessplants.com/inventory/equipment/detail/212821)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212821) | [View IPP# 212821](https://ims.internationalprocessplants.com/inventory/equipment/detail/212821)
 
 [Browse All Heat Exchangers from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)
 
@@ -296,37 +314,37 @@ Good used heat exchangers are the deepest condition position in IPP's inventory.
 
 Used Heatran carbon steel shell and tube heat exchanger. 1,050 m² (11,300 ft²) surface area rated to 179.3 bar (2,600 psi) with 1,850 tubes.
 
-- Used condition
-- Carbon Steel construction
-- 1,050 m² (11,300 ft²) surface area
-- 179.3 bar (2,600 psi) shell & tube
-- 1,850 tubes, horizontal
+- Condition: Used condition
+- Material: Carbon Steel construction
+- Heat Transfer Surface Area: 1,050 m² (11,300 ft²) surface area
+- Shell Pressure: 179.3 bar (2,600 psi) shell & tube
+- Tube Number: 1,850 tubes, horizontal
 
-[Request Specs](/contact/) | [View IPP# 212821](https://ims.internationalprocessplants.com/inventory/equipment/detail/212821)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212821) | [View IPP# 212821](https://ims.internationalprocessplants.com/inventory/equipment/detail/212821)
 
 #### Used Harris Thermal SS 304 — 876 m² ([IPP# 218221](https://ims.internationalprocessplants.com/inventory/equipment/detail/218221))
 
 Used Harris Thermal stainless steel 304 shell and tube heat exchanger. 876 m² (9,400 ft²) surface area with 2,451 tubes, vacuum capable.
 
-- Used condition
-- Stainless Steel 304
-- 876 m² (9,400 ft²) surface area
-- 2,451 tubes, 4-pass design
-- Vacuum capable
+- Condition: Used condition
+- Material: Stainless Steel 304
+- Heat Transfer Surface Area: 876 m² (9,400 ft²) surface area
+- Tube Number: 2,451 tubes, 4-pass design
+- Vacuum: Vacuum capable
 
-[Request Specs](/contact/) | [View IPP# 218221](https://ims.internationalprocessplants.com/inventory/equipment/detail/218221)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/218221) | [View IPP# 218221](https://ims.internationalprocessplants.com/inventory/equipment/detail/218221)
 
 #### Used VICARB Graphite — 23.3 m² ([IPP# 204133](https://ims.internationalprocessplants.com/inventory/equipment/detail/204133))
 
 Used VICARB graphite shell and tube heat exchanger with 23.3 m² (250.8 ft²) surface area, graphite tubes, carbon steel shell, rated to 6 bar (87 psi).
 
-- Used condition
-- Graphite construction
-- 23.3 m² (250.8 ft²) surface area
-- 6 bar (87 psi) shell & tube
-- Carbon steel shell
+- Condition: Used condition
+- Material: Graphite construction
+- Heat Transfer Surface Area: 23.3 m² (250.8 ft²) surface area
+- Shell Pressure: 6 bar (87 psi) shell & tube
+- Shell Material: Carbon steel shell
 
-[Request Specs](/contact/) | [View IPP# 204133](https://ims.internationalprocessplants.com/inventory/equipment/detail/204133)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/204133) | [View IPP# 204133](https://ims.internationalprocessplants.com/inventory/equipment/detail/204133)
 
 [Browse All Used Heat Exchangers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)
 
@@ -338,37 +356,37 @@ Unused surplus heat exchangers were manufactured but never installed in producti
 
 Unused Johnson Hunt LTD BEU carbon steel shell and tube heat exchanger. 6.4 m² (69 ft²) surface area rated to 9 bar (131 psi) and 200 °C (392 °F).
 
-- Unused condition
-- Carbon Steel construction
-- 6.4 m² (69 ft²) surface area
-- 9 bar (131 psi) shell & tube
-- BEU model, 2-pass tube
+- Condition: Unused condition
+- Material: Carbon Steel construction
+- Heat Transfer Surface Area: 6.4 m² (69 ft²) surface area
+- Shell Pressure: 9 bar (131 psi) shell & tube
+- Model: BEU model, 2-pass tube
 
-[Request Specs](/contact/) | [View IPP# 105527](https://ims.internationalprocessplants.com/inventory/equipment/detail/105527)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/105527) | [View IPP# 105527](https://ims.internationalprocessplants.com/inventory/equipment/detail/105527)
 
 #### [Unused] Unused Atlas Industrial CS — 28.5 m² ([IPP# 228360](https://ims.internationalprocessplants.com/inventory/equipment/detail/228360))
 
 Unused Atlas Industrial carbon steel shell and tube heat exchanger. 28.5 m² (307 ft²) surface area, 135 straight tubes, vacuum capable, rated to 662 °C (1,200 °F).
 
-- Unused condition
-- Carbon Steel construction
-- 28.5 m² (307 ft²) surface area
-- Up to 662 °C (1,200 °F)
-- Vacuum capable
+- Condition: Unused condition
+- Material: Carbon Steel construction
+- Heat Transfer Surface Area: 28.5 m² (307 ft²) surface area
+- Shell Temperature: Up to 662 °C (1,200 °F)
+- Vacuum: Vacuum capable
 
-[Request Specs](/contact/) | [View IPP# 228360](https://ims.internationalprocessplants.com/inventory/equipment/detail/228360)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/228360) | [View IPP# 228360](https://ims.internationalprocessplants.com/inventory/equipment/detail/228360)
 
 #### [Unused] Unused Delta Tee CS — 1,050 m² ([IPP# 230154](https://ims.internationalprocessplants.com/inventory/equipment/detail/230154))
 
 Unused Delta Tee International carbon steel shell and tube heat exchanger. 1,050 m² (11,250 ft²) surface area rated to 99.3 bar (1,450 psi) shell side.
 
-- Unused condition
-- Carbon Steel construction
-- 1,050 m² (11,250 ft²) surface area
-- 99.3 bar (1,450 psi) shell side
-- 1,815 straight tubes
+- Condition: Unused condition
+- Material: Carbon Steel construction
+- Heat Transfer Surface Area: 1,050 m² (11,250 ft²) surface area
+- Shell Pressure: 99.3 bar (1,450 psi) shell side
+- Tube Number: 1,815 straight tubes
 
-[Request Specs](/contact/) | [View IPP# 230154](https://ims.internationalprocessplants.com/inventory/equipment/detail/230154)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/230154) | [View IPP# 230154](https://ims.internationalprocessplants.com/inventory/equipment/detail/230154)
 
 [Browse All Unused Heat Exchangers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)
 
@@ -380,37 +398,37 @@ IPP stocks refurbished and rebuilt shell and tube heat exchangers. These units h
 
 Refurbished/rebuilt Manning & Lewis stainless steel 316 shell and tube heat exchanger. 65.6 m² (706 ft²) surface area, 444 straight tubes, vacuum capable.
 
-- Refurbished/Rebuilt condition
-- Stainless Steel 316
-- 65.6 m² (706 ft²) surface area
-- 10.3 bar (150 psi) shell & tube
-- Vacuum capable
+- Condition: Refurbished/Rebuilt condition
+- Material: Stainless Steel 316
+- Heat Transfer Surface Area: 65.6 m² (706 ft²) surface area
+- Shell Pressure: 10.3 bar (150 psi) shell & tube
+- Vacuum: Vacuum capable
 
-[Request Specs](/contact/) | [View IPP# 210814](https://ims.internationalprocessplants.com/inventory/equipment/detail/210814)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/210814) | [View IPP# 210814](https://ims.internationalprocessplants.com/inventory/equipment/detail/210814)
 
 #### [Refurbished] Allegheny Bradford SS 316L — 1.02 m² ([IPP# 238376](https://ims.internationalprocessplants.com/inventory/equipment/detail/238376))
 
 Refurbished/rebuilt Allegheny Bradford Corp. stainless steel 316L shell and tube heat exchanger. 1.02 m² (11 ft²) compact unit with 34 U-tubes.
 
-- Refurbished/Rebuilt condition
-- Stainless Steel 316L
-- 1.02 m² (11 ft²) surface area
-- 10.3 bar (150 psi) shell & tube
-- 34 U-tubes, 2-pass
+- Condition: Refurbished/Rebuilt condition
+- Material: Stainless Steel 316L
+- Heat Transfer Surface Area: 1.02 m² (11 ft²) surface area
+- Shell Pressure: 10.3 bar (150 psi) shell & tube
+- Tube Type: 34 U-tubes, 2-pass
 
-[Request Specs](/contact/) | [View IPP# 238376](https://ims.internationalprocessplants.com/inventory/equipment/detail/238376)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/238376) | [View IPP# 238376](https://ims.internationalprocessplants.com/inventory/equipment/detail/238376)
 
 #### [Refurbished] Le-Carbone Lorraine Graphite — 2 m² ([IPP# 703780](https://ims.internationalprocessplants.com/inventory/equipment/detail/703780))
 
 Refurbished/rebuilt Le-Carbone Lorraine GM/8 graphite shell and tube heat exchanger. 2 m² (21.5 ft²) surface area with carbon steel shell, rated to 9 bar (130 psi).
 
-- Refurbished/Rebuilt condition
-- Graphite construction
-- 2 m² (21.5 ft²) surface area
-- 9 bar (130 psi) shell & tube
-- Carbon steel shell
+- Condition: Refurbished/Rebuilt condition
+- Material: Graphite construction
+- Heat Transfer Surface Area: 2 m² (21.5 ft²) surface area
+- Shell Pressure: 9 bar (130 psi) shell & tube
+- Shell Material: Carbon steel shell
 
-[Request Specs](/contact/) | [View IPP# 703780](https://ims.internationalprocessplants.com/inventory/equipment/detail/703780)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/703780) | [View IPP# 703780](https://ims.internationalprocessplants.com/inventory/equipment/detail/703780)
 
 [Browse All Refurbished Heat Exchangers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)
 
@@ -422,25 +440,25 @@ IPP stocks new shell and tube heat exchangers for immediate delivery. IPP's GPS 
 
 New Timmerman stainless steel 316L shell and tube heat exchanger. 197.4 m² (2,100 ft²) surface area, 499 tubes, vertical orientation, rated to 16 bar (232 psi) tube side.
 
-- New condition
-- Stainless Steel 316L
-- 197.4 m² (2,100 ft²) surface area
-- 16 bar (232 psi) tube side
-- 499 tubes, vertical
+- Condition: New condition
+- Material: Stainless Steel 316L
+- Heat Transfer Surface Area: 197.4 m² (2,100 ft²) surface area
+- Tube Pressure: 16 bar (232 psi) tube side
+- Tube Number: 499 tubes, vertical
 
-[Request Specs](/contact/) | [View IPP# 232795](https://ims.internationalprocessplants.com/inventory/equipment/detail/232795)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/232795) | [View IPP# 232795](https://ims.internationalprocessplants.com/inventory/equipment/detail/232795)
 
 #### [New] Perry Products AEU SS 304 — 105.1 m² ([IPP# 233988](https://ims.internationalprocessplants.com/inventory/equipment/detail/233988))
 
 New Perry Products Co. AEU stainless steel 304 shell and tube heat exchanger. 105.1 m² (1,150 ft²) surface area, 197 U-tubes, rated to 75.6 bar (1,100 psi) tube side.
 
-- New condition
-- Stainless Steel 304
-- 105.1 m² (1,150 ft²) surface area
-- 75.6 bar (1,100 psi) tube side
-- TEMA AEU, 197 U-tubes
+- Condition: New condition
+- Material: Stainless Steel 304
+- Heat Transfer Surface Area: 105.1 m² (1,150 ft²) surface area
+- Tube Pressure: 75.6 bar (1,100 psi) tube side
+- TEMA Type: TEMA AEU, 197 U-tubes
 
-[Request Specs](/contact/) | [View IPP# 233988](https://ims.internationalprocessplants.com/inventory/equipment/detail/233988)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/233988) | [View IPP# 233988](https://ims.internationalprocessplants.com/inventory/equipment/detail/233988)
 
 [Browse All New Heat Exchangers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)
 
@@ -451,7 +469,7 @@ New Perry Products Co. AEU stainless steel 304 shell and tube heat exchanger. 10
 
 Tell us your surface area, material, pressure, and temperature requirements. Our team will match your specifications against current inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -609,7 +627,7 @@ A: Shell and tube heat exchangers have an external cylinder (shell) with interna
 
 IPP Group supplies new heat exchangers through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. If you cannot find what you need in our used inventory, we can build to your specifications.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -618,4 +636,4 @@ IPP Group supplies new heat exchangers through its Gale Process Solutions (GPS) 
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to Our Team](/contact/) | [Search Heat Exchanger Inventory](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)
+[Talk to Our Team](https://internationalprocessplants.com/contact/) | [Search Heat Exchanger Inventory](https://ims.internationalprocessplants.com/inventory/equipment/heat-exchanger/shell-and-tube)

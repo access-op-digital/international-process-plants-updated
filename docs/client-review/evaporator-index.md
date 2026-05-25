@@ -1,12 +1,12 @@
 # Buy Used Evaporators for Sale
 
-Buying used evaporators through International Process Plants gives chemical, pharmaceutical, food/beverage, and wastewater treatment manufacturers access to wiped/thin film, rising/falling film, crystalizer, and flash evaporator systems from Luwa SMS, Pfaudler, Wiegand, LCI, SMS Buss, and other OEM manufacturers. Evaporation rates range from 11.3 kg/h to 36,300 kg/h, heat transfer areas from 0.47 m² to 1,450 m², and materials span stainless steel 316, 316L, 304, Hastelloy, glass-lined, titanium, and carbon steel. Industrial evaporators are built for decades of continuous service, making used units a durable capital asset. Buying used from IPP can save up to 50% of capital and 90% of lead time versus buying new.
+Buying used evaporators through International Process Plants gives chemical, pharmaceutical, food/beverage, and wastewater treatment manufacturers access to wiped/thin film, rising/falling film, crystalizer, and flash evaporator systems from Luwa SMS, Pfaudler, Wiegand, LCI, SMS Buss, and other OEM manufacturers. Evaporation rates range from 11.3 kg/h (25 lb/h) to 36,300 kg/h (80,000 lb/h), heat transfer areas from 0.47 m² (5.1 ft²) to 1,450 m² (15,850 ft²), and materials span stainless steel 316, 316L, 304, Hastelloy, glass-lined, titanium, and carbon steel. Industrial evaporators are built for decades of continuous service, making used units a durable capital asset. Buying used from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
 Materials of construction include stainless steel 316, 316L, 304, 321, and austenitic grades, Hastelloy C-22 and C-276, glass-lined, titanium, graphite, and carbon steel. Evaporation rates range from 11.3 kg/h (25 lb/h) to 36,300 kg/h (80,000 lb/h). Heat transfer surface areas range from 0.47 m² (5.1 ft²) to 1,450 m² (15,850 ft²).
 
 Evaporators are available as single-effect or multi-effect systems, with vacuum operation options to protect heat-sensitive materials. Systems integrate with distillation, crystallization, and solvent recovery units, and are designed for clean-in-place (CIP) and automated control systems.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator)
 
 **Quick Stats:** 100+ Evaporators in Stock | 1980 Established Since | 15 Countries with Offices | 4 Evaporator Subtypes
 
@@ -30,37 +30,44 @@ IPP stocks wiped/thin film evaporators from manufacturers including Luwa SMS, Pf
 
 Used SMS Buss LN 1400 wiped/thin film evaporator. Hastelloy C-22 clad construction with 14 m² (150.7 ft²) heat transfer area and 340.2 kg/h (750 lb/h) evaporation rate.
 
-- 340.2 kg/h (750 lb/h) rate
-- 14 m² (150.7 ft²) area
-- 1.72 bar (25 psi), 250°C (482°F)
-- Vacuum capable, mechanical seal
-- 850 mm (33.5 in) × 6,300 mm (248 in), vertical
+- Evaporation Rate: 340.2 kg/h (750 lb/h) rate
+- Total Heat Transfer Surface Area: 14 m² (150.7 ft²) area
+- Pressure: 1.72 bar (25 psi)
+- Temperature: 250°C (482°F)
+- Vacuum: Vacuum capable
+- Mechanical Seal on Shaft: mechanical seal
+- Diameter: 850 mm (33.5 in)
+- Height: 6,300 mm (248 in), vertical
 
-[Request Specs](/contact/) | [View IPP# 220954](https://ims.internationalprocessplants.com/inventory/equipment/detail/220954)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/220954) | [View IPP# 220954](https://ims.internationalprocessplants.com/inventory/equipment/detail/220954)
 
 #### [Glass-Lined] Pfaudler Glass-Lined WFE — 10 m² ([IPP# 18493](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493))
 
 Re-glassed Pfaudler glass-lined wiped film evaporator with 10 m² (107.6 ft²) heat transfer area and 242.7 kg/h (535 lb/h) evaporation rate. Glass-covered graphite wipers.
 
-- 242.7 kg/h (535 lb/h) rate
-- 10 m² (107.6 ft²) area
-- 200°C (392°F), vacuum capable
-- Glass-covered graphite wipers
-- 1,200 mm (47.2 in) × 1,050 mm (41.3 in), vertical
+- Evaporation Rate: 242.7 kg/h (535 lb/h) rate
+- Total Heat Transfer Surface Area: 10 m² (107.6 ft²) area
+- Temperature: 200°C (392°F), vacuum capable
+- Wipers MOC: Glass-covered graphite wipers
+- Diameter: 1,200 mm (47.2 in)
+- Height: 1,050 mm (41.3 in), vertical
 
-[Request Specs](/contact/) | [View IPP# 18493](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493) | [View IPP# 18493](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493)
 
 #### Leybold-Heraeus KD300 — SS 316 ([IPP# 100417](https://ims.internationalprocessplants.com/inventory/equipment/detail/100417))
 
 Used Leybold-Heraeus KD300 wiped/thin film evaporator in stainless steel 316. 3 m² (32.3 ft²) heat transfer area with internal condenser and vacuum capability.
 
-- 72.6 kg/h (160 lb/h) rate
-- 3 m² (32.3 ft²) area
-- 2 bar (29 psi), 200°C (392°F)
-- Internal condenser, 5 m²
-- 500 mm (19.7 in) × 3,800 mm (149.6 in), vertical
+- Evaporation Rate: 72.6 kg/h (160 lb/h) rate
+- Total Heat Transfer Surface Area: 3 m² (32.3 ft²) area
+- Pressure: 2 bar (29 psi)
+- Temperature: 200°C (392°F)
+- Internal Condenser: Internal condenser
+- Internal Condenser size: 5 m²
+- Diameter: 500 mm (19.7 in)
+- Height: 3,800 mm (149.6 in), vertical
 
-[Request Specs](/contact/) | [View IPP# 100417](https://ims.internationalprocessplants.com/inventory/equipment/detail/100417)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/100417) | [View IPP# 100417](https://ims.internationalprocessplants.com/inventory/equipment/detail/100417)
 
 [Browse All Wiped/Thin Film Evaporators](wiped-thin-film/)
 
@@ -72,37 +79,44 @@ IPP stocks rising/falling film evaporators from manufacturers including Wiegand,
 
 Used PMS titanium rising/falling film evaporator. 36,300 kg/h (80,000 lb/h) evaporation rate with 1,450 m² (15,850 ft²) heat transfer area. 927 titanium tubes.
 
-- 36,300 kg/h (80,000 lb/h) rate
-- 1,450 m² (15,850 ft²) area
-- 927 titanium tubes, 50.8 mm (2 in) OD
-- 1.38 bar (20 psi), 148.9°C (300°F)
-- Vacuum capable, Inconel tubesheets
+- Evaporation Rate: 36,300 kg/h (80,000 lb/h) rate
+- Total Heat Transfer Surface Area: 1,450 m² (15,850 ft²) area
+- Number of Tubes: 927 titanium tubes
+- Tube Diameter: 50.8 mm (2 in) OD
+- Pressure: 1.38 bar (20 psi)
+- Temperature: 148.9°C (300°F)
+- Vacuum: Vacuum capable
+- Tubesheet Material: Inconel tubesheets
 
-[Request Specs](/contact/) | [View IPP# 225370](https://ims.internationalprocessplants.com/inventory/equipment/detail/225370)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/225370) | [View IPP# 225370](https://ims.internationalprocessplants.com/inventory/equipment/detail/225370)
 
 #### Wiegand SS Austenitic — 14,000 kg/h ([IPP# 212762](https://ims.internationalprocessplants.com/inventory/equipment/detail/212762))
 
 Used Wiegand rising/falling film evaporator in stainless steel austenitic. 14,000 kg/h (30,850 lb/h) evaporation rate with 696 m² (7,500 ft²) heat transfer area. 806 tubes with SS 316 tube material.
 
-- 14,000 kg/h (30,850 lb/h) rate
-- 696 m² (7,500 ft²) area
-- 806 tubes, 42.4 mm (1.67 in) OD
-- 3 bar (43.5 psi), vacuum capable
-- SS centrifugal feed pumps
+- Evaporation Rate: 14,000 kg/h (30,850 lb/h) rate
+- Total Heat Transfer Surface Area: 696 m² (7,500 ft²) area
+- Number of Tubes: 806 tubes
+- Tube Diameter: 42.4 mm (1.67 in) OD
+- Pressure: 3 bar (43.5 psi)
+- Vacuum: vacuum capable
+- Pump Details: SS centrifugal feed pumps
 
-[Request Specs](/contact/) | [View IPP# 212762](https://ims.internationalprocessplants.com/inventory/equipment/detail/212762)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212762) | [View IPP# 212762](https://ims.internationalprocessplants.com/inventory/equipment/detail/212762)
 
 #### Buflovak/Blaw Knox SS 316 — 2-Effect ([IPP# 246737](https://ims.internationalprocessplants.com/inventory/equipment/detail/246737))
 
 Used Buflovak/Blaw Knox x-320 2-effect rising/falling film evaporator in stainless steel 316. 6,750 kg/h (14,900 lb/h) evaporation rate with 262.6 m² (2,850 ft²) heat transfer area.
 
-- 6,750 kg/h (14,900 lb/h) rate
-- 262.6 m² (2,850 ft²) area
-- 2-effect system
-- 8.3 bar (120 psi), 148.9°C (300°F)
-- Vacuum capable, SS 316 tubes
+- Evaporation Rate: 6,750 kg/h (14,900 lb/h) rate
+- Total Heat Transfer Surface Area: 262.6 m² (2,850 ft²) area
+- Number of Effects: 2-effect system
+- Pressure: 8.3 bar (120 psi)
+- Temperature: 148.9°C (300°F)
+- Vacuum: Vacuum capable
+- Tube Material: SS 316 tubes
 
-[Request Specs](/contact/) | [View IPP# 246737](https://ims.internationalprocessplants.com/inventory/equipment/detail/246737)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246737) | [View IPP# 246737](https://ims.internationalprocessplants.com/inventory/equipment/detail/246737)
 
 [Browse All Rising/Falling Film Evaporators](rising-falling-film/)
 
@@ -114,25 +128,30 @@ IPP stocks crystalizer/evaporator units from manufacturers including Alfa Laval,
 
 Used stainless steel 304 crystalizer/evaporator. 21,600 L (5,700 gal) capacity with 1,750 kg/h (3,900 lb/h) evaporation rate and 72.6 m² (781 ft²) heat transfer area. Lightnin agitator with mechanical seal.
 
-- 1,750 kg/h (3,900 lb/h) rate
-- 72.6 m² (781 ft²) area
-- 21,600 L (5,700 gal) capacity
-- 0.97 bar (14 psi), 121.1°C (250°F)
-- 2,750 mm (108.3 in) × 3,350 mm (131.9 in), vertical
+- Evaporation Rate: 1,750 kg/h (3,900 lb/h) rate
+- Total Heat Transfer Surface Area: 72.6 m² (781 ft²) area
+- Capacity in Gallons: 21,600 L (5,700 gal) capacity
+- Pressure: 0.97 bar (14 psi)
+- Temperature: 121.1°C (250°F)
+- Diameter: 2,750 mm (108.3 in)
+- Height: 3,350 mm (131.9 in), vertical
 
-[Request Specs](/contact/) | [View IPP# 246742](https://ims.internationalprocessplants.com/inventory/equipment/detail/246742)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246742) | [View IPP# 246742](https://ims.internationalprocessplants.com/inventory/equipment/detail/246742)
 
 #### Gouda Cooling Disc Crystallizer — SS 304 ([IPP# 246949](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949))
 
 Used Gouda C25-1.2 cooling disc crystallizer in stainless steel 304. 3,900 L (1,050 gal) capacity with 16.2 m² (174.4 ft²) heat transfer area. Horizontal orientation with packing seal agitator.
 
-- 16.2 m² (174.4 ft²) area
-- 3,900 L (1,050 gal) capacity
-- 1 bar (14.5 psi), 100°C (212°F)
-- Horizontal, agitated, packing seal
-- 1,250 mm (49.2 in) × 2,100 mm (82.7 in)
+- Total Heat Transfer Surface Area: 16.2 m² (174.4 ft²) area
+- Capacity in Gallons: 3,900 L (1,050 gal) capacity
+- Pressure: 1 bar (14.5 psi)
+- Temperature: 100°C (212°F)
+- Orientation: Horizontal
+- Agitation: Yes
+- Diameter: 1,250 mm (49.2 in)
+- Height: 2,100 mm (82.7 in)
 
-[Request Specs](/contact/) | [View IPP# 246949](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949) | [Contact IPP](/contact/)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949) | [View IPP# 246949](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949) | [Contact IPP](https://internationalprocessplants.com/contact/)
 
 [Browse All Crystalizer/Evaporators](crystalizer-evaporator/)
 
@@ -169,37 +188,41 @@ Luwa SMS is the deepest single-manufacturer position in IPP's evaporator invento
 
 Used Luwa SMS HS0050 wiped/thin film evaporator in stainless steel 316. 0.5 m² (5.4 ft²) heat transfer area with 11.3 kg/h (25 lb/h) evaporation rate. Vacuum capable.
 
-- 11.3 kg/h (25 lb/h) rate
-- 0.5 m² (5.4 ft²) area
-- 200°C (392°F), vacuum capable
-- 14.9 kW (20 HP) drive motor
-- 152.4 mm (6 in) × 1,850 mm (72.8 in), vertical
+- Evaporation Rate: 11.3 kg/h (25 lb/h) rate
+- Total Heat Transfer Surface Area: 0.5 m² (5.4 ft²) area
+- Temperature: 200°C (392°F), vacuum capable
+- Drive Motor HP: 14.9 kW (20 HP) drive motor
+- Diameter: 152.4 mm (6 in)
+- Height: 1,850 mm (72.8 in), vertical
 
-[Request Specs](/contact/) | [View IPP# 102561](https://ims.internationalprocessplants.com/inventory/equipment/detail/102561)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/102561) | [View IPP# 102561](https://ims.internationalprocessplants.com/inventory/equipment/detail/102561)
 
 #### Luwa SMS SS 316L — 10 m² ([IPP# 202611](https://ims.internationalprocessplants.com/inventory/equipment/detail/202611))
 
 Used Luwa SMS wiped/thin film evaporator in stainless steel 316L. 10 m² (107.6 ft²) heat transfer area with 242.7 kg/h (535 lb/h) evaporation rate.
 
-- 242.7 kg/h (535 lb/h) rate
-- 10 m² (107.6 ft²) area
-- 4.5 bar (65.3 psi)
-- 800 mm (31.5 in) × 6,000 mm (236.2 in), vertical
-- Dish top, cone bottom, clamped
+- Evaporation Rate: 242.7 kg/h (535 lb/h) rate
+- Total Heat Transfer Surface Area: 10 m² (107.6 ft²) area
+- Pressure: 4.5 bar (65.3 psi)
+- Diameter: 800 mm (31.5 in)
+- Height: 6,000 mm (236.2 in), vertical
+- Top Head type: Dish
+- Bottom Head Type: Cone
 
-[Request Specs](/contact/) | [View IPP# 202611](https://ims.internationalprocessplants.com/inventory/equipment/detail/202611)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/202611) | [View IPP# 202611](https://ims.internationalprocessplants.com/inventory/equipment/detail/202611)
 
 #### Luwa SMS L-425 — SS Austenitic ([IPP# 20067](https://ims.internationalprocessplants.com/inventory/equipment/detail/20067))
 
 Used Luwa SMS L-425 wiped/thin film evaporator in stainless steel austenitic. 3.2 m² (34.4 ft²) heat transfer area. 230°C (446°F) temperature rating.
 
-- 3.2 m² (34.4 ft²) area
-- 230°C (446°F)
-- 559 mm (22 in) × 2,200 mm (86.6 in), vertical
-- Stainless steel austenitic
-- Used condition
+- Total Heat Transfer Surface Area: 3.2 m² (34.4 ft²) area
+- Temperature: 230°C (446°F)
+- Diameter: 559 mm (22 in)
+- Height: 2,200 mm (86.6 in), vertical
+- Material: Stainless steel austenitic
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 20067](https://ims.internationalprocessplants.com/inventory/equipment/detail/20067)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/20067) | [View IPP# 20067](https://ims.internationalprocessplants.com/inventory/equipment/detail/20067)
 
 [Browse All Luwa SMS Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator)
 
@@ -211,37 +234,40 @@ Buss-SMS-Canzler GmbH is a leading manufacturer of wiped/thin film evaporators. 
 
 Used Buss-SMS-Canzler LN-1400 wiped/thin film evaporator in stainless steel 316. 13.9 m² (150 ft²) heat transfer area. Vacuum capable with 14.9 kW (20 HP) drive motor.
 
-- 13.9 m² (150 ft²) area
-- 343.3°C (650°F)
-- Vacuum capable
-- 14.9 kW (20 HP) drive motor
-- Flat top, cone bottom
+- Total Heat Transfer Surface Area: 13.9 m² (150 ft²) area
+- Temperature: 343.3°C (650°F)
+- Vacuum: Vacuum capable
+- Drive Motor HP: 14.9 kW (20 HP) drive motor
+- Bottom Head Type: Flat top, cone bottom
 
-[Request Specs](/contact/) | [View IPP# 206245](https://ims.internationalprocessplants.com/inventory/equipment/detail/206245)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/206245) | [View IPP# 206245](https://ims.internationalprocessplants.com/inventory/equipment/detail/206245)
 
 #### Buss-SMS-Canzler SS 316 — 6.5 m² ([IPP# 211714](https://ims.internationalprocessplants.com/inventory/equipment/detail/211714))
 
 Used Buss-SMS-Canzler wiped/thin film evaporator in stainless steel 316. 6.5 m² (70 ft²) heat transfer area with 158.8 kg/h (350 lb/h) evaporation rate. Internal condenser, graphite wipers.
 
-- 158.8 kg/h (350 lb/h) rate
-- 6.5 m² (70 ft²) area
-- 5 bar (72.5 psi), 250°C (482°F)
-- Internal condenser, graphite wipers
-- 900 mm (35.4 in) × 4,700 mm (185 in), vertical
+- Evaporation Rate: 158.8 kg/h (350 lb/h) rate
+- Total Heat Transfer Surface Area: 6.5 m² (70 ft²) area
+- Pressure: 5 bar (72.5 psi)
+- Temperature: 250°C (482°F)
+- Internal Condenser: Internal condenser
+- Wipers MOC: graphite wipers
+- Diameter: 900 mm (35.4 in)
+- Height: 4,700 mm (185 in), vertical
 
-[Request Specs](/contact/) | [View IPP# 211714](https://ims.internationalprocessplants.com/inventory/equipment/detail/211714)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/211714) | [View IPP# 211714](https://ims.internationalprocessplants.com/inventory/equipment/detail/211714)
 
 #### Buss-SMS-Canzler 900/6,5-K10 — SS 316 ([IPP# 211713](https://ims.internationalprocessplants.com/inventory/equipment/detail/211713))
 
 Used Buss-SMS-Canzler 900/6,5-K10 wiped/thin film evaporator in stainless steel 316. 6.5 m² (70 ft²) heat transfer area.
 
-- 6.5 m² (70 ft²) area
-- Stainless Steel 316
-- Model 900/6,5-K10
-- Wiped/thin film type
-- Used condition
+- Total Heat Transfer Surface Area: 6.5 m² (70 ft²) area
+- Material: Stainless Steel 316
+- Model: Model 900/6,5-K10
+- Subtype: Wiped/thin film type
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 211713](https://ims.internationalprocessplants.com/inventory/equipment/detail/211713)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/211713) | [View IPP# 211713](https://ims.internationalprocessplants.com/inventory/equipment/detail/211713)
 
 [Browse All Buss-SMS-Canzler Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator)
 
@@ -253,37 +279,39 @@ Beyond Luwa SMS and Buss-SMS-Canzler, IPP stocks evaporators from Carl Canzler, 
 
 Used Pfaudler wiped/thin film evaporator in stainless steel 316L. 3.3 m² (35 ft²) heat transfer area with 79.4 kg/h (175 lb/h) evaporation rate. Vacuum capable.
 
-- 79.4 kg/h (175 lb/h) rate
-- 3.3 m² (35 ft²) area
-- 1.03 bar (15 psi), 343.3°C (650°F)
-- Vacuum capable
-- 914 mm (36 in) × 1,100 mm (43.3 in), vertical
+- Evaporation Rate: 79.4 kg/h (175 lb/h) rate
+- Total Heat Transfer Surface Area: 3.3 m² (35 ft²) area
+- Pressure: 1.03 bar (15 psi)
+- Temperature: 343.3°C (650°F)
+- Vacuum: Vacuum capable
+- Diameter: 914 mm (36 in)
+- Height: 1,100 mm (43.3 in), vertical
 
-[Request Specs](/contact/) | [View IPP# 233717](https://ims.internationalprocessplants.com/inventory/equipment/detail/233717)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/233717) | [View IPP# 233717](https://ims.internationalprocessplants.com/inventory/equipment/detail/233717)
 
 #### [Carl Canzler] Carl Canzler 900/6,0-K10 — SS 316L ([IPP# 211633](https://ims.internationalprocessplants.com/inventory/equipment/detail/211633))
 
 Used Carl Canzler 900/6,0-K10 wiped/thin film evaporator in stainless steel 316L. 6 m² (64.6 ft²) heat transfer area with 145.1 kg/h (320 lb/h) evaporation rate.
 
-- 145.1 kg/h (320 lb/h) rate
-- 6 m² (64.6 ft²) area
-- Stainless Steel 316L
-- Model 900/6,0-K10
-- Used condition
+- Evaporation Rate: 145.1 kg/h (320 lb/h) rate
+- Total Heat Transfer Surface Area: 6 m² (64.6 ft²) area
+- Material: Stainless Steel 316L
+- Model: Model 900/6,0-K10
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 211633](https://ims.internationalprocessplants.com/inventory/equipment/detail/211633)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/211633) | [View IPP# 211633](https://ims.internationalprocessplants.com/inventory/equipment/detail/211633)
 
 #### [DeSmet] DeSmet Rising/Falling Film — SS 316 ([IPP# 201492](https://ims.internationalprocessplants.com/inventory/equipment/detail/201492))
 
 Used DeSmet rising/falling film evaporator in stainless steel 316. 18 m² (194 ft²) heat transfer area with 1,350 kg/h (3,000 lb/h) evaporation rate.
 
-- 1,350 kg/h (3,000 lb/h) rate
-- 18 m² (194 ft²) area
-- 3 bar (43.5 psi)
-- 160°C (320°F)
-- Used condition
+- Evaporation Rate: 1,350 kg/h (3,000 lb/h) rate
+- Total Heat Transfer Surface Area: 18 m² (194 ft²) area
+- Pressure: 3 bar (43.5 psi)
+- Temperature: 160°C (320°F)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 201492](https://ims.internationalprocessplants.com/inventory/equipment/detail/201492)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/201492) | [View IPP# 201492](https://ims.internationalprocessplants.com/inventory/equipment/detail/201492)
 
 [Browse All Evaporator Manufacturers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator)
 
@@ -302,37 +330,38 @@ Good used evaporators are the deepest condition position in IPP's inventory. The
 
 Used APV Mitchell rising/falling film evaporator in stainless steel 316. 24.9 m² (268 ft²) heat transfer area with 7,600 kg/h (16,800 lb/h) evaporation rate.
 
-- Used condition
-- 7,600 kg/h (16,800 lb/h) rate
-- 24.9 m² (268 ft²) area
-- Stainless Steel 316
-- Rising/falling film type
+- Condition: Used condition
+- Evaporation Rate: 7,600 kg/h (16,800 lb/h) rate
+- Total Heat Transfer Surface Area: 24.9 m² (268 ft²) area
+- Material: Stainless Steel 316
+- Subtype: Rising/falling film type
 
-[Request Specs](/contact/) | [View IPP# 215279](https://ims.internationalprocessplants.com/inventory/equipment/detail/215279)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/215279) | [View IPP# 215279](https://ims.internationalprocessplants.com/inventory/equipment/detail/215279)
 
 #### Used Buflovak/Blaw Knox SS 316 — 7,250 kg/h ([IPP# 220739](https://ims.internationalprocessplants.com/inventory/equipment/detail/220739))
 
 Used Buflovak/Blaw Knox rising/falling film evaporator in stainless steel 316. 83.6 m² (900 ft²) heat transfer area with 7,250 kg/h (16,000 lb/h) evaporation rate.
 
-- Used condition
-- 7,250 kg/h (16,000 lb/h) rate
-- 83.6 m² (900 ft²) area
-- Stainless Steel 316
-- Rising/falling film type
+- Condition: Used condition
+- Evaporation Rate: 7,250 kg/h (16,000 lb/h) rate
+- Total Heat Transfer Surface Area: 83.6 m² (900 ft²) area
+- Material: Stainless Steel 316
+- Subtype: Rising/falling film type
 
-[Request Specs](/contact/) | [View IPP# 220739](https://ims.internationalprocessplants.com/inventory/equipment/detail/220739)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/220739) | [View IPP# 220739](https://ims.internationalprocessplants.com/inventory/equipment/detail/220739)
 
 #### Used Struthers Wells SS 304 — 1,100 kg/h ([IPP# 246893](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893))
 
 Used Struthers Wells Inc. crystalizer/evaporator in stainless steel 304. 44.1 m² (475 ft²) heat transfer area with 1,100 kg/h (2,400 lb/h) evaporation rate.
 
-- Used condition
-- 1,100 kg/h (2,400 lb/h) rate
-- 44.1 m² (475 ft²) area
-- 3.4 bar (50 psi), 145°C (293°F)
-- Crystalizer/evaporator type
+- Condition: Used condition
+- Evaporation Rate: 1,100 kg/h (2,400 lb/h) rate
+- Total Heat Transfer Surface Area: 44.1 m² (475 ft²) area
+- Pressure: 3.4 bar (50 psi)
+- Temperature: 145°C (293°F)
+- Subtype: Crystalizer/evaporator type
 
-[Request Specs](/contact/) | [View IPP# 246893](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893) | [View IPP# 246893](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893)
 
 [Browse All Used Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator)
 
@@ -344,25 +373,29 @@ Unused evaporators are factory-new units that were never installed or commission
 
 Unused Pfaudler 103.4-36V-274 wiped/thin film evaporator in stainless steel 304. 9.5 m² (102 ft²) heat transfer area with 226.8 kg/h (500 lb/h) evaporation rate. Internal condenser, chevron graphite wipers.
 
-- Unused condition
-- 226.8 kg/h (500 lb/h) rate
-- 9.5 m² (102 ft²) area
-- 5.9 bar (85 psi), 300°C (572°F)
-- Internal condenser, graphite wipers
+- Condition: Unused condition
+- Evaporation Rate: 226.8 kg/h (500 lb/h) rate
+- Total Heat Transfer Surface Area: 9.5 m² (102 ft²) area
+- Pressure: 5.9 bar (85 psi)
+- Temperature: 300°C (572°F)
+- Internal Condenser: Internal condenser
+- Wipers MOC: graphite wipers
 
-[Request Specs](/contact/) | [View IPP# 246862](https://ims.internationalprocessplants.com/inventory/equipment/detail/246862)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246862) | [View IPP# 246862](https://ims.internationalprocessplants.com/inventory/equipment/detail/246862)
 
 #### [Unused] Unused Chema Balke Dürr RDA350 — SS 316 ([IPP# 47921](https://ims.internationalprocessplants.com/inventory/equipment/detail/47921))
 
 Unused Chema Balke Dürr GmbH RDA350/2.5-A wiped/thin film evaporator in stainless steel 316. 2.6 m² (27.7 ft²) heat transfer area with 61.2 kg/h (135 lb/h) evaporation rate. Vacuum capable.
 
-- Unused condition
-- 61.2 kg/h (135 lb/h) rate
-- 2.6 m² (27.7 ft²) area
-- 2 bar (29 psi), 180°C (356°F)
-- 406.4 mm (16 in) × 2,350 mm (92.5 in), vertical
+- Condition: Unused condition
+- Evaporation Rate: 61.2 kg/h (135 lb/h) rate
+- Total Heat Transfer Surface Area: 2.6 m² (27.7 ft²) area
+- Pressure: 2 bar (29 psi)
+- Temperature: 180°C (356°F)
+- Diameter: 406.4 mm (16 in)
+- Height: 2,350 mm (92.5 in), vertical
 
-[Request Specs](/contact/) | [View IPP# 47921](https://ims.internationalprocessplants.com/inventory/equipment/detail/47921)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/47921) | [View IPP# 47921](https://ims.internationalprocessplants.com/inventory/equipment/detail/47921)
 
 [Browse All Unused Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator)
 
@@ -374,25 +407,26 @@ Re-glassed evaporators have received new glass linings, restoring the corrosion-
 
 Re-glassed Pfaudler glass-lined wiped film evaporator with 10 m² (107.6 ft²) heat transfer area and 242.7 kg/h (535 lb/h) evaporation rate. Glass-covered graphite wipers.
 
-- Re-glassed condition
-- 242.7 kg/h (535 lb/h) rate
-- 10 m² (107.6 ft²) area
-- Glass-lined construction
-- Glass-covered graphite wipers
+- Condition: Re-glassed condition
+- Evaporation Rate: 242.7 kg/h (535 lb/h) rate
+- Total Heat Transfer Surface Area: 10 m² (107.6 ft²) area
+- Material: Glass-lined construction
+- Wipers MOC: Glass-covered graphite wipers
 
-[Request Specs](/contact/) | [View IPP# 18493](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493) | [View IPP# 18493](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493)
 
 #### [Re-glassed] Re-glassed Pfaudler Crystalizer — Glass-Lined ([IPP# 86856](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856))
 
 Re-glassed Pfaudler glass-lined crystalizer/evaporator. Vertical orientation with 914 mm (36 in) diameter and 711 mm (28 in) height. 4-leg support.
 
-- Re-glassed condition
-- Glass-lined construction
-- 914 mm (36 in) × 711 mm (28 in), vertical
-- 4-leg support
-- Dish bottom, welded
+- Condition: Re-glassed condition
+- Material: Glass-lined construction
+- Diameter: 914 mm (36 in)
+- Height: 711 mm (28 in), vertical
+- Support Type: 4-leg support
+- Bottom Head Type: Dish bottom, welded
 
-[Request Specs](/contact/) | [View IPP# 86856](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856) | [View IPP# 86856](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856)
 
 [Browse All Re-glassed Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator)
 
@@ -441,7 +475,7 @@ The process of purchasing a used evaporator from IPP follows five steps, from sp
 
 Tell us your evaporation rate, material, heat transfer area, and temperature requirements. Our team will match your specifications against current evaporator inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -536,7 +570,7 @@ A: IPP coordinates packaging, crating, freight, and delivery to your plant site.
 
 IPP Group supplies new process equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed evaporators through its UGE (Universal Glasteel Equipment) division. If you cannot find what you need in our used inventory, we can build or re-glass to your specifications.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -545,4 +579,4 @@ IPP Group supplies new process equipment through its Gale Process Solutions (GPS
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Evaporator Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Evaporator Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator)

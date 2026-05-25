@@ -1,12 +1,12 @@
 # Buy Used Ribbon & Paddle Mixers for Sale
 
-Buying used ribbon and paddle mixers through International Process Plants gives chemical, pharmaceutical, and industrial manufacturers access to horizontal trough blenders fitted with ribbon, paddle, plow, or interrupted-ribbon agitators for blending dry and wet solids from Loedige Littleford Ploughshare, Babcock & Wilcox, SCHICHAU-GRIEP, Littleford Bros, Inc, and other OEM manufacturers.
+Buying used ribbon and paddle mixers through International Process Plants gives chemical, pharmaceutical, and industrial manufacturers the ability to blend dry and wet solids with their horizontal trough blenders by fitting them with ribbon, paddle, plow, or interrupted-ribbon agitators from Loedige Littleford Ploughshare, Babcock & Wilcox, SCHICHAU-GRIEP, Littleford Bros, Inc, and other OEM manufacturers.
 
 Working volume spans 0.03 m3 (1.06 ft3) on IPP# 217882 to 13 m3 (459.1 ft3) on IPP# 208406. Total trough capacity reaches 20 m3 (706 ft3) on the largest stocked unit. Rotor geometries in stock include paddles, single helix ribbons, double helix ribbons, plows, and interrupted-ribbon configurations. Operational modes include batch and continuous duty units. Agitation shaft sealing options cover packing seals and mechanical seals.
 
 IPP stocks Loedige Littleford Ploughshare units across the FKM and KM model families. Babcock & Wilcox inventory includes the 100L2PGM and HHS/7 series. Construction materials include Stainless Steel 304, 316, 321, 304L, other austenitic grades, and Carbon Steel, including clad designs. Condition options include used and refurbished/rebuilt stock. Buying used ribbon and paddle mixers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-paddle-mixer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-paddle-mixer)
 
 **Quick Stats:** 30+ Ribbon & Paddle Mixers in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -30,38 +30,47 @@ IPP stocks stainless steel ribbon and paddle mixers in 304, 316, 321, 304L, and 
 
 Used Littleford Bros, Inc FKM-600-D stainless steel 304 ribbon and paddle mixer with jacketed trough rated for vacuum service and Falk drive.
 
-- 0.79 m3 (28 ft3) total capacity
-- -0.97 bar (-14 psi) vacuum rated
-- Standard jacket, 0.48 bar (7 psi)
-- Batch operation
-- 1,200 mm (47.2 in) L x 914 mm (36 in) W x 914 mm (36 in) H
-- Stainless Steel 304
+- Design Capacity: 0.79 m3 (28 ft3) total capacity
+- Vessel Pressure: -0.97 bar (-14 psi) vacuum rated
+- Jacket Type: Standard jacket
+- Jacket Pressure: 0.48 bar (7 psi)
+- Operational mode: Batch operation
+- Length: 1,200 mm (47.2 in) L
+- Width: 914 mm (36 in) W
+- Height: 914 mm (36 in) H
+- Material: Stainless Steel 304
 
-[Request Specs](/contact/) | [View IPP# 228346](https://ims.internationalprocessplants.com/inventory/equipment/detail/228346)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/228346) | [View IPP# 228346](https://ims.internationalprocessplants.com/inventory/equipment/detail/228346)
 
 #### Bepex JMX JS 250 — 9.9 m3 ([IPP# 204772](https://ims.internationalprocessplants.com/inventory/equipment/detail/204772))
 
 Used Bepex JMX JS 250 stainless steel 304 ribbon and paddle mixer with 9.9 m3 (350 ft3) total capacity, 7.1 m3 (250 ft3) working volume, and double helix rotor.
 
-- 9.9 m3 (350 ft3) total / 7.1 m3 (250 ft3) working
-- Double helix rotor
-- Batch operation
-- 3,900 mm (153.5 in) L x 1,550 mm (61 in) W x 1,700 mm (66.9 in) H
-- Stainless Steel 304
+- Design Capacity: 9.9 m3 (350 ft3) total
+- Operating Capacity: 7.1 m3 (250 ft3) working
+- Ribbon Type: Double helix rotor
+- Operational mode: Batch operation
+- Length: 3,900 mm (153.5 in) L
+- Width: 1,550 mm (61 in) W
+- Height: 1,700 mm (66.9 in) H
+- Material: Stainless Steel 304
 
-[Request Specs](/contact/) | [View IPP# 204772](https://ims.internationalprocessplants.com/inventory/equipment/detail/204772)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/204772) | [View IPP# 204772](https://ims.internationalprocessplants.com/inventory/equipment/detail/204772)
 
 #### Loedige Littleford KM8000 — 8 m3 ([IPP# 213607](https://ims.internationalprocessplants.com/inventory/equipment/detail/213607))
 
 Used Loedige Littleford Ploughshare KM8000 stainless steel 304 ribbon and paddle mixer running continuous duty with plow-style rotor.
 
-- 8 m3 (282.5 ft3) total / 5 m3 (176.6 ft3) working
-- Plows rotor
-- Continuous operation
-- 7,400 mm (291.3 in) L x 1,750 mm (68.9 in) W x 2,300 mm (90.6 in) H
-- Stainless Steel 304
+- Design Capacity: 8 m3 (282.5 ft3) total
+- Operating Capacity: 5 m3 (176.6 ft3) working
+- Ribbon Type: Plows rotor
+- Operational mode: Continuous operation
+- Length: 7,400 mm (291.3 in) L
+- Width: 1,750 mm (68.9 in) W
+- Height: 2,300 mm (90.6 in) H
+- Material: Stainless Steel 304
 
-[Request Specs](/contact/) | [View IPP# 213607](https://ims.internationalprocessplants.com/inventory/equipment/detail/213607)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/213607) | [View IPP# 213607](https://ims.internationalprocessplants.com/inventory/equipment/detail/213607)
 
 [Browse All Stainless Steel Ribbon & Paddle Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-paddle-mixer)
 
@@ -73,37 +82,44 @@ IPP stocks carbon steel ribbon and paddle mixers, including clad designs, for co
 
 Used Robinson carbon steel ribbon and paddle mixer with double helix rotor and packed shaft seal.
 
-- 0.42 m3 (15 ft3) total / 0.28 m3 (10 ft3) working
-- Double helix rotor
-- Packing seal
-- 1,200 mm (47.2 in) L x 610 mm (24 in) W
-- Carbon Steel
+- Design Capacity: 0.42 m3 (15 ft3) total
+- Operating Capacity: 0.28 m3 (10 ft3) working
+- Ribbon Type: Double helix rotor
+- Agitation Shaft Sealing: Packing seal
+- Length: 1,200 mm (47.2 in) L
+- Width: 610 mm (24 in) W
+- Material: Carbon Steel
 
-[Request Specs](/contact/) | [View IPP# 87089](https://ims.internationalprocessplants.com/inventory/equipment/detail/87089)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/87089) | [View IPP# 87089](https://ims.internationalprocessplants.com/inventory/equipment/detail/87089)
 
 #### Carbon Steel Clad — 8.5 m3 ([IPP# 203129](https://ims.internationalprocessplants.com/inventory/equipment/detail/203129))
 
 Used clad carbon steel ribbon and paddle mixer with single helix rotor for high-volume continuous blending duties.
 
-- 8.5 m3 (300 ft3) total / 5.7 m3 (200 ft3) working
-- Single helix rotor
-- Clad construction
-- 3,050 mm (120.1 in) L x 1,350 mm (53.1 in) W
-- Carbon Steel
+- Design Capacity: 8.5 m3 (300 ft3) total
+- Operating Capacity: 5.7 m3 (200 ft3) working
+- Ribbon Type: Single helix rotor
+- Clad: Clad construction
+- Length: 3,050 mm (120.1 in) L
+- Width: 1,350 mm (53.1 in) W
+- Material: Carbon Steel
 
-[Request Specs](/contact/) | [View IPP# 203129](https://ims.internationalprocessplants.com/inventory/equipment/detail/203129)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/203129) | [View IPP# 203129](https://ims.internationalprocessplants.com/inventory/equipment/detail/203129)
 
 #### Carbon Steel — 0.6 m3 ([IPP# 706702](https://ims.internationalprocessplants.com/inventory/equipment/detail/706702))
 
 Used carbon steel ribbon and paddle mixer with interrupted-ribbon rotor and carbon steel paddle/ribbon construction.
 
-- 0.6 m3 (21.2 ft3) total / 0.4 m3 (14.1 ft3) working
-- Interrupted ribbon rotor
-- Carbon steel paddles/ribbons
-- 1,700 mm (66.9 in) L x 550 mm (21.7 in) W x 700 mm (27.6 in) H
-- Carbon Steel
+- Design Capacity: 0.6 m3 (21.2 ft3) total
+- Operating Capacity: 0.4 m3 (14.1 ft3) working
+- Ribbon Type: Interrupted ribbon rotor
+- Paddle/Ribbon MOC: Carbon steel paddles/ribbons
+- Length: 1,700 mm (66.9 in) L
+- Width: 550 mm (21.7 in) W
+- Height: 700 mm (27.6 in) H
+- Material: Carbon Steel
 
-[Request Specs](/contact/) | [View IPP# 706702](https://ims.internationalprocessplants.com/inventory/equipment/detail/706702)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706702) | [View IPP# 706702](https://ims.internationalprocessplants.com/inventory/equipment/detail/706702)
 
 [Browse All Carbon Steel Ribbon & Paddle Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-paddle-mixer)
 
@@ -122,37 +138,47 @@ Loedige Littleford Ploughshare (Lodige) is the deepest single-OEM position in IP
 
 Refurbished/rebuilt Loedige Littleford Ploughshare FKM 3000.D.4MZ.4ZF.4L stainless steel 321 mixer with plow rotor and 110 °C jacket rating.
 
-- 3 m3 (105.9 ft3) total / 2 m3 (70.6 ft3) working
-- Plows rotor
-- 110 °C (230 °F) rated
-- 4,300 mm (169.3 in) L x 1,800 mm (70.9 in) W x 1,900 mm (74.8 in) H
-- Stainless Steel 321, refurbished
+- Design Capacity: 3 m3 (105.9 ft3) total
+- Operating Capacity: 2 m3 (70.6 ft3) working
+- Ribbon Type: Plows rotor
+- Vessel Temperature: 110 °C (230 °F) rated
+- Length: 4,300 mm (169.3 in) L
+- Width: 1,800 mm (70.9 in) W
+- Height: 1,900 mm (74.8 in) H
+- Material: Stainless Steel 321
+- Condition: refurbished
 
-[Request Specs](/contact/) | [View IPP# 208450](https://ims.internationalprocessplants.com/inventory/equipment/detail/208450)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208450) | [View IPP# 208450](https://ims.internationalprocessplants.com/inventory/equipment/detail/208450)
 
 #### Loedige KM8000 — 8 m3 ([IPP# 213607](https://ims.internationalprocessplants.com/inventory/equipment/detail/213607))
 
 Used Loedige Littleford Ploughshare KM8000 stainless steel 304 ribbon and paddle mixer with continuous duty plow rotor.
 
-- 8 m3 (282.5 ft3) total / 5 m3 (176.6 ft3) working
-- Plows rotor
-- Continuous operation
-- 7,400 mm (291.3 in) L x 1,750 mm (68.9 in) W x 2,300 mm (90.6 in) H
-- Stainless Steel 304
+- Design Capacity: 8 m3 (282.5 ft3) total
+- Operating Capacity: 5 m3 (176.6 ft3) working
+- Ribbon Type: Plows rotor
+- Operational mode: Continuous operation
+- Length: 7,400 mm (291.3 in) L
+- Width: 1,750 mm (68.9 in) W
+- Height: 2,300 mm (90.6 in) H
+- Material: Stainless Steel 304
 
-[Request Specs](/contact/) | [View IPP# 213607](https://ims.internationalprocessplants.com/inventory/equipment/detail/213607)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/213607) | [View IPP# 213607](https://ims.internationalprocessplants.com/inventory/equipment/detail/213607)
 
 #### Loedige FKM 1200 D2 Z — 1.2 m3 ([IPP# 217872](https://ims.internationalprocessplants.com/inventory/equipment/detail/217872))
 
 Used Loedige Littleford Ploughshare FKM 1200 D2 Z stainless steel ribbon and paddle mixer with plow rotor at atmospheric vessel pressure.
 
-- 1.2 m3 (42.4 ft3) total / 0.6 m3 (21.2 ft3) working
-- Plows rotor
-- 1.01 bar (14.7 psi) atmospheric
-- 2,350 mm (92.5 in) L x 1,700 mm (66.9 in) W x 1,900 mm (74.8 in) H
-- Stainless Steel Other
+- Design Capacity: 1.2 m3 (42.4 ft3) total
+- Operating Capacity: 0.6 m3 (21.2 ft3) working
+- Ribbon Type: Plows rotor
+- Vessel Pressure: 1.01 bar (14.7 psi) atmospheric
+- Length: 2,350 mm (92.5 in) L
+- Width: 1,700 mm (66.9 in) W
+- Height: 1,900 mm (74.8 in) H
+- Material: Stainless Steel Other
 
-[Request Specs](/contact/) | [View IPP# 217872](https://ims.internationalprocessplants.com/inventory/equipment/detail/217872)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/217872) | [View IPP# 217872](https://ims.internationalprocessplants.com/inventory/equipment/detail/217872)
 
 [Browse All Loedige Littleford Ploughshare Ribbon & Paddle Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-paddle-mixer)
 
@@ -164,37 +190,45 @@ Babcock & Wilcox is the second deepest OEM position in IPP's ribbon and paddle m
 
 Used Babcock & Wilcox stainless steel 316 ribbon and paddle mixer with interrupted-ribbon rotor and packed agitator seal.
 
-- 1 m3 (35.3 ft3) total / 0.5 m3 (17.7 ft3) working
-- Interrupted ribbon rotor
-- Packing seal
-- 2,600 mm (102.4 in) L x 600 mm (23.6 in) W x 812 mm (32 in) H
-- Stainless Steel 316
+- Design Capacity: 1 m3 (35.3 ft3) total
+- Operating Capacity: 0.5 m3 (17.7 ft3) working
+- Ribbon Type: Interrupted ribbon rotor
+- Agitation Shaft Sealing: Packing seal
+- Length: 2,600 mm (102.4 in) L
+- Width: 600 mm (23.6 in) W
+- Height: 812 mm (32 in) H
+- Material: Stainless Steel 316
 
-[Request Specs](/contact/) | [View IPP# 39351](https://ims.internationalprocessplants.com/inventory/equipment/detail/39351)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/39351) | [View IPP# 39351](https://ims.internationalprocessplants.com/inventory/equipment/detail/39351)
 
 #### B&W 100L2PGM — 0.1 m3 ([IPP# 704157](https://ims.internationalprocessplants.com/inventory/equipment/detail/704157))
 
 Used Babcock & Wilcox 100L2PGM stainless steel 316 lab/pilot-scale ribbon and paddle mixer with interrupted-ribbon rotor.
 
-- 0.1 m3 (3.5 ft3) total / 0.07 m3 (2.3 ft3) working
-- Interrupted ribbon rotor
-- Packing seal
-- 2,300 mm (90.6 in) L x 1,300 mm (51.2 in) W x 1,300 mm (51.2 in) H
-- Stainless Steel 316
+- Design Capacity: 0.1 m3 (3.5 ft3) total
+- Operating Capacity: 0.07 m3 (2.3 ft3) working
+- Ribbon Type: Interrupted ribbon rotor
+- Agitation Shaft Sealing: Packing seal
+- Length: 2,300 mm (90.6 in) L
+- Width: 1,300 mm (51.2 in) W
+- Height: 1,300 mm (51.2 in) H
+- Material: Stainless Steel 316
 
-[Request Specs](/contact/) | [View IPP# 704157](https://ims.internationalprocessplants.com/inventory/equipment/detail/704157)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/704157) | [View IPP# 704157](https://ims.internationalprocessplants.com/inventory/equipment/detail/704157)
 
 #### B&W HHS/7 — 0.66 m3 ([IPP# 706481](https://ims.internationalprocessplants.com/inventory/equipment/detail/706481))
 
 Used Babcock & Wilcox HHS/7 stainless steel 321 ribbon and paddle mixer with interrupted-ribbon rotor and packed shaft seal.
 
-- 0.66 m3 (23.3 ft3) total / 0.44 m3 (15.5 ft3) working
-- Interrupted ribbon rotor
-- Packing seal
-- Babcock & Wilcox HHS/7
-- Stainless Steel 321
+- Design Capacity: 0.66 m3 (23.3 ft3) total
+- Operating Capacity: 0.44 m3 (15.5 ft3) working
+- Ribbon Type: Interrupted ribbon rotor
+- Agitation Shaft Sealing: Packing seal
+- Manufacturer: Babcock & Wilcox
+- Model: HHS/7
+- Material: Stainless Steel 321
 
-[Request Specs](/contact/) | [View IPP# 706481](https://ims.internationalprocessplants.com/inventory/equipment/detail/706481)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706481) | [View IPP# 706481](https://ims.internationalprocessplants.com/inventory/equipment/detail/706481)
 
 [Browse All Babcock & Wilcox Ribbon & Paddle Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-paddle-mixer)
 
@@ -206,37 +240,45 @@ Beyond Loedige Littleford Ploughshare and Babcock & Wilcox, IPP stocks units fro
 
 Used SCHICHAU-GRIEP DS 160 stainless steel 321 ribbon and paddle mixer with single helix rotor at the largest stocked trough capacity.
 
-- 20 m3 (706 ft3) total / 13 m3 (459.1 ft3) working
-- Single helix rotor
-- SCHICHAU-GRIEP DS 160
-- Stainless Steel 321
-- Used condition
+- Design Capacity: 20 m3 (706 ft3) total
+- Operating Capacity: 13 m3 (459.1 ft3) working
+- Ribbon Type: Single helix rotor
+- Manufacturer: SCHICHAU-GRIEP
+- Model: DS 160
+- Material: Stainless Steel 321
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 208406](https://ims.internationalprocessplants.com/inventory/equipment/detail/208406)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208406) | [View IPP# 208406](https://ims.internationalprocessplants.com/inventory/equipment/detail/208406)
 
 #### M.A.P SRL WBHY 6000 — 6 m3 ([IPP# 207399](https://ims.internationalprocessplants.com/inventory/equipment/detail/207399))
 
 Used M.A.P SRL (Italy) WBHY 6000 stainless steel 316 ribbon and paddle mixer with plow rotor and packed shaft seal.
 
-- 6 m3 (211.9 ft3) total / 4 m3 (141.3 ft3) working
-- Plows rotor
-- Packing seal
-- 7,000 mm (275.6 in) L x 1,600 mm (63 in) W x 2,000 mm (78.7 in) H
-- Stainless Steel 316
+- Design Capacity: 6 m3 (211.9 ft3) total
+- Operating Capacity: 4 m3 (141.3 ft3) working
+- Ribbon Type: Plows rotor
+- Agitation Shaft Sealing: Packing seal
+- Length: 7,000 mm (275.6 in) L
+- Width: 1,600 mm (63 in) W
+- Height: 2,000 mm (78.7 in) H
+- Material: Stainless Steel 316
 
-[Request Specs](/contact/) | [View IPP# 207399](https://ims.internationalprocessplants.com/inventory/equipment/detail/207399)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/207399) | [View IPP# 207399](https://ims.internationalprocessplants.com/inventory/equipment/detail/207399)
 
 #### Young Industrial Machinery — 0.28 m3 ([IPP# 110637](https://ims.internationalprocessplants.com/inventory/equipment/detail/110637))
 
 Used Young Industrial Machinery stainless steel 304 ribbon and paddle mixer with double helix rotor and pressure-rated trough.
 
-- 0.28 m3 (10 ft3) total / 0.17 m3 (6 ft3) working
-- Double helix rotor
-- 13.8 bar (200 psi) rated
-- 1,200 mm (47.2 in) L x 559 mm (22 in) W x 610 mm (24 in) H
-- Stainless Steel 304
+- Design Capacity: 0.28 m3 (10 ft3) total
+- Operating Capacity: 0.17 m3 (6 ft3) working
+- Ribbon Type: Double helix rotor
+- Vessel Pressure: 13.8 bar (200 psi) rated
+- Length: 1,200 mm (47.2 in) L
+- Width: 559 mm (22 in) W
+- Height: 610 mm (24 in) H
+- Material: Stainless Steel 304
 
-[Request Specs](/contact/) | [View IPP# 110637](https://ims.internationalprocessplants.com/inventory/equipment/detail/110637)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/110637) | [View IPP# 110637](https://ims.internationalprocessplants.com/inventory/equipment/detail/110637)
 
 [Browse All Ribbon & Paddle Mixers from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-paddle-mixer)
 
@@ -255,37 +297,40 @@ Good used ribbon and paddle mixers are the deepest condition position in IPP's i
 
 Used Littleford Bros, Inc FKM-600-D stainless steel 304 ribbon and paddle mixer with vacuum-rated trough, standard jacket, and Falk drive.
 
-- Used condition
-- 0.79 m3 (28 ft3) total capacity
-- -0.97 bar (-14 psi) vacuum rated
-- Falk drive
-- Stainless Steel 304
+- Condition: Used condition
+- Design Capacity: 0.79 m3 (28 ft3) total capacity
+- Vessel Pressure: -0.97 bar (-14 psi) vacuum rated
+- Drive Make: Falk drive
+- Material: Stainless Steel 304
 
-[Request Specs](/contact/) | [View IPP# 228346](https://ims.internationalprocessplants.com/inventory/equipment/detail/228346)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/228346) | [View IPP# 228346](https://ims.internationalprocessplants.com/inventory/equipment/detail/228346)
 
 #### Used Bepex JMX JS 250 — 9.9 m3 ([IPP# 204772](https://ims.internationalprocessplants.com/inventory/equipment/detail/204772))
 
 Used Bepex JMX JS 250 stainless steel 304 ribbon and paddle mixer with double helix rotor and large-capacity batch trough.
 
-- Used condition
-- 9.9 m3 (350 ft3) total / 7.1 m3 (250 ft3) working
-- Double helix rotor
-- Batch operation
-- Stainless Steel 304
+- Condition: Used condition
+- Design Capacity: 9.9 m3 (350 ft3) total
+- Operating Capacity: 7.1 m3 (250 ft3) working
+- Ribbon Type: Double helix rotor
+- Operational mode: Batch operation
+- Material: Stainless Steel 304
 
-[Request Specs](/contact/) | [View IPP# 204772](https://ims.internationalprocessplants.com/inventory/equipment/detail/204772)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/204772) | [View IPP# 204772](https://ims.internationalprocessplants.com/inventory/equipment/detail/204772)
 
 #### Used SCHICHAU-GRIEP DS 160 — 20 m3 ([IPP# 208406](https://ims.internationalprocessplants.com/inventory/equipment/detail/208406))
 
 Used SCHICHAU-GRIEP DS 160 stainless steel 321 ribbon and paddle mixer with single helix rotor at the largest trough capacity in stock.
 
-- Used condition
-- 20 m3 (706 ft3) total / 13 m3 (459.1 ft3) working
-- Single helix rotor
-- SCHICHAU-GRIEP DS 160
-- Stainless Steel 321
+- Condition: Used condition
+- Design Capacity: 20 m3 (706 ft3) total
+- Operating Capacity: 13 m3 (459.1 ft3) working
+- Ribbon Type: Single helix rotor
+- Manufacturer: SCHICHAU-GRIEP
+- Model: DS 160
+- Material: Stainless Steel 321
 
-[Request Specs](/contact/) | [View IPP# 208406](https://ims.internationalprocessplants.com/inventory/equipment/detail/208406)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208406) | [View IPP# 208406](https://ims.internationalprocessplants.com/inventory/equipment/detail/208406)
 
 [Browse All Used Ribbon & Paddle Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-paddle-mixer)
 
@@ -297,13 +342,14 @@ Refurbished/rebuilt ribbon and paddle mixers have been disassembled, inspected, 
 
 Refurbished/rebuilt Loedige Littleford Ploughshare FKM 3000.D.4MZ.4ZF.4L stainless steel 321 ribbon and paddle mixer with plow rotor, packed shaft seal, and 110 °C jacket rating.
 
-- Refurbished/Rebuilt condition
-- 3 m3 (105.9 ft3) total / 2 m3 (70.6 ft3) working
-- Plows rotor
-- 110 °C (230 °F) jacket rating
-- Stainless Steel 321
+- Condition: Refurbished/Rebuilt condition
+- Design Capacity: 3 m3 (105.9 ft3) total
+- Operating Capacity: 2 m3 (70.6 ft3) working
+- Ribbon Type: Plows rotor
+- Vessel Temperature: 110 °C (230 °F) jacket rating
+- Material: Stainless Steel 321
 
-[Request Specs](/contact/) | [View IPP# 208450](https://ims.internationalprocessplants.com/inventory/equipment/detail/208450)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208450) | [View IPP# 208450](https://ims.internationalprocessplants.com/inventory/equipment/detail/208450)
 
 [Browse All Refurbished/Rebuilt Ribbon & Paddle Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-paddle-mixer)
 
@@ -314,7 +360,7 @@ Refurbished/rebuilt Loedige Littleford Ploughshare FKM 3000.D.4MZ.4ZF.4L stainle
 
 Tell us your specifications and requirements. Our team will match your needs against current ribbon & paddle mixers inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -353,7 +399,7 @@ IPP stocks ribbon & paddle mixers from Loedige Littleford Ploughshare, Babcock &
 IPP offers refurbishment services through its UGE (Universal Glasteel Equipment) division, founded in 1995, which stocks 700+ vessels and 2,700+ parts.
 
 ### Global Presence in 15 Countries
-IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom, and United States. IPP has served 160,000+ customers worldwide.
+IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom, and the United States. IPP has served 160,000+ customers worldwide.
 
 ### Full Range of Materials & Specs
 IPP stocks ribbon & paddle mixers across a wide range of specifications to match your process requirements.
@@ -436,7 +482,7 @@ In addition to ribbon & paddle mixers, IPP stocks equipment across multiple cate
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -445,4 +491,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-paddle-mixer)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-paddle-mixer)

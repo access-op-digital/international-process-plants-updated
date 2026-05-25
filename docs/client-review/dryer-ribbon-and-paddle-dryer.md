@@ -1,10 +1,10 @@
 # Buy Used Ribbon & Paddle Dryers for Sale
 
-Buying used ribbon & paddle dryers through International Process Plants gives chemical, pharmaceutical, and industrial manufacturers access to Bepex, Strong Scott, Langfields Ltd and other OEM manufacturers.
+Buying used ribbon & paddle dryers through International Process Plants gives chemical and industrial manufacturers access to Bepex, Strong Scott, Langfields Ltd and other OEM manufacturers.
 
 Materials of construction include Stainless Steel 304, Stainless Steel 316, Carbon Steel, Stainless Steel 316L. Available in Used, Unused conditions. Buying used ribbon & paddle dryers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-and-paddle-dryer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-and-paddle-dryer)
 
 **Quick Stats:** 15+ Dryers in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -28,21 +28,23 @@ IPP stocks stainless steel ribbon & paddle dryers. Available from Strong Scott, 
 
 Used Komline Sanderson Stainless Steel 316L dryer- ribbon & paddle.
 
-- Stainless Steel 316L
-- Used condition
-- Komline Sanderson NPD-8W-400
+- Material: Stainless Steel 316L
+- Condition: Used condition
+- Manufacturer: Komline Sanderson
+- Model: NPD-8W-400
 
-[Request Specs](/contact/) | [View IPP# 210716](https://ims.internationalprocessplants.com/inventory/equipment/detail/210716)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/210716) | [View IPP# 210716](https://ims.internationalprocessplants.com/inventory/equipment/detail/210716)
 
 #### American Process Stainless Steel 304 ([IPP# 246690](https://ims.internationalprocessplants.com/inventory/equipment/detail/246690))
 
 Used American Process Stainless Steel 304 dryer- ribbon & paddle.
 
-- Stainless Steel 304
-- Used condition
-- American Process C045/5608 Type CPB-045
+- Material: Stainless Steel 304
+- Condition: Used condition
+- Manufacturer: American Process
+- Model: C045/5608 Type CPB-045
 
-[Request Specs](/contact/) | [View IPP# 246690](https://ims.internationalprocessplants.com/inventory/equipment/detail/246690)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246690) | [View IPP# 246690](https://ims.internationalprocessplants.com/inventory/equipment/detail/246690)
 
 [Browse All Stainless Steel Ribbon & Paddle Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-and-paddle-dryer)
 
@@ -54,21 +56,23 @@ IPP stocks carbon steel ribbon & paddle dryers. Available from Bepex and other m
 
 Unused Bepex Carbon Steel dryer- ribbon & paddle.
 
-- Carbon Steel
-- Unused condition
-- Bepex CRUJ-400
+- Material: Carbon Steel
+- Condition: Unused condition
+- Manufacturer: Bepex
+- Model: CRUJ-400
 
-[Request Specs](/contact/) | [View IPP# 96809](https://ims.internationalprocessplants.com/inventory/equipment/detail/96809)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/96809) | [View IPP# 96809](https://ims.internationalprocessplants.com/inventory/equipment/detail/96809)
 
 #### Bepex Carbon Steel ([IPP# 96807](https://ims.internationalprocessplants.com/inventory/equipment/detail/96807))
 
 Unused Bepex Carbon Steel dryer- ribbon & paddle.
 
-- Carbon Steel
-- Unused condition
-- Bepex CRUJ-400
+- Material: Carbon Steel
+- Condition: Unused condition
+- Manufacturer: Bepex
+- Model: CRUJ-400
 
-[Request Specs](/contact/) | [View IPP# 96807](https://ims.internationalprocessplants.com/inventory/equipment/detail/96807)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/96807) | [View IPP# 96807](https://ims.internationalprocessplants.com/inventory/equipment/detail/96807)
 
 [Browse All Carbon Steel Ribbon & Paddle Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-and-paddle-dryer)
 
@@ -80,10 +84,11 @@ IPP stocks other ribbon & paddle dryers. Available from Chemie and Pilot Anlagen
 
 Unused Chemie and Pilot Anlagenbau Hydenau (Germany) dryer- ribbon & paddle.
 
-- Unused condition
-- Chemie and Pilot Anlagenbau Hydenau (Germany) 24-14
+- Condition: Unused condition
+- Manufacturer: Chemie and Pilot Anlagenbau Hydenau (Germany)
+- Model: 24-14
 
-[Request Specs](/contact/) | [View IPP# 49708](https://ims.internationalprocessplants.com/inventory/equipment/detail/49708)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/49708) | [View IPP# 49708](https://ims.internationalprocessplants.com/inventory/equipment/detail/49708)
 
 [Browse All Other Ribbon & Paddle Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-and-paddle-dryer)
 
@@ -102,31 +107,31 @@ Bepex is the deepest single-manufacturer position in IPP's ribbon & paddle dryer
 
 Unused Bepex CRUJ-400 carbon steel ribbon & paddle dryer with 11.3 m3 (400 ft3) design capacity and steam heating.
 
-- Carbon Steel
-- Unused condition
-- 11.3 m3 (400 ft3) design capacity
+- Material: Carbon Steel
+- Condition: Unused condition
+- Design Capacity: 11.3 m3 (400 ft3) design capacity
 
-[Request Specs](/contact/) | [View IPP# 96809](https://ims.internationalprocessplants.com/inventory/equipment/detail/96809)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/96809) | [View IPP# 96809](https://ims.internationalprocessplants.com/inventory/equipment/detail/96809)
 
 #### Bepex CRUJ-400 Carbon Steel ([IPP# 96807](https://ims.internationalprocessplants.com/inventory/equipment/detail/96807))
 
 Unused Bepex CRUJ-400 carbon steel ribbon & paddle dryer with 11.3 m3 (400 ft3) design capacity and continuous operation.
 
-- Carbon Steel
-- Unused condition
-- 11.3 m3 (400 ft3) design capacity
+- Material: Carbon Steel
+- Condition: Unused condition
+- Design Capacity: 11.3 m3 (400 ft3) design capacity
 
-[Request Specs](/contact/) | [View IPP# 96807](https://ims.internationalprocessplants.com/inventory/equipment/detail/96807)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/96807) | [View IPP# 96807](https://ims.internationalprocessplants.com/inventory/equipment/detail/96807)
 
 #### Bepex SJS-16-10 Stainless Steel ([IPP# 95891](https://ims.internationalprocessplants.com/inventory/equipment/detail/95891))
 
 Used Bepex SJS-16-10 stainless steel ribbon & paddle dryer with packing shaft sealing.
 
-- Stainless Steel Other
-- Used condition
-- 3.4 bar (50 psi) jacket pressure
+- Material: Stainless Steel Other
+- Condition: Used condition
+- Jacket Pressure: 3.4 bar (50 psi) jacket pressure
 
-[Request Specs](/contact/) | [View IPP# 95891](https://ims.internationalprocessplants.com/inventory/equipment/detail/95891)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/95891) | [View IPP# 95891](https://ims.internationalprocessplants.com/inventory/equipment/detail/95891)
 
 [Browse All Bepex Ribbon & Paddle Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-and-paddle-dryer)
 
@@ -138,21 +143,21 @@ Langfields Ltd is a key OEM position in IPP's ribbon & paddle dryer inventory. A
 
 Used Langfields Ltd stainless steel 316 ribbon & paddle dryer with 6.5 m3 (229.5 ft3) design capacity and steam heating.
 
-- Stainless Steel 316
-- Used condition
-- 6.5 m3 (229.5 ft3) design capacity
+- Material: Stainless Steel 316
+- Condition: Used condition
+- Design Capacity: 6.5 m3 (229.5 ft3) design capacity
 
-[Request Specs](/contact/) | [View IPP# 248075](https://ims.internationalprocessplants.com/inventory/equipment/detail/248075)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/248075) | [View IPP# 248075](https://ims.internationalprocessplants.com/inventory/equipment/detail/248075)
 
 #### Langfields Ltd Stainless Steel 316 ([IPP# 248076](https://ims.internationalprocessplants.com/inventory/equipment/detail/248076))
 
 Used Langfields Ltd stainless steel 316 ribbon & paddle dryer with 6.5 m3 (229.5 ft3) design capacity and packing shaft sealing.
 
-- Stainless Steel 316
-- Used condition
-- 6.5 m3 (229.5 ft3) design capacity
+- Material: Stainless Steel 316
+- Condition: Used condition
+- Design Capacity: 6.5 m3 (229.5 ft3) design capacity
 
-[Request Specs](/contact/) | [View IPP# 248076](https://ims.internationalprocessplants.com/inventory/equipment/detail/248076)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/248076) | [View IPP# 248076](https://ims.internationalprocessplants.com/inventory/equipment/detail/248076)
 
 [Browse All Langfields Ltd Ribbon & Paddle Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-and-paddle-dryer)
 
@@ -164,31 +169,31 @@ Beyond Bepex and Langfields Ltd, IPP stocks ribbon & paddle dryers from Strong S
 
 Used Strong Scott stainless steel 304 ribbon & paddle dryer with 0.85 m3 (30 ft3) design capacity.
 
-- Stainless Steel 304
-- Used condition
-- 0.85 m3 (30 ft3) design capacity
+- Material: Stainless Steel 304
+- Condition: Used condition
+- Design Capacity: 0.85 m3 (30 ft3) design capacity
 
-[Request Specs](/contact/) | [View IPP# 39460](https://ims.internationalprocessplants.com/inventory/equipment/detail/39460)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/39460) | [View IPP# 39460](https://ims.internationalprocessplants.com/inventory/equipment/detail/39460)
 
 #### Drais TR16000 Stainless Steel ([IPP# 706875](https://ims.internationalprocessplants.com/inventory/equipment/detail/706875))
 
 Used Drais TR16000 stainless steel austenitic ribbon & paddle dryer with 16 m3 (565 ft3) design capacity.
 
-- Stainless Steel Austenitic
-- Used condition
-- 16 m3 (565 ft3) design capacity
+- Material: Stainless Steel Austenitic
+- Condition: Used condition
+- Design Capacity: 16 m3 (565 ft3) design capacity
 
-[Request Specs](/contact/) | [View IPP# 706875](https://ims.internationalprocessplants.com/inventory/equipment/detail/706875)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706875) | [View IPP# 706875](https://ims.internationalprocessplants.com/inventory/equipment/detail/706875)
 
 #### Cogeim Stainless Steel 316 ([IPP# 248072](https://ims.internationalprocessplants.com/inventory/equipment/detail/248072))
 
 Used Cogeim stainless steel 316 ribbon & paddle dryer with 4.5 m3 (158.9 ft3) design capacity and mechanical shaft sealing.
 
-- Stainless Steel 316
-- Used condition
-- 4.5 m3 (158.9 ft3) design capacity
+- Material: Stainless Steel 316
+- Condition: Used condition
+- Design Capacity: 4.5 m3 (158.9 ft3) design capacity
 
-[Request Specs](/contact/) | [View IPP# 248072](https://ims.internationalprocessplants.com/inventory/equipment/detail/248072)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/248072) | [View IPP# 248072](https://ims.internationalprocessplants.com/inventory/equipment/detail/248072)
 
 [Browse All Ribbon & Paddle Dryers from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-and-paddle-dryer)
 
@@ -207,31 +212,31 @@ Good used ribbon & paddle dryers are the deepest condition position in IPP's inv
 
 Used Komline Sanderson NPD-8W-400 stainless steel 316L ribbon & paddle dryer with 3.7 m3 (130 ft3) design capacity and continuous operation.
 
-- Used condition
-- Stainless Steel 316L
-- 3.7 m3 (130 ft3) design capacity
+- Condition: Used condition
+- Material: Stainless Steel 316L
+- Design Capacity: 3.7 m3 (130 ft3) design capacity
 
-[Request Specs](/contact/) | [View IPP# 210716](https://ims.internationalprocessplants.com/inventory/equipment/detail/210716)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/210716) | [View IPP# 210716](https://ims.internationalprocessplants.com/inventory/equipment/detail/210716)
 
 #### Used Langfields Ltd Stainless Steel 316 ([IPP# 248075](https://ims.internationalprocessplants.com/inventory/equipment/detail/248075))
 
 Used Langfields Ltd stainless steel 316 ribbon & paddle dryer with 6.5 m3 (229.5 ft3) design capacity and steam heating.
 
-- Used condition
-- Stainless Steel 316
-- 6.5 m3 (229.5 ft3) design capacity
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Design Capacity: 6.5 m3 (229.5 ft3) design capacity
 
-[Request Specs](/contact/) | [View IPP# 248075](https://ims.internationalprocessplants.com/inventory/equipment/detail/248075)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/248075) | [View IPP# 248075](https://ims.internationalprocessplants.com/inventory/equipment/detail/248075)
 
 #### Used Drais TR16000 Stainless Steel ([IPP# 706875](https://ims.internationalprocessplants.com/inventory/equipment/detail/706875))
 
 Used Drais TR16000 stainless steel austenitic ribbon & paddle dryer with 16 m3 (565 ft3) design capacity and mechanical shaft sealing.
 
-- Used condition
-- Stainless Steel Austenitic
-- 16 m3 (565 ft3) design capacity
+- Condition: Used condition
+- Material: Stainless Steel Austenitic
+- Design Capacity: 16 m3 (565 ft3) design capacity
 
-[Request Specs](/contact/) | [View IPP# 706875](https://ims.internationalprocessplants.com/inventory/equipment/detail/706875)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706875) | [View IPP# 706875](https://ims.internationalprocessplants.com/inventory/equipment/detail/706875)
 
 [Browse All Used Ribbon & Paddle Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-and-paddle-dryer)
 
@@ -243,31 +248,31 @@ Unused ribbon & paddle dryers have never been installed or commissioned. These u
 
 Unused Bepex CRUJ-400 carbon steel ribbon & paddle dryer with 11.3 m3 (400 ft3) design capacity, steam heating, and continuous operation.
 
-- Unused condition
-- Carbon Steel
-- 11.3 m3 (400 ft3) design capacity
+- Condition: Unused condition
+- Material: Carbon Steel
+- Design Capacity: 11.3 m3 (400 ft3) design capacity
 
-[Request Specs](/contact/) | [View IPP# 96809](https://ims.internationalprocessplants.com/inventory/equipment/detail/96809)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/96809) | [View IPP# 96809](https://ims.internationalprocessplants.com/inventory/equipment/detail/96809)
 
 #### Unused Bepex CRUJ-400 Carbon Steel ([IPP# 96808](https://ims.internationalprocessplants.com/inventory/equipment/detail/96808))
 
 Unused Bepex CRUJ-400 carbon steel ribbon & paddle dryer with 11.3 m3 (400 ft3) design capacity and paddle ribbon type.
 
-- Unused condition
-- Carbon Steel
-- 11.3 m3 (400 ft3) design capacity
+- Condition: Unused condition
+- Material: Carbon Steel
+- Design Capacity: 11.3 m3 (400 ft3) design capacity
 
-[Request Specs](/contact/) | [View IPP# 96808](https://ims.internationalprocessplants.com/inventory/equipment/detail/96808)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/96808) | [View IPP# 96808](https://ims.internationalprocessplants.com/inventory/equipment/detail/96808)
 
 #### Unused Chemie and Pilot Anlagenbau 24-14 ([IPP# 49708](https://ims.internationalprocessplants.com/inventory/equipment/detail/49708))
 
 Unused Chemie and Pilot Anlagenbau Hydenau (Germany) 24-14 ribbon & paddle dryer with 16 m3 (565 ft3) design capacity and continuous operation.
 
-- Unused condition
-- 16 m3 (565 ft3) design capacity
-- Continuous operation
+- Condition: Unused condition
+- Design Capacity: 16 m3 (565 ft3) design capacity
+- Operational mode: Continuous operation
 
-[Request Specs](/contact/) | [View IPP# 49708](https://ims.internationalprocessplants.com/inventory/equipment/detail/49708)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/49708) | [View IPP# 49708](https://ims.internationalprocessplants.com/inventory/equipment/detail/49708)
 
 [Browse All Unused Ribbon & Paddle Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-and-paddle-dryer)
 
@@ -278,7 +283,7 @@ Unused Chemie and Pilot Anlagenbau Hydenau (Germany) 24-14 ribbon & paddle dryer
 
 Tell us your specifications and requirements. Our team will match your needs against current ribbon & paddle dryers inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -398,7 +403,7 @@ In addition to ribbon & paddle dryers, IPP stocks equipment across multiple cate
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -407,4 +412,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-and-paddle-dryer)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-and-paddle-dryer)

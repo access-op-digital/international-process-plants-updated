@@ -4,7 +4,7 @@ Buying used rotary steam tube dryers through International Process Plants gives 
 
 Materials of construction include Stainless Steel 304L. Available in Used conditions. Buying used rotary steam tube dryers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/rotary-steam-tube-dryer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/rotary-steam-tube-dryer)
 
 **Quick Stats:** 15,000+ Dryers in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -22,13 +22,15 @@ IPP currently stocks rotary steam tube dryers.
 
 Used Davenport Stainless Steel 304L dryer-rotary steam tube.
 
-- 204.4 °C (400 °F)
-- Stainless Steel 304L
-- Used condition
-- Davenport 12x65
-- 3,650 mm (144 in) x 19,800 mm (780 in)
+- Temperature: 204.4 °C (400 °F)
+- Material: Stainless Steel 304L
+- Condition: Used condition
+- Manufacturer: Davenport
+- Model: 12x65
+- Diameter: 3,650 mm (144 in)
+- Length: 19,800 mm (780 in)
 
-[Request Specs](/contact/) | [View IPP# 212738](https://ims.internationalprocessplants.com/inventory/equipment/detail/212738)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212738) | [View IPP# 212738](https://ims.internationalprocessplants.com/inventory/equipment/detail/212738)
 
 [Browse All Rotary Steam Tube Dryers on IMS](https://ims.internationalprocessplants.com/inventory/equipment/rotary-steam-tube-dryer)
 
@@ -37,23 +39,23 @@ Used Davenport Stainless Steel 304L dryer-rotary steam tube.
 
 ## Buy Used Rotary Steam Tube Dryers for Sale by Manufacturer
 
-IPP stocks rotary steam tube dryers from Davenport. Buying from the original equipment manufacturer helps ensure compatibility with existing plant infrastructure, replacement parts, and operator familiarity.
+IPP stocks rotary steam tube dryers from Davenport and others.
 
 ### Buy Used Davenport Rotary Steam Tube Dryers for Sale
 
-Davenport is the sole manufacturer represented in IPP's rotary steam tube dryer inventory. The available unit is a Model 12x65 in used condition with stainless steel 304L construction.
+Davenport is one of the manufacturers represented in IPP's rotary steam tube dryer inventory. The available unit is a Model 12x65 in used condition with stainless steel 304L construction.
 
-#### [Davenport 12x65] Davenport 12x65 — 397.2 m² Heat Transfer ([IPP# 212738](https://ims.internationalprocessplants.com/inventory/equipment/detail/212738))
+#### [Davenport 12x65] Davenport 12x65 — 397.2 m² (4,300 ft²) Heat Transfer ([IPP# 212738](https://ims.internationalprocessplants.com/inventory/equipment/detail/212738))
 
 Used Davenport 12x65 stainless steel 304L rotary steam tube dryer with 397.2 m² (4,300 ft²) heat transfer surface area and 216 tubes rated to 12.1 bar (175 psi).
 
-- Stainless Steel 304L
-- 397.2 m² (4,300 ft²) heat transfer area
-- 3,650 mm (144 in) diameter
-- 216 tubes
-- 12.1 bar (175 psi) tube pressure
+- Material: Stainless Steel 304L
+- Heat Transfer Surface Area: 397.2 m² (4,300 ft²) heat transfer area
+- Diameter: 3,650 mm (144 in) diameter
+- Number of Tubes: 216 tubes
+- Tube Pressure: 12.1 bar (175 psi) tube pressure
 
-[Request Specs](/contact/) | [View IPP# 212738](https://ims.internationalprocessplants.com/inventory/equipment/detail/212738)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212738) | [View IPP# 212738](https://ims.internationalprocessplants.com/inventory/equipment/detail/212738)
 
 [Browse All Davenport Rotary Steam Tube Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/rotary-steam-tube-dryer)
 
@@ -72,13 +74,13 @@ Good used rotary steam tube dryers are available in IPP's inventory. These units
 
 Used Davenport 12x65 stainless steel 304L rotary steam tube dryer with 19,800 mm (780 in) length and 204.4 °C (400 °F) operating temperature.
 
-- Used condition
-- Stainless Steel 304L
-- 19,800 mm (780 in) length
-- 204.4 °C (400 °F) temperature
-- 1,350 m² (14,300 ft²) tube surface area
+- Condition: Used condition
+- Material: Stainless Steel 304L
+- Length: 19,800 mm (780 in) length
+- Temperature: 204.4 °C (400 °F) temperature
+- Tube Surface Area: 1,350 m² (14,300 ft²) tube surface area
 
-[Request Specs](/contact/) | [View IPP# 212738](https://ims.internationalprocessplants.com/inventory/equipment/detail/212738)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212738) | [View IPP# 212738](https://ims.internationalprocessplants.com/inventory/equipment/detail/212738)
 
 [Browse All Used Rotary Steam Tube Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/rotary-steam-tube-dryer)
 
@@ -89,7 +91,7 @@ Used Davenport 12x65 stainless steel 304L rotary steam tube dryer with 19,800 mm
 
 Tell us your specifications and requirements. Our team will match your needs against current rotary steam tube dryers inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -209,7 +211,7 @@ In addition to rotary steam tube dryers, IPP stocks equipment across multiple ca
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -218,4 +220,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/rotary-steam-tube-dryer)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/rotary-steam-tube-dryer)

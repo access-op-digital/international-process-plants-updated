@@ -1,18 +1,18 @@
 # Buy Used Auto Discharge-Bottom Basket Centrifuges for Sale
 
-Buying used auto discharge-bottom basket centrifuges through International Process Plants gives pharmaceutical, chemical, food and beverage, and wastewater treatment operations access to perforated-basket centrifuges that feed slurry from the top and automatically eject the dewatered solids cake through the bottom of the basket from DeLaval, Tolhurst, Sharples, Ellerwerk, and other OEM manufacturers.
+Buying used auto discharge-bottom basket centrifuges through International Process Plants gives chemical processing, pharmaceutical, biotechnology, food and beverage, dairy processing, wastewater treatment, fine chemicals, biofuels and bioprocessing, petrochemicals, and cosmetics operations access to perforated-basket centrifuges that feed slurry from the top and automatically eject the dewatered solids cake through the bottom of the basket from DeLaval, Tolhurst, Sharples, Ellerwerk, and other OEM manufacturers.
 
 Basket diameters range from 762 mm (30 in) on IPP# 95651 to 1,500 mm (60 in) on IPP# 205951. Maximum basket speeds range from 840 RPM on IPP# 246745 to 1,600 RPM on IPP# 91124. Motor power spans from 1.49 kW (2 HP) to 44.7 kW (60 HP). Materials of construction include Stainless Steel 316, Stainless Steel 304, Stainless Steel Austenitic, Hastelloy C-276, Hastelloy C-4, Lined, and Carbon Steel.
 
 IPP stocks DeLaval and ATM/DeLaval units across the Mark III and DMPA model families. Tolhurst and Ketema/Tolhurst inventory includes Center Slung Batch-O-Matic models. Sharples units span the Tornado T-1300 and ST-1600 series. Condition options include used and refurbished/rebuilt. Buying used auto discharge-bottom basket centrifuges from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/auto-discharge-bottom)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/auto-discharge-bottom)
 
 **Quick Stats:** 60+ Centrifuges in Stock | 1980 Established Since | 15 Countries with Offices
 
 **Featured Equipment:**
 - [Broadbent Stainless Steel 316 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/209894)
-- [Broadbent Stainless Steel 316 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/209895)
+- [DeLaval Mark III Stainless Steel 316 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/213356)
 - [Ferrum Stainless Steel 316 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/233164)
 
 
@@ -30,34 +30,37 @@ IPP stocks stainless steel auto discharge-bottom basket centrifuges in multiple 
 
 Used Broadbent Stainless Steel 316 centrifuge-basket.
 
-- Stainless Steel 316
-- Used condition
-- Broadbent 46A
-- 37 kW (49.6 HP)
+- Material: Stainless Steel 316
+- Condition: Used condition
+- Manufacturer: Broadbent
+- Model: 46A
+- Motor Power: 37 kW (49.6 HP)
 
-[Request Specs](/contact/) | [View IPP# 209894](https://ims.internationalprocessplants.com/inventory/equipment/detail/209894)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/209894) | [View IPP# 209894](https://ims.internationalprocessplants.com/inventory/equipment/detail/209894)
 
 #### Ferrum Stainless Steel 316 ([IPP# 233164](https://ims.internationalprocessplants.com/inventory/equipment/detail/233164))
 
 Used Ferrum Stainless Steel 316 centrifuge-basket.
 
-- Stainless Steel 316
-- Used condition
-- Ferrum DSZ
-- 22 kW (29.5 HP)
+- Material: Stainless Steel 316
+- Condition: Used condition
+- Manufacturer: Ferrum
+- Model: DSZ
+- Motor Power: 22 kW (29.5 HP)
 
-[Request Specs](/contact/) | [View IPP# 233164](https://ims.internationalprocessplants.com/inventory/equipment/detail/233164)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/233164) | [View IPP# 233164](https://ims.internationalprocessplants.com/inventory/equipment/detail/233164)
 
 #### Ellerwerk Stainless Steel 316 ([IPP# 231006](https://ims.internationalprocessplants.com/inventory/equipment/detail/231006))
 
 Used Ellerwerk 736U-A Stainless Steel 316 centrifuge-basket with 1,250 mm (49.2 in) basket diameter and gas-tight construction.
 
-- Stainless Steel 316
-- Used condition
-- Ellerwerk 736U-A
-- 40 kW (53.6 HP)
+- Material: Stainless Steel 316
+- Condition: Used condition
+- Manufacturer: Ellerwerk
+- Model: 736U-A
+- Motor Power: 40 kW (53.6 HP)
 
-[Request Specs](/contact/) | [View IPP# 231006](https://ims.internationalprocessplants.com/inventory/equipment/detail/231006)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/231006) | [View IPP# 231006](https://ims.internationalprocessplants.com/inventory/equipment/detail/231006)
 
 [Browse All Stainless Steel Auto Discharge-Bottom Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/auto-discharge-bottom)
 
@@ -65,37 +68,44 @@ Used Ellerwerk 736U-A Stainless Steel 316 centrifuge-basket with 1,250 mm (49.2 
 
 IPP stocks Hastelloy auto discharge-bottom basket centrifuges in C-276 and C-4 grades. Available from Western States, Ametek, and Krauss Maffei.
 
-#### [Hastelloy] Western States Hastelloy - C276 ([IPP# 206512](https://ims.internationalprocessplants.com/inventory/equipment/detail/206512))
+#### [Hastelloy] Western States Hastelloy C-276 — 1,200 mm (48 in) ([IPP# 206512](https://ims.internationalprocessplants.com/inventory/equipment/detail/206512))
 
-Used Western States Hastelloy - C276 centrifuge-basket.
+Used Western States Hastelloy C-276 auto discharge-bottom basket centrifuge with 1,200 mm (48 in) basket diameter and 2.3 m² filtration area.
 
-- Hastelloy - C276
-- Used condition
-- 37.3 kW (50 HP)
+- Manufacturer: Western States
+- Material: Hastelloy - C276
+- Basket Diameter: 1,200 mm (48 in)
+- Basket Depth: 610 mm (24 in)
+- Max Speed: 1,000 RPM
+- Motor Power: 37.3 kW (50 HP)
+- Filtration Area: 2.3 m² (25.1 ft²)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 206512](https://ims.internationalprocessplants.com/inventory/equipment/detail/206512)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/206512) | [View IPP# 206512](https://ims.internationalprocessplants.com/inventory/equipment/detail/206512)
 
 #### Ametek Hastelloy - C276 ([IPP# 206562](https://ims.internationalprocessplants.com/inventory/equipment/detail/206562))
 
 Used Ametek Hastelloy - C276 centrifuge-basket.
 
-- Hastelloy - C276
-- Used condition
-- Ametek Mark III
-- 44.7 kW (60 HP)
+- Material: Hastelloy - C276
+- Condition: Used condition
+- Manufacturer: Ametek
+- Model: Mark III
+- Motor Power: 44.7 kW (60 HP)
 
-[Request Specs](/contact/) | [View IPP# 206562](https://ims.internationalprocessplants.com/inventory/equipment/detail/206562)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/206562) | [View IPP# 206562](https://ims.internationalprocessplants.com/inventory/equipment/detail/206562)
 
 #### Krauss Maffei Hastelloy - C4 ([IPP# 217889](https://ims.internationalprocessplants.com/inventory/equipment/detail/217889))
 
 Used Krauss Maffei DZU 125/2,5 Hastelloy C-4 centrifuge-basket with 1,250 mm (49.2 in) basket diameter.
 
-- Hastelloy - C4
-- Used condition
-- Krauss Maffei DZU 125/2,5
-- 950 RPM maximum
+- Material: Hastelloy - C4
+- Condition: Used condition
+- Manufacturer: Krauss Maffei
+- Model: DZU 125/2,5
+- Speed-RPM Maximum: 950 RPM maximum
 
-[Request Specs](/contact/) | [View IPP# 217889](https://ims.internationalprocessplants.com/inventory/equipment/detail/217889)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/217889) | [View IPP# 217889](https://ims.internationalprocessplants.com/inventory/equipment/detail/217889)
 
 [Browse All Hastelloy Auto Discharge-Bottom Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/auto-discharge-bottom)
 
@@ -103,23 +113,18 @@ Used Krauss Maffei DZU 125/2,5 Hastelloy C-4 centrifuge-basket with 1,250 mm (49
 
 IPP stocks lined auto discharge-bottom basket centrifuges with protective internal linings for abrasive or corrosive process duties. Available from Ametek.
 
-#### [Lined] Ametek Lined ([IPP# 203027](https://ims.internationalprocessplants.com/inventory/equipment/detail/203027))
+#### [Lined] Ametek Lined — 1,200 mm (48 in) ([IPP# 203027](https://ims.internationalprocessplants.com/inventory/equipment/detail/203027))
 
-Used Ametek Lined centrifuge-basket.
+Used Ametek lined auto discharge-bottom basket centrifuge with 1,200 mm (48 in) basket diameter, 762 mm (30 in) depth, and plow-action solids discharge.
 
-- Lined
-- Used condition
+- Manufacturer: Ametek
+- Material: Lined
+- Basket Diameter: 1,200 mm (48 in)
+- Basket Depth: 762 mm (30 in)
+- Plow Action: Yes
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 203027](https://ims.internationalprocessplants.com/inventory/equipment/detail/203027)
-
-#### Ametek Lined ([IPP# 203028](https://ims.internationalprocessplants.com/inventory/equipment/detail/203028))
-
-Used Ametek Lined centrifuge-basket.
-
-- Lined
-- Used condition
-
-[Request Specs](/contact/) | [View IPP# 203028](https://ims.internationalprocessplants.com/inventory/equipment/detail/203028)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/203027) | [View IPP# 203027](https://ims.internationalprocessplants.com/inventory/equipment/detail/203027)
 
 [Browse All Lined Auto Discharge-Bottom Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/auto-discharge-bottom)
 
@@ -127,23 +132,19 @@ Used Ametek Lined centrifuge-basket.
 
 IPP stocks carbon steel auto discharge-bottom basket centrifuges for general-purpose industrial separation duties. Available from Tolhurst.
 
-#### [Carbon Steel] Tolhurst Carbon Steel ([IPP# 89148](https://ims.internationalprocessplants.com/inventory/equipment/detail/89148))
+#### [Carbon Steel] Tolhurst Carbon Steel — 1,000 mm (40 in) ([IPP# 89148](https://ims.internationalprocessplants.com/inventory/equipment/detail/89148))
 
-Used Tolhurst Carbon Steel centrifuge-basket.
+Used Tolhurst carbon steel auto discharge-bottom basket centrifuge with 1,000 mm (40 in) basket diameter and 610 mm (24 in) basket depth.
 
-- Carbon Steel
-- Used condition
+- Manufacturer: Tolhurst
+- Basket Diameter: 1,000 mm (40 in)
+- Basket Depth: 610 mm (24 in)
+- Max Speed: 1,200 RPM
+- G Force: 800
+- Load Weight: 38.6 kg (85 lb)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 89148](https://ims.internationalprocessplants.com/inventory/equipment/detail/89148)
-
-#### Unknown Carbon Steel ([IPP# 212571](https://ims.internationalprocessplants.com/inventory/equipment/detail/212571))
-
-Used Unknown Carbon Steel centrifuge-basket.
-
-- Carbon Steel
-- Used condition
-
-[Request Specs](/contact/) | [View IPP# 212571](https://ims.internationalprocessplants.com/inventory/equipment/detail/212571)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/89148) | [View IPP# 89148](https://ims.internationalprocessplants.com/inventory/equipment/detail/89148)
 
 [Browse All Carbon Steel Auto Discharge-Bottom Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/auto-discharge-bottom)
 
@@ -162,34 +163,34 @@ DeLaval and ATM/DeLaval units represent the deepest single-manufacturer position
 
 Used DeLaval Mark III Stainless Steel 316 centrifuge-basket with 1,200 mm (48 in) basket diameter and 1,504 RPM maximum speed.
 
-- Stainless Steel 316
-- 1,200 mm (48 in) basket
-- 1,504 RPM maximum
-- Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,200 mm (48 in) basket
+- Speed-RPM Maximum: 1,504 RPM maximum
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 213356](https://ims.internationalprocessplants.com/inventory/equipment/detail/213356)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/213356) | [View IPP# 213356](https://ims.internationalprocessplants.com/inventory/equipment/detail/213356)
 
 #### DeLaval DMPA — 1,500 mm (59.1 in) ([IPP# 246745](https://ims.internationalprocessplants.com/inventory/equipment/detail/246745))
 
 Used DeLaval DMPA Stainless Steel 316 centrifuge-basket with 1,500 mm (60 in) basket diameter and 37.3 kW (50 HP) motor.
 
-- Stainless Steel 316
-- 1,500 mm (60 in) basket
-- 37.3 kW (50 HP)
-- 840 RPM maximum
+- Material: Stainless Steel 316
+- Basket Diameter: 1,500 mm (60 in) basket
+- Motor Power: 37.3 kW (50 HP)
+- Speed-RPM Maximum: 840 RPM maximum
 
-[Request Specs](/contact/) | [View IPP# 246745](https://ims.internationalprocessplants.com/inventory/equipment/detail/246745)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246745) | [View IPP# 246745](https://ims.internationalprocessplants.com/inventory/equipment/detail/246745)
 
 #### ATM/DeLaval Mark III — 914 mm (36 in) ([IPP# 91124](https://ims.internationalprocessplants.com/inventory/equipment/detail/91124))
 
 Refurbished/rebuilt ATM/DeLaval Mark III Stainless Steel 316 centrifuge-basket with 914 mm (36 in) basket diameter and 1,300 G-force.
 
-- Stainless Steel 316
-- 914 mm (36 in) basket
-- 1,600 RPM maximum
-- Refurbished/Rebuilt
+- Material: Stainless Steel 316
+- Basket Diameter: 914 mm (36 in) basket
+- Speed-RPM Maximum: 1,600 RPM maximum
+- Condition: Refurbished/Rebuilt
 
-[Request Specs](/contact/) | [View IPP# 91124](https://ims.internationalprocessplants.com/inventory/equipment/detail/91124)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/91124) | [View IPP# 91124](https://ims.internationalprocessplants.com/inventory/equipment/detail/91124)
 
 [Browse All DeLaval Auto Discharge-Bottom Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/auto-discharge-bottom)
 
@@ -201,34 +202,34 @@ Tolhurst and Ketema/Tolhurst units are the second deepest OEM position in IPP's 
 
 Used Tolhurst Stainless Steel 316 centrifuge-basket with 1,200 mm (48 in) basket diameter and 29.8 kW (40 HP) motor.
 
-- Stainless Steel 316
-- 1,200 mm (48 in) basket
-- 29.8 kW (40 HP)
-- 900 RPM maximum
+- Material: Stainless Steel 316
+- Basket Diameter: 1,200 mm (48 in) basket
+- Motor Power: 29.8 kW (40 HP)
+- Speed-RPM Maximum: 900 RPM maximum
 
-[Request Specs](/contact/) | [View IPP# 245494](https://ims.internationalprocessplants.com/inventory/equipment/detail/245494)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/245494) | [View IPP# 245494](https://ims.internationalprocessplants.com/inventory/equipment/detail/245494)
 
 #### Ketema/Tolhurst Mark III — 1,200 mm (47.2 in) ([IPP# 213910](https://ims.internationalprocessplants.com/inventory/equipment/detail/213910))
 
 Used Ketema/Tolhurst Mark III Stainless Steel 316 centrifuge-basket with 1,200 mm (48 in) basket diameter and 1,080 RPM maximum.
 
-- Stainless Steel 316
-- 1,200 mm (48 in) basket
-- 1,080 RPM maximum
-- Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,200 mm (48 in) basket
+- Speed-RPM Maximum: 1,080 RPM maximum
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 213910](https://ims.internationalprocessplants.com/inventory/equipment/detail/213910)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/213910) | [View IPP# 213910](https://ims.internationalprocessplants.com/inventory/equipment/detail/213910)
 
 #### Tolhurst Stainless Steel 304 — 1,000 mm (39.4 in) ([IPP# 36652](https://ims.internationalprocessplants.com/inventory/equipment/detail/36652))
 
 Refurbished/rebuilt Tolhurst Stainless Steel 304 centrifuge-basket with 1,000 mm (40 in) basket diameter and 14.9 kW (20 HP) motor.
 
-- Stainless Steel 304
-- 1,000 mm (40 in) basket
-- 14.9 kW (20 HP)
-- Refurbished/Rebuilt
+- Material: Stainless Steel 304
+- Basket Diameter: 1,000 mm (40 in) basket
+- Motor Power: 14.9 kW (20 HP)
+- Condition: Refurbished/Rebuilt
 
-[Request Specs](/contact/) | [View IPP# 36652](https://ims.internationalprocessplants.com/inventory/equipment/detail/36652)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/36652) | [View IPP# 36652](https://ims.internationalprocessplants.com/inventory/equipment/detail/36652)
 
 [Browse All Tolhurst Auto Discharge-Bottom Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/auto-discharge-bottom)
 
@@ -240,34 +241,34 @@ Beyond DeLaval and Tolhurst, IPP stocks auto discharge-bottom basket centrifuges
 
 Used Sharples T-1300-48X24-TORNADO Stainless Steel 316 centrifuge-basket with 1,200 mm (48 in) basket diameter and 1,150 RPM maximum.
 
-- Stainless Steel 316
-- 1,200 mm (48 in) basket
-- 1,150 RPM maximum
-- Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,200 mm (48 in) basket
+- Speed-RPM Maximum: 1,150 RPM maximum
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 213225](https://ims.internationalprocessplants.com/inventory/equipment/detail/213225)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/213225) | [View IPP# 213225](https://ims.internationalprocessplants.com/inventory/equipment/detail/213225)
 
 #### Ferrum DSZ — 1,250 mm (49.2 in) ([IPP# 233164](https://ims.internationalprocessplants.com/inventory/equipment/detail/233164))
 
 Used Ferrum DSZ Stainless Steel 316 centrifuge-basket with 1,250 mm (49 in) basket diameter, sanitary construction, and gas-tight design.
 
-- Stainless Steel 316
-- 1,250 mm (49 in) basket
-- 22 kW (29.5 HP)
-- Sanitary, gas-tight
+- Material: Stainless Steel 316
+- Basket Diameter: 1,250 mm (49 in) basket
+- Motor Power: 22 kW (29.5 HP)
+- Sanitary Construction: Sanitary, gas-tight
 
-[Request Specs](/contact/) | [View IPP# 233164](https://ims.internationalprocessplants.com/inventory/equipment/detail/233164)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/233164) | [View IPP# 233164](https://ims.internationalprocessplants.com/inventory/equipment/detail/233164)
 
 #### Robatel DTS-1250-K2 — 1,200 mm (47.2 in) ([IPP# 38893](https://ims.internationalprocessplants.com/inventory/equipment/detail/38893))
 
 Refurbished/rebuilt Robatel DTS-1250-K2 Stainless Steel 316 centrifuge-basket with 1,200 mm (48 in) basket diameter and 1,300 G-force.
 
-- Stainless Steel 316
-- 1,200 mm (48 in) basket
-- 1,400 RPM maximum
-- 1,300 G-force
+- Material: Stainless Steel 316
+- Basket Diameter: 1,200 mm (48 in) basket
+- Speed-RPM Maximum: 1,400 RPM maximum
+- G Force: 1,300 G-force
 
-[Request Specs](/contact/) | [View IPP# 38893](https://ims.internationalprocessplants.com/inventory/equipment/detail/38893)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/38893) | [View IPP# 38893](https://ims.internationalprocessplants.com/inventory/equipment/detail/38893)
 
 [Browse All Auto Discharge-Bottom Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/auto-discharge-bottom)
 
@@ -286,34 +287,34 @@ Good used auto discharge-bottom basket centrifuges are the deepest condition pos
 
 Used Western States Hastelloy C-276 centrifuge-basket with 1,200 mm (48 in) basket diameter and 37.3 kW (50 HP) motor.
 
-- Used condition
-- Hastelloy - C276
-- 37.3 kW (50 HP)
-- 1,000 RPM maximum
+- Condition: Used condition
+- Material: Hastelloy - C276
+- Motor Power: 37.3 kW (50 HP)
+- Speed-RPM Maximum: 1,000 RPM maximum
 
-[Request Specs](/contact/) | [View IPP# 206512](https://ims.internationalprocessplants.com/inventory/equipment/detail/206512)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/206512) | [View IPP# 206512](https://ims.internationalprocessplants.com/inventory/equipment/detail/206512)
 
 #### Used Ellerwerk 735 U-A — 1,000 mm (39.4 in) ([IPP# 208274](https://ims.internationalprocessplants.com/inventory/equipment/detail/208274))
 
 Used Ellerwerk 735 U-A Stainless Steel 316 centrifuge-basket with 1,000 mm (39.4 in) basket diameter and gas-tight construction.
 
-- Used condition
-- Stainless Steel 316
-- 1,000 mm (39.4 in) basket
-- 1,200 RPM maximum
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,000 mm (39.4 in) basket
+- Speed-RPM Maximum: 1,200 RPM maximum
 
-[Request Specs](/contact/) | [View IPP# 208274](https://ims.internationalprocessplants.com/inventory/equipment/detail/208274)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208274) | [View IPP# 208274](https://ims.internationalprocessplants.com/inventory/equipment/detail/208274)
 
 #### Used Sanborn — 1,500 mm (59.1 in) ([IPP# 205951](https://ims.internationalprocessplants.com/inventory/equipment/detail/205951))
 
 Used Sanborn Stainless Steel 316 centrifuge-basket with 1,500 mm (60 in) basket diameter and 44.7 kW (60 HP) motor.
 
-- Used condition
-- Stainless Steel 316
-- 1,500 mm (60 in) basket
-- 44.7 kW (60 HP)
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,500 mm (60 in) basket
+- Motor Power: 44.7 kW (60 HP)
 
-[Request Specs](/contact/) | [View IPP# 205951](https://ims.internationalprocessplants.com/inventory/equipment/detail/205951)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/205951) | [View IPP# 205951](https://ims.internationalprocessplants.com/inventory/equipment/detail/205951)
 
 [Browse All Used Auto Discharge-Bottom Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/auto-discharge-bottom)
 
@@ -325,34 +326,34 @@ Refurbished/rebuilt auto discharge-bottom basket centrifuges have been disassemb
 
 Refurbished/rebuilt Sharples T1300-48X24-TORNADO Stainless Steel 316 centrifuge-basket with 1,200 mm (48 in) basket diameter and 1,150 RPM maximum.
 
-- Refurbished/Rebuilt
-- Stainless Steel 316
-- 1,200 mm (48 in) basket
-- 1,150 RPM maximum
+- Condition: Refurbished/Rebuilt
+- Material: Stainless Steel 316
+- Basket Diameter: 1,200 mm (48 in) basket
+- Speed-RPM Maximum: 1,150 RPM maximum
 
-[Request Specs](/contact/) | [View IPP# 213226](https://ims.internationalprocessplants.com/inventory/equipment/detail/213226)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/213226) | [View IPP# 213226](https://ims.internationalprocessplants.com/inventory/equipment/detail/213226)
 
 #### Refurbished Tolhurst — 1,200 mm (47.2 in) ([IPP# 92503](https://ims.internationalprocessplants.com/inventory/equipment/detail/92503))
 
 Refurbished/rebuilt Tolhurst Stainless Steel 316 centrifuge-basket with 1,200 mm (48 in) basket diameter, 1,080 RPM maximum, and 14.9 kW (20 HP) motor.
 
-- Refurbished/Rebuilt
-- Stainless Steel 316
-- 14.9 kW (20 HP)
-- 1,080 RPM maximum
+- Condition: Refurbished/Rebuilt
+- Material: Stainless Steel 316
+- Motor Power: 14.9 kW (20 HP)
+- Speed-RPM Maximum: 1,080 RPM maximum
 
-[Request Specs](/contact/) | [View IPP# 92503](https://ims.internationalprocessplants.com/inventory/equipment/detail/92503)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/92503) | [View IPP# 92503](https://ims.internationalprocessplants.com/inventory/equipment/detail/92503)
 
 #### Refurbished Sangerhausen — 1,000 mm (39.4 in) ([IPP# 71363](https://ims.internationalprocessplants.com/inventory/equipment/detail/71363))
 
 Refurbished/rebuilt Sangerhausen FZPU1000-C-AHS Stainless Steel 316 centrifuge-basket with 1,000 mm (40 in) basket diameter and 18.5 kW (24.8 HP) motor.
 
-- Refurbished/Rebuilt
-- Stainless Steel 316
-- 1,000 mm (40 in) basket
-- 18.5 kW (24.8 HP)
+- Condition: Refurbished/Rebuilt
+- Material: Stainless Steel 316
+- Basket Diameter: 1,000 mm (40 in) basket
+- Motor Power: 18.5 kW (24.8 HP)
 
-[Request Specs](/contact/) | [View IPP# 71363](https://ims.internationalprocessplants.com/inventory/equipment/detail/71363)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/71363) | [View IPP# 71363](https://ims.internationalprocessplants.com/inventory/equipment/detail/71363)
 
 [Browse All Refurbished/Rebuilt Auto Discharge-Bottom Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/auto-discharge-bottom)
 
@@ -363,7 +364,7 @@ Refurbished/rebuilt Sangerhausen FZPU1000-C-AHS Stainless Steel 316 centrifuge-b
 
 Tell us your specifications and requirements. Our team will match your needs against current auto discharge-bottom basket centrifuges inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -483,7 +484,7 @@ In addition to auto discharge-bottom basket centrifuges, IPP stocks equipment ac
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -492,4 +493,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to Our Team](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/auto-discharge-bottom)
+[Talk to Our Team](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/auto-discharge-bottom)

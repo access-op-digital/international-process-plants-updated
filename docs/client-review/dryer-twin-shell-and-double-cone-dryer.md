@@ -1,10 +1,10 @@
 # Buy Used Twin Shell & Double Cone Dryers for Sale
 
-Buying used twin shell & double cone dryers through International Process Plants gives chemical, pharmaceutical, and industrial manufacturers access to Pfaudler, DeDietrich, Patterson Kelly and other OEM manufacturers.
+Buying used twin shell & double cone dryers through International Process Plants gives chemical, pharmaceutical, and industrial manufacturer's access to Pfaudler, DeDietrich, Patterson Kelly and other OEM.
 
 Materials of construction include Glasslined, Stainless Steel 316, Stainless Steel 304, Hastelloy - C4. Available in Used, Re-glassed, Unused conditions. Buying used twin shell & double cone dryers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)
 
 **Quick Stats:** 40+ Dryers in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -28,21 +28,23 @@ IPP stocks glass-lined twin shell & double cone dryers. Available from Pfaudler,
 
 Used DeDietrich Glasslined dryer-twin shell & double cone.
 
-- Glasslined
-- Used condition
-- DeDietrich SR 2500
+- Material: Glasslined
+- Condition: Used condition
+- Manufacturer: DeDietrich
+- Model: SR 2500
 
-[Request Specs](/contact/) | [View IPP# 245546](https://ims.internationalprocessplants.com/inventory/equipment/detail/245546)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/245546) | [View IPP# 245546](https://ims.internationalprocessplants.com/inventory/equipment/detail/245546)
 
 #### Pfaudler Glasslined ([IPP# 208476](https://ims.internationalprocessplants.com/inventory/equipment/detail/208476))
 
 Used Pfaudler Glasslined dryer-twin shell & double cone.
 
-- Glasslined
-- Used condition
-- Pfaudler MT1000
+- Material: Glasslined
+- Condition: Used condition
+- Manufacturer: Pfaudler
+- Model: MT1000
 
-[Request Specs](/contact/) | [View IPP# 208476](https://ims.internationalprocessplants.com/inventory/equipment/detail/208476)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208476) | [View IPP# 208476](https://ims.internationalprocessplants.com/inventory/equipment/detail/208476)
 
 [Browse All Glass-Lined Twin Shell & Double Cone Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)
 
@@ -54,19 +56,19 @@ IPP stocks stainless steel twin shell & double cone dryers. Available from Patte
 
 Used Patterson Process Equipment Stainless Steel 316 dryer-twin shell & double cone.
 
-- Stainless Steel 316
-- Used condition
+- Material: Stainless Steel 316
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 202096](https://ims.internationalprocessplants.com/inventory/equipment/detail/202096)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/202096) | [View IPP# 202096](https://ims.internationalprocessplants.com/inventory/equipment/detail/202096)
 
 #### Patterson Kelly Stainless Steel 304 ([IPP# 28830](https://ims.internationalprocessplants.com/inventory/equipment/detail/28830))
 
 Used Patterson Kelly Stainless Steel 304 dryer-twin shell & double cone.
 
-- Stainless Steel 304
-- Used condition
+- Material: Stainless Steel 304
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 28830](https://ims.internationalprocessplants.com/inventory/equipment/detail/28830)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/28830) | [View IPP# 28830](https://ims.internationalprocessplants.com/inventory/equipment/detail/28830)
 
 [Browse All Stainless Steel Twin Shell & Double Cone Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)
 
@@ -78,21 +80,23 @@ IPP stocks hastelloy twin shell & double cone dryers. Available from Klein Vakuu
 
 Used Klein Vakuumtechnik Hastelloy - C4 dryer-twin shell & double cone.
 
-- Hastelloy - C4
-- Used condition
-- Klein Vakuumtechnik DKM500
+- Material: Hastelloy - C4
+- Condition: Used condition
+- Manufacturer: Klein Vakuumtechnik
+- Model: DKM500
 
-[Request Specs](/contact/) | [View IPP# 107007](https://ims.internationalprocessplants.com/inventory/equipment/detail/107007)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/107007) | [View IPP# 107007](https://ims.internationalprocessplants.com/inventory/equipment/detail/107007)
 
 #### Pfaudler Hastelloy - C22 ([IPP# 247059](https://ims.internationalprocessplants.com/inventory/equipment/detail/247059))
 
 Used Pfaudler Hastelloy - C22 dryer-twin shell & double cone.
 
-- Hastelloy - C22
-- Used condition
-- Pfaudler CD60
+- Material: Hastelloy - C22
+- Condition: Used condition
+- Manufacturer: Pfaudler
+- Model: CD60
 
-[Request Specs](/contact/) | [View IPP# 247059](https://ims.internationalprocessplants.com/inventory/equipment/detail/247059)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/247059) | [View IPP# 247059](https://ims.internationalprocessplants.com/inventory/equipment/detail/247059)
 
 [Browse All Hastelloy Twin Shell & Double Cone Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)
 
@@ -104,19 +108,19 @@ IPP stocks other twin shell & double cone dryers. Available from Komline Sanders
 
 Used Komline Sanderson Titanium dryer-twin shell & double cone.
 
-- Titanium
-- Used condition
+- Material: Titanium
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 13589](https://ims.internationalprocessplants.com/inventory/equipment/detail/13589)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/13589) | [View IPP# 13589](https://ims.internationalprocessplants.com/inventory/equipment/detail/13589)
 
 #### Pfaudler Carbon Steel ([IPP# 45084](https://ims.internationalprocessplants.com/inventory/equipment/detail/45084))
 
 Re-glassed Pfaudler Carbon Steel dryer-twin shell & double cone.
 
-- Carbon Steel
-- Re-glassed condition
+- Material: Carbon Steel
+- Condition: Re-glassed condition
 
-[Request Specs](/contact/) | [View IPP# 45084](https://ims.internationalprocessplants.com/inventory/equipment/detail/45084)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/45084) | [View IPP# 45084](https://ims.internationalprocessplants.com/inventory/equipment/detail/45084)
 
 [Browse All Other Twin Shell & Double Cone Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)
 
@@ -135,37 +139,37 @@ Pfaudler is the deepest single-manufacturer position in IPP's twin shell & doubl
 
 Used Pfaudler glasslined twin shell & double cone dryer with 2.8 m3 (100 ft3) design capacity, 1.98 m3 (70 ft3) operating capacity, and jacketed construction.
 
-- Glasslined construction
-- 2.8 m3 (100 ft3) design capacity
-- 204.4 °C (400 °F) vessel temperature
-- 6.9 bar (100 psi) jacket pressure
-- Used condition
+- Material: Glasslined construction
+- Capacity Design: 2.8 m3 (100 ft3) design capacity
+- Vessel Temperature: 204.4 °C (400 °F) vessel temperature
+- Jacket Pressure: 6.9 bar (100 psi) jacket pressure
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 109987](https://ims.internationalprocessplants.com/inventory/equipment/detail/109987)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/109987) | [View IPP# 109987](https://ims.internationalprocessplants.com/inventory/equipment/detail/109987)
 
 #### Pfaudler — 2.8 m3 Re-glassed ([IPP# 200724](https://ims.internationalprocessplants.com/inventory/equipment/detail/200724))
 
 Re-glassed Pfaudler glasslined twin shell & double cone dryer with 2.8 m3 (100 ft3) design capacity, full vacuum capability, and jacketed construction.
 
-- Glasslined construction
-- 2.8 m3 (100 ft3) design capacity
-- Full vacuum capable
-- 232.2 °C (450 °F) vessel temperature
-- Re-glassed condition
+- Material: Glasslined construction
+- Capacity Design: 2.8 m3 (100 ft3) design capacity
+- Full Vacuum: Full vacuum capable
+- Vessel Temperature: 232.2 °C (450 °F) vessel temperature
+- Condition: Re-glassed condition
 
-[Request Specs](/contact/) | [View IPP# 200724](https://ims.internationalprocessplants.com/inventory/equipment/detail/200724)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/200724) | [View IPP# 200724](https://ims.internationalprocessplants.com/inventory/equipment/detail/200724)
 
 #### Pfaudler MT4000 — 4 m3 Glasslined ([IPP# 201066](https://ims.internationalprocessplants.com/inventory/equipment/detail/201066))
 
 Used Pfaudler MT4000 glasslined twin shell & double cone dryer with 4 m3 (141.3 ft3) design capacity and 3 m3 (105.9 ft3) operating capacity.
 
-- Glasslined construction
-- 4 m3 (141.3 ft3) design capacity
-- 200 °C (392 °F) vessel temperature
-- 3 bar (43.5 psi) jacket pressure
-- Used condition
+- Material: Glasslined construction
+- Capacity Design: 4 m3 (141.3 ft3) design capacity
+- Vessel Temperature: 200 °C (392 °F) vessel temperature
+- Jacket Pressure: 3 bar (43.5 psi) jacket pressure
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 201066](https://ims.internationalprocessplants.com/inventory/equipment/detail/201066)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/201066) | [View IPP# 201066](https://ims.internationalprocessplants.com/inventory/equipment/detail/201066)
 
 [Browse All Pfaudler Twin Shell & Double Cone Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)
 
@@ -177,37 +181,37 @@ DeDietrich is the second deepest OEM position in IPP's twin shell & double cone 
 
 Used DeDietrich SR-2500 glasslined twin shell & double cone dryer with 2.5 m3 (90 ft3) design capacity, full vacuum capability, and 7.2 bar (105 psi) vessel pressure rating.
 
-- Glasslined construction
-- 2.5 m3 (90 ft3) design capacity
-- Full vacuum capable
-- 7.2 bar (105 psi) vessel pressure
-- Used condition
+- Material: Glasslined construction
+- Capacity Design: 2.5 m3 (90 ft3) design capacity
+- Full Vacuum: Full vacuum capable
+- Vessel Pressure: 7.2 bar (105 psi) vessel pressure
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 203374](https://ims.internationalprocessplants.com/inventory/equipment/detail/203374)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/203374) | [View IPP# 203374](https://ims.internationalprocessplants.com/inventory/equipment/detail/203374)
 
 #### DeDietrich SR1600 — 1.6 m3 Glasslined ([IPP# 208328](https://ims.internationalprocessplants.com/inventory/equipment/detail/208328))
 
 Used DeDietrich SR1600 glasslined twin shell & double cone dryer with 1.6 m3 (56.5 ft3) design capacity, full vacuum capability, and jacketed construction.
 
-- Glasslined construction
-- 1.6 m3 (56.5 ft3) design capacity
-- Full vacuum capable
-- 6 bar (87 psi) jacket pressure
-- Used condition
+- Material: Glasslined construction
+- Capacity Design: 1.6 m3 (56.5 ft3) design capacity
+- Full Vacuum: Full vacuum capable
+- Jacket Pressure: 6 bar (87 psi) jacket pressure
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 208328](https://ims.internationalprocessplants.com/inventory/equipment/detail/208328)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208328) | [View IPP# 208328](https://ims.internationalprocessplants.com/inventory/equipment/detail/208328)
 
 #### DeDietrich SR1600 — 1.6 m3 Glasslined ([IPP# 208369](https://ims.internationalprocessplants.com/inventory/equipment/detail/208369))
 
 Used DeDietrich SR1600 glasslined twin shell & double cone dryer with 1.6 m3 (56.5 ft3) design capacity, 0.7 m3 (24.7 ft3) operating capacity, and jacketed construction.
 
-- Glasslined construction
-- 1.6 m3 (56.5 ft3) design capacity
-- 200 °C (392 °F) vessel temperature
-- 6 bar (87 psi) jacket pressure
-- Used condition
+- Material: Glasslined construction
+- Capacity Design: 1.6 m3 (56.5 ft3) design capacity
+- Vessel Temperature: 200 °C (392 °F) vessel temperature
+- Jacket Pressure: 6 bar (87 psi) jacket pressure
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 208369](https://ims.internationalprocessplants.com/inventory/equipment/detail/208369)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208369) | [View IPP# 208369](https://ims.internationalprocessplants.com/inventory/equipment/detail/208369)
 
 [Browse All DeDietrich Twin Shell & Double Cone Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)
 
@@ -219,37 +223,37 @@ Patterson Kelly twin shell & double cone dryers in IPP's inventory span stainles
 
 Used Patterson Kelly stainless steel 304 twin shell & double cone dryer with 3.8 m3 (133 ft3) design capacity, full vacuum capability, and jacketed construction.
 
-- Stainless Steel 304
-- 3.8 m3 (133 ft3) design capacity
-- Full vacuum capable
-- 176.7 °C (350 °F) jacket temperature
-- Used condition
+- Material: Stainless Steel 304
+- Capacity Design: 3.8 m3 (133 ft3) design capacity
+- Full Vacuum: Full vacuum capable
+- Jacket Temperature: 176.7 °C (350 °F) jacket temperature
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 202092](https://ims.internationalprocessplants.com/inventory/equipment/detail/202092)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/202092) | [View IPP# 202092](https://ims.internationalprocessplants.com/inventory/equipment/detail/202092)
 
 #### Patterson Kelly — 5 m3 SS 316 ([IPP# 202093](https://ims.internationalprocessplants.com/inventory/equipment/detail/202093))
 
 Used Patterson Kelly stainless steel 316 twin shell & double cone dryer with 5 m3 (176.6 ft3) design capacity and 2.8 m3 (100 ft3) operating capacity.
 
-- Stainless Steel 316
-- 5 m3 (176.6 ft3) design capacity
-- 2.1 bar (30 psi) jacket pressure
-- 121.1 °C (250 °F) jacket temperature
-- Used condition
+- Material: Stainless Steel 316
+- Capacity Design: 5 m3 (176.6 ft3) design capacity
+- Jacket Pressure: 2.1 bar (30 psi) jacket pressure
+- Jacket Temperature: 121.1 °C (250 °F) jacket temperature
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 202093](https://ims.internationalprocessplants.com/inventory/equipment/detail/202093)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/202093) | [View IPP# 202093](https://ims.internationalprocessplants.com/inventory/equipment/detail/202093)
 
 #### Patterson Kelly — 2.8 m3 SS 316 ([IPP# 202094](https://ims.internationalprocessplants.com/inventory/equipment/detail/202094))
 
 Used Patterson Kelly stainless steel 316 twin shell & double cone dryer with 2.8 m3 (100 ft3) design capacity, full vacuum capability, and jacketed construction.
 
-- Stainless Steel 316
-- 2.8 m3 (100 ft3) design capacity
-- Full vacuum capable
-- 121.1 °C (250 °F) jacket temperature
-- Used condition
+- Material: Stainless Steel 316
+- Capacity Design: 2.8 m3 (100 ft3) design capacity
+- Full Vacuum: Full vacuum capable
+- Jacket Temperature: 121.1 °C (250 °F) jacket temperature
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 202094](https://ims.internationalprocessplants.com/inventory/equipment/detail/202094)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/202094) | [View IPP# 202094](https://ims.internationalprocessplants.com/inventory/equipment/detail/202094)
 
 [Browse All Patterson Kelly Twin Shell & Double Cone Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)
 
@@ -262,43 +266,43 @@ IPP stocks twin shell & double cone dryers in used, re-glassed, and unused condi
 
 ### Buy Used Twin Shell & Double Cone Dryers for Sale
 
-Good used twin shell & double cone dryers are the deepest condition position in IPP's inventory. These units were previously installed in production service, inspected on intake, and are offered as-is at the lowest price point while retaining OEM vessel and drive hardware.
+Good used twin shell & double cone dryers are the deepest condition position in IPP's inventory. These units were previously installed in production service and inspected on intake.
 
 #### Used Klein Vakuumtechnik DKM500 — 0.5 m3 ([IPP# 107007](https://ims.internationalprocessplants.com/inventory/equipment/detail/107007))
 
 Used Klein Vakuumtechnik DKM500 Hastelloy - C4 twin shell & double cone dryer with 0.5 m3 (17.7 ft3) design capacity, full vacuum capability, and vacuum system available.
 
-- Used condition
-- Hastelloy - C4
-- 0.5 m3 (17.7 ft3) design capacity
-- Full vacuum capable
-- 2 bar (29 psi) jacket pressure
+- Condition: Used condition
+- Material: Hastelloy - C4
+- Capacity Design: 0.5 m3 (17.7 ft3) design capacity
+- Full Vacuum: Full vacuum capable
+- Jacket Pressure: 2 bar (29 psi) jacket pressure
 
-[Request Specs](/contact/) | [View IPP# 107007](https://ims.internationalprocessplants.com/inventory/equipment/detail/107007)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/107007) | [View IPP# 107007](https://ims.internationalprocessplants.com/inventory/equipment/detail/107007)
 
 #### Used Pfaudler — 2.8 m3 Glasslined ([IPP# 109987](https://ims.internationalprocessplants.com/inventory/equipment/detail/109987))
 
 Used Pfaudler glasslined twin shell & double cone dryer with 2.8 m3 (100 ft3) design capacity, 1.98 m3 (70 ft3) operating capacity, and jacketed construction.
 
-- Used condition
-- Glasslined construction
-- 2.8 m3 (100 ft3) design capacity
-- 6.9 bar (100 psi) jacket pressure
-- 204.4 °C (400 °F) vessel temperature
+- Condition: Used condition
+- Material: Glasslined construction
+- Capacity Design: 2.8 m3 (100 ft3) design capacity
+- Jacket Pressure: 6.9 bar (100 psi) jacket pressure
+- Vessel Temperature: 204.4 °C (400 °F) vessel temperature
 
-[Request Specs](/contact/) | [View IPP# 109987](https://ims.internationalprocessplants.com/inventory/equipment/detail/109987)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/109987) | [View IPP# 109987](https://ims.internationalprocessplants.com/inventory/equipment/detail/109987)
 
 #### Used Komline Sanderson — 2.8 m3 Titanium ([IPP# 13589](https://ims.internationalprocessplants.com/inventory/equipment/detail/13589))
 
 Used Komline Sanderson titanium-clad twin shell & double cone dryer with 2.8 m3 (100 ft3) design capacity and jacketed construction for corrosive-service applications.
 
-- Used condition
-- Titanium (clad)
-- 2.8 m3 (100 ft3) design capacity
-- 6.9 bar (100 psi) jacket pressure
-- 176.7 °C (350 °F) vessel temperature
+- Condition: Used condition
+- Material: Titanium (clad)
+- Capacity Design: 2.8 m3 (100 ft3) design capacity
+- Jacket Pressure: 6.9 bar (100 psi) jacket pressure
+- Vessel Temperature: 176.7 °C (350 °F) vessel temperature
 
-[Request Specs](/contact/) | [View IPP# 13589](https://ims.internationalprocessplants.com/inventory/equipment/detail/13589)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/13589) | [View IPP# 13589](https://ims.internationalprocessplants.com/inventory/equipment/detail/13589)
 
 [Browse All Used Twin Shell & Double Cone Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)
 
@@ -310,36 +314,36 @@ Re-glassed twin shell & double cone dryers have had their glass lining professio
 
 Re-glassed glasslined twin shell & double cone dryer with 3 m3 (107 ft3) design capacity and 1.98 m3 (70 ft3) operating capacity.
 
-- Re-glassed condition
-- Glasslined construction
-- 3 m3 (107 ft3) design capacity
-- 1.98 m3 (70 ft3) operating capacity
+- Condition: Re-glassed condition
+- Material: Glasslined construction
+- Capacity Design: 3 m3 (107 ft3) design capacity
+- Capacity Operating: 1.98 m3 (70 ft3) operating capacity
 
-[Request Specs](/contact/) | [View IPP# 107770](https://ims.internationalprocessplants.com/inventory/equipment/detail/107770)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/107770) | [View IPP# 107770](https://ims.internationalprocessplants.com/inventory/equipment/detail/107770)
 
 #### Re-glassed Pfaudler — 2.8 m3 Glasslined ([IPP# 200724](https://ims.internationalprocessplants.com/inventory/equipment/detail/200724))
 
 Re-glassed Pfaudler glasslined twin shell & double cone dryer with 2.8 m3 (100 ft3) design capacity, full vacuum capability, and 232.2 °C (450 °F) vessel temperature rating.
 
-- Re-glassed condition
-- Glasslined construction
-- 2.8 m3 (100 ft3) design capacity
-- Full vacuum capable
-- 232.2 °C (450 °F) vessel temperature
+- Condition: Re-glassed condition
+- Material: Glasslined construction
+- Capacity Design: 2.8 m3 (100 ft3) design capacity
+- Full Vacuum: Full vacuum capable
+- Vessel Temperature: 232.2 °C (450 °F) vessel temperature
 
-[Request Specs](/contact/) | [View IPP# 200724](https://ims.internationalprocessplants.com/inventory/equipment/detail/200724)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/200724) | [View IPP# 200724](https://ims.internationalprocessplants.com/inventory/equipment/detail/200724)
 
 #### Re-glassed Pfaudler — 2.8 m3 Glasslined ([IPP# 203140](https://ims.internationalprocessplants.com/inventory/equipment/detail/203140))
 
 Re-glassed Pfaudler glasslined twin shell & double cone dryer with 2.8 m3 (100 ft3) design capacity and 343.3 °C (650 °F) vessel temperature rating.
 
-- Re-glassed condition
-- Glasslined construction
-- 2.8 m3 (100 ft3) design capacity
-- 343.3 °C (650 °F) vessel temperature
-- 3.4 bar (50 psi) jacket pressure
+- Condition: Re-glassed condition
+- Material: Glasslined construction
+- Capacity Design: 2.8 m3 (100 ft3) design capacity
+- Vessel Temperature: 343.3 °C (650 °F) vessel temperature
+- Jacket Pressure: 3.4 bar (50 psi) jacket pressure
 
-[Request Specs](/contact/) | [View IPP# 203140](https://ims.internationalprocessplants.com/inventory/equipment/detail/203140)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/203140) | [View IPP# 203140](https://ims.internationalprocessplants.com/inventory/equipment/detail/203140)
 
 [Browse All Re-glassed Twin Shell & Double Cone Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)
 
@@ -351,12 +355,12 @@ Unused twin shell & double cone dryers are factory-new units that were never ins
 
 Unused stainless steel 304 twin shell & double cone dryer with 0.28 m3 (10 ft3) design capacity and 0.19 m3 (6.6 ft3) operating capacity.
 
-- Unused condition
-- Stainless Steel 304
-- 0.28 m3 (10 ft3) design capacity
-- 0.19 m3 (6.6 ft3) operating capacity
+- Condition: Unused condition
+- Material: Stainless Steel 304
+- Capacity Design: 0.28 m3 (10 ft3) design capacity
+- Capacity Operating: 0.19 m3 (6.6 ft3) operating capacity
 
-[Request Specs](/contact/) | [View IPP# 210238](https://ims.internationalprocessplants.com/inventory/equipment/detail/210238)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/210238) | [View IPP# 210238](https://ims.internationalprocessplants.com/inventory/equipment/detail/210238)
 
 [Browse All Unused Twin Shell & Double Cone Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)
 
@@ -367,7 +371,7 @@ Unused stainless steel 304 twin shell & double cone dryer with 0.28 m3 (10 ft3) 
 
 Tell us your specifications and requirements. Our team will match your needs against current twin shell & double cone dryers inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -487,7 +491,7 @@ In addition to twin shell & double cone dryers, IPP stocks equipment across mult
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -496,4 +500,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/twin-shell-and-double-cone-dryer)

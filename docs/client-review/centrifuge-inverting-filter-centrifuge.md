@@ -6,7 +6,7 @@ Basket diameters range from 600 mm (23.6 in) to 1,000 mm (39.4 in). Filtration a
 
 IPP stocks Heinkel units across the HF600, HF800, HF1000, and FO model families. Drive motor power ranges from 3 kW (4 HP) on IPP# 217588 to 75 kW (100.6 HP) on IPP# 248074. Load weights range from 65 kg (143.3 lb) to 250 kg (551 lb). All units support in-place washing capability. Buying used inverting filter centrifuges from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/inverting-filter-centrifuge)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/inverting-filter-centrifuge)
 
 **Quick Stats:** Durable Floor of Inventory | 1980 Established Since | 15 Countries with Offices
 
@@ -29,34 +29,34 @@ IPP stocks stainless steel inverting filter centrifuges in multiple grades inclu
 
 Used Heinkel HF 600 stainless steel 316 inverting filter centrifuge with 600 mm (23.6 in) basket diameter and 0.42 m² filtration area.
 
-- Stainless Steel 316
-- 600 mm (23.6 in) basket
-- 1,250 G-force
-- 30 kW (40.2 HP) motor
+- Material: Stainless Steel 316
+- Basket Diameter: 600 mm (23.6 in) basket
+- G Force: 1,250 G-force
+- Main Drive Motor Power: 30 kW (40.2 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 200935](https://ims.internationalprocessplants.com/inventory/equipment/detail/200935)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/200935) | [View IPP# 200935](https://ims.internationalprocessplants.com/inventory/equipment/detail/200935)
 
 #### Heinkel HF-600 — SS 316L ([IPP# 217588](https://ims.internationalprocessplants.com/inventory/equipment/detail/217588))
 
 Used Heinkel HF-600 stainless steel 316L inverting filter centrifuge with 600 mm (23.6 in) basket and 65 kg load weight.
 
-- Stainless Steel 316L
-- 65 kg (143.3 lb) load weight
-- 1,250 G-force
-- 3 kW (4 HP) motor
+- Material: Stainless Steel 316L
+- Load Weight: 65 kg (143.3 lb) load weight
+- G Force: 1,250 G-force
+- Main Drive Motor Power: 3 kW (4 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 217588](https://ims.internationalprocessplants.com/inventory/equipment/detail/217588)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/217588) | [View IPP# 217588](https://ims.internationalprocessplants.com/inventory/equipment/detail/217588)
 
 #### Heinkel HF800.1 — SS 316Ti ([IPP# 248071](https://ims.internationalprocessplants.com/inventory/equipment/detail/248071))
 
-Used Heinkel HF800.1 stainless steel 316Ti inverting filter centrifuge with 800 mm (31.5 in) basket diameter and 0.9 m² filtration area.
+Used Heinkel HF800.1 stainless steel 316Ti inverting filter centrifuge with 800 mm (31.5 in) basket diameter and 0.9 m² (9.7 ft²) in filtration area.
 
-- Stainless Steel 316Ti
-- 800 mm (31.5 in) basket
-- 40 kW (53.6 HP) motor
-- 149 kg (328.5 lb) load weight
+- Material: Stainless Steel 316Ti
+- Basket Diameter: 800 mm (31.5 in) basket
+- Main Drive Motor Power: 40 kW (53.6 HP) motor
+- Load Weight: 149 kg (328.5 lb) load weight
 
-[Request Specs](/contact/) | [View IPP# 248071](https://ims.internationalprocessplants.com/inventory/equipment/detail/248071)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/248071) | [View IPP# 248071](https://ims.internationalprocessplants.com/inventory/equipment/detail/248071)
 
 [Browse All Stainless Steel Inverting Filter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/inverting-filter-centrifuge)
 
@@ -68,34 +68,34 @@ IPP stocks Hastelloy inverting filter centrifuges in C4 and C22 grades for aggre
 
 Used Heinkel HF600 Hastelloy C4 inverting filter centrifuge with 600 mm (23.6 in) basket, 1,255 G-force, and 22 kW drive motor.
 
-- Hastelloy - C4
-- 1,255 G-force
-- 22 kW (29.5 HP) motor
-- 65 kg (143.3 lb) load weight
+- Material: Hastelloy - C4
+- G Force: 1,255 G-force
+- Main Drive Motor Power: 22 kW (29.5 HP) motor
+- Load Weight: 65 kg (143.3 lb) load weight
 
-[Request Specs](/contact/) | [View IPP# 200899](https://ims.internationalprocessplants.com/inventory/equipment/detail/200899)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/200899) | [View IPP# 200899](https://ims.internationalprocessplants.com/inventory/equipment/detail/200899)
 
 #### Heinkel HF-600.1 — Hastelloy C22 ([IPP# 217611](https://ims.internationalprocessplants.com/inventory/equipment/detail/217611))
 
 Used Heinkel HF-600.1 Hastelloy C22 inverting filter centrifuge with 600 mm (23.6 in) basket diameter and 0.45 m² filtration area.
 
-- Hastelloy - C22
-- 0.45 m² (4.8 ft²) filtration area
-- 1,250 G-force
-- 22 kW (29.5 HP) motor
+- Material: Hastelloy - C22
+- Filtration Area: 0.45 m² (4.8 ft²) filtration area
+- G Force: 1,250 G-force
+- Main Drive Motor Power: 22 kW (29.5 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 217611](https://ims.internationalprocessplants.com/inventory/equipment/detail/217611)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/217611) | [View IPP# 217611](https://ims.internationalprocessplants.com/inventory/equipment/detail/217611)
 
 #### Heinkel HF800 — Hastelloy C22 ([IPP# 203934](https://ims.internationalprocessplants.com/inventory/equipment/detail/203934))
 
 Used Heinkel HF800 Hastelloy C22 inverting filter centrifuge with 800 mm (31.5 in) basket, 0.9 m² filtration area, and 149 kg load capacity.
 
-- Hastelloy - C22
-- 800 mm (31.5 in) basket
-- 1,150 G-force
-- 149 kg (328.5 lb) load weight
+- Material: Hastelloy - C22
+- Basket Diameter: 800 mm (31.5 in) basket
+- G Force: 1,150 G-force
+- Load Weight: 149 kg (328.5 lb) load weight
 
-[Request Specs](/contact/) | [View IPP# 203934](https://ims.internationalprocessplants.com/inventory/equipment/detail/203934)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/203934) | [View IPP# 203934](https://ims.internationalprocessplants.com/inventory/equipment/detail/203934)
 
 [Browse All Hastelloy Inverting Filter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/inverting-filter-centrifuge)
 
@@ -107,12 +107,12 @@ IPP stocks Halar-lined inverting filter centrifuges for chemical compatibility w
 
 Used Heinkel HF 600 Halar-lined inverting filter centrifuge with 600 mm (23.6 in) basket diameter, 0.42 m² filtration area, and 94 kg load weight.
 
-- Halar Lined
-- 600 mm (23.6 in) basket
-- 1,250 G-force
-- 30 kW (40.2 HP) motor
+- Material: Halar Lined
+- Basket Diameter: 600 mm (23.6 in) basket
+- G Force: 1,250 G-force
+- Main Drive Motor Power: 30 kW (40.2 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 201061](https://ims.internationalprocessplants.com/inventory/equipment/detail/201061)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/201061) | [View IPP# 201061](https://ims.internationalprocessplants.com/inventory/equipment/detail/201061)
 
 [Browse All Lined Inverting Filter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/inverting-filter-centrifuge)
 
@@ -131,34 +131,34 @@ The Heinkel HF600 family is the deepest single-model position in IPP's inverting
 
 Used Heinkel HF600 stainless steel 316 inverting filter centrifuge with 600 mm (23.6 in) basket, 2,120 RPM maximum speed, and controls included.
 
-- Stainless Steel 316
-- 2,120 RPM maximum
-- 1,250 G-force
-- Controls included
+- Material: Stainless Steel 316
+- Speed-RPM Maximum: 2,120 RPM maximum
+- G Force: 1,250 G-force
+- Controls: Controls included
 
-[Request Specs](/contact/) | [View IPP# 706872](https://ims.internationalprocessplants.com/inventory/equipment/detail/706872)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706872) | [View IPP# 706872](https://ims.internationalprocessplants.com/inventory/equipment/detail/706872)
 
 #### Heinkel HF600 — Hastelloy C4 ([IPP# 200899](https://ims.internationalprocessplants.com/inventory/equipment/detail/200899))
 
 Used Heinkel HF600 Hastelloy C4 inverting filter centrifuge with 600 mm (23.6 in) basket, 22 kW drive motor, and washing capability.
 
-- Hastelloy - C4
-- 22 kW (29.5 HP) motor
-- 1,255 G-force
-- Washing capability
+- Material: Hastelloy - C4
+- Main Drive Motor Power: 22 kW (29.5 HP) motor
+- G Force: 1,255 G-force
+- Washing: Washing capability
 
-[Request Specs](/contact/) | [View IPP# 200899](https://ims.internationalprocessplants.com/inventory/equipment/detail/200899)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/200899) | [View IPP# 200899](https://ims.internationalprocessplants.com/inventory/equipment/detail/200899)
 
 #### Heinkel HF-600 — SS 316 ([IPP# 203376](https://ims.internationalprocessplants.com/inventory/equipment/detail/203376))
 
 Used Heinkel HF-600 stainless steel 316 inverting filter centrifuge with 600 mm (23.6 in) basket, 1,260 G-force, and 3.7 kW drive motor.
 
-- Stainless Steel 316
-- 1,260 G-force
-- 1,940 RPM maximum
-- 3.7 kW (5 HP) motor
+- Material: Stainless Steel 316
+- G Force: 1,260 G-force
+- Speed-RPM Maximum: 1,940 RPM maximum
+- Main Drive Motor Power: 3.7 kW (5 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 203376](https://ims.internationalprocessplants.com/inventory/equipment/detail/203376)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/203376) | [View IPP# 203376](https://ims.internationalprocessplants.com/inventory/equipment/detail/203376)
 
 [Browse All Heinkel HF600 Inverting Filter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/inverting-filter-centrifuge)
 
@@ -170,34 +170,34 @@ IPP stocks Heinkel HF800 and HF800.1 inverting filter centrifuges with 800 mm (3
 
 Used Heinkel HF800 Hastelloy C22 inverting filter centrifuge with 800 mm (31.5 in) basket, 0.9 m² filtration area, and 1,150 G-force.
 
-- Hastelloy - C22
-- 0.9 m² (9.7 ft²) filtration area
-- 149 kg (328.5 lb) load weight
-- 1,600 RPM maximum
+- Material: Hastelloy - C22
+- Filtration Area: 0.9 m² (9.7 ft²) filtration area
+- Load Weight: 149 kg (328.5 lb) load weight
+- Speed-RPM Maximum: 1,600 RPM maximum
 
-[Request Specs](/contact/) | [View IPP# 203934](https://ims.internationalprocessplants.com/inventory/equipment/detail/203934)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/203934) | [View IPP# 203934](https://ims.internationalprocessplants.com/inventory/equipment/detail/203934)
 
 #### Heinkel HF800.1 — Hastelloy C22 ([IPP# 241094](https://ims.internationalprocessplants.com/inventory/equipment/detail/241094))
 
 Used Heinkel HF800.1 Hastelloy C22 inverting filter centrifuge with 800 mm (31.5 in) basket, 150 kg load weight, and 1,138 G-force.
 
-- Hastelloy - C22
-- 1,138 G-force
-- 150 kg (330.7 lb) load weight
-- 1,600 RPM maximum
+- Material: Hastelloy - C22
+- G Force: 1,138 G-force
+- Load Weight: 150 kg (330.7 lb) load weight
+- Speed-RPM Maximum: 1,600 RPM maximum
 
-[Request Specs](/contact/) | [View IPP# 241094](https://ims.internationalprocessplants.com/inventory/equipment/detail/241094)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/241094) | [View IPP# 241094](https://ims.internationalprocessplants.com/inventory/equipment/detail/241094)
 
 #### Heinkel HF800.1 — SS 316Ti ([IPP# 248071](https://ims.internationalprocessplants.com/inventory/equipment/detail/248071))
 
-Used Heinkel HF800.1 stainless steel 316Ti inverting filter centrifuge with 800 mm (31.5 in) basket, 40 kW motor, and 149 kg load weight.
+Used Heinkel HF800.1 stainless steel 316Ti inverting filter centrifuge with 800 mm (31.5 in) basket, 40 kW (53.6 HP) motor, and 149 kg (328.5 lb) load weight.
 
-- Stainless Steel 316Ti
-- 40 kW (53.6 HP) motor
-- 1,150 G-force
-- 149 kg (328.5 lb) load weight
+- Material: Stainless Steel 316Ti
+- Main Drive Motor Power: 40 kW (53.6 HP) motor
+- G Force: 1,150 G-force
+- Load Weight: 149 kg (328.5 lb) load weight
 
-[Request Specs](/contact/) | [View IPP# 248071](https://ims.internationalprocessplants.com/inventory/equipment/detail/248071)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/248071) | [View IPP# 248071](https://ims.internationalprocessplants.com/inventory/equipment/detail/248071)
 
 [Browse All Heinkel HF800 Inverting Filter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/inverting-filter-centrifuge)
 
@@ -209,23 +209,23 @@ IPP also stocks the larger Heinkel HF1000.1 and FO-800 model families. These uni
 
 Used Heinkel HF1000.1 stainless steel 316Ti inverting filter centrifuge with 1,000 mm (39.4 in) basket, 1.26 m² filtration area, and 75 kW motor.
 
-- 1,000 mm (39.4 in) basket
-- 1.26 m² (13.6 ft²) filtration area
-- 250 kg (551 lb) load weight
-- 75 kW (100.6 HP) motor
+- Basket Diameter: 1,000 mm (39.4 in) basket
+- Filtration Area: 1.26 m² (13.6 ft²) filtration area
+- Load Weight: 250 kg (551 lb) load weight
+- Main Drive Motor Power: 75 kW (100.6 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 248074](https://ims.internationalprocessplants.com/inventory/equipment/detail/248074)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/248074) | [View IPP# 248074](https://ims.internationalprocessplants.com/inventory/equipment/detail/248074)
 
 #### Heinkel FO-800 — SS Austenitic ([IPP# 705839](https://ims.internationalprocessplants.com/inventory/equipment/detail/705839))
 
 Used Heinkel FO-800 stainless steel austenitic inverting filter centrifuge with 800 mm (31.5 in) basket, 0.85 m² filtration area, and 150 kg load weight.
 
-- Stainless Steel Austenitic
-- 0.85 m² (9.1 ft²) filtration area
-- 1,138 G-force
-- 5 kW (6.7 HP) motor
+- Material: Stainless Steel Austenitic
+- Filtration Area: 0.85 m² (9.1 ft²) filtration area
+- G Force: 1,138 G-force
+- Main Drive Motor Power: 5 kW (6.7 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 705839](https://ims.internationalprocessplants.com/inventory/equipment/detail/705839)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/705839) | [View IPP# 705839](https://ims.internationalprocessplants.com/inventory/equipment/detail/705839)
 
 [Browse All Heinkel Inverting Filter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/inverting-filter-centrifuge)
 
@@ -242,36 +242,36 @@ Good used inverting filter centrifuges are the deepest condition position in IPP
 
 #### Used Heinkel HF 600 — SS 316 ([IPP# 201243](https://ims.internationalprocessplants.com/inventory/equipment/detail/201243))
 
-Used Heinkel HF 600 stainless steel 316 inverting filter centrifuge with 600 mm (23.6 in) basket, 0.45 m² filtration area, and 30 kW motor.
+Used Heinkel HF 600 stainless steel 316 inverting filter centrifuge with 600 mm (23.6 in) basket, 0.45 m² filtration area, and 30 kW (40.2 HP) motor.
 
-- Used condition
-- Stainless Steel 316
-- 1,200 G-force
-- 30 kW (40.2 HP) motor
+- Condition: Used condition
+- Material: Stainless Steel 316
+- G Force: 1,200 G-force
+- Main Drive Motor Power: 30 kW (40.2 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 201243](https://ims.internationalprocessplants.com/inventory/equipment/detail/201243)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/201243) | [View IPP# 201243](https://ims.internationalprocessplants.com/inventory/equipment/detail/201243)
 
 #### Used Heinkel HF-600.1 — Hastelloy C22 ([IPP# 217611](https://ims.internationalprocessplants.com/inventory/equipment/detail/217611))
 
 Used Heinkel HF-600.1 Hastelloy C22 inverting filter centrifuge with 600 mm (23.6 in) basket, 0.45 m² filtration area, and 22 kW motor.
 
-- Used condition
-- Hastelloy - C22
-- 22 kW (29.5 HP) motor
-- 65 kg (143.3 lb) load weight
+- Condition: Used condition
+- Material: Hastelloy - C22
+- Main Drive Motor Power: 22 kW (29.5 HP) motor
+- Load Weight: 65 kg (143.3 lb) load weight
 
-[Request Specs](/contact/) | [View IPP# 217611](https://ims.internationalprocessplants.com/inventory/equipment/detail/217611)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/217611) | [View IPP# 217611](https://ims.internationalprocessplants.com/inventory/equipment/detail/217611)
 
 #### Used Heinkel HF1000.1 — SS 316Ti ([IPP# 248074](https://ims.internationalprocessplants.com/inventory/equipment/detail/248074))
 
 Used Heinkel HF1000.1 stainless steel 316Ti inverting filter centrifuge with 1,000 mm (39.4 in) basket, 1.26 m² filtration area, and 75 kW motor.
 
-- Used condition
-- Stainless Steel 316Ti
-- 1.26 m² (13.6 ft²) filtration area
-- 250 kg (551 lb) load weight
+- Condition: Used condition
+- Material: Stainless Steel 316Ti
+- Filtration Area: 1.26 m² (13.6 ft²) filtration area
+- Load Weight: 250 kg (551 lb) load weight
 
-[Request Specs](/contact/) | [View IPP# 248074](https://ims.internationalprocessplants.com/inventory/equipment/detail/248074)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/248074) | [View IPP# 248074](https://ims.internationalprocessplants.com/inventory/equipment/detail/248074)
 
 [Browse All Used Inverting Filter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/inverting-filter-centrifuge)
 
@@ -283,13 +283,13 @@ Refurbished/rebuilt inverting filter centrifuges have been disassembled, inspect
 
 Refurbished/rebuilt Heinkel HF800 Hastelloy C22 inverting filter centrifuge with 800 mm (31.5 in) basket, 0.9 m² filtration area, and 149 kg load weight.
 
-- Refurbished/Rebuilt condition
-- Hastelloy - C22
-- 0.9 m² (9.7 ft²) filtration area
-- 1,138 G-force
-- 149 kg (328.5 lb) load weight
+- Condition: Refurbished/Rebuilt condition
+- Material: Hastelloy - C22
+- Filtration Area: 0.9 m² (9.7 ft²) filtration area
+- G Force: 1,138 G-force
+- Load Weight: 149 kg (328.5 lb) load weight
 
-[Request Specs](/contact/) | [View IPP# 225440](https://ims.internationalprocessplants.com/inventory/equipment/detail/225440)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/225440) | [View IPP# 225440](https://ims.internationalprocessplants.com/inventory/equipment/detail/225440)
 
 [Browse All Refurbished Inverting Filter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/inverting-filter-centrifuge)
 
@@ -300,7 +300,7 @@ Refurbished/rebuilt Heinkel HF800 Hastelloy C22 inverting filter centrifuge with
 
 Tell us your specifications and requirements. Our team will match your needs against current inverting filter centrifuges inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -420,7 +420,7 @@ In addition to inverting filter centrifuges, IPP stocks equipment across multipl
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -429,4 +429,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/inverting-filter-centrifuge)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/inverting-filter-centrifuge)

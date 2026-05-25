@@ -4,13 +4,13 @@ Buying used crystalizer/evaporator through International Process Plants gives ch
 
 Materials of construction include Stainless Steel 304, Glasslined, Stainless Steel 316, Titanium. Pressure ratings range from 0.97 bar (14 psi) to 4 bar (58 psi). Available in Used, Re-glassed conditions. Buying used crystalizer/evaporator from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/crystalizer-evaporator)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/crystalizer-evaporator)
 
 **Quick Stats:** 10+ Crystalizer/Evaporator in Stock | 1980 Established Since | 15 Countries with Offices
 
 **Featured Equipment:**
-- [Unknown Stainless Steel 304 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/246743)
-- [Unknown Stainless Steel 304 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/246742)
+- [Struthers Wells Inc. Stainless Steel 304 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893)
+- [Alfa Laval Stainless Steel 316 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/100745)
 - [Gouda Stainless Steel 304 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949)
 
 
@@ -22,56 +22,52 @@ IPP stocks crystalizer/evaporator across multiple material options. Choose the m
 
 ### Buy Used Stainless Steel Crystalizer/Evaporator for Sale
 
-IPP stocks stainless steel crystalizer/evaporator. Available from , Alfa Laval, Struthers Wells Inc. and other manufacturers.
+IPP stocks stainless steel crystalizer/evaporator. Available from Alfa Laval, Struthers Wells Inc., Gouda, and other manufacturers.
 
-#### [Stainless Steel] Unknown Stainless Steel 304 ([IPP# 246743](https://ims.internationalprocessplants.com/inventory/equipment/detail/246743))
+#### [Stainless Steel] Struthers Wells Inc. Stainless Steel 304 ([IPP# 246893](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893))
 
-Used Unknown Stainless Steel 304 evaporator.
+Used Struthers Wells Inc. Stainless Steel 304 evaporator.
 
-- 0.97 bar (14 psi), 121.1 °C (250 °F)
-- Stainless Steel 304
-- Used condition
-- 2,750 mm (108 in) x 3,350 mm (132 in)
+- Pressure: 3.4 bar (50 psi)
+- Evaporation Rate: 1,100 kg/h (2,400 lb/h)
+- Material: Stainless Steel 304
+- Condition: Used condition
+- Manufacturer: Struthers Wells Inc.
+- Number of Tubes: 121
 
-[Request Specs](/contact/) | [View IPP# 246743](https://ims.internationalprocessplants.com/inventory/equipment/detail/246743)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893) | [View IPP# 246893](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893)
 
 #### Gouda Stainless Steel 304 ([IPP# 246949](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949))
 
 Used Gouda Stainless Steel 304 evaporator.
 
-- 1 bar (14.5 psi), 100 °C (212 °F)
-- Stainless Steel 304
-- Used condition
-- Gouda C25-1.2(7),
-- 1,250 mm (48.3 in) x 2,100 mm (82 in)
+- Pressure: 1 bar (14.5 psi)
+- Temperature: 100 °C (212 °F)
+- Material: Stainless Steel 304
+- Condition: Used condition
+- Manufacturer: Gouda
+- Model: C25-1.2(7),
+- Diameter: 1,250 mm (48.3 in)
+- Height: 2,100 mm (82 in)
 
-[Request Specs](/contact/) | [View IPP# 246949](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949) | [View IPP# 246949](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949)
 
 [Browse All Stainless Steel Crystalizer/Evaporator in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/crystalizer-evaporator)
 
 ### Buy Used Glass-Lined Crystalizer/Evaporator for Sale
 
-IPP stocks glass-lined crystalizer/evaporator. Available from , Pfaudler and other manufacturers.
+IPP stocks glass-lined crystalizer/evaporator. Available from Pfaudler and other manufacturers.
 
 #### [Glass-Lined] Pfaudler Glasslined ([IPP# 86856](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856))
 
 Re-glassed Pfaudler Glasslined evaporator.
 
-- Glasslined
-- Re-glassed condition
-- 914 mm (36 in) x 711 mm (28 in)
+- Material: Glasslined
+- Condition: Re-glassed condition
+- Diameter: 914 mm (36 in)
+- Tube Length: 711 mm (28 in)
 
-[Request Specs](/contact/) | [View IPP# 86856](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856)
-
-#### Unknown Glasslined ([IPP# 87722](https://ims.internationalprocessplants.com/inventory/equipment/detail/87722))
-
-Used Unknown Glasslined evaporator.
-
-- Glasslined
-- Used condition
-- 813 mm (32 in) x 711 mm (28 in)
-
-[Request Specs](/contact/) | [View IPP# 87722](https://ims.internationalprocessplants.com/inventory/equipment/detail/87722)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856) | [View IPP# 86856](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856)
 
 [Browse All Glass-Lined Crystalizer/Evaporator in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/crystalizer-evaporator)
 
@@ -83,28 +79,12 @@ IPP stocks titanium crystalizer/evaporator. Available from Betchel and other man
 
 Used Betchel Titanium evaporator.
 
-- Titanium
-- Used condition
+- Material: Titanium
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 228155](https://ims.internationalprocessplants.com/inventory/equipment/detail/228155)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/228155) | [View IPP# 228155](https://ims.internationalprocessplants.com/inventory/equipment/detail/228155)
 
 [Browse All Titanium Crystalizer/Evaporator in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/crystalizer-evaporator)
-
-### Buy Used Rubberlined Crystalizer/Evaporator for Sale
-
-IPP stocks rubberlined crystalizer/evaporator. Available from and other manufacturers.
-
-#### [Rubberlined] Unknown Rubberlined ([IPP# 228156](https://ims.internationalprocessplants.com/inventory/equipment/detail/228156))
-
-Used Unknown Rubberlined evaporator.
-
-- Rubberlined
-- Used condition
-- 4,900 mm (192 in)
-
-[Request Specs](/contact/) | [View IPP# 228156](https://ims.internationalprocessplants.com/inventory/equipment/detail/228156)
-
-[Browse All Rubberlined Crystalizer/Evaporator in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/crystalizer-evaporator)
 
 
 ---
@@ -121,13 +101,13 @@ Alfa Laval is a leading OEM for crystallizer evaporator equipment in IPP's inven
 
 Used Alfa Laval stainless steel 316 crystallizer evaporator rated at 4 bar (58 psi) and 50 °C (122 °F) with vacuum capability.
 
-- Stainless Steel 316
-- 4 bar (58 psi) pressure rating
-- 50 °C (122 °F) temperature rating
-- Vacuum capable
-- Used condition
+- Material: Stainless Steel 316
+- Pressure: 4 bar (58 psi) pressure rating
+- Temperature: 50 °C (122 °F) temperature rating
+- Vacuum: Vacuum capable
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 100745](https://ims.internationalprocessplants.com/inventory/equipment/detail/100745)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/100745) | [View IPP# 100745](https://ims.internationalprocessplants.com/inventory/equipment/detail/100745)
 
 [Browse All Alfa Laval Crystallizer Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/crystalizer-evaporator)
 
@@ -139,13 +119,13 @@ Gouda is an established OEM for cooling disc crystallizer systems in IPP's inven
 
 Used Gouda C25-1.2(7) stainless steel 304 cooling disc crystallizer with 16.2 m² (174.4 ft²) heat transfer surface area, 3,900 L (1,050 gallons) capacity, and agitation.
 
-- Stainless Steel 304
-- 16.2 m² (174.4 ft²) heat transfer area
-- 3,900 L (1,050 gallons) capacity
-- 3.7 kW (5 HP) motor
-- Used condition
+- Material: Stainless Steel 304
+- Total Heat Transfer Surface Area: 16.2 m² (174.4 ft²) heat transfer area
+- Capacity in Gallons: 3,900 L (1,050 gallons) capacity
+- Drive Motor HP: 3.7 kW (5 HP) motor
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 246949](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949) | [View IPP# 246949](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949)
 
 [Browse All Gouda Crystallizer Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/crystalizer-evaporator)
 
@@ -157,35 +137,35 @@ IPP also stocks crystallizer evaporators from Struthers Wells, Betchel, and Pfau
 
 Used Struthers Wells Inc. stainless steel 304 crystallizer evaporator with 44.1 m² (475 ft²) heat transfer surface area, 1,100 kg/h (2,400 lb/h) evaporation rate, and vacuum capability.
 
-- Stainless Steel 304
-- 44.1 m² (475 ft²) heat transfer area
-- 1,100 kg/h (2,400 lb/h) evaporation rate
-- 3.4 bar (50 psi) pressure rating
-- Vacuum capable with controls
+- Material: Stainless Steel 304
+- Total Heat Transfer Surface Area: 44.1 m² (475 ft²) heat transfer area
+- Evaporation Rate: 1,100 kg/h (2,400 lb/h) evaporation rate
+- Pressure: 3.4 bar (50 psi) pressure rating
+- Vacuum: Vacuum capable with controls
 
-[Request Specs](/contact/) | [View IPP# 246893](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893) | [View IPP# 246893](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893)
 
 #### Betchel ZLD Brine Evaporator/Crystallizer ([IPP# 228155](https://ims.internationalprocessplants.com/inventory/equipment/detail/228155))
 
 Used Betchel titanium crystallizer/evaporator zero-discharge system (ZLD) brine evaporator/crystallizer in vertical orientation.
 
-- Titanium construction
-- Vertical orientation
-- Used condition
+- Material: Titanium construction
+- Orientation: Vertical orientation
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 228155](https://ims.internationalprocessplants.com/inventory/equipment/detail/228155)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/228155) | [View IPP# 228155](https://ims.internationalprocessplants.com/inventory/equipment/detail/228155)
 
 #### Pfaudler Crystallizer Evaporator — Glasslined ([IPP# 86856](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856))
 
 Re-glassed Pfaudler glasslined crystallizer evaporator with 914 mm (36 in) diameter and 711 mm (28 in) height in vertical orientation.
 
-- Glasslined construction
-- 914 mm (36 in) diameter
-- 711 mm (28 in) height
-- Vertical orientation
-- Re-glassed condition
+- Material: Glasslined construction
+- Diameter: 914 mm (36 in) diameter
+- Height: 711 mm (28 in) height
+- Orientation: Vertical orientation
+- Condition: Re-glassed condition
 
-[Request Specs](/contact/) | [View IPP# 86856](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856) | [View IPP# 86856](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856)
 
 [Browse All Crystallizer Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/crystalizer-evaporator)
 
@@ -204,37 +184,37 @@ Good used crystallizer evaporators are the deepest condition position in IPP's i
 
 Used Alfa Laval stainless steel 316 crystallizer evaporator rated at 4 bar (58 psi) and 50 °C (122 °F) with vacuum capability.
 
-- Used condition
-- Stainless Steel 316
-- 4 bar (58 psi) pressure rating
-- 50 °C (122 °F) temperature rating
-- Vacuum capable
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Pressure: 4 bar (58 psi) pressure rating
+- Temperature: 50 °C (122 °F) temperature rating
+- Vacuum: Vacuum capable
 
-[Request Specs](/contact/) | [View IPP# 100745](https://ims.internationalprocessplants.com/inventory/equipment/detail/100745)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/100745) | [View IPP# 100745](https://ims.internationalprocessplants.com/inventory/equipment/detail/100745)
 
 #### Used Struthers Wells Crystallizer Evaporator — SS 304 ([IPP# 246893](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893))
 
 Used Struthers Wells Inc. stainless steel 304 crystallizer evaporator with 44.1 m² (475 ft²) heat transfer surface area and 1,100 kg/h (2,400 lb/h) evaporation rate.
 
-- Used condition
-- Stainless Steel 304
-- 44.1 m² (475 ft²) heat transfer area
-- 1,100 kg/h (2,400 lb/h) evaporation rate
-- Vacuum capable with controls
+- Condition: Used condition
+- Material: Stainless Steel 304
+- Total Heat Transfer Surface Area: 44.1 m² (475 ft²) heat transfer area
+- Evaporation Rate: 1,100 kg/h (2,400 lb/h) evaporation rate
+- Vacuum: Vacuum capable with controls
 
-[Request Specs](/contact/) | [View IPP# 246893](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893) | [View IPP# 246893](https://ims.internationalprocessplants.com/inventory/equipment/detail/246893)
 
 #### Used Gouda C25-1.2(7) Cooling Disc Crystallizer ([IPP# 246949](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949))
 
 Used Gouda C25-1.2(7) stainless steel 304 cooling disc crystallizer with 16.2 m² (174.4 ft²) heat transfer surface area and 3,900 L (1,050 gallons) capacity.
 
-- Used condition
-- Stainless Steel 304
-- 16.2 m² (174.4 ft²) heat transfer area
-- 3,900 L (1,050 gallons) capacity
-- 3.7 kW (5 HP) motor
+- Condition: Used condition
+- Material: Stainless Steel 304
+- Total Heat Transfer Surface Area: 16.2 m² (174.4 ft²) heat transfer area
+- Capacity in Gallons: 3,900 L (1,050 gallons) capacity
+- Drive Motor HP: 3.7 kW (5 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 246949](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949) | [View IPP# 246949](https://ims.internationalprocessplants.com/inventory/equipment/detail/246949)
 
 [Browse All Used Crystallizer Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/crystalizer-evaporator)
 
@@ -246,13 +226,13 @@ Re-glassed crystallizer evaporators have had their glass lining professionally r
 
 Re-glassed Pfaudler glasslined crystallizer evaporator with 914 mm (36 in) diameter and 711 mm (28 in) height in vertical orientation on leg supports.
 
-- Re-glassed condition
-- Glasslined construction
-- 914 mm (36 in) diameter
-- 711 mm (28 in) height
-- Leg-supported, vertical
+- Condition: Re-glassed condition
+- Material: Glasslined construction
+- Diameter: 914 mm (36 in) diameter
+- Height: 711 mm (28 in) height
+- Support Type: Leg-supported, vertical
 
-[Request Specs](/contact/) | [View IPP# 86856](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856) | [View IPP# 86856](https://ims.internationalprocessplants.com/inventory/equipment/detail/86856)
 
 [Browse All Re-glassed Crystallizer Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/crystalizer-evaporator)
 
@@ -263,7 +243,7 @@ Re-glassed Pfaudler glasslined crystallizer evaporator with 914 mm (36 in) diame
 
 Tell us your specifications and requirements. Our team will match your needs against current crystalizer/evaporator inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -384,7 +364,7 @@ In addition to crystalizer/evaporator, IPP stocks equipment across multiple cate
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -393,4 +373,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/crystalizer-evaporator)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/crystalizer-evaporator)

@@ -1,12 +1,12 @@
 # Buy Used Porcupine Dryers for Sale
 
-Buying used porcupine dryers through International Process Plants gives chemical, pharmaceutical, food, and biomass buyers access to indirect dryers that use a heated, paddle-studded rotor inside a jacketed trough to break up and dry wet solids continuously from Gale Process Solutions and other OEM manufacturers.
+Buying used porcupine dryers through International Process Plants gives chemical, wastewater, food, and biomass buyers access to indirect dryers that use a heated, paddle-studded rotor inside a jacketed trough to break up and dry sludges and wet solids continuously from Gale Process Solutions and other OEM manufacturers.
 
 Materials of construction include Stainless Steel 316 and Stainless Steel 304. Diameters range from 304.8 mm (12 in) on IPP# 76672 to 1,050 mm (42 in) on IPP# 246885. Lengths range from 914 mm (36 in) to 3,050 mm (120 in).
 
 IPP stocks Gale Process Solutions units across the 1P4210 and 1P1203 model families. Condition options include used and unused stock. These units serve continuous drying of thick pastes, slurries, and viscous solids. Buying used porcupine dryers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/porcupine-dryer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/porcupine-dryer)
 
 **Quick Stats:** 15,000+ Equipment Pieces in IPP Inventory | 1980 Established Since | 15 Countries with Offices
 
@@ -29,25 +29,29 @@ IPP stocks Stainless Steel 316 porcupine dryers in used and unused conditions. A
 
 Used Gale Process Solutions Stainless Steel 316 dryer-porcupine. 304.8 mm (12 in) diameter x 914 mm (36 in) length.
 
-- Stainless Steel 316
-- Used condition
-- Gale Process Solutions 1P1203JTC-S
-- 304.8 mm (12 in) x 914 mm (36 in)
-- 10.3 bar (150 psi) operating pressure
+- Material: Stainless Steel 316
+- Condition: Used condition
+- Manufacturer: Gale Process Solutions
+- Model: 1P1203JTC-S
+- Diameter: 304.8 mm (12 in)
+- Length: 914 mm (36 in)
+- Porcupine Operating Pressure: 10.3 bar (150 psi) operating pressure
 
-[Request Specs](/contact/) | [View IPP# 76672](https://ims.internationalprocessplants.com/inventory/equipment/detail/76672)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/76672) | [View IPP# 76672](https://ims.internationalprocessplants.com/inventory/equipment/detail/76672)
 
 #### Gale Process Solutions SS 316 — Unused ([IPP# 78892](https://ims.internationalprocessplants.com/inventory/equipment/detail/78892))
 
 Unused Gale Process Solutions Stainless Steel 316 dryer-porcupine. 304.8 mm (12 in) diameter x 914 mm (36 in) length.
 
-- Stainless Steel 316
-- Unused condition
-- Gale Process Solutions 1P1203JTB
-- 304.8 mm (12 in) x 914 mm (36 in)
-- 10.3 bar (150 psi) operating pressure
+- Material: Stainless Steel 316
+- Condition: Unused condition
+- Manufacturer: Gale Process Solutions
+- Model: 1P1203JTB
+- Diameter: 304.8 mm (12 in)
+- Length: 914 mm (36 in)
+- Porcupine Operating Pressure: 10.3 bar (150 psi) operating pressure
 
-[Request Specs](/contact/) | [View IPP# 78892](https://ims.internationalprocessplants.com/inventory/equipment/detail/78892)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/78892) | [View IPP# 78892](https://ims.internationalprocessplants.com/inventory/equipment/detail/78892)
 
 [Browse All Stainless Steel 316 Porcupine Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/porcupine-dryer)
 
@@ -59,13 +63,15 @@ IPP stocks Stainless Steel 304 porcupine dryers for general-purpose and industri
 
 Used Gale Process Solutions Stainless Steel 304 dryer-porcupine. 1,050 mm (42 in) diameter x 3,050 mm (120 in) length with 2.6 m3 (90.8 ft3) total working volume.
 
-- Stainless Steel 304
-- Used condition
-- Gale Process Solutions 1P4210JTB
-- 1,050 mm (42 in) x 3,050 mm (120 in)
-- 44 m² (474 ft²) total heat transfer area
+- Material: Stainless Steel 304
+- Condition: Used condition
+- Manufacturer: Gale Process Solutions
+- Model: 1P4210JTB
+- Diameter: 1,050 mm (42 in)
+- Length: 3,050 mm (120 in)
+- Total Heat Transfer Surface Area: 44 m² (474 ft²) total heat transfer area
 
-[Request Specs](/contact/) | [View IPP# 246885](https://ims.internationalprocessplants.com/inventory/equipment/detail/246885)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246885) | [View IPP# 246885](https://ims.internationalprocessplants.com/inventory/equipment/detail/246885)
 
 [Browse All Stainless Steel 304 Porcupine Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/porcupine-dryer)
 
@@ -84,37 +90,40 @@ Gale Process Solutions is the sole manufacturer represented in IPP's current por
 
 Used Gale Process Solutions 1P4210JTB Stainless Steel 304 dryer-porcupine with 2.6 m3 (90.8 ft3) total working volume and 44 m2 total heat transfer surface area.
 
-- Stainless Steel 304
-- 1,050 mm (42 in) x 3,050 mm (120 in)
-- 2.6 m3 (90.8 ft3) working volume
-- 44 m² (474 ft²) heat transfer area
-- Used condition
+- Material: Stainless Steel 304
+- Diameter: 1,050 mm (42 in)
+- Length: 3,050 mm (120 in)
+- Total Working Volume: 2.6 m3 (90.8 ft3) working volume
+- Total Heat Transfer Surface Area: 44 m² (474 ft²) heat transfer area
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 246885](https://ims.internationalprocessplants.com/inventory/equipment/detail/246885)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246885) | [View IPP# 246885](https://ims.internationalprocessplants.com/inventory/equipment/detail/246885)
 
 #### Gale 1P1203JTC-S — SS 316 ([IPP# 76672](https://ims.internationalprocessplants.com/inventory/equipment/detail/76672))
 
 Used Gale Process Solutions 1P1203JTC-S Stainless Steel 316 dryer-porcupine. 304.8 mm (12 in) diameter x 914 mm (36 in) length.
 
-- Stainless Steel 316
-- 304.8 mm (12 in) x 914 mm (36 in)
-- 10.3 bar (150 psi) operating pressure
-- 2.2 m² (24 ft²) heat transfer area
-- Used condition
+- Material: Stainless Steel 316
+- Diameter: 304.8 mm (12 in)
+- Length: 914 mm (36 in)
+- Porcupine Operating Pressure: 10.3 bar (150 psi) operating pressure
+- Total Heat Transfer Surface Area: 2.2 m² (24 ft²) heat transfer area
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 76672](https://ims.internationalprocessplants.com/inventory/equipment/detail/76672)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/76672) | [View IPP# 76672](https://ims.internationalprocessplants.com/inventory/equipment/detail/76672)
 
 #### Gale 1P1203JTB — SS 316 Unused ([IPP# 78892](https://ims.internationalprocessplants.com/inventory/equipment/detail/78892))
 
 Unused Gale Process Solutions 1P1203JTB Stainless Steel 316 dryer-porcupine. 304.8 mm (12 in) diameter x 914 mm (36 in) length.
 
-- Stainless Steel 316
-- 304.8 mm (12 in) x 914 mm (36 in)
-- 10.3 bar (150 psi) operating pressure
-- 1.83 m² (19.7 ft²) heat transfer area
-- Unused condition
+- Material: Stainless Steel 316
+- Diameter: 304.8 mm (12 in)
+- Length: 914 mm (36 in)
+- Porcupine Operating Pressure: 10.3 bar (150 psi) operating pressure
+- Total Heat Transfer Surface Area: 1.83 m² (19.7 ft²) heat transfer area
+- Condition: Unused condition
 
-[Request Specs](/contact/) | [View IPP# 78892](https://ims.internationalprocessplants.com/inventory/equipment/detail/78892)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/78892) | [View IPP# 78892](https://ims.internationalprocessplants.com/inventory/equipment/detail/78892)
 
 [Browse All Gale Process Solutions Porcupine Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/porcupine-dryer)
 
@@ -133,25 +142,27 @@ Good used porcupine dryers are the deepest condition position in IPP's porcupine
 
 Used Gale Process Solutions 1P4210JTB Stainless Steel 304 dryer-porcupine with 1,050 mm (42 in) diameter, 3,050 mm (120 in) length, and 2.6 m3 (90.8 ft3) total working volume.
 
-- Used condition
-- Stainless Steel 304
-- 1,050 mm (42 in) x 3,050 mm (120 in)
-- 2.6 m3 (90.8 ft3) working volume
-- 44 m² (474 ft²) heat transfer area
+- Condition: Used condition
+- Material: Stainless Steel 304
+- Diameter: 1,050 mm (42 in)
+- Length: 3,050 mm (120 in)
+- Total Working Volume: 2.6 m3 (90.8 ft3) working volume
+- Total Heat Transfer Surface Area: 44 m² (474 ft²) heat transfer area
 
-[Request Specs](/contact/) | [View IPP# 246885](https://ims.internationalprocessplants.com/inventory/equipment/detail/246885)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246885) | [View IPP# 246885](https://ims.internationalprocessplants.com/inventory/equipment/detail/246885)
 
 #### Used Gale 1P1203JTC-S — SS 316 ([IPP# 76672](https://ims.internationalprocessplants.com/inventory/equipment/detail/76672))
 
 Used Gale Process Solutions 1P1203JTC-S Stainless Steel 316 dryer-porcupine. 304.8 mm (12 in) diameter x 914 mm (36 in) length with 10.3 bar (150 psi) operating pressure.
 
-- Used condition
-- Stainless Steel 316
-- 304.8 mm (12 in) x 914 mm (36 in)
-- 10.3 bar (150 psi) operating pressure
-- 2.2 m² (24 ft²) heat transfer area
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Diameter: 304.8 mm (12 in)
+- Length: 914 mm (36 in)
+- Porcupine Operating Pressure: 10.3 bar (150 psi) operating pressure
+- Total Heat Transfer Surface Area: 2.2 m² (24 ft²) heat transfer area
 
-[Request Specs](/contact/) | [View IPP# 76672](https://ims.internationalprocessplants.com/inventory/equipment/detail/76672)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/76672) | [View IPP# 76672](https://ims.internationalprocessplants.com/inventory/equipment/detail/76672)
 
 [Browse All Used Porcupine Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/porcupine-dryer)
 
@@ -163,13 +174,14 @@ Unused porcupine dryers were manufactured and delivered but never placed into se
 
 Unused Gale Process Solutions 1P1203JTB Stainless Steel 316 dryer-porcupine. 304.8 mm (12 in) diameter x 914 mm (36 in) length with 10.3 bar (150 psi) operating pressure.
 
-- Unused condition
-- Stainless Steel 316
-- 304.8 mm (12 in) x 914 mm (36 in)
-- 10.3 bar (150 psi) operating pressure
-- 1.83 m² (19.7 ft²) heat transfer area
+- Condition: Unused condition
+- Material: Stainless Steel 316
+- Diameter: 304.8 mm (12 in)
+- Length: 914 mm (36 in)
+- Porcupine Operating Pressure: 10.3 bar (150 psi) operating pressure
+- Total Heat Transfer Surface Area: 1.83 m² (19.7 ft²) heat transfer area
 
-[Request Specs](/contact/) | [View IPP# 78892](https://ims.internationalprocessplants.com/inventory/equipment/detail/78892)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/78892) | [View IPP# 78892](https://ims.internationalprocessplants.com/inventory/equipment/detail/78892)
 
 [Browse All Unused Porcupine Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/porcupine-dryer)
 
@@ -180,7 +192,7 @@ Unused Gale Process Solutions 1P1203JTB Stainless Steel 316 dryer-porcupine. 304
 
 Tell us your specifications and requirements. Our team will match your needs against current porcupine dryers inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -300,7 +312,7 @@ In addition to porcupine dryers, IPP stocks equipment across multiple categories
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom-built equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -309,4 +321,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Contact IPP Sales](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/porcupine-dryer)
+[Contact IPP Sales](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/porcupine-dryer)

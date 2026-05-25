@@ -6,7 +6,7 @@ Materials of construction include Carbon Steel and Stainless Steel 304. Motor po
 
 Available units are in used condition. All muller mixers are in stock and ready to ship. Buying used muller mixers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/muller-mixer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/muller-mixer)
 
 **Quick Stats:** 15,000+ Process Systems in IPP Inventory | 1980 Established Since | 15 Countries with Offices
 
@@ -29,13 +29,14 @@ IPP stocks carbon steel muller mixers suited for foundry sand conditioning, abra
 
 Used Zwangsmischer Baumaschinen Gmbh carbon steel mixer-muller with 1,100 L (297.2 gallons) chamber volume and 2,400 mm (94.5 in) chamber diameter.
 
-- Carbon Steel
-- 1,100 L (297.2 gallons) chamber volume
-- 2,400 mm (94.5 in) dia. x 675 mm (26.6 in) H
-- 37 kW (49.6 HP) motor
-- Rotor speed: 27 RPM
+- Material: Carbon Steel
+- Chamber Volume: 1,100 L (297.2 gallons) chamber volume
+- Chamber Diameter: 2,400 mm (94.5 in) dia.
+- Chamber Height: 675 mm (26.6 in) H
+- Motor Power: 37 kW (49.6 HP) motor
+- Rotor RPM: Rotor speed: 27 RPM
 
-[Request Specs](/contact/) | [View IPP# 212007](https://ims.internationalprocessplants.com/inventory/equipment/detail/212007)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212007) | [View IPP# 212007](https://ims.internationalprocessplants.com/inventory/equipment/detail/212007)
 
 [Browse All Carbon Steel Muller Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/muller-mixer)
 
@@ -47,13 +48,15 @@ IPP stocks stainless steel 304 muller mixers for corrosion-sensitive application
 
 Used Kersher stainless steel 304 mixer-muller with 1,500 mm (60 in) chamber diameter and 431.8 mm (17 in) muller wheels.
 
-- Stainless Steel 304
-- 1,500 mm (60 in) dia. x 304.8 mm (12 in) H
-- Muller: 431.8 mm (17 in) dia. x 152.4 mm (6 in) W
-- 7.5 kW (10 HP) motor
-- Used condition
+- Material: Stainless Steel 304
+- Chamber Diameter: 1,500 mm (60 in) dia.
+- Chamber Height: 304.8 mm (12 in) H
+- Muller Diameter: Muller: 431.8 mm (17 in) dia.
+- Muller Width: 152.4 mm (6 in) W
+- Motor Power: 7.5 kW (10 HP) motor
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 93993](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993) | [View IPP# 93993](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993)
 
 [Browse All Stainless Steel 304 Muller Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/muller-mixer)
 
@@ -72,13 +75,13 @@ Zwangsmischer Baumaschinen Gmbh is a German manufacturer of heavy-duty pan mixer
 
 Used Zwangsmischer Baumaschinen Gmbh carbon steel mixer-muller with 1,100 L (297.2 gallons) chamber volume, 27 RPM rotor, and side-discharge design.
 
-- Carbon Steel
-- 1,100 L (297.2 gallons) chamber volume
-- 37 kW (49.6 HP) motor
-- 2,400 mm (94.5 in) chamber diameter
-- Used condition
+- Material: Carbon Steel
+- Chamber Volume: 1,100 L (297.2 gallons) chamber volume
+- Motor Power: 37 kW (49.6 HP) motor
+- Chamber Diameter: 2,400 mm (94.5 in) chamber diameter
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 212007](https://ims.internationalprocessplants.com/inventory/equipment/detail/212007)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212007) | [View IPP# 212007](https://ims.internationalprocessplants.com/inventory/equipment/detail/212007)
 
 [Browse All Zwangsmischer Muller Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/muller-mixer)
 
@@ -90,13 +93,15 @@ Kersher manufactures stainless steel muller mixers for sanitary and specialty mi
 
 Used Kersher stainless steel 304 mixer-muller with 1,500 mm (60 in) chamber diameter, bottom and side scraper blades, and 8 in x 8 in bottom discharge.
 
-- Stainless Steel 304
-- 1,500 mm (60 in) dia. x 304.8 mm (12 in) H
-- Muller: 431.8 mm (17 in) dia. x 152.4 mm (6 in) W
-- 7.5 kW (10 HP) motor
-- Used condition
+- Material: Stainless Steel 304
+- Chamber Diameter: 1,500 mm (60 in) dia.
+- Chamber Height: 304.8 mm (12 in) H
+- Muller Diameter: Muller: 431.8 mm (17 in) dia.
+- Muller Width: 152.4 mm (6 in) W
+- Motor Power: 7.5 kW (10 HP) motor
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 93993](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993) | [View IPP# 93993](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993)
 
 [Browse All Kersher Muller Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/muller-mixer)
 
@@ -115,25 +120,26 @@ Both muller mixers currently in IPP's inventory are in used condition. These uni
 
 Used Zwangsmischer Baumaschinen Gmbh carbon steel mixer-muller with 1,100 L (297.2 gallons) chamber volume and side-discharge design.
 
-- Used condition
-- Carbon Steel
-- 1,100 L (297.2 gallons) chamber volume
-- 37 kW (49.6 HP) motor
-- Rotor speed: 27 RPM
+- Condition: Used condition
+- Material: Carbon Steel
+- Chamber Volume: 1,100 L (297.2 gallons) chamber volume
+- Motor Power: 37 kW (49.6 HP) motor
+- Rotor RPM: Rotor speed: 27 RPM
 
-[Request Specs](/contact/) | [View IPP# 212007](https://ims.internationalprocessplants.com/inventory/equipment/detail/212007)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212007) | [View IPP# 212007](https://ims.internationalprocessplants.com/inventory/equipment/detail/212007)
 
 #### Used Kersher Stainless Steel 304 — 1,500 mm (59.1 in) ([IPP# 93993](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993))
 
 Used Kersher stainless steel 304 mixer-muller with 1,500 mm (60 in) chamber diameter and dual 431.8 mm (17 in) muller wheels.
 
-- Used condition
-- Stainless Steel 304
-- 1,500 mm (60 in) dia. x 304.8 mm (12 in) H
-- 7.5 kW (10 HP) motor
-- Muller: 431.8 mm (17 in) diameter
+- Condition: Used condition
+- Material: Stainless Steel 304
+- Chamber Diameter: 1,500 mm (60 in) dia.
+- Chamber Height: 304.8 mm (12 in) H
+- Motor Power: 7.5 kW (10 HP) motor
+- Muller Diameter: Muller: 431.8 mm (17 in) diameter
 
-[Request Specs](/contact/) | [View IPP# 93993](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993) | [View IPP# 93993](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993)
 
 [Browse All Used Muller Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/muller-mixer)
 
@@ -144,7 +150,7 @@ Used Kersher stainless steel 304 mixer-muller with 1,500 mm (60 in) chamber diam
 
 Tell us your specifications and requirements. Our team will match your needs against current muller mixers inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -182,7 +188,7 @@ IPP stocks muller mixers from Zwangsmischer Baumaschinen Gmbh, Kersher and other
 IPP offers refurbishment services through its UGE (Universal Glasteel Equipment) division, founded in 1995, which stocks 700+ vessels and 2,700+ parts.
 
 ### Global Presence in 15 Countries
-IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom, and United States. IPP has served 160,000+ customers worldwide.
+IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom, and the United States. IPP has served 160,000+ customers worldwide.
 
 ### Full Range of Materials & Specs
 IPP stocks muller mixers across a wide range of specifications to match your process requirements.
@@ -207,14 +213,19 @@ The process of purchasing used muller mixers from IPP follows five steps, from s
 
 IPP supplies used muller mixers to manufacturers across multiple process industries worldwide.
 
-- Pharmaceutical
 - Chemical Processing
-- Food & Beverage
-- Cosmetics
-- Paints & Coatings
 - Polymers & Resins
-- Biotechnology
-- Agrochemicals
+- Paints & Coatings
+- Adhesives & Sealants
+- Ceramics & Refractories
+- Foundry & Metal Casting Materials
+- Construction Materials
+- Specialty Chemical Manufacturing
+- Agrochemicals (selected high-solids, paste, and wettable powder formulations)
+- Food & Beverage (limited, non-sanitary or ingredient pre-processing applications)
+- Cosmetics (selected bulk or base formulation blending applications)
+- Pharmaceutical (non-sterile, non-GMP, or bulk solid and intermediate processing applications)
+- Biotechnology (limited, non-cell-culture and non-sterile auxiliary material processing applications)
 
 
 ---
@@ -265,7 +276,7 @@ In addition to muller mixers, IPP stocks equipment across multiple categories fo
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -274,4 +285,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/muller-mixer)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/muller-mixer)

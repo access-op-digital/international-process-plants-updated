@@ -1,12 +1,12 @@
-# Buy Used Glass Lined Parts for Sale
+# Buy Used Glass Lined Parts and Accessories for Sale
 
-Buying used glass lined parts through International Process Plants gives chemical, pharmaceutical, biotech, and specialty manufacturers access to agitators, baffles, cryo-lock blades, and pro-rings from Pfaudler, DeDietrich, UGE, 3V Tech, Schwelm, and other OEM manufacturers. Vessel sizes range from 19 L (5 gal) to 37,850 L (10,000 gal), with parts available in re-glassed, used, unused, and new conditions.
+Buying used glass-lined parts and accessories through International Process Plants gives chemical, pharmaceutical, biotech, and specialty manufacturers access to agitators, baffles, cryo-lock blades, and pro-rings from Pfaudler, DeDietrich, UGE, 3V Tech, Schwelm, and other OEM manufacturers. Vessel sizes range from 19 L (5 gal) to 37,850 L (10,000 gal), with parts available in re-glassed, used, unused, and new conditions.
 
 IPP Group includes UGE (Universal Glasteel Equipment), founded in 1995, which re-glasses and stocks glass lined reactor components. Glass fire polish options include full fire polish (FF) for restored surface quality. Glass condition is graded, with many parts rated Very Clean (VC).
 
 Pfaudler and DeDietrich are the most commonly stocked manufacturers across all part types. Buying used glass lined parts from IPP can save up to 50% of capital and 90% of lead time versus buying new OEM parts.
 
-[Request a Quote](/contact/) | [Search Parts Inventory](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Parts Inventory](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts)
 
 **Quick Stats:** 50% Capital Savings vs New | 4 Part Types | 1980 Established Since | 15 Countries with Offices
 
@@ -27,41 +27,50 @@ IPP stocks glass lined parts across 4 subtypes: agitators, baffles, cryo-lock bl
 
 IPP stocks glass lined agitator parts from Pfaudler, DeDietrich, UGE, 3V Tech, EHW Thale, and other manufacturers. Pfaudler RCI retreat curve impeller agitators are the most commonly stocked model. Available in re-glassed and used conditions.
 
-#### [Largest Agitator] Pfaudler RCI Agitator — 4,000 Gal ([IPP# 92090](https://ims.internationalprocessplants.com/inventory/equipment/detail/92090))
+#### [Largest Agitator] Pfaudler RCI Agitator — 15,150 L (4,000 gal) ([IPP# 92090](https://ims.internationalprocessplants.com/inventory/equipment/detail/92090))
 
 Re-glassed Pfaudler RCI glass lined agitator. 3-blade retreat curve design for 15,150 L (4,000 gal) reactor vessels. Full fire polish with Very Clean glass condition.
 
-- Fits 15,150 L (4,000 gal) vessel
-- 127 mm (5 in) dia × 4,650 mm (183 in) long
-- 1,350 mm (54 in) span
-- 3 Blade Retreat Curve, Counter-Clockwise
-- TW drive, 7-8 TW drive end
+- Vessel Size: Fits 15,150 L (4,000 gal) vessel
+- Diameter: 127 mm (5 in) dia
+- Length: 4,650 mm (183 in) long
+- Span: 1,350 mm (54 in) span
+- Glass Agitator Type: 3 Blade Retreat Curve
+- Rotation: Counter-Clockwise
+- Glass Agitator Drive Model: TW drive
+- Agitator Details: 7-8 TW drive end
 
-[Request Specs](/contact/) | [View IPP# 92090](https://ims.internationalprocessplants.com/inventory/equipment/detail/92090)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/92090) | [View IPP# 92090](https://ims.internationalprocessplants.com/inventory/equipment/detail/92090)
 
-#### Pfaudler RCI Agitator — 3,000 Gal ([IPP# 210526](https://ims.internationalprocessplants.com/inventory/equipment/detail/210526))
+#### Pfaudler RCI Agitator — 11,350 L (3,000 gal) ([IPP# 210526](https://ims.internationalprocessplants.com/inventory/equipment/detail/210526))
 
 Re-glassed Pfaudler glass lined agitator. RCI 3-blade retreat curve for 11,350 L (3,000 gal) reactor vessels. Full fire polish, Very Clean glass condition.
 
-- Fits 11,350 L (3,000 gal) vessel
-- 114.3 mm (4.5 in) dia × 4,150 mm (163.3 in) long
-- 1,350 mm (54 in) span
-- 3 Blade Retreat Curve, Counterclockwise
-- RW drive, 6RW
+- Vessel Size: Fits 11,350 L (3,000 gal) vessel
+- Diameter: 114.3 mm (4.5 in) dia
+- Length: 4,150 mm (163.3 in) long
+- Span: 1,350 mm (54 in) span
+- Glass Agitator Type: 3 Blade Retreat Curve
+- Rotation: Counterclockwise
+- Glass Agitator Drive Model: RW drive
+- Agitator Details: 6RW
 
-[Request Specs](/contact/) | [View IPP# 210526](https://ims.internationalprocessplants.com/inventory/equipment/detail/210526)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/210526) | [View IPP# 210526](https://ims.internationalprocessplants.com/inventory/equipment/detail/210526)
 
-#### Pfaudler RCI Agitator — 1,000 Gal ([IPP# 100648](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648))
+#### Pfaudler RCI Agitator — 3,800 L (1,000 gal) ([IPP# 100648](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648))
 
 Re-glassed Pfaudler RCI glass lined agitator for 3,800 L (1,000 gal) reactor vessels. 3-blade retreat curve with full fire polish and Very Clean glass.
 
-- Fits 3,800 L (1,000 gal) vessel
-- 88.9 mm (3.5 in) dia × 2,600 mm (102 in) long
-- 1,100 mm (44 in) span
-- 3 Blade Retreat Curve, Counterclockwise
-- DTW drive, 5DTW
+- Vessel Size: Fits 3,800 L (1,000 gal) vessel
+- Diameter: 88.9 mm (3.5 in) dia
+- Length: 2,600 mm (102 in) long
+- Span: 1,100 mm (44 in) span
+- Glass Agitator Type: 3 Blade Retreat Curve
+- Rotation: Counterclockwise
+- Glass Agitator Drive Model: DTW drive
+- Agitator Details: 5DTW
 
-[Request Specs](/contact/) | [View IPP# 100648](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648) | [View IPP# 100648](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648)
 
 [Browse All Glass Lined Agitators in Stock](agitator/)
 
@@ -69,41 +78,48 @@ Re-glassed Pfaudler RCI glass lined agitator for 3,800 L (1,000 gal) reactor ves
 
 IPP stocks glass lined baffle parts from DeDietrich, Pfaudler, 3V Tech, Schwelm, and UPE Romania. Baffle types include beavertail and fin baffle designs with removable or integral tips. Available in re-glassed condition with full fire polish.
 
-#### [Removable Tip] DeDietrich Beavertail Baffle — 4,000 Gal ([IPP# 216683](https://ims.internationalprocessplants.com/inventory/equipment/detail/216683))
+#### [Removable Tip] DeDietrich Beavertail Baffle — 15,150 L (4,000 gal) ([IPP# 216683](https://ims.internationalprocessplants.com/inventory/equipment/detail/216683))
 
 Re-glassed DeDietrich beavertail baffle for 15,150 L (4,000 gal) reactor vessels. Flange mount DN 6"-300# with removable tip. Full fire polish, Very Clean glass.
 
-- Fits 15,150 L (4,000 gal) vessel
-- 85.7 mm (3.4 in) dia × 3,250 mm (127.5 in) long
-- 104.8 mm (4.1 in) span
-- Flange mount DN 6"-300#, Removable tip
-- Removable tip thread: 5/8"-18 UNF
+- Vessel Size: Fits 15,150 L (4,000 gal) vessel
+- Diameter: 85.7 mm (3.4 in) dia
+- Length: 3,250 mm (127.5 in) long
+- Span: 104.8 mm (4.1 in) span
+- Mounting Details: Flange mount DN 6"-300#
+- Tip Type: Removable tip
+- Removable Tip Thread Size: Removable tip thread: 5/8"-18 UNF
 
-[Request Specs](/contact/) | [View IPP# 216683](https://ims.internationalprocessplants.com/inventory/equipment/detail/216683)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/216683) | [View IPP# 216683](https://ims.internationalprocessplants.com/inventory/equipment/detail/216683)
 
-#### [Fin Baffle] Pfaudler Fin Baffle — 2,000 Gal ([IPP# 240830](https://ims.internationalprocessplants.com/inventory/equipment/detail/240830))
+#### [Fin Baffle] Pfaudler Fin Baffle — 7,550 L (2,000 gal) ([IPP# 240830](https://ims.internationalprocessplants.com/inventory/equipment/detail/240830))
 
 Re-glassed Pfaudler fin baffle for 7,550 L (2,000 gal) reactor vessels. Flange mount with integral tip. Full fire polish, Very Clean glass condition.
 
-- Fits 7,550 L (2,000 gal) vessel
-- 101.6 mm (4 in) dia × 2,900 mm (113.5 in) long
-- 228.6 mm (9 in) span
-- Flange mount, Integral tip
-- Fin Baffle design
+- Vessel Size: Fits 7,550 L (2,000 gal) vessel
+- Diameter: 101.6 mm (4 in) dia
+- Length: 2,900 mm (113.5 in) long
+- Span: 228.6 mm (9 in) span
+- Mounting Details: Flange mount
+- Tip Type: Integral tip
+- Glass Baffle Type: Fin Baffle design
 
-[Request Specs](/contact/) | [View IPP# 240830](https://ims.internationalprocessplants.com/inventory/equipment/detail/240830)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/240830) | [View IPP# 240830](https://ims.internationalprocessplants.com/inventory/equipment/detail/240830)
 
-#### DeDietrich SA-3000 Baffle — 3,000 Gal ([IPP# 246283](https://ims.internationalprocessplants.com/inventory/equipment/detail/246283))
+#### DeDietrich SA-3000 Baffle — 11,350 L (3,000 gal) ([IPP# 246283](https://ims.internationalprocessplants.com/inventory/equipment/detail/246283))
 
 Re-glassed DeDietrich SA-3000 beavertail baffle for 11,350 L (3,000 gal) reactor vessels. Flange mount with integral tip. Full fire polish.
 
-- Fits 11,350 L (3,000 gal) vessel
-- 139.7 mm (5.5 in) dia × 2,800 mm (110 in) long
-- 177.8 mm (7 in) span
-- Beavertail, Special configuration
-- Flange Mount, Integral tip
+- Vessel Size: Fits 11,350 L (3,000 gal) vessel
+- Diameter: 139.7 mm (5.5 in) dia
+- Length: 2,800 mm (110 in) long
+- Span: 177.8 mm (7 in) span
+- Glass Baffle Type: Beavertail
+- Is Special: Special configuration
+- Mounting Details: Flange Mount
+- Tip Type: Integral tip
 
-[Request Specs](/contact/) | [View IPP# 246283](https://ims.internationalprocessplants.com/inventory/equipment/detail/246283)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246283) | [View IPP# 246283](https://ims.internationalprocessplants.com/inventory/equipment/detail/246283)
 
 [Browse All Glass Lined Baffles in Stock](baffle/)
 
@@ -111,41 +127,45 @@ Re-glassed DeDietrich SA-3000 beavertail baffle for 11,350 L (3,000 gal) reactor
 
 IPP stocks glass lined cryo-lock blade parts from Pfaudler and UGE. Models include Pfaudler Cryo-Lock and UGE CBT (curved blade turbine) designs. Parts fit reactor vessels from 1,900 L (500 gal) to 30,300 L (8,000 gal).
 
-#### [Highest Spec] Pfaudler Cryo-Lock Blades — 4,000 Gal ([IPP# 246406](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406))
+#### [Highest Spec] Pfaudler Cryo-Lock Blades — 15,150 L (4,000 gal) ([IPP# 246406](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406))
 
 Re-glassed Pfaudler Cryo-Lock blade set for 15,150 L (4,000 gal) reactor vessels. 4.5 hub size with counterclockwise rotation. Full fire polish, Very Clean glass.
 
-- Fits 15,150 L (4,000 gal) vessel
-- Hub size: 4.5
-- CBT span: 1,100 mm (43 in), PBT: 50.8 mm (2 in)
-- Counterclockwise rotation
-- Full Fire Polish (FF), Very Clean (VC)
+- Vessel Size: Fits 15,150 L (4,000 gal) vessel
+- Hub size: Hub size: 4.5
+- CBT Span: CBT span: 1,100 mm (43 in)
+- PBT Span: PBT: 50.8 mm (2 in)
+- Rotation: Counterclockwise rotation
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC)
 
-[Request Specs](/contact/) | [View IPP# 246406](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406) | [View IPP# 246406](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406)
 
-#### [UGE CBT] UGE CBT Blades — 4,000 Gal ([IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291))
+#### [UGE CBT] UGE CBT Blades — 15,150 L (4,000 gal) ([IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291))
 
 Re-glassed UGE CBT (curved blade turbine) cryo-lock blades for 15,150 L (4,000 gal) reactor vessels. 4.5 hub size with clockwise rotation. Full fire polish, Very Clean glass.
 
-- Fits 15,150 L (4,000 gal) vessel
-- Hub size: 4.5
-- CBT span: 1,050 mm (41 in)
-- Clockwise rotation
-- Full Fire Polish (FF), Very Clean (VC)
+- Vessel Size: Fits 15,150 L (4,000 gal) vessel
+- Hub size: Hub size: 4.5
+- CBT Span: CBT span: 1,050 mm (41 in)
+- Rotation: Clockwise rotation
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC)
 
-[Request Specs](/contact/) | [View IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291) | [View IPP# 235291](https://ims.internationalprocessplants.com/inventory/equipment/detail/235291)
 
-#### Pfaudler Cryo-Lock Blades — 500 Gal ([IPP# 235289](https://ims.internationalprocessplants.com/inventory/equipment/detail/235289))
+#### Pfaudler Cryo-Lock Blades — 1,900 L (500 gal) ([IPP# 235289](https://ims.internationalprocessplants.com/inventory/equipment/detail/235289))
 
 Re-glassed Pfaudler Cryo-Lock blade set for 1,900 L (500 gal) reactor vessels. 3.5 hub size with clockwise rotation. Full fire polish, Very Clean glass.
 
-- Fits 1,900 L (500 gal) vessel
-- Hub size: 3.5
-- CBT span: 584 mm (23 in)
-- Clockwise rotation
-- Full Fire Polish (FF), Very Clean (VC)
+- Vessel Size: Fits 1,900 L (500 gal) vessel
+- Hub size: Hub size: 3.5
+- CBT Span: CBT span: 584 mm (23 in)
+- Rotation: Clockwise rotation
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC)
 
-[Request Specs](/contact/) | [View IPP# 235289](https://ims.internationalprocessplants.com/inventory/equipment/detail/235289)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/235289) | [View IPP# 235289](https://ims.internationalprocessplants.com/inventory/equipment/detail/235289)
 
 [Browse All Glass Lined Cryo-Lock Blades in Stock](cryo-lock-blades/)
 
@@ -157,37 +177,38 @@ IPP stocks glass lined pro-ring (protection ring) parts from Pfaudler, DeDietric
 
 Re-glassed Pfaudler protection ring, 203.2 mm (8 in) diameter. Round design with Pfaudler single hole hinge. Full fire polish.
 
-- 203.2 mm (8 in) diameter
-- 203.2 mm (8 in) L × 203.2 mm (8 in) W
-- Pfaudler Single Hole hinge
-- Round design
-- Full Fire Polish (FF)
+- Diameter: 203.2 mm (8 in) diameter
+- Length: 203.2 mm (8 in) L
+- Width: 203.2 mm (8 in) W
+- Hinge Type: Pfaudler Single Hole hinge
+- Is Round: Round design
+- Glass Fire Polish: Full Fire Polish (FF)
 
-[Request Specs](/contact/) | [View IPP# 240289](https://ims.internationalprocessplants.com/inventory/equipment/detail/240289)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/240289) | [View IPP# 240289](https://ims.internationalprocessplants.com/inventory/equipment/detail/240289)
 
 #### [Largest Pro-Ring] Pfaudler Pro Ring — 457 mm (18 in) ([IPP# 245792](https://ims.internationalprocessplants.com/inventory/equipment/detail/245792))
 
 Re-glassed Pfaudler pro ring, 457.2 mm (18 in) diameter. Round design with spring assist hinge. Full fire polish, Very Clean glass.
 
-- 457.2 mm (18 in) diameter
-- Pro Ring Spring Assist hinge
-- Round design
-- Full Fire Polish (FF)
-- Very Clean (VC) glass condition
+- Diameter: 457.2 mm (18 in) diameter
+- Hinge Type: Pro Ring Spring Assist hinge
+- Is Round: Round design
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC) glass condition
 
-[Request Specs](/contact/) | [View IPP# 245792](https://ims.internationalprocessplants.com/inventory/equipment/detail/245792)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/245792) | [View IPP# 245792](https://ims.internationalprocessplants.com/inventory/equipment/detail/245792)
 
 #### Pfaudler Pro Ring — 356 mm (14 in) ([IPP# 246976](https://ims.internationalprocessplants.com/inventory/equipment/detail/246976))
 
 Re-glassed Pfaudler pro ring, 355.6 mm (14 in) diameter. Spring assist hinge. Full fire polish, Very Clean glass condition.
 
-- 355.6 mm (14 in) diameter
-- 457.2 mm (18 in) length
-- Pro Ring Spring Assist hinge
-- Full Fire Polish (FF)
-- Very Clean (VC) glass condition
+- Diameter: 355.6 mm (14 in) diameter
+- Length: 457.2 mm (18 in) length
+- Hinge Type: Pro Ring Spring Assist hinge
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC) glass condition
 
-[Request Specs](/contact/) | [View IPP# 246976](https://ims.internationalprocessplants.com/inventory/equipment/detail/246976)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246976) | [View IPP# 246976](https://ims.internationalprocessplants.com/inventory/equipment/detail/246976)
 
 [Browse All Glass Lined Pro-Rings in Stock](pro-ring/)
 
@@ -202,41 +223,47 @@ IPP stocks glass lined parts from a wide range of manufacturers, with Pfaudler a
 
 Pfaudler is the deepest single-manufacturer position in IPP's glass lined parts inventory. Available part families include RCI retreat curve agitators, beavertail and fin baffles, cryo-lock blades, and pro-rings in re-glassed, used, and unused conditions.
 
-#### [Pfaudler RCI] Pfaudler RCI Agitator — 4,000 Gal ([IPP# 92090](https://ims.internationalprocessplants.com/inventory/equipment/detail/92090))
+#### [Pfaudler RCI] Pfaudler RCI Agitator — 15,150 L (4,000 gal) ([IPP# 92090](https://ims.internationalprocessplants.com/inventory/equipment/detail/92090))
 
 Re-glassed Pfaudler RCI glass lined agitator. 3-blade retreat curve design for 15,150 L (4,000 gal) reactor vessels. Full fire polish with Very Clean glass condition.
 
-- Fits 15,150 L (4,000 gal) vessel
-- 127 mm (5 in) dia × 4,650 mm (183 in) long
-- 1,350 mm (54 in) span
-- 3 Blade Retreat Curve, Counter-Clockwise
-- Full Fire Polish (FF), Very Clean (VC)
+- Vessel Size: Fits 15,150 L (4,000 gal) vessel
+- Diameter: 127 mm (5 in) dia
+- Length: 4,650 mm (183 in) long
+- Span: 1,350 mm (54 in) span
+- Glass Agitator Type: 3 Blade Retreat Curve
+- Rotation: Counter-Clockwise
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC)
 
-[Request Specs](/contact/) | [View IPP# 92090](https://ims.internationalprocessplants.com/inventory/equipment/detail/92090)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/92090) | [View IPP# 92090](https://ims.internationalprocessplants.com/inventory/equipment/detail/92090)
 
-#### Pfaudler RCI Agitator — 1,000 Gal ([IPP# 100648](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648))
+#### Pfaudler RCI Agitator — 3,800 L (1,000 gal) ([IPP# 100648](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648))
 
 Re-glassed Pfaudler RCI glass lined agitator for 3,800 L (1,000 gal) reactor vessels. 3-blade retreat curve, DTW drive, with stainless steel 316 seal area plating.
 
-- Fits 3,800 L (1,000 gal) vessel
-- 88.9 mm (3.5 in) dia × 2,600 mm (102 in) long
-- DTW drive, 5DTW
-- SS 316 seal area plating
-- Full Fire Polish (FF), Very Clean (VC)
+- Vessel Size: Fits 3,800 L (1,000 gal) vessel
+- Diameter: 88.9 mm (3.5 in) dia
+- Length: 2,600 mm (102 in) long
+- Glass Agitator Drive Model: DTW drive, 5DTW
+- Seal Area Plating MOC: SS 316 seal area plating
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC)
 
-[Request Specs](/contact/) | [View IPP# 100648](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648) | [View IPP# 100648](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648)
 
-#### Pfaudler Cryo-Lock Agitator — 1,000 Gal ([IPP# 101094](https://ims.internationalprocessplants.com/inventory/equipment/detail/101094))
+#### Pfaudler Cryo-Lock Agitator — 3,800 L (1,000 gal) ([IPP# 101094](https://ims.internationalprocessplants.com/inventory/equipment/detail/101094))
 
 Re-glassed Pfaudler cryo-lock glass lined agitator for 3,800 L (1,000 gal) reactor vessels. TW drive with stainless steel seal area plating.
 
-- Fits 3,800 L (1,000 gal) vessel
-- 88.9 mm (3.5 in) dia × 3,000 mm (118.6 in) long
-- 737 mm (29 in) span
-- Cryo-Lock design
-- TW drive, 5DTW drive end
+- Vessel Size: Fits 3,800 L (1,000 gal) vessel
+- Diameter: 88.9 mm (3.5 in) dia
+- Length: 3,000 mm (118.6 in) long
+- Span: 737 mm (29 in) span
+- Glass Agitator Type: Cryo-Lock design
+- Glass Agitator Drive Model: TW drive, 5DTW drive end
 
-[Request Specs](/contact/) | [View IPP# 101094](https://ims.internationalprocessplants.com/inventory/equipment/detail/101094)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/101094) | [View IPP# 101094](https://ims.internationalprocessplants.com/inventory/equipment/detail/101094)
 
 [Browse All Pfaudler Glass Lined Parts in Stock](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts)
 
@@ -244,41 +271,46 @@ Re-glassed Pfaudler cryo-lock glass lined agitator for 3,800 L (1,000 gal) react
 
 DeDietrich is the second deepest OEM position in IPP's glass lined parts inventory. Available parts include agitators, beavertail baffles, and pro-rings across re-glassed, used, unused, and new conditions.
 
-#### [DeDietrich Agitator] DeDietrich 62Q08 Agitator — 528 Gal ([IPP# 238341](https://ims.internationalprocessplants.com/inventory/equipment/detail/238341))
+#### [DeDietrich Agitator] DeDietrich 62Q08 Agitator — 2,000 L (528 gal) ([IPP# 238341](https://ims.internationalprocessplants.com/inventory/equipment/detail/238341))
 
 Re-glassed DeDietrich 62Q08 glass lined agitator. 3-blade retreat curve design for 2,000 L (528 gal) reactor vessels. Philadelphia drive model. Full fire polish, Very Clean glass.
 
-- Fits 2,000 L (528 gal) vessel
-- 76.2 mm (3 in) dia × 3,850 mm (152 in) long
-- 1,100 mm (44 in) span
-- Philadelphia drive model
-- Full Fire Polish (FF), Very Clean (VC)
+- Vessel Size: Fits 2,000 L (528 gal) vessel
+- Diameter: 76.2 mm (3 in) dia
+- Length: 3,850 mm (152 in) long
+- Span: 1,100 mm (44 in) span
+- Glass Agitator Drive Model: Philadelphia drive model
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC)
 
-[Request Specs](/contact/) | [View IPP# 238341](https://ims.internationalprocessplants.com/inventory/equipment/detail/238341)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/238341) | [View IPP# 238341](https://ims.internationalprocessplants.com/inventory/equipment/detail/238341)
 
-#### DeDietrich Beavertail Baffle — 4,000 Gal ([IPP# 216683](https://ims.internationalprocessplants.com/inventory/equipment/detail/216683))
+#### DeDietrich Beavertail Baffle — 15,150 L (4,000 gal) ([IPP# 216683](https://ims.internationalprocessplants.com/inventory/equipment/detail/216683))
 
 Re-glassed DeDietrich beavertail baffle for 15,150 L (4,000 gal) reactor vessels. Flange mount DN 6"-300# with removable tip. Full fire polish, Very Clean glass.
 
-- Fits 15,150 L (4,000 gal) vessel
-- 85.7 mm (3.4 in) dia × 3,250 mm (127.5 in) long
-- Beavertail design, removable tip
-- Flange mount DN 6"-300#
-- Full Fire Polish (FF), Very Clean (VC)
+- Vessel Size: Fits 15,150 L (4,000 gal) vessel
+- Diameter: 85.7 mm (3.4 in) dia
+- Length: 3,250 mm (127.5 in) long
+- Glass Baffle Type: Beavertail design, removable tip
+- Mounting Details: Flange mount DN 6"-300#
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC)
 
-[Request Specs](/contact/) | [View IPP# 216683](https://ims.internationalprocessplants.com/inventory/equipment/detail/216683)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/216683) | [View IPP# 216683](https://ims.internationalprocessplants.com/inventory/equipment/detail/216683)
 
 #### DeDietrich Pro-Ring — 355 mm (14 in) ([IPP# 246979](https://ims.internationalprocessplants.com/inventory/equipment/detail/246979))
 
 New DeDietrich glass lined pro-ring, 355.6 mm (14 in) diameter. DeDietrich hinge type. Full fire polish, Very Clean glass condition.
 
-- 355.6 mm (14 in) diameter
-- 457.2 mm (18 in) length
-- DeDietrich hinge type
-- New condition
-- Full Fire Polish (FF), Very Clean (VC)
+- Diameter: 355.6 mm (14 in) diameter
+- Length: 457.2 mm (18 in) length
+- Hinge Type: DeDietrich hinge type
+- Condition: New condition
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC)
 
-[Request Specs](/contact/) | [View IPP# 246979](https://ims.internationalprocessplants.com/inventory/equipment/detail/246979)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246979) | [View IPP# 246979](https://ims.internationalprocessplants.com/inventory/equipment/detail/246979)
 
 [Browse All DeDietrich Glass Lined Parts in Stock](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts)
 
@@ -286,41 +318,42 @@ New DeDietrich glass lined pro-ring, 355.6 mm (14 in) diameter. DeDietrich hinge
 
 Beyond Pfaudler and DeDietrich, IPP stocks glass lined parts from 3V Tech, UGE, Schwelm, EHW Thale, and UPE Romania. These parts span agitator, baffle, cryo-lock blade, and pro-ring categories.
 
-#### [3V Tech] 3V Tech Agitator — 5,000 Gal ([IPP# 238225](https://ims.internationalprocessplants.com/inventory/equipment/detail/238225))
+#### [3V Tech] 3V Tech Agitator — 18,950 L (5,000 gal) ([IPP# 238225](https://ims.internationalprocessplants.com/inventory/equipment/detail/238225))
 
 Unused 3V Tech glass lined agitator for 18,950 L (5,000 gal) reactor vessels. Dual tier design with 127 mm (5 in) shaft diameter.
 
-- Fits 18,950 L (5,000 gal) vessel
-- 127 mm (5 in) shaft diameter
-- 4,850 mm (190 in) length
-- Dual tier design
-- Unused condition
+- Vessel Size: Fits 18,950 L (5,000 gal) vessel
+- Diameter: 127 mm (5 in) shaft diameter
+- Length: 4,850 mm (190 in) length
+- Dual Tier: Dual tier design
+- Condition: Unused condition
 
-[Request Specs](/contact/) | [View IPP# 238225](https://ims.internationalprocessplants.com/inventory/equipment/detail/238225)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/238225) | [View IPP# 238225](https://ims.internationalprocessplants.com/inventory/equipment/detail/238225)
 
-#### 3V Tech Press Lock CBT Agitator — 5,000 Gal ([IPP# 238281](https://ims.internationalprocessplants.com/inventory/equipment/detail/238281))
+#### 3V Tech Press Lock CBT Agitator — 18,950 L (5,000 gal) ([IPP# 238281](https://ims.internationalprocessplants.com/inventory/equipment/detail/238281))
 
 Unused 3V Tech Press Lock CBT glass lined agitator for 18,950 L (5,000 gal) reactor vessels. 1,100 mm (43 in) span. Full fire polish, Very Clean glass.
 
-- Fits 18,950 L (5,000 gal) vessel
-- 117.3 mm (4.6 in) shaft diameter
-- 1,100 mm (43 in) span
-- CBT (curved blade turbine) design
-- Full Fire Polish (FF), Very Clean (VC)
+- Vessel Size: Fits 18,950 L (5,000 gal) vessel
+- Diameter: 117.3 mm (4.6 in) shaft diameter
+- Span: 1,100 mm (43 in) span
+- Glass Agitator Type: CBT (curved blade turbine) design
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC)
 
-[Request Specs](/contact/) | [View IPP# 238281](https://ims.internationalprocessplants.com/inventory/equipment/detail/238281)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/238281) | [View IPP# 238281](https://ims.internationalprocessplants.com/inventory/equipment/detail/238281)
 
-#### 3V Tech Cryo-Lock Agitator — 6,000 Gal ([IPP# 238245](https://ims.internationalprocessplants.com/inventory/equipment/detail/238245))
+#### 3V Tech Cryo-Lock Agitator — 22,700 L (6,000 gal) ([IPP# 238245](https://ims.internationalprocessplants.com/inventory/equipment/detail/238245))
 
 Unused 3V Tech cryo-lock glass lined agitator for 22,700 L (6,000 gal) reactor vessels. 127 mm (5 in) shaft diameter, 1,100 mm (43 in) span.
 
-- Fits 22,700 L (6,000 gal) vessel
-- 127 mm (5 in) shaft diameter
-- 1,100 mm (43 in) span
-- Cryo-Lock design
-- Unused condition
+- Vessel Size: Fits 22,700 L (6,000 gal) vessel
+- Diameter: 127 mm (5 in) shaft diameter
+- Span: 1,100 mm (43 in) span
+- Glass Agitator Type: Cryo-Lock design
+- Condition: Unused condition
 
-[Request Specs](/contact/) | [View IPP# 238245](https://ims.internationalprocessplants.com/inventory/equipment/detail/238245)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/238245) | [View IPP# 238245](https://ims.internationalprocessplants.com/inventory/equipment/detail/238245)
 
 [Browse All Glass Lined Parts from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts)
 
@@ -335,41 +368,47 @@ IPP stocks glass lined parts in re-glassed, used, unused, needs reglass, and new
 
 Re-glassed parts are the deepest condition position in IPP's glass lined parts inventory. These parts have received a new glass lining, full fire polish, and are graded Very Clean (VC), delivering restored surface quality at a fraction of new OEM cost.
 
-#### [Re-Glassed] Re-Glassed Pfaudler RCI Agitator — 1,000 Gal ([IPP# 100648](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648))
+#### [Re-Glassed] Re-Glassed Pfaudler RCI Agitator — 3,800 L (1,000 gal) ([IPP# 100648](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648))
 
 Re-glassed Pfaudler RCI glass lined agitator for 3,800 L (1,000 gal) reactor vessels. 3-blade retreat curve, DTW drive. Full fire polish, Very Clean glass.
 
-- Re-glassed condition
-- Fits 3,800 L (1,000 gal) vessel
-- 3 Blade Retreat Curve, Counterclockwise
-- DTW drive, 5DTW
-- Full Fire Polish (FF), Very Clean (VC)
+- Condition: Re-glassed condition
+- Vessel Size: Fits 3,800 L (1,000 gal) vessel
+- Glass Agitator Type: 3 Blade Retreat Curve, Counterclockwise
+- Glass Agitator Drive Model: DTW drive, 5DTW
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC)
 
-[Request Specs](/contact/) | [View IPP# 100648](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648) | [View IPP# 100648](https://ims.internationalprocessplants.com/inventory/equipment/detail/100648)
 
-#### Re-Glassed Pfaudler Fin Baffle — 2,000 Gal ([IPP# 240830](https://ims.internationalprocessplants.com/inventory/equipment/detail/240830))
+#### Re-Glassed Pfaudler Fin Baffle — 7,550 L (2,000 gal) ([IPP# 240830](https://ims.internationalprocessplants.com/inventory/equipment/detail/240830))
 
 Re-glassed Pfaudler fin baffle for 7,550 L (2,000 gal) reactor vessels. Flange mount with integral tip. Full fire polish, Very Clean glass condition.
 
-- Re-glassed condition
-- Fits 7,550 L (2,000 gal) vessel
-- 101.6 mm (4 in) dia × 2,900 mm (113.5 in) long
-- Fin Baffle, Integral tip
-- Full Fire Polish (FF), Very Clean (VC)
+- Condition: Re-glassed condition
+- Vessel Size: Fits 7,550 L (2,000 gal) vessel
+- Diameter: 101.6 mm (4 in) dia
+- Length: 2,900 mm (113.5 in) long
+- Glass Baffle Type: Fin Baffle
+- Tip Type: Integral tip
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC)
 
-[Request Specs](/contact/) | [View IPP# 240830](https://ims.internationalprocessplants.com/inventory/equipment/detail/240830)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/240830) | [View IPP# 240830](https://ims.internationalprocessplants.com/inventory/equipment/detail/240830)
 
-#### Re-Glassed Pfaudler Cryo-Lock Blades — 4,000 Gal ([IPP# 246406](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406))
+#### Re-Glassed Pfaudler Cryo-Lock Blades — 15,150 L (4,000 gal) ([IPP# 246406](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406))
 
 Re-glassed Pfaudler Cryo-Lock blade set for 15,150 L (4,000 gal) reactor vessels. 4.5 hub size, counterclockwise rotation. Full fire polish, Very Clean glass.
 
-- Re-glassed condition
-- Fits 15,150 L (4,000 gal) vessel
-- Hub size: 4.5
-- CBT span: 1,100 mm (43 in)
-- Full Fire Polish (FF), Very Clean (VC)
+- Condition: Re-glassed condition
+- Vessel Size: Fits 15,150 L (4,000 gal) vessel
+- Hub size: Hub size: 4.5
+- CBT Span: 1,100 mm (43 in)
+- PBT Span: 50.8 mm (2 in)
+- Glass Fire Polish: Full Fire Polish (FF)
+- Glass Condition: Very Clean (VC)
 
-[Request Specs](/contact/) | [View IPP# 246406](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406) | [View IPP# 246406](https://ims.internationalprocessplants.com/inventory/equipment/detail/246406)
 
 [Browse All Re-Glassed Glass Lined Parts in Stock](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts)
 
@@ -377,41 +416,44 @@ Re-glassed Pfaudler Cryo-Lock blade set for 15,150 L (4,000 gal) reactor vessels
 
 Good used glass lined parts are offered as-is at the lowest price point while retaining original OEM specifications. These parts were previously installed in production service and are available for immediate use or can be sent to UGE for re-glassing.
 
-#### Used Pfaudler P Series Agitator — 20 Gal ([IPP# 102437](https://ims.internationalprocessplants.com/inventory/equipment/detail/102437))
+#### Used Pfaudler P Series Agitator — 75.7 L (20 gal) ([IPP# 102437](https://ims.internationalprocessplants.com/inventory/equipment/detail/102437))
 
 Used Pfaudler P series glass lined agitator for 75.7 L (20 gal) reactor vessels. 3-blade retreat curve with 2.5TW/DTW drive end.
 
-- Used condition
-- Fits 75.7 L (20 gal) vessel
-- 38.1 mm (1.5 in) dia × 857 mm (33.8 in) long
-- 406.4 mm (16 in) span
-- 3 Blade Retreat Curve
+- Condition: Used condition
+- Vessel Size: Fits 75.7 L (20 gal) vessel
+- Diameter: 38.1 mm (1.5 in) dia
+- Length: 857 mm (33.8 in) long
+- Span: 406.4 mm (16 in) span
+- Glass Agitator Type: 3 Blade Retreat Curve
 
-[Request Specs](/contact/) | [View IPP# 102437](https://ims.internationalprocessplants.com/inventory/equipment/detail/102437)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/102437) | [View IPP# 102437](https://ims.internationalprocessplants.com/inventory/equipment/detail/102437)
 
-#### Used Agitator — 300 Gal ([IPP# 101145](https://ims.internationalprocessplants.com/inventory/equipment/detail/101145))
+#### Used Agitator — 1,150 L (300 gal) ([IPP# 101145](https://ims.internationalprocessplants.com/inventory/equipment/detail/101145))
 
 Used glass lined agitator for 1,150 L (300 gal) reactor vessels. 88.9 mm (3.5 in) shaft diameter, 914 mm (36 in) span.
 
-- Used condition
-- Fits 1,150 L (300 gal) vessel
-- 88.9 mm (3.5 in) dia × 1,850 mm (72 in) long
-- 914 mm (36 in) span
-- Glasslined material
+- Condition: Used condition
+- Vessel Size: Fits 1,150 L (300 gal) vessel
+- Diameter: 88.9 mm (3.5 in) dia
+- Length: 1,850 mm (72 in) long
+- Span: 914 mm (36 in) span
+- Material: Glasslined material
 
-[Request Specs](/contact/) | [View IPP# 101145](https://ims.internationalprocessplants.com/inventory/equipment/detail/101145)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/101145) | [View IPP# 101145](https://ims.internationalprocessplants.com/inventory/equipment/detail/101145)
 
-#### Used Agitator — 740 Gal ([IPP# 104037](https://ims.internationalprocessplants.com/inventory/equipment/detail/104037))
+#### Used Agitator — 2,800 L (740 gal) ([IPP# 104037](https://ims.internationalprocessplants.com/inventory/equipment/detail/104037))
 
 Used glass lined agitator for 2,800 L (740 gal) reactor vessels. 3-blade retreat curve with 139.7 mm (5.5 in) shaft diameter, 1,200 mm (47.2 in) span.
 
-- Used condition
-- Fits 2,800 L (740 gal) vessel
-- 139.7 mm (5.5 in) dia × 2,700 mm (106 in) long
-- 1,200 mm (47.2 in) span
-- 3 Blade Retreat Curve
+- Condition: Used condition
+- Vessel Size: Fits 2,800 L (740 gal) vessel
+- Diameter: 139.7 mm (5.5 in) dia
+- Length: 2,700 mm (106 in) long
+- Span: 1,200 mm (47.2 in) span
+- Glass Agitator Type: 3 Blade Retreat Curve
 
-[Request Specs](/contact/) | [View IPP# 104037](https://ims.internationalprocessplants.com/inventory/equipment/detail/104037)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/104037) | [View IPP# 104037](https://ims.internationalprocessplants.com/inventory/equipment/detail/104037)
 
 [Browse All Used Glass Lined Parts in Stock](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts)
 
@@ -419,41 +461,42 @@ Used glass lined agitator for 2,800 L (740 gal) reactor vessels. 3-blade retreat
 
 Unused glass lined parts are factory-original components that have never been installed in production service. These parts offer new-equivalent performance at a meaningful discount versus ordering direct from the OEM.
 
-#### [Unused] Unused Pfaudler Agitator — 4,000 Gal ([IPP# 103435](https://ims.internationalprocessplants.com/inventory/equipment/detail/103435))
+#### [Unused] Unused Pfaudler Agitator — 15,150 L (4,000 gal) ([IPP# 103435](https://ims.internationalprocessplants.com/inventory/equipment/detail/103435))
 
 Unused Pfaudler glass lined agitator for 15,150 L (4,000 gal) reactor vessels. 3-blade retreat curve impeller with VS20 drive end.
 
-- Unused condition
-- Fits 15,150 L (4,000 gal) vessel
-- 3 Blade Retreat Curve
-- VS20 drive end
-- Pfaudler OEM
+- Condition: Unused condition
+- Vessel Size: Fits 15,150 L (4,000 gal) vessel
+- Glass Agitator Type: 3 Blade Retreat Curve
+- Agitator Details: VS20 drive end
+- Manufacturer: Pfaudler OEM
 
-[Request Specs](/contact/) | [View IPP# 103435](https://ims.internationalprocessplants.com/inventory/equipment/detail/103435)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/103435) | [View IPP# 103435](https://ims.internationalprocessplants.com/inventory/equipment/detail/103435)
 
-#### Unused Pfaudler Agitator — 2,000 Gal ([IPP# 103438](https://ims.internationalprocessplants.com/inventory/equipment/detail/103438))
+#### Unused Pfaudler Agitator — 7,550 L (2,000 gal) ([IPP# 103438](https://ims.internationalprocessplants.com/inventory/equipment/detail/103438))
 
 Unused Pfaudler glass lined agitator for 7,550 L (2,000 gal) reactor vessels. 3-blade retreat curve impeller with VS20 drive end.
 
-- Unused condition
-- Fits 7,550 L (2,000 gal) vessel
-- 3 Blade Retreat Curve
-- VS20 drive end
-- Pfaudler OEM
+- Condition: Unused condition
+- Vessel Size: Fits 7,550 L (2,000 gal) vessel
+- Glass Agitator Type: 3 Blade Retreat Curve
+- Agitator Details: VS20 drive end
+- Manufacturer: Pfaudler OEM
 
-[Request Specs](/contact/) | [View IPP# 103438](https://ims.internationalprocessplants.com/inventory/equipment/detail/103438)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/103438) | [View IPP# 103438](https://ims.internationalprocessplants.com/inventory/equipment/detail/103438)
 
-#### Unused DeDietrich Glass-Loc Agitator — 2,000 Gal ([IPP# 206874](https://ims.internationalprocessplants.com/inventory/equipment/detail/206874))
+#### Unused DeDietrich Glass-Loc Agitator — 7,550 L (2,000 gal) ([IPP# 206874](https://ims.internationalprocessplants.com/inventory/equipment/detail/206874))
 
 Unused DeDietrich glass lined agitator with Glass-Loc design for 7,550 L (2,000 gal) reactor vessels. 88.9 mm (3.5 in) shaft diameter.
 
-- Unused condition
-- Fits 7,550 L (2,000 gal) vessel
-- 88.9 mm (3.5 in) dia × 3,350 mm (132 in) long
-- Glass-Loc design
-- DeDietrich OEM
+- Condition: Unused condition
+- Vessel Size: Fits 7,550 L (2,000 gal) vessel
+- Diameter: 88.9 mm (3.5 in) dia
+- Length: 3,350 mm (132 in) long
+- Glass Agitator Type: Glass-Loc design
+- Manufacturer: DeDietrich OEM
 
-[Request Specs](/contact/) | [View IPP# 206874](https://ims.internationalprocessplants.com/inventory/equipment/detail/206874)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/206874) | [View IPP# 206874](https://ims.internationalprocessplants.com/inventory/equipment/detail/206874)
 
 [Browse All Unused Glass Lined Parts in Stock](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts)
 
@@ -461,41 +504,44 @@ Unused DeDietrich glass lined agitator with Glass-Loc design for 7,550 L (2,000 
 
 Parts in "needs reglass" condition offer the lowest acquisition cost. IPP offers re-glassing through its UGE division, so these parts can be purchased and re-glassed as a bundled service.
 
-#### Pfaudler Agitator (Needs Reglass) — 1,000 Gal ([IPP# 206804](https://ims.internationalprocessplants.com/inventory/equipment/detail/206804))
+#### Pfaudler Agitator (Needs Reglass) — 3,800 L (1,000 gal) ([IPP# 206804](https://ims.internationalprocessplants.com/inventory/equipment/detail/206804))
 
 Pfaudler glass lined agitator requiring re-glassing, for 3,800 L (1,000 gal) reactor vessels. 3-blade retreat curve with 1,100 mm (44 in) span.
 
-- Needs Reglass condition
-- Fits 3,800 L (1,000 gal) vessel
-- 88.9 mm (3.5 in) dia × 3,100 mm (122 in) long
-- 1,100 mm (44 in) span
-- 3 Blade Retreat Curve
+- Condition: Needs Reglass condition
+- Vessel Size: Fits 3,800 L (1,000 gal) vessel
+- Diameter: 88.9 mm (3.5 in) dia
+- Length: 3,100 mm (122 in) long
+- Span: 1,100 mm (44 in) span
+- Glass Agitator Type: 3 Blade Retreat Curve
 
-[Request Specs](/contact/) | [View IPP# 206804](https://ims.internationalprocessplants.com/inventory/equipment/detail/206804)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/206804) | [View IPP# 206804](https://ims.internationalprocessplants.com/inventory/equipment/detail/206804)
 
-#### Pfaudler Agitator (Needs Reglass) — 1,000 Gal ([IPP# 216622](https://ims.internationalprocessplants.com/inventory/equipment/detail/216622))
+#### Pfaudler Agitator (Needs Reglass) — 3,800 L (1,000 gal) ([IPP# 216622](https://ims.internationalprocessplants.com/inventory/equipment/detail/216622))
 
 Pfaudler glass lined agitator requiring re-glassing, for 3,800 L (1,000 gal) reactor vessels. 3-blade retreat curve with 1,100 mm (44 in) span, 3,300 mm (129 in) length.
 
-- Needs Reglass condition
-- Fits 3,800 L (1,000 gal) vessel
-- 88.9 mm (3.5 in) dia × 3,300 mm (129 in) long
-- 1,100 mm (44 in) span
-- 3 Blade Retreat Curve
+- Condition: Needs Reglass condition
+- Vessel Size: Fits 3,800 L (1,000 gal) vessel
+- Diameter: 88.9 mm (3.5 in) dia
+- Length: 3,300 mm (129 in) long
+- Span: 1,100 mm (44 in) span
+- Glass Agitator Type: 3 Blade Retreat Curve
 
-[Request Specs](/contact/) | [View IPP# 216622](https://ims.internationalprocessplants.com/inventory/equipment/detail/216622)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/216622) | [View IPP# 216622](https://ims.internationalprocessplants.com/inventory/equipment/detail/216622)
 
-#### RCI Agitator (Needs Reglass) — 3,000 Gal ([IPP# 232503](https://ims.internationalprocessplants.com/inventory/equipment/detail/232503))
+#### RCI Agitator (Needs Reglass) — 11,350 L (3,000 gal) ([IPP# 232503](https://ims.internationalprocessplants.com/inventory/equipment/detail/232503))
 
 RCI glass lined agitator requiring re-glassing, for 11,350 L (3,000 gal) reactor vessels. 3-blade retreat curve with 1,350 mm (54 in) span.
 
-- Needs Reglass condition
-- Fits 11,350 L (3,000 gal) vessel
-- 114.3 mm (4.5 in) dia × 4,150 mm (163 in) long
-- 1,350 mm (54 in) span
-- 3 Blade Retreat Curve
+- Condition: Needs Reglass condition
+- Vessel Size: Fits 11,350 L (3,000 gal) vessel
+- Diameter: 114.3 mm (4.5 in) dia
+- Length: 4,150 mm (163 in) long
+- Span: 1,350 mm (54 in) span
+- Glass Agitator Type: 3 Blade Retreat Curve
 
-[Request Specs](/contact/) | [View IPP# 232503](https://ims.internationalprocessplants.com/inventory/equipment/detail/232503)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/232503) | [View IPP# 232503](https://ims.internationalprocessplants.com/inventory/equipment/detail/232503)
 
 [Browse All Glass Lined Parts That Need Reglass](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts)
 
@@ -506,7 +552,7 @@ RCI glass lined agitator requiring re-glassing, for 11,350 L (3,000 gal) reactor
 
 Tell us your reactor model, vessel size, and part type. Our team will match your specifications against glass lined parts in stock and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -657,7 +703,7 @@ A: IPP offers re-glassing services through its UGE division, which specializes i
 
 IPP Group supplies glass lined parts through its UGE (Universal Glasteel Equipment) division, which stocks 700+ vessels and 2,700+ parts. If you cannot find the exact part you need in our used inventory, contact IPP to discuss re-glassing services or new part sourcing.
 
-[Ask About New Parts](/contact/)
+[Ask About New Parts](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -666,4 +712,4 @@ IPP Group supplies glass lined parts through its UGE (Universal Glasteel Equipme
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us your reactor model and part requirements — our team will respond with matched inventory and pricing.
 
-[Talk to Our Team](/contact/) | [Search Parts Inventory](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts)
+[Talk to Our Team](https://internationalprocessplants.com/contact/) | [Search Parts Inventory](https://ims.internationalprocessplants.com/inventory/equipment/glass-lined-parts)

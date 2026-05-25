@@ -1,10 +1,10 @@
-# Buy Used Mixers for Sale
+# Buy Used Industrial and Process Mixers for Sale
 
-Buying used mixers through International Process Plants gives you access to inspected, ready-to-ship mixing equipment at up to 50% less capital and 90% less lead time than ordering new. IPP carries used mixers across seven subtypes — from ribbon and paddle mixers for dry powders to double arm kneaders for high-viscosity compounds — in stainless steel 304, 316, 316L, 321, carbon steel, and specialty alloys.
+Buying used industrial and process mixers through International Process Plants gives you access to inspected, ready-to-ship mixing equipment at up to 50% less capital and 90% less lead time than ordering new. IPP carries used mixers across seven subtypes — from ribbon and paddle mixers for dry powders to double arm kneaders for high-viscosity compounds — in stainless steel 304, 316, 316L, 321, carbon steel, and specialty alloys.
 
 IPP carries jacketed and non-jacketed mixers from top manufacturers like Baker Perkins, JH Day, Littleford, Eirich, Patterson Kelly, Henschel, and Jaygo. Capacities range from bench-scale units up to 24,250 L, with motor power from 1 kW to 149 kW. With more than 47 years of process industry experience, IPP supplies used mixing systems from 20 global plant sites and maintains a deep inventory of 15,000+ ready-to-ship process systems. All systems are professionally inspected and available for fast global delivery to chemical, pharmaceutical, food, rubber, plastics, ceramics, and specialty manufacturing operations worldwide.
 
-[Request a Quote](/contact/) | [Search All Mixers](https://ims.internationalprocessplants.com/inventory/equipment/mixer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search All Mixers](https://ims.internationalprocessplants.com/inventory/equipment/mixer)
 
 **Quick Stats:** 4 Condition Grades | 7 Mixer Subtypes | 1980 Established Since | 15 Countries with Offices
 
@@ -23,37 +23,42 @@ This group combines intensive mixers and double arm mixers — machines designed
 
 Used Prodex/Henschel 115JSS intensive mixer. 500 L (132.1 gal) capacity in stainless steel construction with jacketed bowl and deflector blade.
 
-- 500 L (132.1 gal) capacity
-- Stainless steel construction
-- 37.3 kW (50 HP) motor
-- Deflector blade design
-- Jacketed bowl, SS jacket
+- Capacity (Design): 500 L (132.1 gal) capacity
+- Material: Stainless steel construction
+- Motor Power: 37.3 kW (50 HP) motor
+- Blade Type: Deflector blade design
+- Bowl Jacket: Jacketed bowl
+- Jacket Material: SS jacket
 
-[Request Specs](/contact/) | [View IPP# 203162](https://ims.internationalprocessplants.com/inventory/equipment/detail/203162)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/203162) | [View IPP# 203162](https://ims.internationalprocessplants.com/inventory/equipment/detail/203162)
 
 #### [Unused] Jaygo DISHO-V-120-85 — 120 L ([IPP# 108682](https://ims.internationalprocessplants.com/inventory/equipment/detail/108682))
 
 Unused Jaygo DISHO-V-120-85 intensive mixer. 120 L (31.7 gal) in stainless steel 304. Vacuum capable with jacketed bowl, controls, and teflon scraper blades.
 
-- 120 L (31.7 gal) capacity
-- Stainless Steel 304
-- 1.38 bar (20 psi), 176.7°C (350°F)
-- Vacuum capable, controls included
-- Jacket: 3.4 bar (50 psi), 176.7°C
+- Capacity (Design): 120 L (31.7 gal) capacity
+- Material: Stainless Steel 304
+- Pressure: 1.38 bar (20 psi)
+- Temperature: 176.7°C (350°F)
+- Vacuum: Vacuum capable, controls included
+- Jacket Pressure: Jacket: 3.4 bar (50 psi)
+- Jacket Temperature: 176.7°C
 
-[Request Specs](/contact/) | [View IPP# 108682](https://ims.internationalprocessplants.com/inventory/equipment/detail/108682)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/108682) | [View IPP# 108682](https://ims.internationalprocessplants.com/inventory/equipment/detail/108682)
 
 #### [Double Arm] Baker Perkins M85SL — 852 L ([IPP# 103822](https://ims.internationalprocessplants.com/inventory/equipment/detail/103822))
 
 Used Baker Perkins M85SL double arm mixer. 852 L (225 gal) design capacity, 568 L (150 gal) working capacity. Stainless steel 304 with cored dispersion blades.
 
-- 852 L (225 gal) / 568 L (150 gal)
-- Stainless Steel 304
-- Cored dispersion blades
-- 42 RPM blade speed
-- Hydraulic tilt discharge
+- Capacity (Design): 852 L (225 gal)
+- Capacity (Working): 568 L (150 gal)
+- Material: Stainless Steel 304
+- Blade Type: Cored dispersion blades
+- Blade Speed (RPM): 42 RPM blade speed
+- Tilting: Yes
+- Hydraulics: Yes
 
-[Request Specs](/contact/) | [View IPP# 103822](https://ims.internationalprocessplants.com/inventory/equipment/detail/103822)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/103822) | [View IPP# 103822](https://ims.internationalprocessplants.com/inventory/equipment/detail/103822)
 
 [Browse All Intensive Mixers](https://ims.internationalprocessplants.com/inventory/equipment/intensive-mixer)
 
@@ -65,37 +70,41 @@ This group combines ribbon & paddle mixers and continuous mixers — machines fo
 
 Used carbon steel ribbon & paddle mixer. 8.5 m³ (300 ft³) design capacity, 5.7 m³ (200 ft³) operating capacity with single helix ribbon and packing seal.
 
-- 8.5 m³ (300 ft³) design capacity
-- 5.7 m³ (200 ft³) operating
-- Carbon steel, clad construction
-- Single helix ribbon
-- 3,050 mm (120.1 in) × 1,350 mm (53.1 in) (120″ × 54″)
+- Design Capacity: 8.5 m³ (300 ft³) design capacity
+- Operating Capacity: 5.7 m³ (200 ft³) operating
+- Material: Carbon steel
+- Clad: clad construction
+- Ribbon Type: Single helix ribbon
+- Length: 3,050 mm (120 in)
+- Width: 1,350 mm (54 in)
 
-[Request Specs](/contact/) | [View IPP# 203129](https://ims.internationalprocessplants.com/inventory/equipment/detail/203129)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/203129) | [View IPP# 203129](https://ims.internationalprocessplants.com/inventory/equipment/detail/203129)
 
 #### [Paddle] Koppers EA26-6 — 0.42 m³ (15 ft³) ([IPP# 107553](https://ims.internationalprocessplants.com/inventory/equipment/detail/107553))
 
 Used Koppers EA26-6 paddle mixer. 0.42 m³ (15 ft³) design capacity in stainless steel 316 with packing shaft seal.
 
-- 0.42 m³ (15 ft³) design capacity
-- 0.28 m³ (10 ft³) operating
-- Stainless Steel 316
-- Paddle agitator type
-- 1,850 × 660 × 508 mm (20 in) (72″ × 26″ × 20″)
+- Design Capacity: 0.42 m³ (15 ft³) design capacity
+- Operating Capacity: 0.28 m³ (10 ft³) operating
+- Material: Stainless Steel 316
+- Ribbon Type: Paddle agitator type
+- Length: 1,850 mm (72 in)
+- Width: 660 mm (26 in)
+- Height: 508 mm (20 in)
 
-[Request Specs](/contact/) | [View IPP# 107553](https://ims.internationalprocessplants.com/inventory/equipment/detail/107553)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/107553) | [View IPP# 107553](https://ims.internationalprocessplants.com/inventory/equipment/detail/107553)
 
 #### [Continuous] Oakes 14MB-200A — 149 kW ([IPP# 11845](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845))
 
 Used Oakes 14MB-200A continuous mixer. 149.1 kW (200 HP) motor in stainless steel 304 with vertical orientation and mechanical seal.
 
-- 149.1 kW (200 HP) motor
-- Stainless Steel 304
-- Vertical orientation
-- Mechanical seal
-- Used condition
+- Motor Power: 149.1 kW (200 HP) motor
+- Material: Stainless Steel 304
+- Orientation: Vertical orientation
+- Seal Type: Mechanical seal
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 11845](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845) | [View IPP# 11845](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845)
 
 [Browse All Ribbon & Paddle Mixers](https://ims.internationalprocessplants.com/inventory/equipment/ribbon-paddle-mixer)
 
@@ -107,37 +116,40 @@ This group includes nauta mixers, twin shell & double cone blenders, and muller 
 
 Used Vrieco Nauta 150RB-5 conical screw mixer. 24,250 L (6,400 gal) capacity in stainless steel 304 with dust collection system. ASME code stamped.
 
-- 24,250 L (6,400 gal) capacity
-- Stainless Steel 304
-- 1.03 bar (15 psi), 135°C (275°F)
-- Dust collection included
-- Used condition
+- Capacity: 24,250 L (6,400 gal) capacity
+- Material: Stainless Steel 304
+- Vessel Pressure: 1.03 bar (15 psi)
+- Vessel Temperature: 135°C (275°F)
+- Dust Collection: Dust collection included
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 205955](https://ims.internationalprocessplants.com/inventory/equipment/detail/205955)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/205955) | [View IPP# 205955](https://ims.internationalprocessplants.com/inventory/equipment/detail/205955)
 
 #### [Twin Shell] Patterson Kelly 990 — 2.1 m³ (75 ft³) ([IPP# 102599](https://ims.internationalprocessplants.com/inventory/equipment/detail/102599))
 
 Used Patterson Kelly 990 twin shell blender. 2.1 m³ (75 ft³) design capacity, 1.98 m³ (70 ft³) operating capacity in stainless steel 304.
 
-- 2.1 m³ (75 ft³) design capacity
-- 1.98 m³ (70 ft³) operating
-- Stainless Steel 304
-- Patterson Kelly Model 990
-- Used condition
+- Capacity Design: 2.1 m³ (75 ft³) design capacity
+- Capacity Operating: 1.98 m³ (70 ft³) operating
+- Material: Stainless Steel 304
+- Manufacturer: Patterson Kelly
+- Model: 990
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 102599](https://ims.internationalprocessplants.com/inventory/equipment/detail/102599)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/102599) | [View IPP# 102599](https://ims.internationalprocessplants.com/inventory/equipment/detail/102599)
 
 #### [Muller] Kersher Muller — 7.5 kW (10 HP) ([IPP# 93993](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993))
 
 Used Kersher muller mixer. 7.5 kW (10 HP) motor in stainless steel 304 with 1,500 mm (60 in) chamber diameter. Bottom and side scraper blades with 8-inch discharge.
 
-- 7.5 kW (10 HP) motor
-- Stainless Steel 304
-- 1,500 mm (60 in) chamber diameter
-- 431.8 mm (17 in) muller, 152.4 mm (6 in) wide
-- SS 304 muller material
+- Motor Power: 7.5 kW (10 HP) motor
+- Material: Stainless Steel 304
+- Chamber Diameter: 1,500 mm (60 in) chamber diameter
+- Muller Diameter: 431.8 mm (17 in) muller
+- Muller Width: 152.4 mm (6 in) wide
+- Muller Material: SS 304 muller material
 
-[Request Specs](/contact/) | [View IPP# 93993](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993) | [View IPP# 93993](https://ims.internationalprocessplants.com/inventory/equipment/detail/93993)
 
 [Browse All Nauta Mixers](https://ims.internationalprocessplants.com/inventory/equipment/nauta-mixer)
 
@@ -148,7 +160,7 @@ Used Kersher muller mixer. 7.5 kW (10 HP) motor in stainless steel 304 with 1,50
 
 IPP's team of nearly 150 colleagues across 15 countries can help you match the right mixer to your process requirements.
 
-[Contact a Mixer Expert](/contact/)
+[Contact a Mixer Expert](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -165,37 +177,39 @@ Baker Perkins is one of the deepest manufacturer positions in IPP's mixer invent
 
 Used Baker Perkins M85SL double arm mixer. 852 L (225 gal) design capacity, 568 L (150 gal) working capacity. Stainless steel 304 with cored dispersion blades.
 
-- 852 L (225 gal) / 568 L (150 gal)
-- Stainless Steel 304
-- Cored dispersion blades
-- 42 RPM blade speed
-- Hydraulic tilt discharge
+- Capacity (Design): 852 L (225 gal)
+- Capacity (Working): 568 L (150 gal)
+- Material: Stainless Steel 304
+- Blade Type: Cored dispersion blades
+- Blade Speed (RPM): 42 RPM blade speed
+- Tilting: Yes
+- Hydraulics: Yes
 
-[Request Specs](/contact/) | [View IPP# 103822](https://ims.internationalprocessplants.com/inventory/equipment/detail/103822)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/103822) | [View IPP# 103822](https://ims.internationalprocessplants.com/inventory/equipment/detail/103822)
 
 #### [Continuous] Baker Perkins Continuous — SS 316 ([IPP# 704681](https://ims.internationalprocessplants.com/inventory/equipment/detail/704681))
 
 Used Baker Perkins continuous mixer. Stainless steel 316 construction with 7.5 kW (10.1 HP) motor, 150 mm (5.9 in) diameter, twin-screw horizontal design.
 
-- 7.5 kW (10.1 HP) motor
-- Stainless Steel 316
-- 150 mm (5.9 in) diameter
-- Twin-screw design
-- Horizontal orientation
+- Motor Power: 7.5 kW (10.1 HP) motor
+- Material: Stainless Steel 316
+- Diameter: 150 mm (5.9 in) diameter
+- Number of Screws: Twin-screw design
+- Orientation: Horizontal orientation
 
-[Request Specs](/contact/) | [View IPP# 704681](https://ims.internationalprocessplants.com/inventory/equipment/detail/704681)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/704681) | [View IPP# 704681](https://ims.internationalprocessplants.com/inventory/equipment/detail/704681)
 
 #### Baker Perkins Double Arm — CS ([IPP# 212411](https://ims.internationalprocessplants.com/inventory/equipment/detail/212411))
 
 Used Baker Perkins double arm mixer in carbon steel construction with sigma blade design and hydraulic tilt discharge.
 
-- Carbon Steel
-- Sigma blade design
-- Hydraulic tilt discharge
-- 1,700 L (450 gal) capacity
-- Used condition
+- Material: Carbon Steel
+- Blade Type: Sigma blade design
+- Tilting: Hydraulic tilt discharge
+- Capacity: 1,700 L (450 gal) capacity
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 212411](https://ims.internationalprocessplants.com/inventory/equipment/detail/212411)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212411) | [View IPP# 212411](https://ims.internationalprocessplants.com/inventory/equipment/detail/212411)
 
 [Browse All Baker Perkins Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/mixer)
 
@@ -207,35 +221,36 @@ JH Day is a leading double arm mixer manufacturer in IPP's inventory, known for 
 
 Used JH Day Mogul double arm mixer. 946 L (250 gal) design capacity, 378.5 L (100 gal) working. Stainless steel 304 with cored dispersion blades, jacketed, hydraulic tilt.
 
-- 946 L (250 gal) / 378.5 L (100 gal)
-- Stainless Steel 304
-- Jacket: 8.6 bar (125 psi)
-- Cored dispersion blades
-- 45.3 RPM, hydraulic tilt
+- Capacity (Design): 946 L (250 gal)
+- Capacity (Working): 378.5 L (100 gal)
+- Material: Stainless Steel 304
+- Jacket Pressure: Jacket: 8.6 bar (125 psi)
+- Blade Type: Cored dispersion blades
+- Blade Speed (RPM): 45.3 RPM, hydraulic tilt
 
-[Request Specs](/contact/) | [View IPP# 103823](https://ims.internationalprocessplants.com/inventory/equipment/detail/103823)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/103823) | [View IPP# 103823](https://ims.internationalprocessplants.com/inventory/equipment/detail/103823)
 
 #### Baker Perkins Double Arm — Carbon Steel ([IPP# 202135](https://ims.internationalprocessplants.com/inventory/equipment/detail/202135))
 
 Used Baker Perkins double arm mixer. 3,300 L (875 gal) capacity in carbon steel construction with dual sigma blade design.
 
-- 3,300 L (875 gal) capacity
-- Carbon Steel
-- Double arm mixer
-- Used condition
+- Capacity: 3,300 L (875 gal) capacity
+- Material: Carbon Steel
+- Type: Double arm mixer
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 202135](https://ims.internationalprocessplants.com/inventory/equipment/detail/202135)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/202135) | [View IPP# 202135](https://ims.internationalprocessplants.com/inventory/equipment/detail/202135)
 
 #### JH Day Double Arm — Carbon Steel ([IPP# 212412](https://ims.internationalprocessplants.com/inventory/equipment/detail/212412))
 
 Used JH Day Mogul double arm mixer in carbon steel with double nobben blade kneading action for high-viscosity compounds.
 
-- Carbon Steel
-- Double nobben blade design
-- 2,100 L (550 gal) capacity
-- Used condition
+- Material: Carbon Steel
+- Blade Type: Double nobben blade design
+- Capacity: 2,100 L (550 gal) capacity
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 212412](https://ims.internationalprocessplants.com/inventory/equipment/detail/212412)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212412) | [View IPP# 212412](https://ims.internationalprocessplants.com/inventory/equipment/detail/212412)
 
 [Browse All JH Day Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/double-arm-mixer)
 
@@ -247,36 +262,37 @@ Beyond Baker Perkins and JH Day, IPP carries mixers from Patterson Kelly, Hensch
 
 Used Patterson Kelly ribbon mixer. 12.7 m³ (450 ft³) design capacity in stainless steel 304 construction.
 
-- 12.7 m³ (450 ft³) design capacity
-- Stainless Steel 304
-- Ribbon & paddle mixer
-- Used condition
+- Design Capacity: 12.7 m³ (450 ft³) design capacity
+- Material: Stainless Steel 304
+- Type: Ribbon & paddle mixer
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 6046](https://ims.internationalprocessplants.com/inventory/equipment/detail/6046)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/6046) | [View IPP# 6046](https://ims.internationalprocessplants.com/inventory/equipment/detail/6046)
 
 #### [Eirich] Eirich DE 22 — 1,300 L ([IPP# 705920](https://ims.internationalprocessplants.com/inventory/equipment/detail/705920))
 
 Used Eirich DE 22 intensive mixer. 1,300 L (343.4 gal) capacity in carbon steel construction for heavy-duty compounding applications.
 
-- 1,300 L (343.4 gal) capacity
-- Carbon Steel
-- Eirich Model DE 22
-- Intensive mixer
-- Used condition
+- Design Capacity: 1,300 L (343.4 gal) capacity
+- Material: Carbon Steel
+- Manufacturer: Eirich
+- Model: DE 22
+- Type: Intensive mixer
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 705920](https://ims.internationalprocessplants.com/inventory/equipment/detail/705920)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/705920) | [View IPP# 705920](https://ims.internationalprocessplants.com/inventory/equipment/detail/705920)
 
 #### [Littleford] Littleford KM-600 D — 594 L ([IPP# 220808](https://ims.internationalprocessplants.com/inventory/equipment/detail/220808))
 
 Used Littleford Bros KM-600 D continuous mixer. 594 L (157 gal) capacity in carbon steel construction.
 
-- 594 L (157 gal) capacity
-- Carbon Steel
-- Model KM-600 D
-- Continuous mixer
-- Used condition
+- Design Capacity: 594 L (157 gal) capacity
+- Material: Carbon Steel
+- Model: Model KM-600 D
+- Type: Continuous mixer
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 220808](https://ims.internationalprocessplants.com/inventory/equipment/detail/220808)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/220808) | [View IPP# 220808](https://ims.internationalprocessplants.com/inventory/equipment/detail/220808)
 
 [Browse All Mixer Manufacturers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/mixer)
 
@@ -295,31 +311,31 @@ The majority of IPP's mixer inventory is in used condition — previously instal
 
 Used Baker Perkins M85SL double arm mixer. 852 L (225 gal) design capacity in stainless steel 304 with cored dispersion blades and hydraulic tilt.
 
-- 852 L (225 gal) / 568 L (150 gal)
-- Stainless Steel 304
-- Used condition
+- Capacity: 852 L (225 gal) / 568 L (150 gal)
+- Material: Stainless Steel 304
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 103822](https://ims.internationalprocessplants.com/inventory/equipment/detail/103822)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/103822) | [View IPP# 103822](https://ims.internationalprocessplants.com/inventory/equipment/detail/103822)
 
 #### [Used] Vrieco Nauta 150RB-5 — 24,250 L ([IPP# 205955](https://ims.internationalprocessplants.com/inventory/equipment/detail/205955))
 
 Used Vrieco Nauta 150RB-5 conical screw mixer. 24,250 L (6,400 gal) capacity in stainless steel 304 with dust collection and ASME code stamp.
 
-- 24,250 L (6,400 gal) capacity
-- Stainless Steel 304
-- Used condition
+- Capacity: 24,250 L (6,400 gal) capacity
+- Material: Stainless Steel 304
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 205955](https://ims.internationalprocessplants.com/inventory/equipment/detail/205955)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/205955) | [View IPP# 205955](https://ims.internationalprocessplants.com/inventory/equipment/detail/205955)
 
 #### [Used] Oakes 14MB-200A — 149 kW ([IPP# 11845](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845))
 
 Used Oakes 14MB-200A continuous mixer. 149.1 kW (200 HP) motor in stainless steel 304 with vertical orientation and mechanical seal.
 
-- 149.1 kW (200 HP) motor
-- Stainless Steel 304
-- Used condition
+- Motor Power: 149.1 kW (200 HP) motor
+- Material: Stainless Steel 304
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 11845](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845) | [View IPP# 11845](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845)
 
 [Browse All Used Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/mixer)
 
@@ -331,37 +347,38 @@ IPP carries unused (never installed) mixers — factory-new equipment that was p
 
 Unused Jaygo DISHO-V-120-85 intensive mixer. 120 L (31.7 gal) in stainless steel 304. Vacuum capable with jacketed bowl, controls, and teflon scraper blades.
 
-- 120 L (31.7 gal) capacity
-- Stainless Steel 304
-- 1.38 bar (20 psi), 176.7°C
-- Vacuum capable, controls included
-- Unused condition
+- Capacity (Design): 120 L (31.7 gal) capacity
+- Material: Stainless Steel 304
+- Pressure: 1.38 bar (20 psi)
+- Temperature: 176.7°C
+- Vacuum: Vacuum capable, controls included
+- Condition: Unused condition
 
-[Request Specs](/contact/) | [View IPP# 108682](https://ims.internationalprocessplants.com/inventory/equipment/detail/108682)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/108682) | [View IPP# 108682](https://ims.internationalprocessplants.com/inventory/equipment/detail/108682)
 
 #### [Unused] Plastechnik Greiz MVA-1000R — 1,000 L ([IPP# 71425](https://ims.internationalprocessplants.com/inventory/equipment/detail/71425))
 
 Unused Plastechnik Greiz MVA-1000R intensive mixer. 1,000 L (264.2 gal) capacity in stainless steel 316 construction.
 
-- 1,000 L (264.2 gal) capacity
-- Stainless Steel 316
-- Model MVA-1000R
-- Intensive mixer
-- Unused condition
+- Design Capacity: 1,000 L (264.2 gal) capacity
+- Material: Stainless Steel 316
+- Model: Model MVA-1000R
+- Type: Intensive mixer
+- Condition: Unused condition
 
-[Request Specs](/contact/) | [View IPP# 71425](https://ims.internationalprocessplants.com/inventory/equipment/detail/71425)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/71425) | [View IPP# 71425](https://ims.internationalprocessplants.com/inventory/equipment/detail/71425)
 
 #### [Unused] Plastechnik Greiz MSHK750/2000 — 780 L ([IPP# 49709](https://ims.internationalprocessplants.com/inventory/equipment/detail/49709))
 
 Unused Plastechnik Greiz MSHK750/2000 intensive mixer. 780 L (206.1 gal) capacity in stainless steel 304.
 
-- 780 L (206.1 gal) capacity
-- Stainless Steel 304
-- Model MSHK750/2000
-- Intensive mixer
-- Unused condition
+- Design Capacity: 780 L (206.1 gal) capacity
+- Material: Stainless Steel 304
+- Model: Model MSHK750/2000
+- Type: Intensive mixer
+- Condition: Unused condition
 
-[Request Specs](/contact/) | [View IPP# 49709](https://ims.internationalprocessplants.com/inventory/equipment/detail/49709)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/49709) | [View IPP# 49709](https://ims.internationalprocessplants.com/inventory/equipment/detail/49709)
 
 [Browse All Unused Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/mixer)
 
@@ -373,24 +390,24 @@ IPP also carries refurbished/rebuilt and new mixer equipment. Refurbished units 
 
 Refurbished/rebuilt Loedige Littleford Ploughshare FKM 3000.D.4MZ.4ZF.4L ribbon & paddle mixer. 3 m³ (105.9 ft³) capacity in stainless steel 321.
 
-- 3 m³ (105.9 ft³) capacity
-- Stainless Steel 321
-- Model FKM 3000.D.4MZ.4ZF.4L
-- Ploughshare ribbon & paddle
-- Refurbished/Rebuilt condition
+- Design Capacity: 3 m³ (105.9 ft³) capacity
+- Material: Stainless Steel 321
+- Model: Model FKM 3000.D.4MZ.4ZF.4L
+- Type: Ploughshare ribbon & paddle
+- Condition: Refurbished/Rebuilt condition
 
-[Request Specs](/contact/) | [View IPP# 208450](https://ims.internationalprocessplants.com/inventory/equipment/detail/208450)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208450) | [View IPP# 208450](https://ims.internationalprocessplants.com/inventory/equipment/detail/208450)
 
 #### [New] Gale Process Solutions — Twin Shell ([IPP# 216325](https://ims.internationalprocessplants.com/inventory/equipment/detail/216325))
 
 New Gale Process Solutions twin shell & double cone mixer in stainless steel 316 construction. Manufactured by IPP subsidiary.
 
-- Stainless Steel 316
-- Gale Process Solutions (IPP subsidiary)
-- Twin shell & double cone
-- New condition
+- Material: Stainless Steel 316
+- Manufacturer: Gale Process Solutions (IPP subsidiary)
+- Type: Twin shell & double cone
+- Condition: New condition
 
-[Request Specs](/contact/) | [View IPP# 216325](https://ims.internationalprocessplants.com/inventory/equipment/detail/216325)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/216325) | [View IPP# 216325](https://ims.internationalprocessplants.com/inventory/equipment/detail/216325)
 
 [Browse All Mixer Conditions in Stock](https://ims.internationalprocessplants.com/inventory/equipment/mixer)
 
@@ -524,4 +541,4 @@ A: IPP carries mixers from Baker Perkins, JH Day, Patterson Kelly, Henschel, Jay
 
 Contact IPP's mixer equipment team. With seven mixer subtypes in stock, we can match your exact specifications and deliver worldwide.
 
-[Contact an Expert](/contact/) | [Search All Mixers](https://ims.internationalprocessplants.com/inventory/equipment/mixer)
+[Contact an Expert](https://internationalprocessplants.com/contact/) | [Search All Mixers](https://ims.internationalprocessplants.com/inventory/equipment/mixer)

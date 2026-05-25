@@ -6,7 +6,7 @@ Materials of construction include Stainless Steel 304, Stainless Steel Other, St
 
 Pressure ratings range from 0.5 bar (7.3 psi) to 20 bar (290.1 psi). Available in used condition. Buying used continuous mixers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/continuous-mixer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/continuous-mixer)
 
 **Quick Stats:** 15+ Mixers in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -30,24 +30,27 @@ IPP stocks stainless steel continuous mixers in multiple grades including Stainl
 
 Used List (Switzerland) Stainless Steel 904 mixer-continuous. 30.6 L (8.1 gallons) capacity.
 
-- 30.6 L (8.1 gallons)
-- 0.5 bar (7.3 psi), 350 °C (662 °F)
-- Stainless Steel 904
-- Used condition
-- List (Switzerland) AP12-82 Conti
+- Capacity (Design): 30.6 L (8.1 gallons) design capacity
+- Pressure: 0.5 bar (7.3 psi)
+- Temperature: 350 °C (662 °F)
+- Material: Stainless Steel 904
+- Condition: Used condition
+- Manufacturer: List (Switzerland)
+- Model: AP12-82 Conti
 
-[Request Specs](/contact/) | [View IPP# 207108](https://ims.internationalprocessplants.com/inventory/equipment/detail/207108)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/207108) | [View IPP# 207108](https://ims.internationalprocessplants.com/inventory/equipment/detail/207108)
 
 #### Baker Perkins Stainless Steel 316 ([IPP# 704681](https://ims.internationalprocessplants.com/inventory/equipment/detail/704681))
 
 Used Baker Perkins Stainless Steel 316 mixer-continuous.
 
-- Stainless Steel 316
-- Used condition
-- 150 mm (5.9 in) x 900 mm (35.4 in)
-- 7.5 kW (10.1 HP)
+- Material: Stainless Steel 316
+- Condition: Used condition
+- Diameter: 150 mm (5.9 in)
+- Length: 900 mm (35.4 in)
+- Motor Power: 7.5 kW (10.1 HP)
 
-[Request Specs](/contact/) | [View IPP# 704681](https://ims.internationalprocessplants.com/inventory/equipment/detail/704681)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/704681) | [View IPP# 704681](https://ims.internationalprocessplants.com/inventory/equipment/detail/704681)
 
 [Browse All Stainless Steel Continuous Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/continuous-mixer)
 
@@ -59,24 +62,29 @@ IPP stocks continuous mixers in additional materials of construction beyond stai
 
 Used Baker Perkins Ko-Neader continuous mixer with jacketed housing rated to 6.9 bar (100 psi) and 343.3 °C (650 °F).
 
-- 6.9 bar (100 psi), 343.3 °C (650 °F)
-- Used condition
-- Baker Perkins Ko-Neader
-- 203.2 mm (8 in) x 3,050 mm (120 in)
-- 55.9 kW (75 HP)
+- Pressure: 6.9 bar (100 psi)
+- Temperature: 343.3 °C (650 °F)
+- Condition: Used condition
+- Manufacturer: Baker Perkins
+- Model: Ko-Neader
+- Diameter: 203.2 mm (8 in)
+- Length: 3,050 mm (120 in)
+- Motor Power: 55.9 kW (75 HP)
 
-[Request Specs](/contact/) | [View IPP# 94654](https://ims.internationalprocessplants.com/inventory/equipment/detail/94654)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/94654) | [View IPP# 94654](https://ims.internationalprocessplants.com/inventory/equipment/detail/94654)
 
 #### PR-140 Continuous Mixer — 65 kW ([IPP# 99779](https://ims.internationalprocessplants.com/inventory/equipment/detail/99779))
 
 Used PR-140 continuous mixer with 65 kW (87.2 HP) motor and screw-type mixing element.
 
-- 20 bar (290.1 psi), 200 °C (392 °F)
-- Used condition
-- 101.6 mm (4 in) x 1,000 mm (40 in)
-- 65 kW (87.2 HP)
+- Pressure: 20 bar (290.1 psi)
+- Temperature: 200 °C (392 °F)
+- Condition: Used condition
+- Diameter: 101.6 mm (4 in)
+- Length: 1,000 mm (40 in)
+- Motor Power: 65 kW (87.2 HP)
 
-[Request Specs](/contact/) | [View IPP# 99779](https://ims.internationalprocessplants.com/inventory/equipment/detail/99779)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/99779) | [View IPP# 99779](https://ims.internationalprocessplants.com/inventory/equipment/detail/99779)
 
 [Browse All Other Continuous Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/continuous-mixer)
 
@@ -88,13 +96,15 @@ IPP stocks carbon steel continuous mixers. Available from Littleford Bros, Inc a
 
 Used Littleford Bros, Inc Carbon Steel mixer-continuous. 594 L (157 gallons) capacity.
 
-- 594 L (157 gallons)
-- Carbon Steel
-- Used condition
-- Littleford Bros, Inc KM-600 D
-- 610 mm (24 in) x 2,000 mm (78 in)
+- Capacity (Design): 594 L (157 gallons)
+- Material: Carbon Steel
+- Condition: Used condition
+- Manufacturer: Littleford Bros
+- Model: Inc KM-600 D
+- Diameter: 610 mm (24 in)
+- Length: 2,000 mm (78 in)
 
-[Request Specs](/contact/) | [View IPP# 220808](https://ims.internationalprocessplants.com/inventory/equipment/detail/220808)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/220808) | [View IPP# 220808](https://ims.internationalprocessplants.com/inventory/equipment/detail/220808)
 
 [Browse All Carbon Steel Continuous Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/continuous-mixer)
 
@@ -113,37 +123,43 @@ Baker Perkins is the deepest single-manufacturer position in IPP's continuous mi
 
 Used Baker Perkins stainless steel 316 continuous mixer with twin-screw configuration, 150 mm (5.9 in) diameter and jacketed housing.
 
-- Stainless Steel 316
-- 150 mm (5.9 in) x 900 mm (35.4 in)
-- 7.5 kW (10.1 HP) motor
-- Twin-screw, jacketed
-- Used condition
+- Material: Stainless Steel 316
+- Diameter: 150 mm (5.9 in)
+- Length: 900 mm (35.4 in)
+- Motor Power: 7.5 kW (10.1 HP) motor
+- Number of Screws: Twin-screw, jacketed
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 704681](https://ims.internationalprocessplants.com/inventory/equipment/detail/704681)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/704681) | [View IPP# 704681](https://ims.internationalprocessplants.com/inventory/equipment/detail/704681)
 
 #### Baker Perkins Stainless Steel 304 — 55.9 kW ([IPP# 92819](https://ims.internationalprocessplants.com/inventory/equipment/detail/92819))
 
 Used Baker Perkins stainless steel 304 continuous mixer with jacketed housing rated to 6.9 bar (100 psi) and 343.3 °C (650 °F).
 
-- Stainless Steel 304
-- 203.2 mm (8 in) x 3,050 mm (120 in)
-- 55.9 kW (75 HP) motor
-- 6.9 bar (100 psi), 343.3 °C (650 °F)
-- Used condition
+- Material: Stainless Steel 304
+- Diameter: 203.2 mm (8 in)
+- Length: 3,050 mm (120 in)
+- Motor Power: 55.9 kW (75 HP) motor
+- Pressure: 6.9 bar (100 psi)
+- Temperature: 343.3 °C (650 °F)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 92819](https://ims.internationalprocessplants.com/inventory/equipment/detail/92819)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/92819) | [View IPP# 92819](https://ims.internationalprocessplants.com/inventory/equipment/detail/92819)
 
 #### Baker Perkins Ko-Neader — 55.9 kW ([IPP# 94654](https://ims.internationalprocessplants.com/inventory/equipment/detail/94654))
 
 Used Baker Perkins Ko-Neader continuous mixer with jacketed housing rated to 6.9 bar (100 psi) and 343.3 °C (650 °F), horizontal orientation.
 
-- Baker Perkins Ko-Neader
-- 203.2 mm (8 in) x 3,050 mm (120 in)
-- 55.9 kW (75 HP) motor
-- 6.9 bar (100 psi), 343.3 °C (650 °F)
-- Used condition
+- Manufacturer: Baker Perkins
+- Model: Ko-Neader
+- Diameter: 203.2 mm (8 in)
+- Length: 3,050 mm (120 in)
+- Motor Power: 55.9 kW (75 HP) motor
+- Pressure: 6.9 bar (100 psi)
+- Temperature: 343.3 °C (650 °F)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 94654](https://ims.internationalprocessplants.com/inventory/equipment/detail/94654)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/94654) | [View IPP# 94654](https://ims.internationalprocessplants.com/inventory/equipment/detail/94654)
 
 [Browse All Baker Perkins Continuous Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/continuous-mixer)
 
@@ -155,37 +171,40 @@ Strong Scott is the second deepest OEM position in IPP's continuous mixer invent
 
 Used Strong Scott TS-14 stainless steel 304 continuous mixer with 355.6 mm (14 in) diameter mixing chamber and packing shaft seals.
 
-- Stainless Steel 304
-- 355.6 mm (14 in) x 1,050 mm (42 in)
-- 37.3 kW (50 HP) motor
-- Packing shaft seals
-- Used condition
+- Material: Stainless Steel 304
+- Diameter: 355.6 mm (14 in)
+- Length: 1,050 mm (42 in)
+- Motor Power: 37.3 kW (50 HP) motor
+- Seal Type: Packing shaft seals
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 23132](https://ims.internationalprocessplants.com/inventory/equipment/detail/23132)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/23132) | [View IPP# 23132](https://ims.internationalprocessplants.com/inventory/equipment/detail/23132)
 
 #### Strong Scott TS-14 — 37.3 kW ([IPP# 23133](https://ims.internationalprocessplants.com/inventory/equipment/detail/23133))
 
 Used Strong Scott TS-14 stainless steel 304 continuous mixer, horizontal orientation, 355.6 mm (14 in) diameter chamber.
 
-- Stainless Steel 304
-- 355.6 mm (14 in) x 1,050 mm (42 in)
-- 37.3 kW (50 HP) motor
-- Horizontal orientation
-- Used condition
+- Material: Stainless Steel 304
+- Diameter: 355.6 mm (14 in)
+- Length: 1,050 mm (42 in)
+- Motor Power: 37.3 kW (50 HP) motor
+- Orientation: Horizontal orientation
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 23133](https://ims.internationalprocessplants.com/inventory/equipment/detail/23133)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/23133) | [View IPP# 23133](https://ims.internationalprocessplants.com/inventory/equipment/detail/23133)
 
 #### Strong Scott TS-14 — 37.3 kW ([IPP# 23134](https://ims.internationalprocessplants.com/inventory/equipment/detail/23134))
 
 Used Strong Scott TS-14 stainless steel 304 continuous mixer, 1,050 mm (42 in) long mixing chamber with packing seals.
 
-- Stainless Steel 304
-- 355.6 mm (14 in) x 1,050 mm (42 in)
-- 37.3 kW (50 HP) motor
-- Packing shaft seals
-- Used condition
+- Material: Stainless Steel 304
+- Diameter: 355.6 mm (14 in)
+- Length: 1,050 mm (42 in)
+- Motor Power: 37.3 kW (50 HP) motor
+- Seal Type: Packing shaft seals
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 23134](https://ims.internationalprocessplants.com/inventory/equipment/detail/23134)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/23134) | [View IPP# 23134](https://ims.internationalprocessplants.com/inventory/equipment/detail/23134)
 
 [Browse All Strong Scott Continuous Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/continuous-mixer)
 
@@ -197,37 +216,38 @@ Beyond Baker Perkins and Strong Scott, IPP stocks continuous mixers from Schugi 
 
 Used Oakes 14MB-200A stainless steel 304 continuous mixer with 149.1 kW (200 HP) motor, vertical orientation, and mechanical seals.
 
-- Stainless Steel 304
-- 149.1 kW (200 HP) motor
-- Vertical orientation
-- Mechanical seals
-- Used condition
+- Material: Stainless Steel 304
+- Motor Power: 149.1 kW (200 HP) motor
+- Orientation: Vertical orientation
+- Seal Type: Mechanical seals
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 11845](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845) | [View IPP# 11845](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845)
 
 #### Readco 120FC 2A — 111.9 kW ([IPP# 220801](https://ims.internationalprocessplants.com/inventory/equipment/detail/220801))
 
 Used Readco 120FC 2A stainless steel 304 continuous mixer with 304.8 mm (12 in) diameter and 2,200 mm (87 in) length, horizontal orientation.
 
-- Stainless Steel 304
-- 304.8 mm (12 in) x 2,200 mm (87 in)
-- 111.9 kW (150 HP) motor
-- Horizontal orientation
-- Used condition
+- Material: Stainless Steel 304
+- Diameter: 304.8 mm (12 in)
+- Length: 2,200 mm (87 in)
+- Motor Power: 111.9 kW (150 HP) motor
+- Orientation: Horizontal orientation
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 220801](https://ims.internationalprocessplants.com/inventory/equipment/detail/220801)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/220801) | [View IPP# 220801](https://ims.internationalprocessplants.com/inventory/equipment/detail/220801)
 
 #### List (Switzerland) AP12-82 Conti — 30.6 L ([IPP# 207108](https://ims.internationalprocessplants.com/inventory/equipment/detail/207108))
 
 Used List (Switzerland) AP12-82 Conti stainless steel 904 continuous mixer with 30.6 L (8.1 gallons) capacity, jacketed housing rated to 6 bar (87 psi).
 
-- Stainless Steel 904
-- 30.6 L (8.1 gallons)
-- 10 kW (13.4 HP) motor
-- 6 bar (87 psi) jacket pressure
-- Used condition
+- Material: Stainless Steel 904
+- Capacity (Design): 30.6 L (8.1 gallons)
+- Motor Power: 10 kW (13.4 HP) motor
+- Jacket Pressure: 6 bar (87 psi) jacket pressure
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 207108](https://ims.internationalprocessplants.com/inventory/equipment/detail/207108)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/207108) | [View IPP# 207108](https://ims.internationalprocessplants.com/inventory/equipment/detail/207108)
 
 [Browse All Continuous Mixers from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/continuous-mixer)
 
@@ -246,37 +266,38 @@ All continuous mixers in IPP's current inventory are in good used condition. The
 
 Used Oakes 14MB-200A stainless steel 304 continuous mixer with 149.1 kW (200 HP) motor, vertical orientation, and mechanical seals.
 
-- Used condition
-- Stainless Steel 304
-- 149.1 kW (200 HP) motor
-- Vertical orientation
-- Mechanical seals
+- Condition: Used condition
+- Material: Stainless Steel 304
+- Motor Power: 149.1 kW (200 HP) motor
+- Orientation: Vertical orientation
+- Seal Type: Mechanical seals
 
-[Request Specs](/contact/) | [View IPP# 11845](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845) | [View IPP# 11845](https://ims.internationalprocessplants.com/inventory/equipment/detail/11845)
 
 #### Used Wahlco XN4612 B — 44.7 kW ([IPP# 212563](https://ims.internationalprocessplants.com/inventory/equipment/detail/212563))
 
 Used Wahlco XN4612 B stainless steel 321 continuous mixer with screw-type element, 1,150 mm (45 in) diameter, horizontal orientation.
 
-- Used condition
-- Stainless Steel 321
-- 1,150 mm (45 in) x 1,150 mm (46 in)
-- 44.7 kW (60 HP) motor
-- Screw-type mixing element
+- Condition: Used condition
+- Material: Stainless Steel 321
+- Diameter: 1,150 mm (45 in)
+- Length: 1,150 mm (46 in)
+- Motor Power: 44.7 kW (60 HP) motor
+- Type: Screw-type mixing element
 
-[Request Specs](/contact/) | [View IPP# 212563](https://ims.internationalprocessplants.com/inventory/equipment/detail/212563)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212563) | [View IPP# 212563](https://ims.internationalprocessplants.com/inventory/equipment/detail/212563)
 
 #### Used Littleford Bros KM-600 D — 594 L ([IPP# 220808](https://ims.internationalprocessplants.com/inventory/equipment/detail/220808))
 
 Used Littleford Bros, Inc KM-600 D carbon steel continuous mixer with 594 L (157 gallons) capacity, plow-type agitation, and packing seals.
 
-- Used condition
-- Carbon Steel
-- 594 L (157 gallons)
-- 18.6 kW (25 HP) motor
-- Plow-type agitation
+- Condition: Used condition
+- Material: Carbon Steel
+- Capacity (Design): 594 L (157 gallons)
+- Motor Power: 18.6 kW (25 HP) motor
+- Plow Type: Plow-type agitation
 
-[Request Specs](/contact/) | [View IPP# 220808](https://ims.internationalprocessplants.com/inventory/equipment/detail/220808)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/220808) | [View IPP# 220808](https://ims.internationalprocessplants.com/inventory/equipment/detail/220808)
 
 [Browse All Used Continuous Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/continuous-mixer)
 
@@ -287,7 +308,7 @@ Used Littleford Bros, Inc KM-600 D carbon steel continuous mixer with 594 L (157
 
 Tell us your specifications and requirements. Our team will match your needs against current continuous mixers inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -326,10 +347,10 @@ IPP stocks continuous mixers from Baker Perkins, Strong Scott, Schugi Flexomix, 
 IPP offers refurbishment services through its UGE (Universal Glasteel Equipment) division, founded in 1995, which stocks 700+ vessels and 2,700+ parts.
 
 ### Global Presence in 15 Countries
-IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom, and United States. IPP has served 160,000+ customers worldwide.
+IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom, and the United States. IPP has served 160,000+ customers worldwide.
 
 ### Full Range of Materials & Specs
-Materials include Stainless Steel 304, Stainless Steel Other, Stainless Steel 904, Stainless Steel 321. Capacities from 30.6 L (8.1 gallons) to 594 L (157 gallons).
+Materials include Stainless Steel 304, Stainless Steel Other, Stainless Steel 904, Stainless Steel 321. Capacities range from 30.6 L (8.1 gallons) to 594 L (157 gallons).
 
 
 ---
@@ -351,14 +372,13 @@ The process of purchasing used continuous mixers from IPP follows five steps, fr
 
 IPP supplies used continuous mixers to manufacturers across multiple process industries worldwide.
 
-- Pharmaceutical
 - Chemical Processing
-- Food & Beverage
-- Cosmetics
-- Paints & Coatings
 - Polymers & Resins
-- Biotechnology
+- Paints & Coatings
 - Agrochemicals
+- Food & Beverage (selected continuous blending applications)
+- Cosmetics (selected formulations)
+- Pharmaceutical (non-sterile or bulk solid processing applications)
 
 
 ---
@@ -412,7 +432,7 @@ In addition to continuous mixers, IPP stocks equipment across multiple categorie
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -421,4 +441,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/continuous-mixer)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/continuous-mixer)

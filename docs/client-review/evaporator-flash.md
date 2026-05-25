@@ -2,15 +2,15 @@
 
 Buying used flash evaporators through International Process Plants gives chemical, pharmaceutical, food and beverage, and wastewater treatment buyers access to thermal separation systems that concentrate solutions, recover solvents, and reduce waste volume through rapid pressure-drop vaporization.
 
-Flash evaporators are not currently in stock at IPP. With a global network of 20 complete plant sites and an inventory of over 15,000 process systems, IPP can source flash evaporators to match your capacity, material, and throughput requirements. Available configurations across the evaporator family include falling film, rising film, forced circulation, wiped film, and multiple-effect systems—each suited for specific viscosity, temperature sensitivity, and throughput needs. Buying used flash evaporators from IPP can save up to 50% of capital and 90% of lead time versus buying new.
+With a global network of 20 complete plant sites and an inventory of over 15,000 process systems, IPP can source flash evaporators to match your capacity, material, and throughput requirements. Available configurations across the evaporator family include falling film, rising film, forced circulation, wiped film, and multiple-effect systems—each suited for specific viscosity, temperature sensitivity, and throughput needs. Buying used flash evaporators from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/flash)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/flash)
 
 **Quick Stats:** 15,000+ Process Systems in IPP Inventory | 1980 Established Since | 15 Countries with Offices
 
 **Featured Equipment:**
 - [Search Flash Evaporators on IMS -- Browse available evaporator inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/flash)
-- [Contact IPP About Sourcing -- Tell us your flash evaporator requirements](/contact/)
+- [Contact IPP About Sourcing -- Tell us your flash evaporator requirements](https://internationalprocessplants.com/contact/)
 - [Browse All Evaporators -- View other evaporator types in stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/)
 
 
@@ -47,7 +47,7 @@ Flash evaporators are produced by process equipment manufacturers worldwide. IPP
 
 ### Buy Used Flash Evaporators from Major OEMs
 
-Flash evaporators are manufactured by leading process equipment companies including GEA, Alfa Laval, Swenson, and Buss-SMS-Canzler. IPP does not currently stock flash evaporators from these manufacturers but can source units through its global network.
+Flash evaporators are manufactured by leading process equipment companies including GEA, Alfa Laval, Swenson, and Buss-SMS-Canzler. IPP can source flash evaporators from these manufacturers and other leading OEMs through its global network of plant sites.
 
 [Browse All Flash Evaporators on IMS](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/flash)
 
@@ -95,7 +95,7 @@ IPP Group supplies new flash evaporators through its Gale Process Solutions (GPS
 
 Tell us your specifications and requirements. Our team will match your needs against current flash evaporators inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -210,7 +210,7 @@ In addition to flash evaporators, IPP stocks equipment across multiple categorie
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -219,4 +219,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to IPP](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/flash)
+[Talk to IPP](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/flash)

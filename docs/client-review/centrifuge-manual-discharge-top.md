@@ -6,7 +6,7 @@ Materials of construction span Stainless Steel 316, Stainless Steel Austenitic, 
 
 IPP stocks Heine units across the 336, 338, 342, and FV model families. Krauss Maffei inventory spans the PZO, VZO, and DZU model series. Ferrum units include the POR-1250, J8P-S, and FIV55ELGR1 models. Condition options include used, refurbished/rebuilt, unused, and new stock. Many units feature gas-tight housings, sanitary construction, and plow-assisted discharge. Buying used manual discharge-top basket centrifuges from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
 
 **Quick Stats:** Dozens Centrifuges in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -30,37 +30,37 @@ IPP stocks stainless steel manual discharge-top basket centrifuges in SS 316, SS
 
 New Gale Process Solutions SI-2 stainless steel 316 basket centrifuge with 1,200 mm (48 in) basket diameter, 2.3 m² filtration area, and sanitary construction.
 
-- Stainless Steel 316
-- 1,200 mm (48 in) basket
-- 900 RPM, G Force 541
-- 11 kW (14.8 HP)
-- New condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,200 mm (48 in) basket
+- Speed-RPM Maximum: 900 RPM, G Force 541
+- Motor Power: 11 kW (14.8 HP)
+- Condition: New condition
 
-[Request Specs](/contact/) | [View IPP# 224581](https://ims.internationalprocessplants.com/inventory/equipment/detail/224581)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/224581) | [View IPP# 224581](https://ims.internationalprocessplants.com/inventory/equipment/detail/224581)
 
 #### Krauss Maffei VZO 125/3.2 — 1,250 mm (49.2 in) ([IPP# 231009](https://ims.internationalprocessplants.com/inventory/equipment/detail/231009))
 
 Used Krauss Maffei VZO 125/3.2 stainless steel 316 basket centrifuge with 1,250 mm (49.2 in) basket diameter, 3.2 m² filtration area, and gas-tight housing.
 
-- Stainless Steel 316
-- 1,250 mm (49.2 in) basket
-- 950 RPM maximum
-- 30 kW (40.2 HP)
-- Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,250 mm (49.2 in) basket
+- Speed-RPM Maximum: 950 RPM maximum
+- Motor Power: 30 kW (40.2 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 231009](https://ims.internationalprocessplants.com/inventory/equipment/detail/231009)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/231009) | [View IPP# 231009](https://ims.internationalprocessplants.com/inventory/equipment/detail/231009)
 
 #### Ferrum POR-1250 — 1,250 mm (49.2 in) ([IPP# 231133](https://ims.internationalprocessplants.com/inventory/equipment/detail/231133))
 
 Used Ferrum POR-1250 stainless steel 316 basket centrifuge with 1,250 mm (49.2 in) basket diameter, 2.4 m² filtration area, and G Force of 630.
 
-- Stainless Steel 316
-- 1,250 mm (49.2 in) basket
-- 950 RPM, G Force 630
-- 480 kg (1,050 lb) load
-- Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,250 mm (49.2 in) basket
+- Speed-RPM Maximum: 950 RPM, G Force 630
+- Load Weight: 480 kg (1,050 lb) load
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 231133](https://ims.internationalprocessplants.com/inventory/equipment/detail/231133)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/231133) | [View IPP# 231133](https://ims.internationalprocessplants.com/inventory/equipment/detail/231133)
 
 [Browse All Stainless Steel Manual Discharge-Top Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
 
@@ -72,37 +72,37 @@ IPP stocks rubberlined manual discharge-top basket centrifuges for corrosive or 
 
 Used Krauss Maffei DZU-125/3.2 rubberlined basket centrifuge with 1,250 mm (49.2 in) basket diameter, 3.2 m² filtration area, and plow-assisted discharge.
 
-- Rubberlined
-- 1,250 mm (49.2 in) basket
-- 850 RPM maximum
-- 45 kW (60.3 HP)
-- Used condition
+- Material: Rubberlined
+- Basket Diameter: 1,250 mm (49.2 in) basket
+- Speed-RPM Maximum: 850 RPM maximum
+- Motor Power: 45 kW (60.3 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 217614](https://ims.internationalprocessplants.com/inventory/equipment/detail/217614)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/217614) | [View IPP# 217614](https://ims.internationalprocessplants.com/inventory/equipment/detail/217614)
 
 #### Heine 342 Rubberlined — 1,250 mm (49.2 in) ([IPP# 96944](https://ims.internationalprocessplants.com/inventory/equipment/detail/96944))
 
 Used Heine 342 rubberlined basket centrifuge with 1,250 mm (49.2 in) basket diameter, 1.96 m² filtration area, and gas-tight housing.
 
-- Rubberlined
-- 1,250 mm (49.2 in) basket
-- 950 RPM maximum
-- 18.5 kW (24.8 HP)
-- Used condition
+- Material: Rubberlined
+- Basket Diameter: 1,250 mm (49.2 in) basket
+- Speed-RPM Maximum: 950 RPM maximum
+- Motor Power: 18.5 kW (24.8 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 96944](https://ims.internationalprocessplants.com/inventory/equipment/detail/96944)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/96944) | [View IPP# 96944](https://ims.internationalprocessplants.com/inventory/equipment/detail/96944)
 
 #### Krauss Maffei Rubberlined — 1,200 mm (47.2 in) ([IPP# 81823](https://ims.internationalprocessplants.com/inventory/equipment/detail/81823))
 
 Refurbished/rebuilt Krauss Maffei rubberlined basket centrifuge with 1,200 mm (48 in) basket diameter and 850 RPM maximum speed.
 
-- Rubberlined
-- 1,200 mm (48 in) basket
-- 850 RPM maximum
-- 4.8 kW (6.5 HP)
-- Refurbished/Rebuilt
+- Material: Rubberlined
+- Basket Diameter: 1,200 mm (48 in) basket
+- Speed-RPM Maximum: 850 RPM maximum
+- Motor Power: 4.8 kW (6.5 HP)
+- Condition: Refurbished/Rebuilt
 
-[Request Specs](/contact/) | [View IPP# 81823](https://ims.internationalprocessplants.com/inventory/equipment/detail/81823)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/81823) | [View IPP# 81823](https://ims.internationalprocessplants.com/inventory/equipment/detail/81823)
 
 [Browse All Rubberlined Manual Discharge-Top Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
 
@@ -114,37 +114,37 @@ IPP stocks Hastelloy manual discharge-top basket centrifuges in C-4, C-276, B, a
 
 Used GFT Trenntechnik V63-U Hastelloy basket centrifuge with 630 mm (24.8 in) basket diameter, 0.63 m² filtration area, and plow-assisted discharge.
 
-- Hastelloy - Other
-- 630 mm (24.8 in) basket
-- 1,500 RPM maximum
-- 7.5 kW (10.1 HP)
-- Used condition
+- Material: Hastelloy - Other
+- Basket Diameter: 630 mm (24.8 in) basket
+- Speed-RPM Maximum: 1,500 RPM maximum
+- Motor Power: 7.5 kW (10.1 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 217590](https://ims.internationalprocessplants.com/inventory/equipment/detail/217590)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/217590) | [View IPP# 217590](https://ims.internationalprocessplants.com/inventory/equipment/detail/217590)
 
 #### Heine 338 Hastelloy C-4 — 800 mm (31.5 in) ([IPP# 705476](https://ims.internationalprocessplants.com/inventory/equipment/detail/705476))
 
 Used Heine 338 Hastelloy C-4 basket centrifuge with 800 mm (31.5 in) basket diameter and 1,500 RPM maximum speed.
 
-- Hastelloy - C4
-- 800 mm (31.5 in) basket
-- 1,500 RPM maximum
-- 15 kW (20.1 HP)
-- Used condition
+- Material: Hastelloy - C4
+- Basket Diameter: 800 mm (31.5 in) basket
+- Speed-RPM Maximum: 1,500 RPM maximum
+- Motor Power: 15 kW (20.1 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 705476](https://ims.internationalprocessplants.com/inventory/equipment/detail/705476)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/705476) | [View IPP# 705476](https://ims.internationalprocessplants.com/inventory/equipment/detail/705476)
 
 #### Tolhurst H-1211 Hastelloy C-276 — 1,200 mm (47.2 in) ([IPP# 74617](https://ims.internationalprocessplants.com/inventory/equipment/detail/74617))
 
 Refurbished/rebuilt Tolhurst H-1211 Hastelloy C-276 basket centrifuge with 1,200 mm (48 in) basket diameter and plow-assisted discharge.
 
-- Hastelloy - C276
-- 1,200 mm (48 in) basket
-- 508 mm (20 in) depth
-- 14.9 kW (20 HP)
-- Refurbished/Rebuilt
+- Material: Hastelloy - C276
+- Basket Diameter: 1,200 mm (48 in) basket
+- Basket Depth: 508 mm (20 in) depth
+- Motor Power: 14.9 kW (20 HP)
+- Condition: Refurbished/Rebuilt
 
-[Request Specs](/contact/) | [View IPP# 74617](https://ims.internationalprocessplants.com/inventory/equipment/detail/74617)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/74617) | [View IPP# 74617](https://ims.internationalprocessplants.com/inventory/equipment/detail/74617)
 
 [Browse All Hastelloy Manual Discharge-Top Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
 
@@ -156,37 +156,37 @@ IPP stocks manual discharge-top basket centrifuges in Alloy 926, Lined, Monel, S
 
 Used Krauss Maffei VZO 125/3.2C Alloy 926 basket centrifuge with 1,250 mm (49.2 in) basket diameter, 3.2 m² filtration area, and gas-tight housing.
 
-- Alloy 926
-- 1,250 mm (49.2 in) basket
-- 950 RPM maximum
-- 30 kW (40.2 HP)
-- Used condition
+- Material: Alloy 926
+- Basket Diameter: 1,250 mm (49.2 in) basket
+- Speed-RPM Maximum: 950 RPM maximum
+- Motor Power: 30 kW (40.2 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 231217](https://ims.internationalprocessplants.com/inventory/equipment/detail/231217)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/231217) | [View IPP# 231217](https://ims.internationalprocessplants.com/inventory/equipment/detail/231217)
 
 #### Alfa Laval PAZ1000CX500 Lined — 1,000 mm (39.4 in) ([IPP# 85004](https://ims.internationalprocessplants.com/inventory/equipment/detail/85004))
 
 Used Alfa Laval PAZ1000CX500 lined basket centrifuge with 1,000 mm (40 in) basket diameter, plow-assisted discharge, and controls included.
 
-- Lined
-- 1,000 mm (40 in) basket
-- 1,250 RPM maximum
-- 24 kW (32.2 HP)
-- Used condition
+- Material: Lined
+- Basket Diameter: 1,000 mm (40 in) basket
+- Speed-RPM Maximum: 1,250 RPM maximum
+- Motor Power: 24 kW (32.2 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 85004](https://ims.internationalprocessplants.com/inventory/equipment/detail/85004)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/85004) | [View IPP# 85004](https://ims.internationalprocessplants.com/inventory/equipment/detail/85004)
 
 #### Tolhurst Monel — 762 mm (30 in) ([IPP# 74697](https://ims.internationalprocessplants.com/inventory/equipment/detail/74697))
 
 Used Tolhurst Monel basket centrifuge with 762 mm (30 in) basket diameter, 950 RPM maximum speed, and brake included.
 
-- Monel
-- 762 mm (30 in) basket
-- 950 RPM maximum
-- 2.2 kW (3 HP)
-- Used condition
+- Material: Monel
+- Basket Diameter: 762 mm (30 in) basket
+- Speed-RPM Maximum: 950 RPM maximum
+- Motor Power: 2.2 kW (3 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 74697](https://ims.internationalprocessplants.com/inventory/equipment/detail/74697)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/74697) | [View IPP# 74697](https://ims.internationalprocessplants.com/inventory/equipment/detail/74697)
 
 [Browse All Other Manual Discharge-Top Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
 
@@ -205,37 +205,37 @@ Heine is the deepest single-manufacturer position in IPP's manual discharge-top 
 
 Used Heine stainless steel 316 basket centrifuge with 813 mm (32 in) basket diameter and 1,000 RPM maximum speed.
 
-- Stainless Steel 316
-- 813 mm (32 in) basket
-- 1,000 RPM maximum
-- 5.6 kW (7.5 HP)
-- Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 813 mm (32 in) basket
+- Speed-RPM Maximum: 1,000 RPM maximum
+- Motor Power: 5.6 kW (7.5 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 213228](https://ims.internationalprocessplants.com/inventory/equipment/detail/213228)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/213228) | [View IPP# 213228](https://ims.internationalprocessplants.com/inventory/equipment/detail/213228)
 
 #### Heine SS 316 — 1,000 mm (39.4 in) ([IPP# 217587](https://ims.internationalprocessplants.com/inventory/equipment/detail/217587))
 
 Used Heine stainless steel 316 basket centrifuge with 1,000 mm (39.4 in) basket diameter, 1,200 RPM maximum speed, and plow-assisted discharge.
 
-- Stainless Steel 316
-- 1,000 mm (39.4 in) basket
-- 1,200 RPM maximum
-- 7.2 kW (9.7 HP)
-- Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,000 mm (39.4 in) basket
+- Speed-RPM Maximum: 1,200 RPM maximum
+- Motor Power: 7.2 kW (9.7 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 217587](https://ims.internationalprocessplants.com/inventory/equipment/detail/217587)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/217587) | [View IPP# 217587](https://ims.internationalprocessplants.com/inventory/equipment/detail/217587)
 
 #### Heine d-FU1000 SS 316 — 1,000 mm (39.4 in) ([IPP# 39701](https://ims.internationalprocessplants.com/inventory/equipment/detail/39701))
 
 Refurbished/rebuilt Heine d-FU1000/400/470 stainless steel 316 basket centrifuge with 1,000 mm (40 in) basket diameter and 200 kg load capacity.
 
-- Stainless Steel 316
-- 1,000 mm (40 in) basket
-- 200 kg (440.9 lb) load
-- 5.2 kW (7 HP)
-- Refurbished/Rebuilt
+- Material: Stainless Steel 316
+- Basket Diameter: 1,000 mm (40 in) basket
+- Load Weight: 200 kg (440.9 lb) load
+- Motor Power: 5.2 kW (7 HP)
+- Condition: Refurbished/Rebuilt
 
-[Request Specs](/contact/) | [View IPP# 39701](https://ims.internationalprocessplants.com/inventory/equipment/detail/39701)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/39701) | [View IPP# 39701](https://ims.internationalprocessplants.com/inventory/equipment/detail/39701)
 
 [Browse All Heine Manual Discharge-Top Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
 
@@ -247,37 +247,37 @@ Krauss Maffei is the second deepest OEM position in IPP's manual discharge-top b
 
 Used Krauss Maffei VZO 125/2.5 S stainless steel 316 basket centrifuge with 1,250 mm (49.2 in) basket diameter, 2.5 m² filtration area, and gas-tight housing.
 
-- Stainless Steel 316
-- 1,250 mm (49.2 in) basket
-- 950 RPM maximum
-- 30 kW (40.2 HP)
-- Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,250 mm (49.2 in) basket
+- Speed-RPM Maximum: 950 RPM maximum
+- Motor Power: 30 kW (40.2 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 231134](https://ims.internationalprocessplants.com/inventory/equipment/detail/231134)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/231134) | [View IPP# 231134](https://ims.internationalprocessplants.com/inventory/equipment/detail/231134)
 
 #### Krauss Maffei PZO 120 — 1,200 mm (47.2 in) ([IPP# 200902](https://ims.internationalprocessplants.com/inventory/equipment/detail/200902))
 
 Used Krauss Maffei PZO 120 stainless steel 316 basket centrifuge with 1,200 mm (47.2 in) basket diameter and 500 mm (19.7 in) basket depth.
 
-- Stainless Steel 316
-- 1,200 mm (47.2 in) basket
-- 500 mm (19.7 in) depth
-- 7 kW (9.4 HP)
-- Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,200 mm (47.2 in) basket
+- Basket Depth: 500 mm (19.7 in) depth
+- Motor Power: 7 kW (9.4 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 200902](https://ims.internationalprocessplants.com/inventory/equipment/detail/200902)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/200902) | [View IPP# 200902](https://ims.internationalprocessplants.com/inventory/equipment/detail/200902)
 
 #### Krauss Maffei DZU-125/3.2 Rubberlined — 1,250 mm (49.2 in) ([IPP# 217614](https://ims.internationalprocessplants.com/inventory/equipment/detail/217614))
 
 Used Krauss Maffei DZU-125/3.2 rubberlined basket centrifuge with 1,250 mm (49.2 in) basket diameter, 3.2 m² filtration area, and controls included.
 
-- Rubberlined
-- 1,250 mm (49.2 in) basket
-- 850 RPM maximum
-- 45 kW (60.3 HP)
-- Used condition
+- Material: Rubberlined
+- Basket Diameter: 1,250 mm (49.2 in) basket
+- Speed-RPM Maximum: 850 RPM maximum
+- Motor Power: 45 kW (60.3 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 217614](https://ims.internationalprocessplants.com/inventory/equipment/detail/217614)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/217614) | [View IPP# 217614](https://ims.internationalprocessplants.com/inventory/equipment/detail/217614)
 
 [Browse All Krauss Maffei Manual Discharge-Top Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
 
@@ -289,37 +289,37 @@ Beyond Heine and Krauss Maffei, IPP stocks manual discharge-top basket centrifug
 
 Refurbished/rebuilt Ferrum J8P-S stainless steel 316 basket centrifuge with 800 mm (31.5 in) basket diameter, 0.9 m² filtration area, and sanitary construction.
 
-- Stainless Steel 316
-- 800 mm (31.5 in) basket
-- 960 RPM maximum
-- 2.2 kW (3 HP)
-- Refurbished/Rebuilt
+- Material: Stainless Steel 316
+- Basket Diameter: 800 mm (31.5 in) basket
+- Speed-RPM Maximum: 960 RPM maximum
+- Motor Power: 2.2 kW (3 HP)
+- Condition: Refurbished/Rebuilt
 
-[Request Specs](/contact/) | [View IPP# 706275](https://ims.internationalprocessplants.com/inventory/equipment/detail/706275)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706275) | [View IPP# 706275](https://ims.internationalprocessplants.com/inventory/equipment/detail/706275)
 
 #### Alfa Laval PAZ 1250 C — 1,250 mm (49.2 in) ([IPP# 231007](https://ims.internationalprocessplants.com/inventory/equipment/detail/231007))
 
 Used Alfa Laval PAZ 1250 C stainless steel 316 basket centrifuge with 1,250 mm (49.2 in) basket diameter, 1.96 m² filtration area, and gas-tight housing.
 
-- Stainless Steel 316
-- 1,250 mm (49.2 in) basket
-- 950 RPM maximum
-- 22 kW (29.5 HP)
-- Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,250 mm (49.2 in) basket
+- Speed-RPM Maximum: 950 RPM maximum
+- Motor Power: 22 kW (29.5 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 231007](https://ims.internationalprocessplants.com/inventory/equipment/detail/231007)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/231007) | [View IPP# 231007](https://ims.internationalprocessplants.com/inventory/equipment/detail/231007)
 
 #### Ellerwerk 736 C-T — 1,250 mm (49.2 in) ([IPP# 231008](https://ims.internationalprocessplants.com/inventory/equipment/detail/231008))
 
 Used Ellerwerk 736 C-T stainless steel 316 basket centrifuge with 1,250 mm (49.2 in) basket diameter and plow-assisted discharge.
 
-- Stainless Steel 316
-- 1,250 mm (49.2 in) basket
-- 950 RPM maximum
-- 22 kW (29.5 HP)
-- Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,250 mm (49.2 in) basket
+- Speed-RPM Maximum: 950 RPM maximum
+- Motor Power: 22 kW (29.5 HP)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 231008](https://ims.internationalprocessplants.com/inventory/equipment/detail/231008)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/231008) | [View IPP# 231008](https://ims.internationalprocessplants.com/inventory/equipment/detail/231008)
 
 [Browse All Manual Discharge-Top Basket Centrifuges from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
 
@@ -338,37 +338,37 @@ Good used manual discharge-top basket centrifuges represent the deepest conditio
 
 Used Ellerwerk 734 C stainless steel austenitic basket centrifuge with 800 mm (31.5 in) basket diameter and 2,300 RPM maximum speed.
 
-- Used condition
-- Stainless Steel Austenitic
-- 800 mm (31.5 in) basket
-- 2,300 RPM maximum
-- 11 kW (14.8 HP)
+- Condition: Used condition
+- Material: Stainless Steel Austenitic
+- Basket Diameter: 800 mm (31.5 in) basket
+- Speed-RPM Maximum: 2,300 RPM maximum
+- Motor Power: 11 kW (14.8 HP)
 
-[Request Specs](/contact/) | [View IPP# 95981](https://ims.internationalprocessplants.com/inventory/equipment/detail/95981)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/95981) | [View IPP# 95981](https://ims.internationalprocessplants.com/inventory/equipment/detail/95981)
 
 #### Used DeLaval 48x24 Mark III — 1,200 mm (47.2 in) ([IPP# 208049](https://ims.internationalprocessplants.com/inventory/equipment/detail/208049))
 
 Used DeLaval 48x24 Mark III stainless steel 316 basket centrifuge with 1,200 mm (48 in) basket diameter, 1,150 RPM maximum speed, and plow-assisted discharge.
 
-- Used condition
-- Stainless Steel 316
-- 1,200 mm (48 in) basket
-- 1,150 RPM maximum
-- 14.9 kW (20 HP)
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,200 mm (48 in) basket
+- Speed-RPM Maximum: 1,150 RPM maximum
+- Motor Power: 14.9 kW (20 HP)
 
-[Request Specs](/contact/) | [View IPP# 208049](https://ims.internationalprocessplants.com/inventory/equipment/detail/208049)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208049) | [View IPP# 208049](https://ims.internationalprocessplants.com/inventory/equipment/detail/208049)
 
 #### Used Ferrum POR800HP — 800 mm (31.5 in) ([IPP# 94507](https://ims.internationalprocessplants.com/inventory/equipment/detail/94507))
 
 Used Ferrum POR800HP stainless steel 316 basket centrifuge with 800 mm (31.5 in) basket diameter and gas-tight housing.
 
-- Used condition
-- Stainless Steel 316
-- 800 mm (31.5 in) basket
-- 1,000 RPM maximum
-- 7.5 kW (10.1 HP)
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Basket Diameter: 800 mm (31.5 in) basket
+- Speed-RPM Maximum: 1,000 RPM maximum
+- Motor Power: 7.5 kW (10.1 HP)
 
-[Request Specs](/contact/) | [View IPP# 94507](https://ims.internationalprocessplants.com/inventory/equipment/detail/94507)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/94507) | [View IPP# 94507](https://ims.internationalprocessplants.com/inventory/equipment/detail/94507)
 
 [Browse All Used Manual Discharge-Top Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
 
@@ -380,37 +380,37 @@ Refurbished/rebuilt manual discharge-top basket centrifuges have been profession
 
 Refurbished/rebuilt Heine d-FU1000/400/470 stainless steel 316 basket centrifuge with 1,000 mm (40 in) basket diameter.
 
-- Refurbished/Rebuilt
-- Stainless Steel 316
-- 1,000 mm (40 in) basket
-- 200 kg (440.9 lb) load
-- 5.2 kW (7 HP)
+- Condition: Refurbished/Rebuilt
+- Material: Stainless Steel 316
+- Basket Diameter: 1,000 mm (40 in) basket
+- Load Weight: 200 kg (440.9 lb) load
+- Motor Power: 5.2 kW (7 HP)
 
-[Request Specs](/contact/) | [View IPP# 39701](https://ims.internationalprocessplants.com/inventory/equipment/detail/39701)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/39701) | [View IPP# 39701](https://ims.internationalprocessplants.com/inventory/equipment/detail/39701)
 
 #### Refurbished Heine SS 316 — 850 mm (33.5 in) ([IPP# 45429](https://ims.internationalprocessplants.com/inventory/equipment/detail/45429))
 
 Refurbished/rebuilt Heine stainless steel 316 basket centrifuge with 850 mm (33.5 in) basket diameter and 1,300 RPM maximum speed.
 
-- Refurbished/Rebuilt
-- Stainless Steel 316
-- 850 mm (33.5 in) basket
-- 1,300 RPM maximum
-- 150 kg (330.7 lb) load
+- Condition: Refurbished/Rebuilt
+- Material: Stainless Steel 316
+- Basket Diameter: 850 mm (33.5 in) basket
+- Speed-RPM Maximum: 1,300 RPM maximum
+- Load Weight: 150 kg (330.7 lb) load
 
-[Request Specs](/contact/) | [View IPP# 45429](https://ims.internationalprocessplants.com/inventory/equipment/detail/45429)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/45429) | [View IPP# 45429](https://ims.internationalprocessplants.com/inventory/equipment/detail/45429)
 
 #### Refurbished Rousselet Robatel OCS — 1,200 mm (47.2 in) ([IPP# 702022](https://ims.internationalprocessplants.com/inventory/equipment/detail/702022))
 
 Refurbished/rebuilt Rousselet Robatel OCS stainless steel 316 basket centrifuge with 1,200 mm (47.2 in) basket diameter, 1.88 m² filtration area, and G Force of 377.
 
-- Refurbished/Rebuilt
-- Stainless Steel 316
-- 1,200 mm (47.2 in) basket
-- 750 RPM, G Force 377
-- 8.2 kW (11 HP)
+- Condition: Refurbished/Rebuilt
+- Material: Stainless Steel 316
+- Basket Diameter: 1,200 mm (47.2 in) basket
+- Speed-RPM Maximum: 750 RPM, G Force 377
+- Motor Power: 8.2 kW (11 HP)
 
-[Request Specs](/contact/) | [View IPP# 702022](https://ims.internationalprocessplants.com/inventory/equipment/detail/702022)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/702022) | [View IPP# 702022](https://ims.internationalprocessplants.com/inventory/equipment/detail/702022)
 
 [Browse All Refurbished Manual Discharge-Top Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
 
@@ -422,37 +422,37 @@ Unused manual discharge-top basket centrifuges are factory-built units that were
 
 Unused Cepa GZ500 lined basket centrifuge with 500 mm (19.7 in) basket diameter and 750 RPM maximum speed.
 
-- Unused condition
-- Lined
-- 500 mm (19.7 in) basket
-- 750 RPM maximum
-- 4 kW (5.4 HP)
+- Condition: Unused condition
+- Material: Lined
+- Basket Diameter: 500 mm (19.7 in) basket
+- Speed-RPM Maximum: 750 RPM maximum
+- Motor Power: 4 kW (5.4 HP)
 
-[Request Specs](/contact/) | [View IPP# 38876](https://ims.internationalprocessplants.com/inventory/equipment/detail/38876)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/38876) | [View IPP# 38876](https://ims.internationalprocessplants.com/inventory/equipment/detail/38876)
 
 #### Unused Sangerhausen FZPO850 SS 316 — 850 mm (33.5 in) ([IPP# 46414](https://ims.internationalprocessplants.com/inventory/equipment/detail/46414))
 
 Unused Sangerhausen FZPO850 stainless steel 316 basket centrifuge with 850 mm (33.5 in) basket diameter and 960 RPM maximum speed.
 
-- Unused condition
-- Stainless Steel 316
-- 850 mm (33.5 in) basket
-- 960 RPM maximum
-- 4 kW (5.4 HP)
+- Condition: Unused condition
+- Material: Stainless Steel 316
+- Basket Diameter: 850 mm (33.5 in) basket
+- Speed-RPM Maximum: 960 RPM maximum
+- Motor Power: 4 kW (5.4 HP)
 
-[Request Specs](/contact/) | [View IPP# 46414](https://ims.internationalprocessplants.com/inventory/equipment/detail/46414)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/46414) | [View IPP# 46414](https://ims.internationalprocessplants.com/inventory/equipment/detail/46414)
 
 #### Unused Sangerhausen FZPO-850-C SS 316 — 850 mm (33.5 in) ([IPP# 46415](https://ims.internationalprocessplants.com/inventory/equipment/detail/46415))
 
 Unused Sangerhausen FZPO-850-C stainless steel 316 basket centrifuge with 850 mm (33.5 in) basket diameter and 960 RPM maximum speed.
 
-- Unused condition
-- Stainless Steel 316
-- 850 mm (33.5 in) basket
-- 960 RPM maximum
-- 4 kW (5.4 HP)
+- Condition: Unused condition
+- Material: Stainless Steel 316
+- Basket Diameter: 850 mm (33.5 in) basket
+- Speed-RPM Maximum: 960 RPM maximum
+- Motor Power: 4 kW (5.4 HP)
 
-[Request Specs](/contact/) | [View IPP# 46415](https://ims.internationalprocessplants.com/inventory/equipment/detail/46415)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/46415) | [View IPP# 46415](https://ims.internationalprocessplants.com/inventory/equipment/detail/46415)
 
 [Browse All Unused Manual Discharge-Top Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
 
@@ -464,13 +464,13 @@ IPP supplies new manual discharge-top basket centrifuges through its Gale Proces
 
 New Gale Process Solutions SI-2 stainless steel 316 basket centrifuge with 1,200 mm (48 in) basket diameter, 2.3 m² filtration area, sanitary construction, and dynamic braking.
 
-- New condition
-- Stainless Steel 316
-- 1,200 mm (48 in) basket
-- 900 RPM, G Force 541
-- 11 kW (14.8 HP)
+- Condition: New condition
+- Material: Stainless Steel 316
+- Basket Diameter: 1,200 mm (48 in) basket
+- Speed-RPM Maximum: 900 RPM, G Force 541
+- Motor Power: 11 kW (14.8 HP)
 
-[Request Specs](/contact/) | [View IPP# 224581](https://ims.internationalprocessplants.com/inventory/equipment/detail/224581)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/224581) | [View IPP# 224581](https://ims.internationalprocessplants.com/inventory/equipment/detail/224581)
 
 [Browse All New Manual Discharge-Top Basket Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
 
@@ -481,7 +481,7 @@ New Gale Process Solutions SI-2 stainless steel 316 basket centrifuge with 1,200
 
 Tell us your specifications and requirements. Our team will match your needs against current manual discharge-top basket centrifuges inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -601,7 +601,7 @@ In addition to manual discharge-top basket centrifuges, IPP stocks equipment acr
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -610,4 +610,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Contact IPP Sales](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)
+[Contact IPP Sales](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/basket-centrifuge/manual-discharge-top)

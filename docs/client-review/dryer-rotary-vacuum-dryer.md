@@ -4,7 +4,7 @@ Buying used rotary vacuum dryers through International Process Plants gives chem
 
 Materials of construction include Stainless Steel Austenitic, Stainless Steel 304, Stainless Steel 316L, Stainless Steel 316. Capacities range from 0.17 m3 (6 ft3) to 17 m3 (600 ft3). Pressure ratings range from 0.03 bar (0.38 psi) to 6.9 bar (100 psi). Available in Used, Unused conditions. Buying used rotary vacuum dryers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/rotary-vacuum-dryer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/rotary-vacuum-dryer)
 
 **Quick Stats:** 50+ Dryers in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -28,25 +28,31 @@ IPP stocks stainless steel rotary vacuum dryers. Available from Giovanola, Cogei
 
 Used Cogeim Stainless Steel 316L dryer-rotary vacuum.
 
-- 4 bar (58 psi), 185 °C (365 °F)
-- Stainless Steel 316L
-- Used condition
-- Cogeim Steridry EP 8000
-- 1,900 mm (74.8 in) x 2,800 mm (110.2 in)
+- Pressure: 4 bar (58 psi)
+- Temperature: 185 °C (365 °F)
+- Material: Stainless Steel 316L
+- Condition: Used condition
+- Manufacturer: Cogeim
+- Model: Steridry EP 8000
+- Diameter: 1,900 mm (74.8 in)
+- Length: 2,800 mm (110.2 in)
 
-[Request Specs](/contact/) | [View IPP# 242442](https://ims.internationalprocessplants.com/inventory/equipment/detail/242442)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/242442) | [View IPP# 242442](https://ims.internationalprocessplants.com/inventory/equipment/detail/242442)
 
 #### Gebruder Lodige Maschinenbau GmbH Stainless Steel 316L ([IPP# 217812](https://ims.internationalprocessplants.com/inventory/equipment/detail/217812))
 
 Used Gebruder Lodige Maschinenbau GmbH Stainless Steel 316L dryer-rotary vacuum.
 
-- 5 bar (72.5 psi), 174 °C (345.2 °F)
-- Stainless Steel 316L
-- Used condition
-- Gebruder Lodige Maschinenbau GmbH DVT 800/2ZF
-- 700 mm (27.6 in) x 1,600 mm (63 in)
+- Pressure: 5 bar (72.5 psi)
+- Temperature: 174 °C (345.2 °F)
+- Material: Stainless Steel 316L
+- Condition: Used condition
+- Manufacturer: Gebruder Lodige Maschinenbau GmbH
+- Model: DVT 800/2ZF
+- Diameter: 700 mm (27.6 in)
+- Length: 1,600 mm (63 in)
 
-[Request Specs](/contact/) | [View IPP# 217812](https://ims.internationalprocessplants.com/inventory/equipment/detail/217812)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/217812) | [View IPP# 217812](https://ims.internationalprocessplants.com/inventory/equipment/detail/217812)
 
 [Browse All Stainless Steel Rotary Vacuum Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/rotary-vacuum-dryer)
 
@@ -58,25 +64,31 @@ IPP stocks carbon steel rotary vacuum dryers. Available from Draiswerke GmbH Man
 
 Used Draiswerke GmbH Mannheim Carbon Steel dryer-rotary vacuum.
 
-- 0.5 bar (7.3 psi), 300 °C (572 °F)
-- Carbon Steel
-- Used condition
-- Draiswerke GmbH Mannheim S 10000
-- 2,000 mm (78.7 in) x 3,500 mm (138.2 in)
+- Pressure: 0.5 bar (7.3 psi)
+- Temperature: 300 °C (572 °F)
+- Material: Carbon Steel
+- Condition: Used condition
+- Manufacturer: Draiswerke GmbH Mannheim
+- Model: S 10000
+- Diameter: 2,000 mm (78.7 in)
+- Length: 3,500 mm (138.2 in)
 
-[Request Specs](/contact/) | [View IPP# 207255](https://ims.internationalprocessplants.com/inventory/equipment/detail/207255)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/207255) | [View IPP# 207255](https://ims.internationalprocessplants.com/inventory/equipment/detail/207255)
 
 #### Drais Carbon Steel ([IPP# 222920](https://ims.internationalprocessplants.com/inventory/equipment/detail/222920))
 
 Used Drais Carbon Steel dryer-rotary vacuum.
 
-- 1 bar (14.5 psi), 110 °C (230 °F)
-- Carbon Steel
-- Used condition
-- Drais TP 16000 FM/VAC
-- 2,050 mm (81.1 in) x 4,800 mm (189 in)
+- Pressure: 1 bar (14.5 psi)
+- Temperature: 110 °C (230 °F)
+- Material: Carbon Steel
+- Condition: Used condition
+- Manufacturer: Drais
+- Model: TP 16000 FM/VAC
+- Diameter: 2,050 mm (81.1 in)
+- Length: 4,800 mm (189 in)
 
-[Request Specs](/contact/) | [View IPP# 222920](https://ims.internationalprocessplants.com/inventory/equipment/detail/222920)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/222920) | [View IPP# 222920](https://ims.internationalprocessplants.com/inventory/equipment/detail/222920)
 
 [Browse All Carbon Steel Rotary Vacuum Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/rotary-vacuum-dryer)
 
@@ -88,13 +100,16 @@ IPP stocks titanium rotary vacuum dryers. Available from List (Switzerland) and 
 
 Used List (Switzerland) Titanium dryer-rotary vacuum.
 
-- 0.5 bar (7.3 psi), 151 °C (303.8 °F)
-- Titanium
-- Used condition
-- List (Switzerland) 10'453
-- 2,000 mm (78.7 in) x 3,750 mm (148.4 in)
+- Pressure: 0.5 bar (7.3 psi)
+- Temperature: 151 °C (303.8 °F)
+- Material: Titanium
+- Condition: Used condition
+- Manufacturer: List (Switzerland)
+- Model: 10'453
+- Diameter: 2,000 mm (78.7 in)
+- Length: 3,750 mm (148.4 in)
 
-[Request Specs](/contact/) | [View IPP# 229015](https://ims.internationalprocessplants.com/inventory/equipment/detail/229015)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/229015) | [View IPP# 229015](https://ims.internationalprocessplants.com/inventory/equipment/detail/229015)
 
 [Browse All Titanium Rotary Vacuum Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/rotary-vacuum-dryer)
 
@@ -106,24 +121,29 @@ IPP stocks other rotary vacuum dryers. Available from Buss AG, Baker Perkins and
 
 Used Buss AG Inconel dryer-rotary vacuum.
 
-- 1 bar (14.5 psi), 200 °C (392 °F)
-- Inconel
-- Used condition
-- 1,000 mm (39.4 in) x 3,000 mm (118.1 in)
+- Pressure: 1 bar (14.5 psi)
+- Temperature: 200 °C (392 °F)
+- Material: Inconel
+- Condition: Used condition
+- Diameter: 1,000 mm (39.4 in)
+- Length: 3,000 mm (118.1 in)
 
-[Request Specs](/contact/) | [View IPP# 233655](https://ims.internationalprocessplants.com/inventory/equipment/detail/233655)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/233655) | [View IPP# 233655](https://ims.internationalprocessplants.com/inventory/equipment/detail/233655)
 
 #### Baker Perkins ([IPP# 94654](https://ims.internationalprocessplants.com/inventory/equipment/detail/94654))
 
 Used Baker Perkins mixer-continuous.
 
-- 6.9 bar (100 psi), 343.3 °C (650 °F)
-- Used condition
-- Baker Perkins Ko-Neader
-- 203.2 mm (8 in) x 3,050 mm (120 in)
-- 55.9 kW (75 HP)
+- Pressure: 6.9 bar (100 psi)
+- Temperature: 343.3 °C (650 °F)
+- Condition: Used condition
+- Manufacturer: Baker Perkins
+- Model: Ko-Neader
+- Diameter: 203.2 mm (8 in)
+- Length: 3,050 mm (120 in)
+- Motor Power: 55.9 kW (75 HP)
 
-[Request Specs](/contact/) | [View IPP# 94654](https://ims.internationalprocessplants.com/inventory/equipment/detail/94654)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/94654) | [View IPP# 94654](https://ims.internationalprocessplants.com/inventory/equipment/detail/94654)
 
 [Browse All Other Rotary Vacuum Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/rotary-vacuum-dryer)
 
@@ -142,37 +162,37 @@ Giovanola is the deepest single-manufacturer position in IPP's rotary vacuum dry
 
 Used Giovanola stainless steel 316 dryer-rotary vacuum with 3 m3 (105.9 ft3) design capacity and 11.7 m2 (126 ft2) heat transfer surface area.
 
-- Stainless Steel 316
-- 3 m3 (105.9 ft3) design capacity
-- 1,250 mm (49.2 in) diameter
-- 11.7 m2 (126 ft2) HTSA
-- Used condition
+- Material: Stainless Steel 316
+- Capacity Design: 3 m3 (105.9 ft3) design capacity
+- Diameter: 1,250 mm (49.2 in) diameter
+- Heat Transfer Surface Area: 11.7 m2 (126 ft2) HTSA
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 233654](https://ims.internationalprocessplants.com/inventory/equipment/detail/233654)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/233654) | [View IPP# 233654](https://ims.internationalprocessplants.com/inventory/equipment/detail/233654)
 
 #### Giovanola SS Austenitic — 10 m3 ([IPP# 234005](https://ims.internationalprocessplants.com/inventory/equipment/detail/234005))
 
 Used Giovanola stainless steel austenitic dryer-rotary vacuum with 10 m3 (353.1 ft3) design capacity, 200 °C (392 °F) operating temperature, and 25.1 m2 (270 ft2) heat transfer surface area.
 
-- Stainless Steel Austenitic
-- 10 m3 (353.1 ft3) design capacity
-- 1,800 mm (70.6 in) diameter
-- 200 °C (392 °F) temperature
-- 25.1 m2 (270 ft2) HTSA
+- Material: Stainless Steel Austenitic
+- Capacity Design: 10 m3 (353.1 ft3) design capacity
+- Diameter: 1,800 mm (70.6 in) diameter
+- Temperature: 200 °C (392 °F) temperature
+- Heat Transfer Surface Area: 25.1 m2 (270 ft2) HTSA
 
-[Request Specs](/contact/) | [View IPP# 234005](https://ims.internationalprocessplants.com/inventory/equipment/detail/234005)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/234005) | [View IPP# 234005](https://ims.internationalprocessplants.com/inventory/equipment/detail/234005)
 
 #### Giovanola SS Austenitic — 10 m3, 310 ft2 ([IPP# 234075](https://ims.internationalprocessplants.com/inventory/equipment/detail/234075))
 
 Used Giovanola stainless steel austenitic dryer-rotary vacuum with 10 m3 (353.1 ft3) design capacity, 200 °C (392 °F) operating temperature, and 28.8 m2 (310 ft2) heat transfer surface area.
 
-- Stainless Steel Austenitic
-- 10 m3 (353.1 ft3) design capacity
-- 1,800 mm (70.6 in) diameter
-- 200 °C (392 °F) temperature
-- 28.8 m2 (310 ft2) HTSA
+- Material: Stainless Steel Austenitic
+- Capacity Design: 10 m3 (353.1 ft3) design capacity
+- Diameter: 1,800 mm (70.6 in) diameter
+- Temperature: 200 °C (392 °F) temperature
+- Heat Transfer Surface Area: 28.8 m2 (310 ft2) HTSA
 
-[Request Specs](/contact/) | [View IPP# 234075](https://ims.internationalprocessplants.com/inventory/equipment/detail/234075)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/234075) | [View IPP# 234075](https://ims.internationalprocessplants.com/inventory/equipment/detail/234075)
 
 [Browse All Giovanola Rotary Vacuum Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/rotary-vacuum-dryer)
 
@@ -184,37 +204,42 @@ Cogeim is the second deepest OEM position in IPP's rotary vacuum dryer inventory
 
 Used Cogeim Steridry EP 8000 stainless steel 316L dryer-rotary vacuum with 8 m3 (282.5 ft3) design capacity, 185 °C (365 °F) temperature rating, and 16.5 m2 (178 ft2) heat transfer surface area.
 
-- Stainless Steel 316L
-- 8 m3 (282.5 ft3) design capacity
-- 1,900 mm (74.8 in) x 2,800 mm (110.2 in)
-- 185 °C (365 °F), 4 bar (58 psi)
-- 16.5 m2 (178 ft2) HTSA
+- Material: Stainless Steel 316L
+- Capacity Design: 8 m3 (282.5 ft3) design capacity
+- Diameter: 1,900 mm (74.8 in)
+- Length: 2,800 mm (110.2 in)
+- Temperature: 185 °C (365 °F)
+- Pressure: 4 bar (58 psi)
+- Heat Transfer Surface Area: 16.5 m2 (178 ft2) HTSA
 
-[Request Specs](/contact/) | [View IPP# 242439](https://ims.internationalprocessplants.com/inventory/equipment/detail/242439)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/242439) | [View IPP# 242439](https://ims.internationalprocessplants.com/inventory/equipment/detail/242439)
 
 #### Cogeim Steridry EP 8000 — 200 °C Rating ([IPP# 242445](https://ims.internationalprocessplants.com/inventory/equipment/detail/242445))
 
 Used Cogeim Steridry EP 8000 stainless steel 316L dryer-rotary vacuum with 8 m3 (282.5 ft3) design capacity and higher 200 °C (392 °F) temperature rating.
 
-- Stainless Steel 316L
-- 8 m3 (282.5 ft3) design capacity
-- 1,900 mm (74.8 in) x 2,800 mm (110.2 in)
-- 200 °C (392 °F), 4 bar (58 psi)
-- Mechanical with gas seal
+- Material: Stainless Steel 316L
+- Capacity Design: 8 m3 (282.5 ft3) design capacity
+- Diameter: 1,900 mm (74.8 in)
+- Length: 2,800 mm (110.2 in)
+- Temperature: 200 °C (392 °F)
+- Pressure: 4 bar (58 psi)
+- Agitation Seal Type: Mechanical with gas seal
 
-[Request Specs](/contact/) | [View IPP# 242445](https://ims.internationalprocessplants.com/inventory/equipment/detail/242445)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/242445) | [View IPP# 242445](https://ims.internationalprocessplants.com/inventory/equipment/detail/242445)
 
 #### Cogeim Steridry EP 8000 — 8 m3 (Unused) ([IPP# 242449](https://ims.internationalprocessplants.com/inventory/equipment/detail/242449))
 
 Unused Cogeim Steridry EP 8000 stainless steel 316L dryer-rotary vacuum with 8 m3 (282.5 ft3) design capacity, 185 °C (365 °F) temperature rating, and mechanical seal.
 
-- Unused condition
-- Stainless Steel 316L
-- 8 m3 (282.5 ft3) design capacity
-- 185 °C (365 °F), 4 bar (58 psi)
-- 16.5 m2 (178 ft2) HTSA
+- Condition: Unused condition
+- Material: Stainless Steel 316L
+- Capacity Design: 8 m3 (282.5 ft3) design capacity
+- Temperature: 185 °C (365 °F)
+- Pressure: 4 bar (58 psi)
+- Heat Transfer Surface Area: 16.5 m2 (178 ft2) HTSA
 
-[Request Specs](/contact/) | [View IPP# 242449](https://ims.internationalprocessplants.com/inventory/equipment/detail/242449)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/242449) | [View IPP# 242449](https://ims.internationalprocessplants.com/inventory/equipment/detail/242449)
 
 [Browse All Cogeim Rotary Vacuum Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/rotary-vacuum-dryer)
 
@@ -226,37 +251,40 @@ Beyond Giovanola and Cogeim, IPP stocks rotary vacuum dryers from Devine, Venule
 
 Used Blaw Knox stainless steel 316 dryer-rotary vacuum with 7.9 m3 (280 ft3) design capacity, 148.9 °C (300 °F) temperature, and 35 m2 (377 ft2) heat transfer surface area.
 
-- Stainless Steel 316
-- 7.9 m3 (280 ft3) design capacity
-- 1,200 mm (48 in) x 9,150 mm (360 in)
-- 35 m2 (377 ft2) HTSA
-- Used condition
+- Material: Stainless Steel 316
+- Capacity Design: 7.9 m3 (280 ft3) design capacity
+- Diameter: 1,200 mm (48 in)
+- Length: 9,150 mm (360 in)
+- Heat Transfer Surface Area: 35 m2 (377 ft2) HTSA
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 100950](https://ims.internationalprocessplants.com/inventory/equipment/detail/100950)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/100950) | [View IPP# 100950](https://ims.internationalprocessplants.com/inventory/equipment/detail/100950)
 
 #### Krauss Maffei DTB630C-List-Discotherm — 0.72 m3 ([IPP# 47226](https://ims.internationalprocessplants.com/inventory/equipment/detail/47226))
 
 Used Krauss Maffei DTB630C-List-Discotherm stainless steel 316 dryer-rotary vacuum with 0.72 m3 (25.4 ft3) design capacity and continuous operation mode.
 
-- Stainless Steel 316
-- 0.72 m3 (25.4 ft3) design capacity
-- 600 mm (23.6 in) x 3,800 mm (149.6 in)
-- 14.3 m2 (153.9 ft2) HTSA
-- Continuous operation, used
+- Material: Stainless Steel 316
+- Capacity Design: 0.72 m3 (25.4 ft3) design capacity
+- Diameter: 600 mm (23.6 in)
+- Length: 3,800 mm (149.6 in)
+- Heat Transfer Surface Area: 14.3 m2 (153.9 ft2) HTSA
+- Operational Mode: Continuous operation, used
 
-[Request Specs](/contact/) | [View IPP# 47226](https://ims.internationalprocessplants.com/inventory/equipment/detail/47226)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/47226) | [View IPP# 47226](https://ims.internationalprocessplants.com/inventory/equipment/detail/47226)
 
 #### Rosenmund AG SS 316 — 10 m3 ([IPP# 233653](https://ims.internationalprocessplants.com/inventory/equipment/detail/233653))
 
 Used Rosenmund AG stainless steel 316 dryer-rotary vacuum with 10 m3 (353.1 ft3) design capacity, 260 °C (500 °F) temperature, and 29.1 m2 (313 ft2) heat transfer surface area.
 
-- Stainless Steel 316
-- 10 m3 (353.1 ft3) design capacity
-- 1,900 mm (74.8 in) x 4,950 mm (194.1 in)
-- 260 °C (500 °F) temperature
-- 29.1 m2 (313 ft2) HTSA
+- Material: Stainless Steel 316
+- Capacity Design: 10 m3 (353.1 ft3) design capacity
+- Diameter: 1,900 mm (74.8 in)
+- Length: 4,950 mm (194.1 in)
+- Temperature: 260 °C (500 °F) temperature
+- Heat Transfer Surface Area: 29.1 m2 (313 ft2) HTSA
 
-[Request Specs](/contact/) | [View IPP# 233653](https://ims.internationalprocessplants.com/inventory/equipment/detail/233653)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/233653) | [View IPP# 233653](https://ims.internationalprocessplants.com/inventory/equipment/detail/233653)
 
 [Browse All Rotary Vacuum Dryers from Other Manufacturers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/rotary-vacuum-dryer)
 
@@ -275,37 +303,38 @@ Good used rotary vacuum dryers are the deepest condition position in IPP's inven
 
 Used Giovanola stainless steel 316 dryer-rotary vacuum with 3 m3 (105.9 ft3) design capacity and 11.7 m2 (126 ft2) heat transfer surface area.
 
-- Used condition
-- Stainless Steel 316
-- 3 m3 (105.9 ft3) design capacity
-- 1,250 mm (49.2 in) diameter
-- 11.7 m2 (126 ft2) HTSA
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Capacity Design: 3 m3 (105.9 ft3) design capacity
+- Diameter: 1,250 mm (49.2 in) diameter
+- Heat Transfer Surface Area: 11.7 m2 (126 ft2) HTSA
 
-[Request Specs](/contact/) | [View IPP# 233654](https://ims.internationalprocessplants.com/inventory/equipment/detail/233654)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/233654) | [View IPP# 233654](https://ims.internationalprocessplants.com/inventory/equipment/detail/233654)
 
 #### Used Haas Vakuum Technik 211204 — 4.7 m3 ([IPP# 107496](https://ims.internationalprocessplants.com/inventory/equipment/detail/107496))
 
 Used Haas Vakuum Technik (Germany) 211204 stainless steel 321 dryer-rotary vacuum with 4.7 m3 (166 ft3) design capacity, 250 °C (482 °F) temperature, and dust collection.
 
-- Used condition
-- Stainless Steel 321
-- 4.7 m3 (166 ft3) design capacity
-- 250 °C (482 °F) temperature
-- 15.6 m2 (168 ft2) HTSA
+- Condition: Used condition
+- Material: Stainless Steel 321
+- Capacity Design: 4.7 m3 (166 ft3) design capacity
+- Temperature: 250 °C (482 °F) temperature
+- Heat Transfer Surface Area: 15.6 m2 (168 ft2) HTSA
 
-[Request Specs](/contact/) | [View IPP# 107496](https://ims.internationalprocessplants.com/inventory/equipment/detail/107496)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/107496) | [View IPP# 107496](https://ims.internationalprocessplants.com/inventory/equipment/detail/107496)
 
 #### Used Day Mixing Co. DS-434-1 — 17 m3 ([IPP# 228175](https://ims.internationalprocessplants.com/inventory/equipment/detail/228175))
 
 Used Day Mixing Co. DS-434-1 stainless steel 316L dryer-rotary vacuum with 17 m3 (600 ft3) design capacity, 152.8 °C (307 °F) temperature, and 28.1 m2 (302 ft2) heat transfer surface area.
 
-- Used condition
-- Stainless Steel 316L
-- 17 m3 (600 ft3) design capacity
-- 1,850 mm (72 in) x 4,900 mm (192 in)
-- 28.1 m2 (302 ft2) HTSA
+- Condition: Used condition
+- Material: Stainless Steel 316L
+- Capacity Design: 17 m3 (600 ft3) design capacity
+- Diameter: 1,850 mm (72 in)
+- Length: 4,900 mm (192 in)
+- Heat Transfer Surface Area: 28.1 m2 (302 ft2) HTSA
 
-[Request Specs](/contact/) | [View IPP# 228175](https://ims.internationalprocessplants.com/inventory/equipment/detail/228175)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/228175) | [View IPP# 228175](https://ims.internationalprocessplants.com/inventory/equipment/detail/228175)
 
 [Browse All Used Rotary Vacuum Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/rotary-vacuum-dryer)
 
@@ -317,37 +346,40 @@ Unused rotary vacuum dryers have never been installed in production service. The
 
 Unused Cogeim Steridry EP 8000 stainless steel 316L dryer-rotary vacuum with 8 m3 (282.5 ft3) design capacity, 185 °C (365 °F) temperature rating, and mechanical seal.
 
-- Unused condition
-- Stainless Steel 316L
-- 8 m3 (282.5 ft3) design capacity
-- 185 °C (365 °F), 4 bar (58 psi)
-- 16.5 m2 (178 ft2) HTSA
+- Condition: Unused condition
+- Material: Stainless Steel 316L
+- Capacity Design: 8 m3 (282.5 ft3) design capacity
+- Temperature: 185 °C (365 °F)
+- Pressure: 4 bar (58 psi)
+- Heat Transfer Surface Area: 16.5 m2 (178 ft2) HTSA
 
-[Request Specs](/contact/) | [View IPP# 242449](https://ims.internationalprocessplants.com/inventory/equipment/detail/242449)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/242449) | [View IPP# 242449](https://ims.internationalprocessplants.com/inventory/equipment/detail/242449)
 
 #### Unused Cogeim Steridry EP 8000 — Polished 316L ([IPP# 242453](https://ims.internationalprocessplants.com/inventory/equipment/detail/242453))
 
 Unused Cogeim Steridry EP 8000 polished stainless steel 316L dryer-rotary vacuum with 8 m3 (282.5 ft3) design capacity, 185 °C (365 °F) temperature, and mechanical seal.
 
-- Unused condition
-- Stainless Steel Polished 316L
-- 8 m3 (282.5 ft3) design capacity
-- 185 °C (365 °F), 4 bar (58 psi)
-- 16.5 m2 (178 ft2) HTSA
+- Condition: Unused condition
+- Material: Stainless Steel Polished 316L
+- Capacity Design: 8 m3 (282.5 ft3) design capacity
+- Temperature: 185 °C (365 °F)
+- Pressure: 4 bar (58 psi)
+- Heat Transfer Surface Area: 16.5 m2 (178 ft2) HTSA
 
-[Request Specs](/contact/) | [View IPP# 242453](https://ims.internationalprocessplants.com/inventory/equipment/detail/242453)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/242453) | [View IPP# 242453](https://ims.internationalprocessplants.com/inventory/equipment/detail/242453)
 
 #### Unused SS 304 — 4 m3 ([IPP# 71320](https://ims.internationalprocessplants.com/inventory/equipment/detail/71320))
 
 Unused stainless steel 304 model 1.2-4-DBK dryer-rotary vacuum with 4 m3 (141 ft3) design capacity and 15.1 m2 (163 ft2) heat transfer surface area.
 
-- Unused condition
-- Stainless Steel 304
-- 4 m3 (141 ft3) design capacity
-- 1,200 mm (48 in) x 3,950 mm (156 in)
-- 15.1 m2 (163 ft2) HTSA
+- Condition: Unused condition
+- Material: Stainless Steel 304
+- Capacity Design: 4 m3 (141 ft3) design capacity
+- Diameter: 1,200 mm (48 in)
+- Length: 3,950 mm (156 in)
+- Heat Transfer Surface Area: 15.1 m2 (163 ft2) HTSA
 
-[Request Specs](/contact/) | [View IPP# 71320](https://ims.internationalprocessplants.com/inventory/equipment/detail/71320)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/71320) | [View IPP# 71320](https://ims.internationalprocessplants.com/inventory/equipment/detail/71320)
 
 [Browse All Unused Rotary Vacuum Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/rotary-vacuum-dryer)
 
@@ -358,7 +390,7 @@ Unused stainless steel 304 model 1.2-4-DBK dryer-rotary vacuum with 4 m3 (141 ft
 
 Tell us your specifications and requirements. Our team will match your needs against current rotary vacuum dryers inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -483,7 +515,7 @@ In addition to rotary vacuum dryers, IPP stocks equipment across multiple catego
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -492,4 +524,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/rotary-vacuum-dryer)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/rotary-vacuum-dryer)

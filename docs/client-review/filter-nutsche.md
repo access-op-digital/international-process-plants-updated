@@ -6,7 +6,7 @@ Filtration areas span from 0.3 m² (3.2 ft²) on a Seitz-Werke 60/1 up to 6 m² 
 
 Seitz and Seitz-Werke models include the 60/1, EF-100.300-CW, and EF100-500-CW series. Most vessels carry heating jackets rated up to 10.3 bar (150 psi) for steam or hot-oil drying duty. Selected units include rake or hydraulic raker agitators for cake smoothing and discharge. All listed units are offered in used condition with traceable IMS records. Buying used nutsche filters from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/nutsche)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/nutsche)
 
 **Quick Stats:** 10+ Nutsche Filters in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -30,37 +30,40 @@ IPP stocks stainless steel nutsche filters in both 316 and austenitic grades, su
 
 Used Von Roll (Switzerland) stainless steel 316 nutsche filter with 6 m² (64.6 ft²) filtration area, 2,800 mm (110.2 in) vessel diameter, and rake agitator for cake smoothing and discharge.
 
-- 6 m² (64.6 ft²) filtration area
-- 2,800 mm (110.2 in) diameter
-- Stainless Steel 316
-- Von Roll (Switzerland)
-- Rake agitator equipped
+- Filtration Area: 6 m² (64.6 ft²) filtration area
+- Diameter: 2,800 mm (110.2 in) diameter
+- Material: Stainless Steel 316
+- Manufacturer: Von Roll (Switzerland)
+- Rake: Rake agitator equipped
 
-[Request Specs](/contact/) | [View IPP# 89955](https://ims.internationalprocessplants.com/inventory/equipment/detail/89955)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/89955) | [View IPP# 89955](https://ims.internationalprocessplants.com/inventory/equipment/detail/89955)
 
 #### JENS OLSEN Stainless Steel 316 — 2.8 m² ([IPP# 706725](https://ims.internationalprocessplants.com/inventory/equipment/detail/706725))
 
 Used JENS OLSEN stainless steel 316 nutsche filter with 2.8 m² (29.6 ft²) filtration area, jacketed pressure-and-vacuum service, and 1,900 mm (74.8 in) vessel diameter.
 
-- 2.8 m² (29.6 ft²) filtration area
-- 1,900 mm (74.8 in) diameter
-- 2 bar (29 psi), 134 °C (273.2 °F)
-- Vacuum-rated, jacketed
-- Stainless Steel 316
+- Filtration Area: 2.8 m² (29.6 ft²) filtration area
+- Diameter: 1,900 mm (74.8 in) diameter
+- Pressure: 2 bar (29 psi)
+- Temperature: 134 °C (273.2 °F)
+- Vacuum: Vacuum-rated, jacketed
+- Material: Stainless Steel 316
 
-[Request Specs](/contact/) | [View IPP# 706725](https://ims.internationalprocessplants.com/inventory/equipment/detail/706725)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706725) | [View IPP# 706725](https://ims.internationalprocessplants.com/inventory/equipment/detail/706725)
 
 #### Seitz EF-100.300-CW — 0.85 m² ([IPP# 208322](https://ims.internationalprocessplants.com/inventory/equipment/detail/208322))
 
 Used Seitz EF-100.300-CW stainless steel 316 nutsche filter with 0.85 m² (9.1 ft²) filtration area, 6 bar pressure rating, and jacketed body for hot-oil or steam drying.
 
-- 0.85 m² (9.1 ft²) filtration area
-- 1,000 mm (39.4 in) diameter
-- 6 bar (87 psi), 165 °C (329 °F)
-- Seitz EF-100.300-CW
-- Jacketed body, clamped bottom head
+- Filtration Area: 0.85 m² (9.1 ft²) filtration area
+- Diameter: 1,000 mm (39.4 in) diameter
+- Pressure: 6 bar (87 psi)
+- Temperature: 165 °C (329 °F)
+- Manufacturer: Seitz
+- Model: EF-100.300-CW
+- Jacket: Jacketed body, clamped bottom head
 
-[Request Specs](/contact/) | [View IPP# 208322](https://ims.internationalprocessplants.com/inventory/equipment/detail/208322)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208322) | [View IPP# 208322](https://ims.internationalprocessplants.com/inventory/equipment/detail/208322)
 
 [Browse All Stainless Steel Nutsche Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/nutsche)
 
@@ -72,13 +75,14 @@ IPP stocks Pfaudler glass-lined nutsche filters for highly corrosive acids, chlo
 
 Used Pfaudler glass-lined nutsche filter with 0.52 m² (5.6 ft²) filtration area, 232.2 °C temperature rating, and a stainless steel 316 jacket rated to 10.3 bar for high-pressure steam.
 
-- 0.52 m² (5.6 ft²) filtration area
-- 813 mm (32 in) diameter
-- 3.4 bar (50 psi), 232.2 °C (450 °F)
-- Jacket 10.3 bar (150 psi), SS 316
-- Glasslined wetted surfaces
+- Filtration Area: 0.52 m² (5.6 ft²) filtration area
+- Diameter: 813 mm (32 in) diameter
+- Pressure: 3.4 bar (50 psi)
+- Temperature: 232.2 °C (450 °F)
+- Jacket Pressure: Jacket 10.3 bar (150 psi), SS 316
+- Material: Glasslined wetted surfaces
 
-[Request Specs](/contact/) | [View IPP# 245508](https://ims.internationalprocessplants.com/inventory/equipment/detail/245508)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/245508) | [View IPP# 245508](https://ims.internationalprocessplants.com/inventory/equipment/detail/245508)
 
 [Browse All Glass-Lined Nutsche Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/nutsche)
 
@@ -90,13 +94,13 @@ IPP also lists nutsche filters whose primary material grade is not separately cl
 
 Used nutsche filter with 889 mm (35 in) vessel diameter and a stainless steel 316 jacket, mounted on four lugs and ready for re-piping into a process line.
 
-- 889 mm (35 in) diameter
-- 508 mm (20 in) overall height
-- Stainless Steel 316 jacket
-- Mounted on lugs
-- Used condition
+- Diameter: 889 mm (35 in) diameter
+- Overall Height: 508 mm (20 in) overall height
+- Jacket MOC: Stainless Steel 316 jacket
+- Support Details: Mounted on lugs
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 100624](https://ims.internationalprocessplants.com/inventory/equipment/detail/100624)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/100624) | [View IPP# 100624](https://ims.internationalprocessplants.com/inventory/equipment/detail/100624)
 
 [Browse All Other Nutsche Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/nutsche)
 
@@ -115,25 +119,27 @@ JENS OLSEN is one of the deepest named OEM positions in IPP's nutsche filter inv
 
 Used JENS OLSEN stainless steel 316 nutsche filter with 2.8 m² (29.6 ft²) filtration area, vacuum-rated jacket, and 1,000 mm (39.4 in) straight side length for deep cake handling.
 
-- 2.8 m² (29.6 ft²) filtration area
-- 1,900 mm (74.8 in) diameter
-- 2 bar (29 psi), 134 °C (273.2 °F)
-- Vacuum service rated
-- Stainless Steel 316
+- Filtration Area: 2.8 m² (29.6 ft²) filtration area
+- Diameter: 1,900 mm (74.8 in) diameter
+- Pressure: 2 bar (29 psi)
+- Temperature: 134 °C (273.2 °F)
+- Vacuum: Vacuum service rated
+- Material: Stainless Steel 316
 
-[Request Specs](/contact/) | [View IPP# 706725](https://ims.internationalprocessplants.com/inventory/equipment/detail/706725)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706725) | [View IPP# 706725](https://ims.internationalprocessplants.com/inventory/equipment/detail/706725)
 
 #### JENS OLSEN Stainless Steel 316 — 1.75 m² ([IPP# 706724](https://ims.internationalprocessplants.com/inventory/equipment/detail/706724))
 
 Used JENS OLSEN stainless steel 316 nutsche filter with 1.75 m² (18.8 ft²) filtration area, mounted in two A-frames, and a jacketed shell rated for 2 bar service.
 
-- 1.75 m² (18.8 ft²) filtration area
-- 1,500 mm (59.1 in) diameter
-- 2 bar (29 psi), 134 °C (273.2 °F)
-- Mounted in A-frames
-- Stainless Steel 316
+- Filtration Area: 1.75 m² (18.8 ft²) filtration area
+- Diameter: 1,500 mm (59.1 in) diameter
+- Pressure: 2 bar (29 psi)
+- Temperature: 134 °C (273.2 °F)
+- Support Details: Mounted in A-frames
+- Material: Stainless Steel 316
 
-[Request Specs](/contact/) | [View IPP# 706724](https://ims.internationalprocessplants.com/inventory/equipment/detail/706724)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706724) | [View IPP# 706724](https://ims.internationalprocessplants.com/inventory/equipment/detail/706724)
 
 [Browse All JENS OLSEN Nutsche Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/nutsche)
 
@@ -145,25 +151,28 @@ Seitz-Werke is another deep OEM position in IPP's nutsche filter listings. Avail
 
 Used Seitz-Werke 60/1 stainless steel austenitic nutsche filter with 0.3 m² (3.2 ft²) filtration area, 0.12 m³ cake volume, and half-pipe limpet jacket for thermal control during drying.
 
-- 0.3 m² (3.2 ft²) filtration area
-- 0.12 m³ (4.2 ft³) cake volume
-- 6 bar (87 psi), 143 °C (289.4 °F)
-- Half-pipe limpet jacket
-- Stainless Steel Austenitic
+- Filtration Area: 0.3 m² (3.2 ft²) filtration area
+- Cake Volume: 0.12 m³ (4.2 ft³) cake volume
+- Pressure: 6 bar (87 psi)
+- Temperature: 143 °C (289.4 °F)
+- Jacket Type: Half-pipe limpet jacket
+- Material: Stainless Steel Austenitic
 
-[Request Specs](/contact/) | [View IPP# 107498](https://ims.internationalprocessplants.com/inventory/equipment/detail/107498)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/107498) | [View IPP# 107498](https://ims.internationalprocessplants.com/inventory/equipment/detail/107498)
 
 #### Seitz-Werke EF100-500-CW — 200 °C ([IPP# 217610](https://ims.internationalprocessplants.com/inventory/equipment/detail/217610))
 
 Used Seitz-Werke EF100-500-CW stainless steel 316 nutsche filter with 200 °C temperature rating, dished and clamped heads, and four-leg base for floor mounting.
 
-- 910 mm (35.8 in) diameter
-- 6 bar (87 psi), 200 °C (392 °F)
-- Dished, clamped heads
-- Mounted on 4 legs
-- Stainless Steel 316
+- Diameter: 910 mm (35.8 in) diameter
+- Pressure: 6 bar (87 psi)
+- Temperature: 200 °C (392 °F)
+- Top Head Type: Dished
+- Bottom Head Type: clamped heads
+- Support Details: Mounted on 4 legs
+- Material: Stainless Steel 316
 
-[Request Specs](/contact/) | [View IPP# 217610](https://ims.internationalprocessplants.com/inventory/equipment/detail/217610)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/217610) | [View IPP# 217610](https://ims.internationalprocessplants.com/inventory/equipment/detail/217610)
 
 [Browse All Seitz-Werke Nutsche Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/nutsche)
 
@@ -175,37 +184,39 @@ Beyond JENS OLSEN and Seitz-Werke, IPP also lists nutsche filters from Pfaudler,
 
 Used Pfaudler glass-lined nutsche filter with 0.52 m² (5.6 ft²) filtration area, elliptical clamped heads, and a 232.2 °C jacket rating for high-temperature drying duty.
 
-- 0.52 m² (5.6 ft²) filtration area
-- 813 mm (32 in) diameter
-- 3.4 bar (50 psi), 232.2 °C (450 °F)
-- Jacket 10.3 bar (150 psi)
-- Glasslined construction
+- Filtration Area: 0.52 m² (5.6 ft²) filtration area
+- Diameter: 813 mm (32 in) diameter
+- Pressure: 3.4 bar (50 psi)
+- Temperature: 232.2 °C (450 °F)
+- Jacket Pressure: Jacket 10.3 bar (150 psi)
+- Material: Glasslined construction
 
-[Request Specs](/contact/) | [View IPP# 245508](https://ims.internationalprocessplants.com/inventory/equipment/detail/245508)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/245508) | [View IPP# 245508](https://ims.internationalprocessplants.com/inventory/equipment/detail/245508)
 
 #### Von Roll (Switzerland) — 6 m² ([IPP# 89955](https://ims.internationalprocessplants.com/inventory/equipment/detail/89955))
 
 Used Von Roll (Switzerland) stainless steel 316 nutsche filter with 6 m² (64.6 ft²) filtration area, 2,800 mm (110.2 in) vessel diameter, and rake agitator for industrial cake duty.
 
-- 6 m² (64.6 ft²) filtration area
-- 2,800 mm (110.2 in) diameter
-- Stainless Steel 316
-- Rake agitator equipped
-- Von Roll (Switzerland)
+- Filtration Area: 6 m² (64.6 ft²) filtration area
+- Diameter: 2,800 mm (110.2 in) diameter
+- Material: Stainless Steel 316
+- Rake: Rake agitator equipped
+- Manufacturer: Von Roll (Switzerland)
 
-[Request Specs](/contact/) | [View IPP# 89955](https://ims.internationalprocessplants.com/inventory/equipment/detail/89955)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/89955) | [View IPP# 89955](https://ims.internationalprocessplants.com/inventory/equipment/detail/89955)
 
 #### Wollner & Platz — 300 °C ([IPP# 217622](https://ims.internationalprocessplants.com/inventory/equipment/detail/217622))
 
 Used Wollner & Platz stainless steel austenitic nutsche filter rated for 300 °C (572 °F) internal temperature, with sight-glass nozzles and jacket rated to 8 bar.
 
-- 600 mm (23.6 in) diameter
-- 6 bar (87 psi), 300 °C (572 °F)
-- Jacket 8 bar (116 psi)
-- Sight-glass top nozzles
-- Stainless Steel Austenitic
+- Diameter: 600 mm (23.6 in) diameter
+- Pressure: 6 bar (87 psi)
+- Temperature: 300 °C (572 °F)
+- Jacket Pressure: Jacket 8 bar (116 psi)
+- Nozzle Schedule: Sight-glass top nozzles
+- Material: Stainless Steel Austenitic
 
-[Request Specs](/contact/) | [View IPP# 217622](https://ims.internationalprocessplants.com/inventory/equipment/detail/217622)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/217622) | [View IPP# 217622](https://ims.internationalprocessplants.com/inventory/equipment/detail/217622)
 
 [Browse All Nutsche Filters from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/nutsche)
 
@@ -224,37 +235,38 @@ Used nutsche filters are the entire current condition position in IPP's listings
 
 Used Von Roll (Switzerland) stainless steel 316 nutsche filter with 6 m² (64.6 ft²) filtration area, 2,800 mm (110.2 in) vessel diameter, and rake agitator.
 
-- Used condition
-- 6 m² (64.6 ft²) filtration area
-- 2,800 mm (110.2 in) diameter
-- Stainless Steel 316
-- Rake agitator equipped
+- Condition: Used condition
+- Filtration Area: 6 m² (64.6 ft²) filtration area
+- Diameter: 2,800 mm (110.2 in) diameter
+- Material: Stainless Steel 316
+- Rake: Rake agitator equipped
 
-[Request Specs](/contact/) | [View IPP# 89955](https://ims.internationalprocessplants.com/inventory/equipment/detail/89955)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/89955) | [View IPP# 89955](https://ims.internationalprocessplants.com/inventory/equipment/detail/89955)
 
 #### Used Pfaudler Glasslined — 0.52 m² ([IPP# 245508](https://ims.internationalprocessplants.com/inventory/equipment/detail/245508))
 
 Used Pfaudler glass-lined nutsche filter with 0.52 m² (5.6 ft²) filtration area, jacket rated to 10.3 bar, and 232.2 °C internal temperature rating.
 
-- Used condition
-- 0.52 m² (5.6 ft²) filtration area
-- 3.4 bar (50 psi), 232.2 °C (450 °F)
-- Jacket 10.3 bar (150 psi)
-- Glasslined
+- Condition: Used condition
+- Filtration Area: 0.52 m² (5.6 ft²) filtration area
+- Pressure: 3.4 bar (50 psi)
+- Temperature: 232.2 °C (450 °F)
+- Jacket Pressure: Jacket 10.3 bar (150 psi)
+- Material: Glasslined
 
-[Request Specs](/contact/) | [View IPP# 245508](https://ims.internationalprocessplants.com/inventory/equipment/detail/245508)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/245508) | [View IPP# 245508](https://ims.internationalprocessplants.com/inventory/equipment/detail/245508)
 
 #### Used JENS OLSEN — 2.8 m² ([IPP# 706725](https://ims.internationalprocessplants.com/inventory/equipment/detail/706725))
 
 Used JENS OLSEN stainless steel 316 nutsche filter with 2.8 m² (29.6 ft²) filtration area, vacuum service rating, and 1,900 mm (74.8 in) diameter vessel.
 
-- Used condition
-- 2.8 m² (29.6 ft²) filtration area
-- 1,900 mm (74.8 in) diameter
-- Vacuum service rated
-- Stainless Steel 316
+- Condition: Used condition
+- Filtration Area: 2.8 m² (29.6 ft²) filtration area
+- Diameter: 1,900 mm (74.8 in) diameter
+- Vacuum: Vacuum service rated
+- Material: Stainless Steel 316
 
-[Request Specs](/contact/) | [View IPP# 706725](https://ims.internationalprocessplants.com/inventory/equipment/detail/706725)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706725) | [View IPP# 706725](https://ims.internationalprocessplants.com/inventory/equipment/detail/706725)
 
 [Browse All Used Nutsche Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/nutsche)
 
@@ -265,7 +277,7 @@ Used JENS OLSEN stainless steel 316 nutsche filter with 2.8 m² (29.6 ft²) filt
 
 Tell us your specifications and requirements. Our team will match your needs against current nutsche filters inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -303,7 +315,7 @@ IPP stocks nutsche filters from Seitz-Werke, Wollner & Platz, JENS OLSEN, Seitz 
 IPP offers refurbishment services through its UGE (Universal Glasteel Equipment) division, founded in 1995, which stocks 700+ vessels and 2,700+ parts.
 
 ### Global Presence in 15 Countries
-IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom, and United States. IPP has served 160,000+ customers worldwide.
+IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom, and the United States. IPP has served 160,000+ customers worldwide.
 
 ### Full Range of Materials & Specs
 IPP stocks nutsche filters across a wide range of specifications to match your process requirements.
@@ -386,7 +398,7 @@ In addition to nutsche filters, IPP stocks equipment across multiple categories 
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -395,4 +407,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/filter/nutsche)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/filter/nutsche)

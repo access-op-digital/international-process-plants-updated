@@ -1,12 +1,12 @@
 # Buy Used Centrifuges for Sale
 
-Buying used centrifuges through International Process Plants gives chemical, pharmaceutical, food and beverage, biotech, dairy, and wastewater manufacturers access to disc bowl, basket, decanter, and inverting filter centrifuges that separate solids from liquids using centrifugal force across multiple configurations from Westfalia, Alfa Laval, Broadbent, Bird, Heinkel, Krauss Maffei, Ferrum, and Humboldt Wedag.
+Buying used centrifuges through International Process Plants gives chemical processing, pharmaceutical, biotechnology, food and beverage, dairy processing, wastewater treatment, fine chemicals, biofuels and bioprocessing, petrochemicals, and cosmetics manufacturers and processors access to disc bowl, basket, decanter, and inverting filter centrifuges that separate solids from liquids using centrifugal force across multiple configurations from Westfalia, Alfa Laval, Broadbent, Bird, Heinkel, Krauss Maffei, Ferrum, and Humboldt Wedag.
 
 The material of construction includes stainless steel 316, 316L, 316Ti, 304, and austenitic grades, Hastelloy C-22, C-276, C-4, and B, carbon steel, rubberlined, and lined construction. Basket diameters range from 500 mm (19.7 in) to 1,500 mm (60 in) on basket centrifuges. Bowl diameters range from 124 mm (4.9 in) to 914 mm (36 in) on decanter centrifuges. Maximum RPM ranges from 850 on large basket centrifuges to 11,780 on disc bowl units. Disc bowl flow rates reach 29.5 m3/h (130 GPM). Decanter G-forces reach 4,700 and inverting filter G-forces reach 1,255.
 
 IPP stocks centrifuges in good used, refurbished/rebuilt, new, and unused surplus condition. Basket depths range from 400 mm (15.7 in) to 864 mm (34 in) and inverting filter filtration areas reach 1.26 m² (13.6 ft²). Buying used centrifuges from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/centrifuge)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/centrifuge)
 
 **Quick Stats:** 300+ Centrifuges in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -430,7 +430,7 @@ Centrifuges are available in good used, refurbished/rebuilt, new, and unused con
 
 Tell us your separation requirements, throughput, material of construction, and application. Our team will match your specifications against current centrifuge inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -532,4 +532,4 @@ A: Yes. IPP buys used centrifuges and other process equipment. Visit the Sell to
 
 Contact IPP's centrifuge equipment experts. With centrifuges across multiple subtypes from Alfa Laval, Westfalia, Broadbent, Heinkel, and more, we can match your exact separation specifications.
 
-[Contact an Expert](/contact/)
+[Contact an Expert](https://internationalprocessplants.com/contact/)

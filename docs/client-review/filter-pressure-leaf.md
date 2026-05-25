@@ -6,7 +6,7 @@ Materials of construction include Stainless Steel 316, Stainless Steel 304, Stai
 
 IPP stocks Schenk units across the ZHF-S, ZHF-SR, BS, and BSH model families. Sparkler inventory spans the S-series and HRC model families. Condition options include used, unused, and new stock. These units serve clarification, purification, and solids recovery duties across enclosed pressure vessel configurations. Buying used pressure leaf filters from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/filter/pressure-leaf)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/filter/pressure-leaf)
 
 **Quick Stats:** 70+ Pressure Leaf Filters in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -30,37 +30,37 @@ IPP stocks stainless steel pressure leaf filters in multiple grades and conditio
 
 Used Schenk ZHF-S80 stainless steel 321 pressure leaf filter with 80 m² (861 ft²) filtration area and centrifugal discharge.
 
-- Stainless Steel 321
-- 80 m² (861 ft²) filtration area
-- 6 bar (87 psi)
-- 1,500 mm (59.1 in) diameter
-- Used condition
+- Material: Stainless Steel 321
+- Filtration Area: 80 m² (861 ft²) filtration area
+- Pressure: 6 bar (87 psi)
+- Diameter: 1,500 mm (59.1 in) diameter
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 208456](https://ims.internationalprocessplants.com/inventory/equipment/detail/208456)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208456) | [View IPP# 208456](https://ims.internationalprocessplants.com/inventory/equipment/detail/208456)
 
 #### Sparkler HRC200 Stainless Steel 316 — 19.2 m² ([IPP# 42428](https://ims.internationalprocessplants.com/inventory/equipment/detail/42428))
 
 Used Sparkler HRC200 stainless steel 316 pressure leaf filter with 19.2 m² (206.9 ft²) filtration area and 1,200 mm (48 in) diameter.
 
-- Stainless Steel 316
-- 19.2 m² (206.9 ft²) filtration area
-- 4.1 bar (60 psi)
-- 1,200 mm (48 in) diameter
-- Used condition
+- Material: Stainless Steel 316
+- Filtration Area: 19.2 m² (206.9 ft²) filtration area
+- Pressure: 4.1 bar (60 psi)
+- Diameter: 1,200 mm (48 in) diameter
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 42428](https://ims.internationalprocessplants.com/inventory/equipment/detail/42428)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/42428) | [View IPP# 42428](https://ims.internationalprocessplants.com/inventory/equipment/detail/42428)
 
 #### Artisan Stainless Steel 316 — 6 m² ([IPP# 94603](https://ims.internationalprocessplants.com/inventory/equipment/detail/94603))
 
 Used Artisan stainless steel 316 pressure leaf filter with 6 m² (65 ft²) filtration area rated to 27.6 bar (400 psi).
 
-- Stainless Steel 316
-- 6 m² (65 ft²) filtration area
-- 27.6 bar (400 psi)
-- Artisan
-- Used condition
+- Material: Stainless Steel 316
+- Filtration Area: 6 m² (65 ft²) filtration area
+- Pressure: 27.6 bar (400 psi)
+- Manufacturer: Artisan
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 94603](https://ims.internationalprocessplants.com/inventory/equipment/detail/94603)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/94603) | [View IPP# 94603](https://ims.internationalprocessplants.com/inventory/equipment/detail/94603)
 
 [Browse All Stainless Steel Pressure Leaf Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/filter/pressure-leaf)
 
@@ -72,12 +72,12 @@ IPP stocks select hastelloy pressure leaf filters for aggressive or high-purity 
 
 Used Dr. Mueller Hastelloy C-22 pressure leaf filter rated to 6 bar (87 psi) and 150 °C (302 °F).
 
-- Hastelloy C-22
-- 6 bar (87 psi)
-- 150 °C (302 °F)
-- Used condition
+- Material: Hastelloy C-22
+- Pressure: 6 bar (87 psi)
+- Temperature: 150 °C (302 °F)
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 203742](https://ims.internationalprocessplants.com/inventory/equipment/detail/203742)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/203742) | [View IPP# 203742](https://ims.internationalprocessplants.com/inventory/equipment/detail/203742)
 
 [Browse All Hastelloy Pressure Leaf Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/filter/pressure-leaf)
 
@@ -89,13 +89,14 @@ IPP stocks select glass-lined pressure leaf filters for corrosive media where me
 
 Used Pfaudler TDF-10/10 glass-lined pressure leaf filter with 1,200 mm (47.2 in) diameter rated to 6 bar (87 psi).
 
-- Glasslined
-- 6 bar (87 psi)
-- Pfaudler TDF-10/10
-- 1,200 mm (47.2 in) diameter
-- Used condition
+- Material: Glasslined
+- Pressure: 6 bar (87 psi)
+- Manufacturer: Pfaudler
+- Model: TDF-10/10
+- Diameter: 1,200 mm (47.2 in) diameter
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 89418](https://ims.internationalprocessplants.com/inventory/equipment/detail/89418)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/89418) | [View IPP# 89418](https://ims.internationalprocessplants.com/inventory/equipment/detail/89418)
 
 [Browse All Glass-Lined Pressure Leaf Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/filter/pressure-leaf)
 
@@ -114,37 +115,37 @@ Schenk is the deepest single-manufacturer position in IPP's pressure leaf filter
 
 Used Schenk ZHF-S80 stainless steel 321 pressure leaf filter with 80 m² (861 ft²) filtration area, centrifugal discharge, and 1,500 mm (59.1 in) diameter.
 
-- Stainless Steel 321
-- 80 m² (861 ft²) filtration area
-- 6 bar (87 psi)
-- 1,500 mm (59.1 in) diameter
-- Used condition
+- Material: Stainless Steel 321
+- Filtration Area: 80 m² (861 ft²) filtration area
+- Pressure: 6 bar (87 psi)
+- Diameter: 1,500 mm (59.1 in) diameter
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 208456](https://ims.internationalprocessplants.com/inventory/equipment/detail/208456)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208456) | [View IPP# 208456](https://ims.internationalprocessplants.com/inventory/equipment/detail/208456)
 
 #### Schenk ZHF-SR15 KLKB1 — 15 m² ([IPP# 215246](https://ims.internationalprocessplants.com/inventory/equipment/detail/215246))
 
 Used Schenk ZHF-SR15 KLKB1 stainless steel austenitic pressure leaf filter with 15 m² (161.5 ft²) filtration area rated to 6 bar (87 psi).
 
-- Stainless Steel Austenitic
-- 15 m² (161.5 ft²) filtration area
-- 6 bar (87 psi)
-- 805 mm (31.7 in) diameter
-- Used condition
+- Material: Stainless Steel Austenitic
+- Filtration Area: 15 m² (161.5 ft²) filtration area
+- Pressure: 6 bar (87 psi)
+- Diameter: 805 mm (31.7 in) diameter
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 215246](https://ims.internationalprocessplants.com/inventory/equipment/detail/215246)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/215246) | [View IPP# 215246](https://ims.internationalprocessplants.com/inventory/equipment/detail/215246)
 
 #### Schenk ZHF-S-40/30 — 28.8 m² ([IPP# 92821](https://ims.internationalprocessplants.com/inventory/equipment/detail/92821))
 
 Used Schenk ZHF-S-40/30 stainless steel 304 pressure leaf filter with 28.8 m² (310 ft²) filtration area and 1,350 mm (54 in) diameter.
 
-- Stainless Steel 304
-- 28.8 m² (310 ft²) filtration area
-- 6.2 bar (90 psi)
-- 1,350 mm (54 in) diameter
-- Used condition
+- Material: Stainless Steel 304
+- Filtration Area: 28.8 m² (310 ft²) filtration area
+- Pressure: 6.2 bar (90 psi)
+- Diameter: 1,350 mm (54 in) diameter
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 92821](https://ims.internationalprocessplants.com/inventory/equipment/detail/92821)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/92821) | [View IPP# 92821](https://ims.internationalprocessplants.com/inventory/equipment/detail/92821)
 
 [Browse All Schenk Pressure Leaf Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/filter/pressure-leaf)
 
@@ -156,37 +157,37 @@ Sparkler is a well-represented OEM position in IPP's pressure leaf filter invent
 
 Used Sparkler HRC200 stainless steel 316 pressure leaf filter with 19.2 m² (206.9 ft²) filtration area rated to 4.1 bar (60 psi).
 
-- Stainless Steel 316
-- 19.2 m² (206.9 ft²) filtration area
-- 4.1 bar (60 psi)
-- 1,200 mm (48 in) diameter
-- Used condition
+- Material: Stainless Steel 316
+- Filtration Area: 19.2 m² (206.9 ft²) filtration area
+- Pressure: 4.1 bar (60 psi)
+- Diameter: 1,200 mm (48 in) diameter
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 42428](https://ims.internationalprocessplants.com/inventory/equipment/detail/42428)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/42428) | [View IPP# 42428](https://ims.internationalprocessplants.com/inventory/equipment/detail/42428)
 
 #### Sparkler 18 D 12 — 2 m² ([IPP# 233032](https://ims.internationalprocessplants.com/inventory/equipment/detail/233032))
 
 Used Sparkler 18 D 12 stainless steel 316 pressure leaf filter with 2 m² (22 ft²) filtration area and 457.2 mm (18 in) diameter.
 
-- Stainless Steel 316
-- 2 m² (22 ft²) filtration area
-- 4.1 bar (60 psi)
-- 457.2 mm (18 in) diameter
-- Used condition
+- Material: Stainless Steel 316
+- Filtration Area: 2 m² (22 ft²) filtration area
+- Pressure: 4.1 bar (60 psi)
+- Diameter: 457.2 mm (18 in) diameter
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 233032](https://ims.internationalprocessplants.com/inventory/equipment/detail/233032)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/233032) | [View IPP# 233032](https://ims.internationalprocessplants.com/inventory/equipment/detail/233032)
 
 #### Sparkler 18-S-6 — 1.02 m² ([IPP# 116994](https://ims.internationalprocessplants.com/inventory/equipment/detail/116994))
 
 Used Sparkler 18-S-6 stainless steel 304 pressure leaf filter with 1.02 m² (11 ft²) filtration area rated to 4.1 bar (60 psi).
 
-- Stainless Steel 304
-- 1.02 m² (11 ft²) filtration area
-- 4.1 bar (60 psi)
-- 508 mm (20 in) diameter
-- Used condition
+- Material: Stainless Steel 304
+- Filtration Area: 1.02 m² (11 ft²) filtration area
+- Pressure: 4.1 bar (60 psi)
+- Diameter: 508 mm (20 in) diameter
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 116994](https://ims.internationalprocessplants.com/inventory/equipment/detail/116994)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/116994) | [View IPP# 116994](https://ims.internationalprocessplants.com/inventory/equipment/detail/116994)
 
 [Browse All Sparkler Pressure Leaf Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/filter/pressure-leaf)
 
@@ -198,37 +199,40 @@ Beyond Schenk and Sparkler, IPP stocks pressure leaf filters from Chemap, Artisa
 
 Used Chemap 5213/25 stainless steel 316 pressure leaf filter with 15 m² (161.5 ft²) filtration area rated to 6.9 bar (100.1 psi).
 
-- Stainless Steel 316
-- 15 m² (161.5 ft²) filtration area
-- 6.9 bar (100.1 psi)
-- Chemap 5213/25
-- Used condition
+- Material: Stainless Steel 316
+- Filtration Area: 15 m² (161.5 ft²) filtration area
+- Pressure: 6.9 bar (100.1 psi)
+- Manufacturer: Chemap Ag (Switzerland)
+- Model: 5213/25
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 703043](https://ims.internationalprocessplants.com/inventory/equipment/detail/703043)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/703043) | [View IPP# 703043](https://ims.internationalprocessplants.com/inventory/equipment/detail/703043)
 
 #### BHS TDF760/60/8 — 3.3 m² ([IPP# 71234](https://ims.internationalprocessplants.com/inventory/equipment/detail/71234))
 
 Used BHS (Germany) TDF760/60/8 stainless steel 316 pressure leaf filter with 3.3 m² (35.5 ft²) filtration area rated to 8 bar (116 psi).
 
-- Stainless Steel 316
-- 3.3 m² (35.5 ft²) filtration area
-- 8 bar (116 psi)
-- BHS (Germany) TDF760/60/8
-- Used condition
+- Material: Stainless Steel 316
+- Filtration Area: 3.3 m² (35.5 ft²) filtration area
+- Pressure: 8 bar (116 psi)
+- Manufacturer: BHS (Germany)
+- Model: TDF760/60/8
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 71234](https://ims.internationalprocessplants.com/inventory/equipment/detail/71234)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/71234) | [View IPP# 71234](https://ims.internationalprocessplants.com/inventory/equipment/detail/71234)
 
 #### Artisan Model 3 — 0.28 m² ([IPP# 103350](https://ims.internationalprocessplants.com/inventory/equipment/detail/103350))
 
 Used Artisan Model 3 stainless steel 304 pressure leaf filter with 0.28 m² (3 ft²) filtration area rated to 27.6 bar (400 psi) with controls and stand.
 
-- Stainless Steel 304
-- 0.28 m² (3 ft²) filtration area
-- 27.6 bar (400 psi)
-- 3,800 L/h (16.7 GPM) filtrate output
-- 2.2 kW (3 HP), used condition
+- Material: Stainless Steel 304
+- Filtration Area: 0.28 m² (3 ft²) filtration area
+- Pressure: 27.6 bar (400 psi)
+- Filtrate Output: 3,800 L/h (16.7 GPM) filtrate output
+- Motor Power: 2.2 kW (3 HP)
+- Condition: used condition
 
-[Request Specs](/contact/) | [View IPP# 103350](https://ims.internationalprocessplants.com/inventory/equipment/detail/103350)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/103350) | [View IPP# 103350](https://ims.internationalprocessplants.com/inventory/equipment/detail/103350)
 
 [Browse All Pressure Leaf Filters from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/filter/pressure-leaf)
 
@@ -247,37 +251,38 @@ Good used pressure leaf filters are the deepest condition position in IPP's inve
 
 Used Schenk ZHF-S80 stainless steel 321 pressure leaf filter with 80 m² (861 ft²) filtration area and 1,500 mm (59.1 in) diameter.
 
-- Used condition
-- Stainless Steel 321
-- 80 m² (861 ft²) filtration area
-- 6 bar (87 psi)
-- 1,500 mm (59.1 in) diameter
+- Condition: Used condition
+- Material: Stainless Steel 321
+- Filtration Area: 80 m² (861 ft²) filtration area
+- Pressure: 6 bar (87 psi)
+- Diameter: 1,500 mm (59.1 in) diameter
 
-[Request Specs](/contact/) | [View IPP# 208457](https://ims.internationalprocessplants.com/inventory/equipment/detail/208457)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208457) | [View IPP# 208457](https://ims.internationalprocessplants.com/inventory/equipment/detail/208457)
 
 #### Used Sparkler HRC200 — 19.2 m² ([IPP# 42428](https://ims.internationalprocessplants.com/inventory/equipment/detail/42428))
 
 Used Sparkler HRC200 stainless steel 316 pressure leaf filter with 19.2 m² (206.9 ft²) filtration area and 1,200 mm (48 in) diameter.
 
-- Used condition
-- Stainless Steel 316
-- 19.2 m² (206.9 ft²) filtration area
-- 4.1 bar (60 psi)
-- 1,200 mm (48 in) diameter
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Filtration Area: 19.2 m² (206.9 ft²) filtration area
+- Pressure: 4.1 bar (60 psi)
+- Diameter: 1,200 mm (48 in) diameter
 
-[Request Specs](/contact/) | [View IPP# 42428](https://ims.internationalprocessplants.com/inventory/equipment/detail/42428)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/42428) | [View IPP# 42428](https://ims.internationalprocessplants.com/inventory/equipment/detail/42428)
 
 #### Used Chemap 5213/25 — 15 m² ([IPP# 703043](https://ims.internationalprocessplants.com/inventory/equipment/detail/703043))
 
 Used Chemap 5213/25 stainless steel 316 pressure leaf filter with 15 m² (161.5 ft²) filtration area rated to 6.9 bar (100.1 psi).
 
-- Used condition
-- Stainless Steel 316
-- 15 m² (161.5 ft²) filtration area
-- 6.9 bar (100.1 psi)
-- Chemap 5213/25
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Filtration Area: 15 m² (161.5 ft²) filtration area
+- Pressure: 6.9 bar (100.1 psi)
+- Manufacturer: Chemap Ag (Switzerland)
+- Model: 5213/25
 
-[Request Specs](/contact/) | [View IPP# 703043](https://ims.internationalprocessplants.com/inventory/equipment/detail/703043)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/703043) | [View IPP# 703043](https://ims.internationalprocessplants.com/inventory/equipment/detail/703043)
 
 [Browse All Used Pressure Leaf Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/filter/pressure-leaf)
 
@@ -289,37 +294,37 @@ Unused pressure leaf filters were manufactured and delivered but never placed in
 
 Unused Chemap A18 stainless steel 316L pressure leaf filter with 18 m² (193.8 ft²) filtration area rated to 5 bar (72.5 psi) with 1,100 mm (43.3 in) diameter.
 
-- Unused condition
-- Stainless Steel 316L
-- 18 m² (193.8 ft²) filtration area
-- 5 bar (72.5 psi)
-- 1,100 mm (43.3 in) diameter
+- Condition: Unused condition
+- Material: Stainless Steel 316L
+- Filtration Area: 18 m² (193.8 ft²) filtration area
+- Pressure: 5 bar (72.5 psi)
+- Diameter: 1,100 mm (43.3 in) diameter
 
-[Request Specs](/contact/) | [View IPP# 89347](https://ims.internationalprocessplants.com/inventory/equipment/detail/89347)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/89347) | [View IPP# 89347](https://ims.internationalprocessplants.com/inventory/equipment/detail/89347)
 
 #### Unused Chemap A15 — 15 m² ([IPP# 89348](https://ims.internationalprocessplants.com/inventory/equipment/detail/89348))
 
 Unused Chemap A15 stainless steel 304 pressure leaf filter with 15 m² (161.5 ft²) filtration area rated to 10 bar (145 psi).
 
-- Unused condition
-- Stainless Steel 304
-- 15 m² (161.5 ft²) filtration area
-- 10 bar (145 psi)
-- 1,100 mm (42.5 in) diameter
+- Condition: Unused condition
+- Material: Stainless Steel 304
+- Filtration Area: 15 m² (161.5 ft²) filtration area
+- Pressure: 10 bar (145 psi)
+- Diameter: 1,100 mm (42.5 in) diameter
 
-[Request Specs](/contact/) | [View IPP# 89348](https://ims.internationalprocessplants.com/inventory/equipment/detail/89348)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/89348) | [View IPP# 89348](https://ims.internationalprocessplants.com/inventory/equipment/detail/89348)
 
 #### Unused Chemap A10 — 10 m² ([IPP# 89349](https://ims.internationalprocessplants.com/inventory/equipment/detail/89349))
 
 Unused Chemap A10 stainless steel 304 pressure leaf (Funda) filter with 10 m² (107.6 ft²) filtration area and centrifugal discharge.
 
-- Unused condition
-- Stainless Steel 304
-- 10 m² (107.6 ft²) filtration area
-- 5 bar (72.5 psi)
-- 900 mm (35.4 in) diameter
+- Condition: Unused condition
+- Material: Stainless Steel 304
+- Filtration Area: 10 m² (107.6 ft²) filtration area
+- Pressure: 5 bar (72.5 psi)
+- Diameter: 900 mm (35.4 in) diameter
 
-[Request Specs](/contact/) | [View IPP# 89349](https://ims.internationalprocessplants.com/inventory/equipment/detail/89349)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/89349) | [View IPP# 89349](https://ims.internationalprocessplants.com/inventory/equipment/detail/89349)
 
 [Browse All Unused Pressure Leaf Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/filter/pressure-leaf)
 
@@ -331,13 +336,13 @@ New pressure leaf filters in IPP's inventory are factory-fresh units available f
 
 New Gale Process Solutions BPEFP stainless steel 316 pressure leaf filter with 2.4 m² (25.8 ft²) filtration area and 718 mm (28.3 in) diameter.
 
-- New condition
-- Stainless Steel 316
-- 2.4 m² (25.8 ft²) filtration area
-- 3.4 bar (49.7 psi)
-- 718 mm (28.3 in) diameter
+- Condition: New condition
+- Material: Stainless Steel 316
+- Filtration Area: 2.4 m² (25.8 ft²) filtration area
+- Pressure: 3.4 bar (49.7 psi)
+- Diameter: 718 mm (28.3 in) diameter
 
-[Request Specs](/contact/) | [View IPP# 222032](https://ims.internationalprocessplants.com/inventory/equipment/detail/222032)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/222032) | [View IPP# 222032](https://ims.internationalprocessplants.com/inventory/equipment/detail/222032)
 
 [Browse All New Pressure Leaf Filters in Stock](https://ims.internationalprocessplants.com/inventory/equipment/filter/pressure-leaf)
 
@@ -348,7 +353,7 @@ New Gale Process Solutions BPEFP stainless steel 316 pressure leaf filter with 2
 
 Tell us your specifications and requirements. Our team will match your needs against current pressure leaf filter inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -387,7 +392,7 @@ IPP stocks pressure leaf filters from Schenk, Sparkler, Chemap, Artisan, BHS and
 IPP offers refurbishment services through its UGE (Universal Glasteel Equipment) division, founded in 1995, which stocks 700+ vessels and 2,700+ parts.
 
 ### Global Presence in 15 Countries
-IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom, and United States. IPP has served 160,000+ customers worldwide.
+IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom, and the United States. IPP has served 160,000+ customers worldwide.
 
 ### Full Range of Materials & Specs
 Materials include Stainless Steel 316, Stainless Steel 304, Stainless Steel Austenitic, Stainless Steel 321, Hastelloy, and Glasslined. Filtration areas from 0.28 m² (3 ft²) to 80 m² (861 ft²).
@@ -432,7 +437,7 @@ Answers to the most common questions from procurement teams evaluating used pres
 A: IPP stocks pressure leaf filters from Schenk, Sparkler, Chemap, Artisan, BHS (Germany) and other manufacturers. Available in Stainless Steel 316, Stainless Steel 304, Stainless Steel Austenitic, Stainless Steel 321 construction. Browse the IMS inventory for current availability.
 
 **Q: What condition grades are available for used pressure leaf filters?**
-A: IPP stocks pressure leaf filters in multiple conditions: Used, Unused, New. Browse the current inventory for available condition options.
+A: IPP stocks pressure leaf filters in multiple conditions: Used, Unused, and New. Browse the current inventory for available condition options.
 
 **Q: Does IPP sell new pressure leaf filters as well as used?**
 A: Yes. IPP stocks new pressure leaf filters through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. Contact IPP for details on new inventory.
@@ -470,7 +475,7 @@ In addition to pressure leaf filters, IPP stocks equipment across multiple categ
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -479,4 +484,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to a Specialist](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/filter/pressure-leaf)
+[Talk to a Specialist](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/filter/pressure-leaf)

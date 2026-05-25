@@ -6,13 +6,13 @@ Bowl diameters range from 124 mm (4.9 in) on IPP# 230190 to 914 mm (36 in) on IP
 
 IPP stocks Bird decanters across models including 36, HB3900, HP 2400, and 2200. Alfa Laval inventory spans the P-2000, CHNX, AVNX, P1600, and AS model families. Westfalia units are available across the SDA, CA 365, and CA 366 model series. Condition options include used and refurbished/rebuilt stock. Buying used solid bowl-decanter centrifuges from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/solid-bowl-decanter-centrifuge)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/solid-bowl-decanter-centrifuge)
 
 **Quick Stats:** 40+ Decanters in Stock | 1980 Established Since | 15 Countries with Offices
 
 **Featured Equipment:**
 - [Bird Stainless Steel 304 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/201474)
-- [Decanter Stainless Steel Other -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/238371)
+- [Sharples Stainless Steel 316 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/218164)
 - [Alfa Laval Stainless Steel 316 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/222787)
 
 
@@ -26,89 +26,63 @@ IPP stocks solid bowl-decanter centrifuges across multiple material options. Cho
 
 IPP stocks stainless steel solid bowl-decanter centrifuges in multiple grades including SS 316, 316L, 304, and Austenitic. Available from Bird, Alfa Laval, Westfalia, and other manufacturers.
 
-#### [Stainless Steel] Bird Stainless Steel 304 ([IPP# 201474](https://ims.internationalprocessplants.com/inventory/equipment/detail/201474))
+#### [Stainless Steel] Bird 36 — Stainless Steel 304, 914 mm (36 in) Bowl ([IPP# 201474](https://ims.internationalprocessplants.com/inventory/equipment/detail/201474))
 
-Used Bird Stainless Steel 304 centrifuge-solid bowl-decanter.
+Used Bird model 36 stainless steel 304 solid bowl-decanter centrifuge with 914 mm (36 in) bowl diameter, contour screen bowl, and 149.1 kW (200 HP) motor.
 
-- Stainless Steel 304
-- Used condition
-- Bird 36
+- Material: Stainless Steel 304
+- Bowl Diameter: 914 mm (36 in)
+- Bowl Length: 1,850 mm (72 in)
+- Bowl Max RPM: 1,600
+- Bowl Type: Contour screen
+- Main Motor: 149.1 kW (200 HP)
+- Model: 36 (Used)
 
-[Request Specs](/contact/) | [View IPP# 201474](https://ims.internationalprocessplants.com/inventory/equipment/detail/201474)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/201474) | [View IPP# 201474](https://ims.internationalprocessplants.com/inventory/equipment/detail/201474)
 
-#### Decanter Stainless Steel Other ([IPP# 238371](https://ims.internationalprocessplants.com/inventory/equipment/detail/238371))
+#### Sharples P-2000 — Stainless Steel 316, Parts Only ([IPP# 218164](https://ims.internationalprocessplants.com/inventory/equipment/detail/218164))
 
-Used Decanter Stainless Steel Other centrifuge-solid bowl-decanter.
+Used Sharples P-2000 stainless steel 316 solid bowl-decanter centrifuge offered as a parts-only unit — ideal for buyers maintaining an existing P-2000 fleet.
 
-- Stainless Steel Other
-- Used condition
-- Decanter CD 40 I SP
+- Material: Stainless Steel 316
+- Manufacturer: Sharples
+- Model: P-2000
+- Subtype: Parts Only
+- Condition: Used
 
-[Request Specs](/contact/) | [View IPP# 238371](https://ims.internationalprocessplants.com/inventory/equipment/detail/238371)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/218164) | [View IPP# 218164](https://ims.internationalprocessplants.com/inventory/equipment/detail/218164)
 
 #### Humboldt Wedag SVS900 x 2500 — 900 mm (35.4 in) Bowl ([IPP# 103216](https://ims.internationalprocessplants.com/inventory/equipment/detail/103216))
 
 Used Humboldt Wedag SVS900 x 2500 stainless steel 304 solid bowl-decanter centrifuge with 900 mm (35.4 in) bowl diameter and 160 kW motor.
 
-- Stainless Steel 304
-- 900 mm (35.4 in) bowl diameter
-- 2,500 mm (98.4 in) bowl length
-- 1,800 RPM maximum
-- 160 kW (214.6 HP) motor
+- Material: Stainless Steel 304
+- Bowl Diameter: 900 mm (35.4 in) bowl diameter
+- Bowl Length: 2,500 mm (98.4 in) bowl length
+- Bowl Max RPM: 1,800 RPM maximum
+- Main Motor Horsepower: 160 kW (214.6 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 103216](https://ims.internationalprocessplants.com/inventory/equipment/detail/103216)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/103216) | [View IPP# 103216](https://ims.internationalprocessplants.com/inventory/equipment/detail/103216)
 
 [Browse All Stainless Steel Solid Bowl-Decanter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/solid-bowl-decanter-centrifuge)
-
-### Buy Used Other Solid Bowl-Decanter Centrifuges for Sale
-
-IPP stocks solid bowl-decanter centrifuges from manufacturers where the material is not a standard stainless steel grade. Available from Westfalia, Sharples, Centrisys, and other manufacturers.
-
-#### [Other] Westfalia ([IPP# 212920](https://ims.internationalprocessplants.com/inventory/equipment/detail/212920))
-
-Used Westfalia centrifuge-solid bowl-decanter.
-
-- Used condition
-- Westfalia Decanter CA 365-010
-
-[Request Specs](/contact/) | [View IPP# 212920](https://ims.internationalprocessplants.com/inventory/equipment/detail/212920)
-
-#### Sharples ([IPP# 205102](https://ims.internationalprocessplants.com/inventory/equipment/detail/205102))
-
-Used Sharples centrifuge-solid bowl-decanter.
-
-- Used condition
-- Sharples AS16
-
-[Request Specs](/contact/) | [View IPP# 205102](https://ims.internationalprocessplants.com/inventory/equipment/detail/205102)
-
-#### Centrisys CS26-4/Z62-4 — 660 mm (26 in) Bowl ([IPP# 218244](https://ims.internationalprocessplants.com/inventory/equipment/detail/218244))
-
-Used Centrisys CS26-4/Z62-4 stainless steel solid bowl-decanter centrifuge with 660 mm (26 in) bowl diameter and 3,000 G-Force rating.
-
-- 660 mm (26 in) bowl diameter
-- 2,850 mm (112 in) bowl length
-- 3,100 RPM maximum
-- 3,000 G-Force
-- 93.2 kW (125 HP) motor
-
-[Request Specs](/contact/) | [View IPP# 218244](https://ims.internationalprocessplants.com/inventory/equipment/detail/218244)
-
-[Browse All Other Solid Bowl-Decanter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/solid-bowl-decanter-centrifuge)
 
 ### Buy Used Carbon Steel Solid Bowl-Decanter Centrifuges for Sale
 
 IPP stocks carbon steel solid bowl-decanter centrifuges for standard industrial and heavy-duty operations. Available from Bird and other manufacturers.
 
-#### [Carbon Steel] Bird Carbon Steel ([IPP# 207274](https://ims.internationalprocessplants.com/inventory/equipment/detail/207274))
+#### [Carbon Steel] Bird HB3900 — Carbon Steel, 635 mm (25 in) Bowl with Ceramic Flights ([IPP# 207274](https://ims.internationalprocessplants.com/inventory/equipment/detail/207274))
 
-Used Bird Carbon Steel centrifuge-solid bowl-decanter.
+Used Bird HB3900 carbon steel solid bowl-decanter centrifuge with 635 mm (25 in) bowl diameter, 44.7 kW (60 HP) motor, and ceramic flights for abrasive duty.
 
-- Carbon Steel
-- Used condition
-- Bird HB3900
+- Material: Carbon Steel
+- Bowl Diameter: 635 mm (25 in)
+- Bowl Length: 2,450 mm (96 in)
+- Bowl Max RPM: 1,800
+- Main Motor: 44.7 kW (60 HP)
+- Notable: Ceramic flights
+- Model: HB3900 (Used)
 
-[Request Specs](/contact/) | [View IPP# 207274](https://ims.internationalprocessplants.com/inventory/equipment/detail/207274)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/207274) | [View IPP# 207274](https://ims.internationalprocessplants.com/inventory/equipment/detail/207274)
 
 [Browse All Carbon Steel Solid Bowl-Decanter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/solid-bowl-decanter-centrifuge)
 
@@ -127,37 +101,37 @@ Bird is the deepest single-manufacturer position in IPP's solid bowl-decanter ce
 
 Used Bird model 36 stainless steel 304 solid bowl-decanter centrifuge with 914 mm (36 in) bowl diameter and contour screen bowl type.
 
-- Stainless Steel 304
-- 914 mm (36 in) bowl diameter
-- 1,600 RPM maximum
-- 149.1 kW (200 HP) motor
-- Used condition
+- Material: Stainless Steel 304
+- Bowl Diameter: 914 mm (36 in) bowl diameter
+- Bowl Max RPM: 1,600 RPM maximum
+- Main Motor Horsepower: 149.1 kW (200 HP) motor
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 201474](https://ims.internationalprocessplants.com/inventory/equipment/detail/201474)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/201474) | [View IPP# 201474](https://ims.internationalprocessplants.com/inventory/equipment/detail/201474)
 
 #### Bird HP 2400 — 356 mm (14 in) Bowl ([IPP# 210724](https://ims.internationalprocessplants.com/inventory/equipment/detail/210724))
 
 Used Bird HP 2400 stainless steel 316L solid bowl-decanter centrifuge with 356 mm (14 in) bowl diameter and back drive capability.
 
-- Stainless Steel 316L
-- 355.6 mm (14 in) bowl diameter
-- 3,900 RPM maximum
-- Back drive equipped
-- 37.3 kW (50 HP) motor
+- Material: Stainless Steel 316L
+- Bowl Diameter: 355.6 mm (14 in) bowl diameter
+- Bowl Max RPM: 3,900 RPM maximum
+- Back Drive: Back drive equipped
+- Main Motor Horsepower: 37.3 kW (50 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 210724](https://ims.internationalprocessplants.com/inventory/equipment/detail/210724)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/210724) | [View IPP# 210724](https://ims.internationalprocessplants.com/inventory/equipment/detail/210724)
 
 #### Bird 2200 — 610 mm (24 in) Bowl ([IPP# 228101](https://ims.internationalprocessplants.com/inventory/equipment/detail/228101))
 
 Used Bird 2200 stainless steel 316 solid bowl-decanter centrifuge with 610 mm (24 in) bowl diameter and 3,000 RPM maximum bowl speed.
 
-- Stainless Steel 316
-- 610 mm (24 in) bowl diameter
-- 914 mm (36 in) bowl length
-- 3,000 RPM maximum
-- 22.4 kW (30 HP) motor
+- Material: Stainless Steel 316
+- Bowl Diameter: 610 mm (24 in) bowl diameter
+- Bowl Length: 914 mm (36 in) bowl length
+- Bowl Max RPM: 3,000 RPM maximum
+- Main Motor Horsepower: 22.4 kW (30 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 228101](https://ims.internationalprocessplants.com/inventory/equipment/detail/228101)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/228101) | [View IPP# 228101](https://ims.internationalprocessplants.com/inventory/equipment/detail/228101)
 
 [Browse All Bird Solid Bowl-Decanter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/solid-bowl-decanter-centrifuge)
 
@@ -169,37 +143,37 @@ Alfa Laval is the second deepest OEM position in IPP's solid bowl-decanter centr
 
 Used Alfa Laval AVNX 418 K -31 stainless steel 316 solid bowl-decanter centrifuge with contour bowl design and back drive capability.
 
-- Stainless Steel 316
-- 355.6 mm (14 in) bowl diameter
-- 3,250 RPM maximum
-- 3,100 G-Force
-- 25.3 kW (33.9 HP) motor
+- Material: Stainless Steel 316
+- Bowl Diameter: 355.6 mm (14 in) bowl diameter
+- Bowl Max RPM: 3,250 RPM maximum
+- G-Force: 3,100 G-Force
+- Main Motor Horsepower: 25.3 kW (33.9 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 222787](https://ims.internationalprocessplants.com/inventory/equipment/detail/222787)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/222787) | [View IPP# 222787](https://ims.internationalprocessplants.com/inventory/equipment/detail/222787)
 
-#### Alfa Laval CHNX-414-31G — 353 mm (13.9 in) Bowl ([IPP# 217928](https://ims.internationalprocessplants.com/inventory/equipment/detail/217928))
+#### Alfa Laval P-2000 S-D-C — 356 mm (14 in) Bowl ([IPP# 212889](https://ims.internationalprocessplants.com/inventory/equipment/detail/212889))
 
-Used Alfa Laval CHNX-414-31G solid bowl-decanter centrifuge with 353 mm (13.9 in) bowl diameter operating at 4,000 RPM maximum.
+Used Alfa Laval P-2000 S-D-C stainless steel 316 solid bowl-decanter centrifuge with 356 mm (14 in) bowl diameter and 18.6 kW motor.
 
-- Stainless Steel Other
-- 353 mm (13.9 in) bowl diameter
-- 860 mm (33.9 in) bowl length
-- 4,000 RPM maximum
-- 22 kW (29.5 HP) motor
+- Material: Stainless Steel 316
+- Bowl Diameter: 355.6 mm (14 in) bowl diameter
+- Bowl Length: 648 mm (25.5 in) bowl length
+- Main Motor Horsepower: 18.6 kW (25 HP) motor
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 217928](https://ims.internationalprocessplants.com/inventory/equipment/detail/217928)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212889) | [View IPP# 212889](https://ims.internationalprocessplants.com/inventory/equipment/detail/212889)
 
 #### Alfa Laval P-2000 VME — 356 mm (14 in) Bowl ([IPP# 212885](https://ims.internationalprocessplants.com/inventory/equipment/detail/212885))
 
 Used Alfa Laval P-2000 VME stainless steel 316 solid bowl-decanter centrifuge with 356 mm (14 in) bowl diameter and 18.6 kW motor.
 
-- Stainless Steel 316
-- 355.6 mm (14 in) bowl diameter
-- 648 mm (25.5 in) bowl length
-- 18.6 kW (25 HP) motor
-- Used condition
+- Material: Stainless Steel 316
+- Bowl Diameter: 355.6 mm (14 in) bowl diameter
+- Bowl Length: 648 mm (25.5 in) bowl length
+- Main Motor Horsepower: 18.6 kW (25 HP) motor
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 212885](https://ims.internationalprocessplants.com/inventory/equipment/detail/212885)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212885) | [View IPP# 212885](https://ims.internationalprocessplants.com/inventory/equipment/detail/212885)
 
 [Browse All Alfa Laval Solid Bowl-Decanter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/solid-bowl-decanter-centrifuge)
 
@@ -211,37 +185,37 @@ IPP stocks Westfalia solid bowl-decanter centrifuges across the SDA, CA 365, and
 
 Used Westfalia CA366-29-00 stainless steel 316 solid bowl-decanter centrifuge with gas-tight design and 3,300 RPM maximum bowl speed.
 
-- Stainless Steel 316
-- 354 mm (13.9 in) bowl diameter
-- 3,300 RPM maximum
-- Gas-tight construction
-- 30 kW (40.2 HP) motor
+- Material: Stainless Steel 316
+- Bowl Diameter: 354 mm (13.9 in) bowl diameter
+- Bowl Max RPM: 3,300 RPM maximum
+- Gas Tight: Gas-tight construction
+- Main Motor Horsepower: 30 kW (40.2 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 236061](https://ims.internationalprocessplants.com/inventory/equipment/detail/236061)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/236061) | [View IPP# 236061](https://ims.internationalprocessplants.com/inventory/equipment/detail/236061)
 
 #### Westfalia SDA-360L — 354 mm (13.9 in) Bowl ([IPP# 104056](https://ims.internationalprocessplants.com/inventory/equipment/detail/104056))
 
 Used Westfalia SDA-360L stainless steel 316 solid bowl-decanter centrifuge with 354 mm (13.9 in) bowl diameter and 1,200 mm (47.2 in) bowl length.
 
-- Stainless Steel 316
-- 354 mm (13.9 in) bowl diameter
-- 1,200 mm (48.1 in) bowl length
-- 400 RPM maximum
-- 30 kW (40.2 HP) motor
+- Material: Stainless Steel 316
+- Bowl Diameter: 354 mm (13.9 in) bowl diameter
+- Bowl Length: 1,200 mm (48.1 in) bowl length
+- Bowl Max RPM: 400 RPM maximum
+- Main Motor Horsepower: 30 kW (40.2 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 104056](https://ims.internationalprocessplants.com/inventory/equipment/detail/104056)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/104056) | [View IPP# 104056](https://ims.internationalprocessplants.com/inventory/equipment/detail/104056)
 
-#### Westfalia SDA 230 — 220 mm (8.7 in) Bowl ([IPP# 207135](https://ims.internationalprocessplants.com/inventory/equipment/detail/207135))
+#### Westfalia CA366-29-00 — 354 mm (13.9 in) Bowl ([IPP# 236063](https://ims.internationalprocessplants.com/inventory/equipment/detail/236063))
 
-Used Westfalia SDA 230 solid bowl-decanter centrifuge with 220 mm (8.7 in) bowl diameter, gas-tight design, and 5,100 RPM maximum speed.
+Used Westfalia CA366-29-00 stainless steel 316 solid bowl-decanter centrifuge with 354 mm (13.9 in) bowl diameter and 30 kW motor.
 
-- Stainless Steel Other
-- 220 mm (8.7 in) bowl diameter
-- 600 mm (23.6 in) bowl length
-- 5,100 RPM maximum
-- Gas-tight construction
+- Material: Stainless Steel 316
+- Bowl Diameter: 354 mm (13.9 in) bowl diameter
+- Bowl Max RPM: 3,300 RPM maximum
+- Main Motor Horsepower: 30 kW (40.2 HP) motor
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 207135](https://ims.internationalprocessplants.com/inventory/equipment/detail/207135)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/236063) | [View IPP# 236063](https://ims.internationalprocessplants.com/inventory/equipment/detail/236063)
 
 [Browse All Westfalia Solid Bowl-Decanter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/solid-bowl-decanter-centrifuge)
 
@@ -260,37 +234,37 @@ Good used solid bowl-decanter centrifuges are the deepest condition position in 
 
 Used Alfa Laval AVNX 418 K -31 stainless steel 316 solid bowl-decanter centrifuge with contour bowl design, back drive, and 3,100 G-Force.
 
-- Used condition
-- Stainless Steel 316
-- 355.6 mm (14 in) bowl diameter
-- 3,250 RPM maximum
-- 25.3 kW (33.9 HP) motor
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Bowl Diameter: 355.6 mm (14 in) bowl diameter
+- Bowl Max RPM: 3,250 RPM maximum
+- Main Motor Horsepower: 25.3 kW (33.9 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 222787](https://ims.internationalprocessplants.com/inventory/equipment/detail/222787)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/222787) | [View IPP# 222787](https://ims.internationalprocessplants.com/inventory/equipment/detail/222787)
 
 #### Used TEMA Siebtechnik TS-420-EK — 420 mm (16.5 in) Bowl ([IPP# 217825](https://ims.internationalprocessplants.com/inventory/equipment/detail/217825))
 
 Used TEMA Siebtechnik TS-420-EK stainless steel 316L solid bowl-decanter centrifuge with 420 mm (16.5 in) bowl diameter and 3,600 RPM maximum speed.
 
-- Used condition
-- Stainless Steel 316L
-- 420 mm (16.5 in) bowl diameter
-- 3,600 RPM maximum
-- 37 kW (49.6 HP) motor
+- Condition: Used condition
+- Material: Stainless Steel 316L
+- Bowl Diameter: 420 mm (16.5 in) bowl diameter
+- Bowl Max RPM: 3,600 RPM maximum
+- Main Motor Horsepower: 37 kW (49.6 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 217825](https://ims.internationalprocessplants.com/inventory/equipment/detail/217825)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/217825) | [View IPP# 217825](https://ims.internationalprocessplants.com/inventory/equipment/detail/217825)
 
 #### Used Pieralisi Baby 1 — 229 mm (9 in) Bowl ([IPP# 230201](https://ims.internationalprocessplants.com/inventory/equipment/detail/230201))
 
 Used Pieralisi Baby 1 stainless steel 316 solid bowl-decanter centrifuge with 229 mm (9 in) bowl diameter, back drive, and 4,700 G-Force.
 
-- Used condition
-- Stainless Steel 316
-- 228.6 mm (9 in) bowl diameter
-- 5,200 RPM maximum
-- 4,700 G-Force
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Bowl Diameter: 228.6 mm (9 in) bowl diameter
+- Bowl Max RPM: 5,200 RPM maximum
+- G-Force: 4,700 G-Force
 
-[Request Specs](/contact/) | [View IPP# 230201](https://ims.internationalprocessplants.com/inventory/equipment/detail/230201)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/230201) | [View IPP# 230201](https://ims.internationalprocessplants.com/inventory/equipment/detail/230201)
 
 [Browse All Used Solid Bowl-Decanter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/solid-bowl-decanter-centrifuge)
 
@@ -302,13 +276,13 @@ IPP stocks refurbished/rebuilt solid bowl-decanter centrifuges that have been me
 
 Refurbished/rebuilt Bird stainless steel 316 solid bowl-decanter centrifuge with 457 mm (18 in) bowl diameter and 29.8 kW motor.
 
-- Refurbished/Rebuilt condition
-- Stainless Steel 316
-- 457.2 mm (18 in) bowl diameter
-- 1,050 mm (42 in) bowl length
-- 29.8 kW (40 HP) motor
+- Condition: Refurbished/Rebuilt condition
+- Material: Stainless Steel 316
+- Bowl Diameter: 457.2 mm (18 in) bowl diameter
+- Bowl Length: 1,050 mm (42 in) bowl length
+- Main Motor Horsepower: 29.8 kW (40 HP) motor
 
-[Request Specs](/contact/) | [View IPP# 112252](https://ims.internationalprocessplants.com/inventory/equipment/detail/112252)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/112252) | [View IPP# 112252](https://ims.internationalprocessplants.com/inventory/equipment/detail/112252)
 
 [Browse All Refurbished Solid Bowl-Decanter Centrifuges in Stock](https://ims.internationalprocessplants.com/inventory/equipment/solid-bowl-decanter-centrifuge)
 
@@ -319,7 +293,7 @@ Refurbished/rebuilt Bird stainless steel 316 solid bowl-decanter centrifuge with
 
 Tell us your specifications and requirements. Our team will match your needs against current solid bowl-decanter centrifuges inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -439,7 +413,7 @@ In addition to solid bowl-decanter centrifuges, IPP stocks equipment across mult
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -448,4 +422,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Contact a Specialist](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/solid-bowl-decanter-centrifuge)
+[Contact a Specialist](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/solid-bowl-decanter-centrifuge)

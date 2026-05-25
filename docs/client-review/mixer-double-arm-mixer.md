@@ -1,12 +1,12 @@
 # Buy Used Double Arm Mixers for Sale
 
-Buying used double arm mixers through International Process Plants gives rubber, adhesive, sealant, and heavy-paste manufacturers access to heavy-duty kneaders built around two counter-rotating sigma or Z-type blades working inside a W-shaped trough from Baker Perkins, JH Day, Werner & Pfleiderer, and other OEM manufacturers.
+Buying used double arm mixers through International Process Plants gives rubber, adhesive, sealant, and heavy-paste manufacturers and others access to heavy-duty kneaders built around two counter-rotating sigma or Z-type blades working inside a W-shaped trough from Baker Perkins, JH Day, Werner & Pfleiderer, and other OEM manufacturers.
 
 Materials of construction include Carbon Steel, Stainless Steel 316, Stainless Steel 304, Stainless Steel 321, and Stainless Steel Other. Capacities range from 6 L (1.59 gallons) on IPP# 202706 to 3,300 L (875 gallons) on IPP# 202135. Blade configurations include sigma, Z-type, nobben, and cored dispersion designs. Most units feature hydraulic or mechanical tilt discharge for emptying high-viscosity batches.
 
 IPP stocks units from Baker Perkins, JH Day, Werner & Pfleiderer, Fritz Meili (Zurich), Morton-Duplex, and Guittard. All current inventory is in used condition. Buying used double arm mixers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/double-arm-mixer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/double-arm-mixer)
 
 **Quick Stats:** 25+ Double Arm Mixers in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -30,23 +30,25 @@ IPP stocks carbon steel double arm mixers. Available from Baker Perkins, JH Day,
 
 Used Baker Perkins 20 TUEM carbon steel double arm mixer with 3,300 L (875 gallons) capacity, dual sigma blades, and hydraulic tilt discharge.
 
-- 3,300 L (875 gallons)
-- Dual sigma blades
-- Jacket rated 8.6 bar (125 psi)
-- Vacuum and tilt discharge
+- Capacity (Design): 3,300 L (875 gallons)
+- Blade Type: Dual sigma blades
+- Jacket Pressure: Jacket rated 8.6 bar (125 psi)
+- Vacuum: Yes
+- Tilting: Yes
 
-[Request Specs](/contact/) | [View IPP# 202135](https://ims.internationalprocessplants.com/inventory/equipment/detail/202135)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/202135) | [View IPP# 202135](https://ims.internationalprocessplants.com/inventory/equipment/detail/202135)
 
 #### JH Day Carbon Steel — 2,100 L ([IPP# 212417](https://ims.internationalprocessplants.com/inventory/equipment/detail/212417))
 
 Used JH Day carbon steel double arm mixer with 2,100 L (550 gallons) capacity, double nobben blades at 30 RPM, and hydraulic tilt discharge.
 
-- 2,100 L (550 gallons)
-- Double nobben blades
-- 30 RPM blade speed
-- Hydraulic tilt, packing seal
+- Capacity (Design): 2,100 L (550 gallons)
+- Blade Type: Double nobben blades
+- Blade Speed (RPM): 30 RPM blade speed
+- Tilting: Hydraulic tilt
+- Hydraulics: packing seal
 
-[Request Specs](/contact/) | [View IPP# 212417](https://ims.internationalprocessplants.com/inventory/equipment/detail/212417)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212417) | [View IPP# 212417](https://ims.internationalprocessplants.com/inventory/equipment/detail/212417)
 
 [Browse All Carbon Steel Double Arm Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/double-arm-mixer)
 
@@ -58,23 +60,28 @@ IPP stocks stainless steel double arm mixers in grades including 304, 316, 321, 
 
 Used JH Day Mogul stainless steel 304 double arm mixer with 946 L (250 gallons) capacity, cored dispersion blades at 45.3 RPM, and stainless steel 304 jacket rated to 8.6 bar (125 psi).
 
-- 946 L (250 gallons)
-- SS 304 jacket, 8.6 bar (125 psi)
-- Cored dispersion blades, 45.3 RPM
-- Hydraulic tilt discharge
+- Capacity (Design): 946 L (250 gallons)
+- Jacket Pressure: SS 304 jacket
+- Material: 8.6 bar (125 psi)
+- Blade Type: Cored dispersion blades
+- Blade Speed (RPM): 45.3 RPM
+- Tilting: Yes
+- Hydraulics: Yes
 
-[Request Specs](/contact/) | [View IPP# 103823](https://ims.internationalprocessplants.com/inventory/equipment/detail/103823)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/103823) | [View IPP# 103823](https://ims.internationalprocessplants.com/inventory/equipment/detail/103823)
 
 #### Werner & Pfleiderer Stainless Steel 304 — 450 L ([IPP# 36127](https://ims.internationalprocessplants.com/inventory/equipment/detail/36127))
 
 Used Werner & Pfleiderer UK14HS stainless steel 304 clad double arm mixer with 450 L (118.9 gallons) capacity, cored dispersion blades, vacuum capability, and jacket rated to 10.1 bar (146 psi).
 
-- 450 L (118.9 gallons)
-- Jacket rated 10.1 bar (146 psi)
-- Vacuum, tilt, hydraulic drive
-- Stainless Steel 304 clad
+- Capacity (Design): 450 L (118.9 gallons)
+- Jacket Pressure: Jacket rated 10.1 bar (146 psi)
+- Vacuum: Vacuum
+- Tilting: tilt
+- Hydraulics: hydraulic drive
+- Clad: Stainless Steel 304 clad
 
-[Request Specs](/contact/) | [View IPP# 36127](https://ims.internationalprocessplants.com/inventory/equipment/detail/36127)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/36127) | [View IPP# 36127](https://ims.internationalprocessplants.com/inventory/equipment/detail/36127)
 
 [Browse All Stainless Steel Double Arm Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/double-arm-mixer)
 
@@ -86,12 +93,13 @@ IPP stocks additional double arm mixers where the contact-surface material is no
 
 Used Werner & Pfleiderer double arm mixer with 500 L (132.1 gallons) capacity, carbon steel Z blades, jacket rated to 17.7 bar (256.1 psi), and hydraulic tilt discharge.
 
-- 500 L (132.1 gallons)
-- Carbon steel Z blades
-- Jacket rated 17.7 bar (256.1 psi)
-- Hydraulic tilt discharge
+- Capacity (Design): 500 L (132.1 gallons)
+- Blade Type: Carbon steel Z blades
+- Jacket Pressure: Jacket rated 17.7 bar (256.1 psi)
+- Tilting: Yes
+- Hydraulics: Yes
 
-[Request Specs](/contact/) | [View IPP# 705571](https://ims.internationalprocessplants.com/inventory/equipment/detail/705571)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/705571) | [View IPP# 705571](https://ims.internationalprocessplants.com/inventory/equipment/detail/705571)
 
 [Browse All Other Double Arm Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/double-arm-mixer)
 
@@ -110,34 +118,39 @@ Baker Perkins is the deepest single-manufacturer position in IPP's double arm mi
 
 Used Baker Perkins M85SL stainless steel 304 double arm mixer with 852 L (225 gallons) capacity, cored dispersion blades at 42 RPM, and carbon steel jacket.
 
-- 852 L (225 gallons)
-- Stainless Steel 304
-- Cored dispersion blades, 42 RPM
-- Hydraulic tilt discharge
+- Capacity (Design): 852 L (225 gallons)
+- Material: Stainless Steel 304
+- Blade Type: Cored dispersion blades
+- Blade Speed (RPM): 42 RPM
+- Tilting: Yes
+- Hydraulics: Yes
 
-[Request Specs](/contact/) | [View IPP# 103822](https://ims.internationalprocessplants.com/inventory/equipment/detail/103822)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/103822) | [View IPP# 103822](https://ims.internationalprocessplants.com/inventory/equipment/detail/103822)
 
 #### Baker Perkins 20 TUEM — 3,300 L ([IPP# 203506](https://ims.internationalprocessplants.com/inventory/equipment/detail/203506))
 
 Used Baker Perkins 20 TUEM stainless steel double arm mixer with 3,300 L (875 gallons) capacity, sigma blades at 25.5 RPM, vacuum capability, and jacket rated to 8.6 bar (125 psi).
 
-- 3,300 L (875 gallons)
-- Sigma blades, 25.5 RPM
-- Vacuum and tilt discharge
-- Jacket rated 8.6 bar (125 psi)
+- Capacity (Design): 3,300 L (875 gallons)
+- Blade Type: Sigma blades
+- Blade Speed (RPM): 25.5 RPM
+- Vacuum: Yes
+- Tilting: Yes
+- Jacket Pressure: Jacket rated 8.6 bar (125 psi)
 
-[Request Specs](/contact/) | [View IPP# 203506](https://ims.internationalprocessplants.com/inventory/equipment/detail/203506)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/203506) | [View IPP# 203506](https://ims.internationalprocessplants.com/inventory/equipment/detail/203506)
 
 #### Baker Perkins Carbon Steel — 1,700 L ([IPP# 77569](https://ims.internationalprocessplants.com/inventory/equipment/detail/77569))
 
 Used Baker Perkins carbon steel double arm mixer with 1,700 L (450 gallons) capacity, shredder blades, and hydraulic tilt discharge.
 
-- 1,700 L (450 gallons)
-- Carbon Steel
-- Shredder blades
-- Hydraulic tilt discharge
+- Capacity (Design): 1,700 L (450 gallons)
+- Material: Carbon Steel
+- Blade Type: Shredder blades
+- Tilting: Yes
+- Hydraulics: Yes
 
-[Request Specs](/contact/) | [View IPP# 77569](https://ims.internationalprocessplants.com/inventory/equipment/detail/77569)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/77569) | [View IPP# 77569](https://ims.internationalprocessplants.com/inventory/equipment/detail/77569)
 
 [Browse All Baker Perkins Double Arm Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/double-arm-mixer)
 
@@ -149,34 +162,37 @@ JH Day (now part of B&P Littleford) is a legacy manufacturer of heavy-duty knead
 
 Used JH Day Mogul stainless steel 304 double arm mixer with 946 L (250 gallons) capacity, cored dispersion blades at 45.3 RPM, and stainless steel 304 jacket rated to 8.6 bar (125 psi).
 
-- 946 L (250 gallons)
-- Stainless Steel 304
-- Jacket 8.6 bar / 178.3 °C
-- Hydraulic tilt discharge
+- Capacity (Design): 946 L (250 gallons)
+- Material: Stainless Steel 304
+- Jacket Pressure: Jacket 8.6 bar
+- Jacket Temperature: 178.3 °C
+- Tilting: Yes
+- Hydraulics: Yes
 
-[Request Specs](/contact/) | [View IPP# 103823](https://ims.internationalprocessplants.com/inventory/equipment/detail/103823)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/103823) | [View IPP# 103823](https://ims.internationalprocessplants.com/inventory/equipment/detail/103823)
 
 #### JH Day Carbon Steel — 1,350 L ([IPP# 704850](https://ims.internationalprocessplants.com/inventory/equipment/detail/704850))
 
 Used JH Day carbon steel double arm mixer with 1,350 L (359.3 gallons) capacity, double sigma blades, and carbon steel jacket.
 
-- 1,350 L (359.3 gallons)
-- Carbon Steel
-- Double sigma blades
-- Packing shaft seal
+- Capacity (Design): 1,350 L (359.3 gallons)
+- Material: Carbon Steel
+- Blade Type: Double sigma blades
+- Shaft Seal: Packing shaft seal
 
-[Request Specs](/contact/) | [View IPP# 704850](https://ims.internationalprocessplants.com/inventory/equipment/detail/704850)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/704850) | [View IPP# 704850](https://ims.internationalprocessplants.com/inventory/equipment/detail/704850)
 
 #### JH Day Mogul Carbon Steel — 2,100 L ([IPP# 212412](https://ims.internationalprocessplants.com/inventory/equipment/detail/212412))
 
 Used JH Day Mogul carbon steel double arm mixer with 2,100 L (550 gallons) capacity, double nobben blades at 30 RPM, and tilt discharge with packing seal.
 
-- 2,100 L (550 gallons)
-- Double nobben blades, 30 RPM
-- Tilt discharge
-- Packing shaft seal
+- Capacity (Design): 2,100 L (550 gallons)
+- Blade Type: Double nobben blades
+- Blade Speed (RPM): 30 RPM
+- Tilting: Tilt discharge
+- Shaft Seal: Packing shaft seal
 
-[Request Specs](/contact/) | [View IPP# 212412](https://ims.internationalprocessplants.com/inventory/equipment/detail/212412)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/212412) | [View IPP# 212412](https://ims.internationalprocessplants.com/inventory/equipment/detail/212412)
 
 [Browse All JH Day Double Arm Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/double-arm-mixer)
 
@@ -188,34 +204,40 @@ Werner & Pfleiderer (now Coperion) is a legacy manufacturer of high-torque knead
 
 Used Werner & Pfleiderer Universal-17-X-E3 stainless steel 316 double arm mixer with 946 L (250 gallons) capacity, sigma blades, vacuum capability, and carbon steel jacket rated to 9.8 bar (142.3 psi).
 
-- 946 L (250 gallons)
-- Stainless Steel 316
-- Jacket rated 9.8 bar (142.3 psi)
-- Vacuum capability
+- Capacity (Design): 946 L (250 gallons)
+- Material: Stainless Steel 316
+- Jacket Pressure: Jacket rated 9.8 bar (142.3 psi)
+- Vacuum: Vacuum capability
 
-[Request Specs](/contact/) | [View IPP# 89444](https://ims.internationalprocessplants.com/inventory/equipment/detail/89444)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/89444) | [View IPP# 89444](https://ims.internationalprocessplants.com/inventory/equipment/detail/89444)
 
 #### Werner & Pfleiderer UK14HS — 450 L ([IPP# 36127](https://ims.internationalprocessplants.com/inventory/equipment/detail/36127))
 
 Used Werner & Pfleiderer UK14HS stainless steel 304 clad double arm mixer with 450 L (118.9 gallons) capacity, cored dispersion blades, vacuum capability, and jacket rated to 10.1 bar (146 psi).
 
-- 450 L (118.9 gallons)
-- Stainless Steel 304 clad
-- Jacket 10.1 bar / 183 °C
-- Vacuum, tilt, hydraulic drive
+- Capacity (Design): 450 L (118.9 gallons)
+- Material: Stainless Steel 304
+- Clad: Yes
+- Jacket Pressure: Jacket 10.1 bar
+- Jacket Temperature: 183 °C
+- Vacuum: Vacuum
+- Tilting: tilt
+- Hydraulics: hydraulic drive
 
-[Request Specs](/contact/) | [View IPP# 36127](https://ims.internationalprocessplants.com/inventory/equipment/detail/36127)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/36127) | [View IPP# 36127](https://ims.internationalprocessplants.com/inventory/equipment/detail/36127)
 
 #### Werner & Pfleiderer Carbon Steel — 500 L ([IPP# 705574](https://ims.internationalprocessplants.com/inventory/equipment/detail/705574))
 
 Used Werner & Pfleiderer carbon steel double arm mixer with 500 L (132.1 gallons) capacity, Z blades, jacket rated to 17.7 bar (256.1 psi) at 230 °C (446 °F), and hydraulic tilt discharge.
 
-- 500 L (132.1 gallons)
-- Z blades
-- Jacket 17.7 bar / 230 °C
-- Hydraulic tilt discharge
+- Capacity (Design): 500 L (132.1 gallons)
+- Blade Type: Z blades
+- Jacket Pressure: Jacket 17.7 bar
+- Jacket Temperature: 230 °C
+- Tilting: Yes
+- Hydraulics: Yes
 
-[Request Specs](/contact/) | [View IPP# 705574](https://ims.internationalprocessplants.com/inventory/equipment/detail/705574)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/705574) | [View IPP# 705574](https://ims.internationalprocessplants.com/inventory/equipment/detail/705574)
 
 [Browse All Werner & Pfleiderer Double Arm Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/double-arm-mixer)
 
@@ -227,34 +249,37 @@ IPP also stocks double arm mixers from Fritz Meili (Zurich), Morton-Duplex, and 
 
 Used Fritz Meili (Zurich) stainless steel 316 clad double arm mixer with 1,400 L (369.8 gallons) capacity, sigma blades at 168 RPM, and jacket rated to 5.1 bar (73.5 psi).
 
-- 1,400 L (369.8 gallons)
-- Stainless Steel 316 clad
-- Sigma blades, 168 RPM
-- Jacket rated 5.1 bar (73.5 psi)
+- Capacity (Design): 1,400 L (369.8 gallons)
+- Material: Stainless Steel 316
+- Clad: Yes
+- Blade Type: Sigma blades
+- Blade Speed (RPM): 168 RPM
+- Jacket Pressure: Jacket rated 5.1 bar (73.5 psi)
 
-[Request Specs](/contact/) | [View IPP# 92295](https://ims.internationalprocessplants.com/inventory/equipment/detail/92295)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/92295) | [View IPP# 92295](https://ims.internationalprocessplants.com/inventory/equipment/detail/92295)
 
 #### Morton-Duplex 3-DUP SS 316 — 140 L ([IPP# 706518](https://ims.internationalprocessplants.com/inventory/equipment/detail/706518))
 
 Used Morton-Duplex 3-DUP stainless steel 316 double arm mixer with 140 L (37 gallons) capacity, double sigma blades, and tilt discharge.
 
-- 140 L (37 gallons)
-- Stainless Steel 316
-- Double sigma blades
-- Tilt discharge
+- Capacity (Design): 140 L (37 gallons)
+- Material: Stainless Steel 316
+- Blade Type: Double sigma blades
+- Tilting: Tilt discharge
 
-[Request Specs](/contact/) | [View IPP# 706518](https://ims.internationalprocessplants.com/inventory/equipment/detail/706518)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706518) | [View IPP# 706518](https://ims.internationalprocessplants.com/inventory/equipment/detail/706518)
 
 #### Guittard M5 SS Other — 6 L ([IPP# 202706](https://ims.internationalprocessplants.com/inventory/equipment/detail/202706))
 
 Used Guittard M5 stainless steel double arm mixer with 6 L (1.59 gallons) capacity for laboratory-scale or small-batch kneading applications.
 
-- 6 L (1.59 gallons)
-- Stainless Steel Other
-- Guittard M5
-- Used condition
+- Capacity (Design): 6 L (1.59 gallons)
+- Material: Stainless Steel Other
+- Manufacturer: Guittard
+- Model: M5
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 202706](https://ims.internationalprocessplants.com/inventory/equipment/detail/202706)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/202706) | [View IPP# 202706](https://ims.internationalprocessplants.com/inventory/equipment/detail/202706)
 
 [Browse All Double Arm Mixers from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/double-arm-mixer)
 
@@ -273,37 +298,41 @@ Good used double arm mixers represent the full condition position in IPP's curre
 
 Used Baker Perkins 20 TUEM carbon steel double arm mixer with 3,300 L (875 gallons) capacity, dual sigma blades at 25.5 RPM, vacuum capability, and jacket rated to 8.6 bar (125 psi).
 
-- Used condition
-- Carbon Steel
-- 3,300 L (875 gallons)
-- Dual sigma blades, 25.5 RPM
-- Vacuum and tilt discharge
+- Condition: Used condition
+- Material: Carbon Steel
+- Capacity (Design): 3,300 L (875 gallons)
+- Blade Type: Dual sigma blades
+- Blade Speed (RPM): 25.5 RPM
+- Vacuum: Yes
+- Tilting: Yes
 
-[Request Specs](/contact/) | [View IPP# 202135](https://ims.internationalprocessplants.com/inventory/equipment/detail/202135)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/202135) | [View IPP# 202135](https://ims.internationalprocessplants.com/inventory/equipment/detail/202135)
 
 #### Used Werner & Pfleiderer Universal-17-X-E3 — 946 L ([IPP# 89444](https://ims.internationalprocessplants.com/inventory/equipment/detail/89444))
 
 Used Werner & Pfleiderer Universal-17-X-E3 stainless steel 316 double arm mixer with 946 L (250 gallons) capacity, sigma blades, vacuum capability, and jacket rated to 9.8 bar (142.3 psi).
 
-- Used condition
-- Stainless Steel 316
-- 946 L (250 gallons)
-- Jacket rated 9.8 bar (142.3 psi)
-- Vacuum capability
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Capacity (Design): 946 L (250 gallons)
+- Jacket Pressure: Jacket rated 9.8 bar (142.3 psi)
+- Vacuum: Vacuum capability
 
-[Request Specs](/contact/) | [View IPP# 89444](https://ims.internationalprocessplants.com/inventory/equipment/detail/89444)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/89444) | [View IPP# 89444](https://ims.internationalprocessplants.com/inventory/equipment/detail/89444)
 
 #### Used Fritz Meili (Zurich) SS 316 Clad — 1,400 L ([IPP# 92295](https://ims.internationalprocessplants.com/inventory/equipment/detail/92295))
 
 Used Fritz Meili (Zurich) stainless steel 316 clad double arm mixer with 1,400 L (369.8 gallons) capacity, sigma blades at 168 RPM, and jacket rated to 5.1 bar (73.5 psi).
 
-- Used condition
-- Stainless Steel 316 clad
-- 1,400 L (369.8 gallons)
-- Sigma blades, 168 RPM
-- Jacket rated 5.1 bar (73.5 psi)
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Clad: Yes
+- Capacity (Design): 1,400 L (369.8 gallons)
+- Blade Type: Sigma blades
+- Blade Speed (RPM): 168 RPM
+- Jacket Pressure: Jacket rated 5.1 bar (73.5 psi)
 
-[Request Specs](/contact/) | [View IPP# 92295](https://ims.internationalprocessplants.com/inventory/equipment/detail/92295)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/92295) | [View IPP# 92295](https://ims.internationalprocessplants.com/inventory/equipment/detail/92295)
 
 [Browse All Used Double Arm Mixers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/double-arm-mixer)
 
@@ -314,7 +343,7 @@ Used Fritz Meili (Zurich) stainless steel 316 clad double arm mixer with 1,400 L
 
 Tell us your specifications and requirements. Our team will match your needs against current double arm mixers inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -438,7 +467,7 @@ In addition to double arm mixers, IPP stocks equipment across multiple categorie
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -447,4 +476,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/double-arm-mixer)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/double-arm-mixer)

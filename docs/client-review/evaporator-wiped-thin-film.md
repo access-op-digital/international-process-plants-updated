@@ -6,7 +6,7 @@ Heat transfer surface areas span 0.2 m² (2.2 ft²) up to 16 m² (172.2 ft²) ac
 
 Stocked model lines include the Luwa SMS HM, KH, and MLK rotor families, the Carl Canzler 450/1.8, 600/3,0, and 900/6,5 series, and Buss-SMS-Canzler 450/3,5, 900/6,5, and Sambay short-path units. Wiper blade options on stocked rotors include 316Ti stainless steel with phenol resin scrapers, graphite, PTFE, plain 316 stainless steel, and Hastelloy C276 for corrosive duty. Condition grades on offer cover Used, Unused, and Re-glassed inventory. Buying used wiped and thin film evaporators from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film)
 
 **Quick Stats:** 65+ Wiped & Thin Film in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -30,25 +30,31 @@ IPP stocks stainless steel wiped/thin film evaporators. Available from Luwa SMS,
 
 Used Hitachi Stainless Steel 304 evaporator.
 
-- 1.03 bar (15 psi), 182.2 °C (360 °F)
-- Stainless Steel 304
-- Used condition
-- Hitachi Adjust-O-Film
-- 1,200 mm (48 in) x 4,000 mm (158 in)
+- Pressure: 1.03 bar (15 psi)
+- Temperature: 182.2 °C (360 °F)
+- Material: Stainless Steel 304
+- Condition: Used condition
+- Manufacturer: Hitachi
+- Model: Adjust-O-Film
+- Diameter: 1,200 mm (48 in)
+- Length: 4,000 mm (158 in)
 
-[Request Specs](/contact/) | [View IPP# 247169](https://ims.internationalprocessplants.com/inventory/equipment/detail/247169)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/247169) | [View IPP# 247169](https://ims.internationalprocessplants.com/inventory/equipment/detail/247169)
 
 #### Luwa SMS Stainless Steel 316L ([IPP# 706885](https://ims.internationalprocessplants.com/inventory/equipment/detail/706885))
 
 Used Luwa SMS Stainless Steel 316L evaporator.
 
-- 3.2 bar (46.4 psi), 200 °C (392 °F)
-- Stainless Steel 316L
-- Used condition
-- Luwa SMS HM-1200
-- 750 mm (29.5 in) x 4,850 mm (190.9 in)
+- Pressure: 3.2 bar (46.4 psi)
+- Temperature: 200 °C (392 °F)
+- Material: Stainless Steel 316L
+- Condition: Used condition
+- Manufacturer: Luwa SMS
+- Model: HM-1200
+- Diameter: 750 mm (29.5 in)
+- Length: 4,850 mm (190.9 in)
 
-[Request Specs](/contact/) | [View IPP# 706885](https://ims.internationalprocessplants.com/inventory/equipment/detail/706885)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706885) | [View IPP# 706885](https://ims.internationalprocessplants.com/inventory/equipment/detail/706885)
 
 [Browse All Stainless Steel Wiped/Thin Film Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film)
 
@@ -60,23 +66,25 @@ IPP stocks other wiped/thin film evaporators. Available from Pfaudler, LCI and o
 
 Re-glassed Pfaudler Glasslined evaporator.
 
-- 200 °C (392 °F)
-- Glasslined
-- Re-glassed condition
-- 1,200 mm (48 in) x 1,050 mm (42 in)
+- Temperature: 200 °C (392 °F)
+- Material: Glasslined
+- Condition: Re-glassed condition
+- Diameter: 1,200 mm (48 in)
+- Length: 1,050 mm (42 in)
 
-[Request Specs](/contact/) | [View IPP# 18493](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493) | [View IPP# 18493](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493)
 
 #### LCI Carbon Steel ([IPP# 201618](https://ims.internationalprocessplants.com/inventory/equipment/detail/201618))
 
 Used LCI Carbon Steel evaporator.
 
-- 260 °C (500 °F)
-- Carbon Steel
-- Used condition
-- 610 mm (24 in) x 1,200 mm (48 in)
+- Temperature: 260 °C (500 °F)
+- Material: Carbon Steel
+- Condition: Used condition
+- Diameter: 610 mm (24 in)
+- Length: 1,200 mm (48 in)
 
-[Request Specs](/contact/) | [View IPP# 201618](https://ims.internationalprocessplants.com/inventory/equipment/detail/201618)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/201618) | [View IPP# 201618](https://ims.internationalprocessplants.com/inventory/equipment/detail/201618)
 
 [Browse All Other Wiped/Thin Film Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film)
 
@@ -88,25 +96,30 @@ IPP stocks hastelloy wiped/thin film evaporators. Available from SMS Buss, Luwa 
 
 Used SMS Buss Hastelloy - C22 evaporator.
 
-- 1.72 bar (25 psi), 250 °C (482 °F)
-- Hastelloy - C22
-- Used condition
-- SMS Buss LN 1400
-- 850 mm (33.5 in) x 6,300 mm (248.8 in)
+- Pressure: 1.72 bar (25 psi)
+- Temperature: 250 °C (482 °F)
+- Material: Hastelloy - C22
+- Condition: Used condition
+- Manufacturer: SMS Buss
+- Model: LN 1400
+- Diameter: 850 mm (33.5 in)
+- Length: 6,300 mm (248.8 in)
 
-[Request Specs](/contact/) | [View IPP# 220954](https://ims.internationalprocessplants.com/inventory/equipment/detail/220954)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/220954) | [View IPP# 220954](https://ims.internationalprocessplants.com/inventory/equipment/detail/220954)
 
 #### Luwa SMS Hastelloy - C276 ([IPP# 226240](https://ims.internationalprocessplants.com/inventory/equipment/detail/226240))
 
 Used Luwa SMS Hastelloy - C276 evaporator.
 
-- 1 bar (14.5 psi)
-- Hastelloy - C276
-- Used condition
-- Luwa SMS MLK4-0600/4500/90
-- 600 mm (23.6 in) x 5,000 mm (196.9 in)
+- Pressure: 1 bar (14.5 psi)
+- Material: Hastelloy - C276
+- Condition: Used condition
+- Manufacturer: Luwa SMS
+- Model: MLK4-0600/4500/90
+- Diameter: 600 mm (23.6 in)
+- Length: 5,000 mm (196.9 in)
 
-[Request Specs](/contact/) | [View IPP# 226240](https://ims.internationalprocessplants.com/inventory/equipment/detail/226240)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/226240) | [View IPP# 226240](https://ims.internationalprocessplants.com/inventory/equipment/detail/226240)
 
 [Browse All Hastelloy Wiped/Thin Film Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film)
 
@@ -131,7 +144,7 @@ Used Luwa SMS HS0050 wiped/thin film evaporator. 0.5 m² (5.4 ft²) heat transfe
 - 14.9 kW (20 HP) motor
 - 152.4 mm (6 in) dia., vertical
 
-[Request Specs](/contact/) | [View IPP# 102561](https://ims.internationalprocessplants.com/inventory/equipment/detail/102561)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/102561) | [View IPP# 102561](https://ims.internationalprocessplants.com/inventory/equipment/detail/102561)
 
 #### Luwa SMS L-425 — 3.2 m² ([IPP# 20067](https://ims.internationalprocessplants.com/inventory/equipment/detail/20067))
 
@@ -143,7 +156,7 @@ Used Luwa SMS L-425 wiped/thin film evaporator. 3.2 m² (34.4 ft²) heat transfe
 - Stainless steel austenitic
 - 2,200 mm (87 in) height
 
-[Request Specs](/contact/) | [View IPP# 20067](https://ims.internationalprocessplants.com/inventory/equipment/detail/20067)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/20067) | [View IPP# 20067](https://ims.internationalprocessplants.com/inventory/equipment/detail/20067)
 
 #### [Largest Luwa SMS] Luwa SMS SS 316L — 10 m² ([IPP# 202611](https://ims.internationalprocessplants.com/inventory/equipment/detail/202611))
 
@@ -155,7 +168,7 @@ Used Luwa SMS wiped/thin film evaporator. 10 m² (107.6 ft²) heat transfer area
 - 800 mm (31.5 in) diameter
 - Dish top head, cone bottom
 
-[Request Specs](/contact/) | [View IPP# 202611](https://ims.internationalprocessplants.com/inventory/equipment/detail/202611)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/202611) | [View IPP# 202611](https://ims.internationalprocessplants.com/inventory/equipment/detail/202611)
 
 [Browse All Luwa SMS Wiped/Thin Film Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film)
 
@@ -173,7 +186,7 @@ Used Buss-SMS-Canzler LN-1400 wiped/thin film evaporator. 13.9 m² (150 ft²) he
 - Cone bottom head
 - Stainless steel 316
 
-[Request Specs](/contact/) | [View IPP# 206245](https://ims.internationalprocessplants.com/inventory/equipment/detail/206245)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/206245) | [View IPP# 206245](https://ims.internationalprocessplants.com/inventory/equipment/detail/206245)
 
 #### Buss-SMS-Canzler 450/3,5-KO — 3.5 m² ([IPP# 211618](https://ims.internationalprocessplants.com/inventory/equipment/detail/211618))
 
@@ -185,7 +198,7 @@ Used Buss-SMS-Canzler 450/3,5-KO wiped/thin film evaporator. 3.5 m² (37.7 ft²)
 - 450 mm (17.7 in) dia., vertical
 - 3.7 kW (5 HP), direct coupled
 
-[Request Specs](/contact/) | [View IPP# 211618](https://ims.internationalprocessplants.com/inventory/equipment/detail/211618)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/211618) | [View IPP# 211618](https://ims.internationalprocessplants.com/inventory/equipment/detail/211618)
 
 #### Buss-SMS-Canzler Sambay B-300-N — 2 m² ([IPP# 219255](https://ims.internationalprocessplants.com/inventory/equipment/detail/219255))
 
@@ -197,7 +210,7 @@ Used Buss-SMS-Canzler Sambay B-300-N wiped/thin film evaporator. 2 m² (21.5 ft�
 - Teflon lined wipers, mechanical seal
 - 4 kW (5.4 HP), belt drive
 
-[Request Specs](/contact/) | [View IPP# 219255](https://ims.internationalprocessplants.com/inventory/equipment/detail/219255)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/219255) | [View IPP# 219255](https://ims.internationalprocessplants.com/inventory/equipment/detail/219255)
 
 [Browse All Buss-SMS-Canzler Wiped/Thin Film Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film)
 
@@ -215,7 +228,7 @@ Used Carl Canzler 600/3,0-K4,5 wiped film evaporator. 3 m² (32.3 ft²) heat tra
 - Internal condenser 4.5 m², graphite wipers
 - 600 mm (23.6 in) dia., mechanical seal
 
-[Request Specs](/contact/) | [View IPP# 211632](https://ims.internationalprocessplants.com/inventory/equipment/detail/211632)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/211632) | [View IPP# 211632](https://ims.internationalprocessplants.com/inventory/equipment/detail/211632)
 
 #### Leybold-Heraeus KD300 — 3 m² ([IPP# 100417](https://ims.internationalprocessplants.com/inventory/equipment/detail/100417))
 
@@ -227,7 +240,7 @@ Used Leybold-Heraeus KD300 wiped/thin film evaporator. 3 m² (32.3 ft²) heat tr
 - Internal condenser 5 m², mechanical seal
 - 500 mm (19.7 in) dia., gear drive
 
-[Request Specs](/contact/) | [View IPP# 100417](https://ims.internationalprocessplants.com/inventory/equipment/detail/100417)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/100417) | [View IPP# 100417](https://ims.internationalprocessplants.com/inventory/equipment/detail/100417)
 
 #### [Re-Glassed] Pfaudler Glass-Lined — 10 m² ([IPP# 18493](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493))
 
@@ -239,7 +252,7 @@ Re-glassed Pfaudler glass-lined wiped/thin film evaporator. 10 m² (107.6 ft²) 
 - 1,200 mm (48 in) dia., mechanical seal
 - Re-glassed condition, 7.5 kW (10 HP)
 
-[Request Specs](/contact/) | [View IPP# 18493](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493) | [View IPP# 18493](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493)
 
 [Browse All Wiped/Thin Film Evaporators from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film)
 
@@ -264,7 +277,7 @@ Used Luwa SMS wiped/thin film evaporator. 10 m² (107.6 ft²) heat transfer area
 - 800 mm (31.5 in) diameter
 - Good used condition
 
-[Request Specs](/contact/) | [View IPP# 202611](https://ims.internationalprocessplants.com/inventory/equipment/detail/202611)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/202611) | [View IPP# 202611](https://ims.internationalprocessplants.com/inventory/equipment/detail/202611)
 
 #### Used Buss-SMS-Canzler LN-1400 — 13.9 m² ([IPP# 206245](https://ims.internationalprocessplants.com/inventory/equipment/detail/206245))
 
@@ -276,7 +289,7 @@ Used Buss-SMS-Canzler LN-1400 wiped/thin film evaporator. 13.9 m² (150 ft²) he
 - Stainless steel 316
 - Good used condition
 
-[Request Specs](/contact/) | [View IPP# 206245](https://ims.internationalprocessplants.com/inventory/equipment/detail/206245)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/206245) | [View IPP# 206245](https://ims.internationalprocessplants.com/inventory/equipment/detail/206245)
 
 #### Used Carl Canzler 600/3,0-K4,5 — 3 m² ([IPP# 211632](https://ims.internationalprocessplants.com/inventory/equipment/detail/211632))
 
@@ -288,7 +301,7 @@ Used Carl Canzler wiped film evaporator. 3 m² (32.3 ft²) heat transfer area wi
 - Internal condenser, graphite wipers
 - Good used condition
 
-[Request Specs](/contact/) | [View IPP# 211632](https://ims.internationalprocessplants.com/inventory/equipment/detail/211632)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/211632) | [View IPP# 211632](https://ims.internationalprocessplants.com/inventory/equipment/detail/211632)
 
 [Browse All Used Wiped/Thin Film Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film)
 
@@ -306,7 +319,7 @@ Unused Pfaudler 103.4-36V-274 wiped/thin film evaporator. 9.5 m² (102 ft²) hea
 - Internal condenser, mechanical seal
 - 889 mm (35 in) dia., vertical
 
-[Request Specs](/contact/) | [View IPP# 246862](https://ims.internationalprocessplants.com/inventory/equipment/detail/246862)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246862) | [View IPP# 246862](https://ims.internationalprocessplants.com/inventory/equipment/detail/246862)
 
 #### [Unused] Unused Chema Balke Dürr RDA350/2.5-A — 2.6 m² ([IPP# 47921](https://ims.internationalprocessplants.com/inventory/equipment/detail/47921))
 
@@ -318,7 +331,7 @@ Unused Chema Balke Dürr GmbH RDA350/2.5-A wiped/thin film evaporator. 2.6 m² (
 - Vacuum capable, cone bottom
 - 406.4 mm (16 in) dia., vertical
 
-[Request Specs](/contact/) | [View IPP# 47921](https://ims.internationalprocessplants.com/inventory/equipment/detail/47921)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/47921) | [View IPP# 47921](https://ims.internationalprocessplants.com/inventory/equipment/detail/47921)
 
 [Browse All Unused Wiped/Thin Film Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film)
 
@@ -336,7 +349,7 @@ Re-glassed Pfaudler glass-lined wiped/thin film evaporator. 10 m² (107.6 ft²) 
 - 1,200 mm (48 in) dia., mechanical seal
 - Re-glassed condition, 7.5 kW (10 HP)
 
-[Request Specs](/contact/) | [View IPP# 18493](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493) | [View IPP# 18493](https://ims.internationalprocessplants.com/inventory/equipment/detail/18493)
 
 [Browse All Re-Glassed Wiped/Thin Film Evaporators in Stock](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film)
 
@@ -347,7 +360,7 @@ Re-glassed Pfaudler glass-lined wiped/thin film evaporator. 10 m² (107.6 ft²) 
 
 Tell us your specifications and requirements. Our team will match your needs against current wiped/thin film evaporators inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -468,7 +481,7 @@ In addition to wiped/thin film evaporators, IPP stocks equipment across multiple
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -477,4 +490,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/evaporator/wiped-thin-film)

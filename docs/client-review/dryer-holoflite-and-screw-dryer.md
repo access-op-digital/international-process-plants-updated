@@ -1,12 +1,12 @@
 # Buy Used Holoflite & Screw Dryers for Sale
 
-Buying used holoflite and screw dryers through International Process Plants gives chemical processing, wastewater treatment, mining, and pharmaceutical buyers access to indirect-heat dryers that use hollow-flight heated screws to convey and thermally process bulk solids in a single enclosed trough from Joy Denver, Svedala, Hi Line Industries, Reitz, Denver Equipment, Thies Kg Coesfeld Gmbh, and other OEM manufacturers.
+Buying used holoflite and screw dryers through International Process Plants gives chemical processing, wastewater treatment, mining, and pharmaceutical buyers access to indirect-heat dryers that use screws to convey and thermally process bulk solids in a single enclosed trough from Joy Denver, Svedala, Hi Line Industries, Reitz, Denver Equipment, Thies Kg Coesfeld Gmbh, and other OEM manufacturers.
 
 Materials of construction include Carbon Steel, Stainless Steel 316, Stainless Steel 304, and Stainless Steel 316L. Internal pressure ratings range from 0.005 bar (0.07 psi) on IPP# 208223 to 5.5 bar (80 psi) on IPP# 222018. Heat transfer surface areas span from 7.2 m² (78 ft²) on IPP# 91126 to 141.1 m² (1,500 ft²) on IPP# 232604. Screw configurations range from single-screw units through twin-screw and quad-screw designs.
 
 IPP stocks Joy Denver units in the D-2420-6 and D12-20-5 model families. Svedala inventory includes the Q2424-6 quad-screw processor series. All units are in used condition. Buying used holoflite and screw dryers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/holoflite-and-screw-dryer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/holoflite-and-screw-dryer)
 
 **Quick Stats:** 10+ Holoflite & Screw Dryers in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -30,36 +30,39 @@ Carbon steel is the deepest material position in IPP's holoflite and screw dryer
 
 Used Joy Denver D-2420-6 carbon steel holoflite and screw dryer with 53 m² (571 ft²) heat transfer surface area and 6,800 kg/h (15,000 lb/h) product rate.
 
-- Carbon Steel
-- 53 m² (571 ft²) heat transfer area
-- 5.5 bar (80 psi) at 343.3 °C (650 °F)
-- Four-screw configuration
-- 6,800 kg/h (15,000 lb/h) product rate
+- Material: Carbon Steel
+- Heat Transfer Surface Area: 53 m² (571 ft²) heat transfer area
+- Internal Pressure: 5.5 bar (80 psi)
+- Internal Temperature: 343.3 °C (650 °F)
+- Number of Screws: Four-screw configuration
+- Product Rate: 6,800 kg/h (15,000 lb/h) product rate
 
-[Request Specs](/contact/) | [View IPP# 222018](https://ims.internationalprocessplants.com/inventory/equipment/detail/222018)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/222018) | [View IPP# 222018](https://ims.internationalprocessplants.com/inventory/equipment/detail/222018)
 
 #### Svedala Q2424-6 — 141.1 m² ([IPP# 232604](https://ims.internationalprocessplants.com/inventory/equipment/detail/232604))
 
 Used Svedala Q2424-6 carbon steel quad-screw holoflite processor with 141.1 m² (1,500 ft²) heat transfer surface area and hot-oil heating medium.
 
-- Carbon Steel
-- 141.1 m² (1,500 ft²) heat transfer area
-- 2.1 bar (30 psi) at 343.3 °C (650 °F)
-- Four-screw configuration
-- 5,450 kg/h (12,000 lb/h) product rate
+- Material: Carbon Steel
+- Heat Transfer Surface Area: 141.1 m² (1,500 ft²) heat transfer area
+- Internal Pressure: 2.1 bar (30 psi)
+- Internal Temperature: 343.3 °C (650 °F)
+- Number of Screws: Four-screw configuration
+- Product Rate: 5,450 kg/h (12,000 lb/h) product rate
 
-[Request Specs](/contact/) | [View IPP# 232604](https://ims.internationalprocessplants.com/inventory/equipment/detail/232604)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/232604) | [View IPP# 232604](https://ims.internationalprocessplants.com/inventory/equipment/detail/232604)
 
 #### Joy Denver D12-20-5 — 11.9 m² ([IPP# 72348](https://ims.internationalprocessplants.com/inventory/equipment/detail/72348))
 
 Used Joy Denver D12-20-5 single-screw holoflite dryer with 11.9 m² (128 ft²) heat transfer surface area.
 
-- 11.9 m² (128 ft²) heat transfer area
-- 2.1 bar (30 psi) jacket at 343.3 °C (650 °F)
-- Single-screw configuration
-- Used condition
+- Heat Transfer Surface Area: 11.9 m² (128 ft²) heat transfer area
+- Jacket Pressure: 2.1 bar (30 psi)
+- Jacket Temperature: 343.3 °C (650 °F)
+- Number of Screws: Single-screw configuration
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 72348](https://ims.internationalprocessplants.com/inventory/equipment/detail/72348)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/72348) | [View IPP# 72348](https://ims.internationalprocessplants.com/inventory/equipment/detail/72348)
 
 [Browse All Carbon Steel Holoflite & Screw Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/holoflite-and-screw-dryer)
 
@@ -71,37 +74,39 @@ IPP stocks stainless steel holoflite and screw dryers in 316, 304, and 316L grad
 
 Used Denver Equipment D-12-18-5 stainless steel 316L holoflite and screw dryer with 19 m² (204 ft²) heat transfer surface area and twin-screw configuration.
 
-- Stainless Steel 316L
-- 19 m² (204 ft²) heat transfer area
-- 2.1 bar (30 psi) at 343.3 °C (650 °F)
-- Twin-screw configuration
-- 907 kg/h (2,000 lb/h) product rate
+- Material: Stainless Steel 316L
+- Heat Transfer Surface Area: 19 m² (204 ft²) heat transfer area
+- Internal Pressure: 2.1 bar (30 psi)
+- Internal Temperature: 343.3 °C (650 °F)
+- Number of Screws: Twin-screw configuration
+- Product Rate: 907 kg/h (2,000 lb/h) product rate
 
-[Request Specs](/contact/) | [View IPP# 232625](https://ims.internationalprocessplants.com/inventory/equipment/detail/232625)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/232625) | [View IPP# 232625](https://ims.internationalprocessplants.com/inventory/equipment/detail/232625)
 
 #### Thies Kg Coesfeld Gmbh 2 V 410-24 — SS 316 ([IPP# 208223](https://ims.internationalprocessplants.com/inventory/equipment/detail/208223))
 
 Used Thies Kg Coesfeld Gmbh 2 V 410-24 stainless steel 316 holoflite and screw dryer with twin-screw design rated for 50 °C (122 °F) internal temperature.
 
-- Stainless Steel 316
-- 50 °C (122 °F) internal temperature
-- 6 bar (87 psi) jacket pressure
-- Twin-screw configuration
-- 700 mm (27.6 in) W x 3,750 mm (147.6 in) L
+- Material: Stainless Steel 316
+- Internal Temperature: 50 °C (122 °F) internal temperature
+- Jacket Pressure: 6 bar (87 psi) jacket pressure
+- Number of Screws: Twin-screw configuration
+- Width: 700 mm (27.6 in) W
+- Length: 3,750 mm (147.6 in) L
 
-[Request Specs](/contact/) | [View IPP# 208223](https://ims.internationalprocessplants.com/inventory/equipment/detail/208223)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/208223) | [View IPP# 208223](https://ims.internationalprocessplants.com/inventory/equipment/detail/208223)
 
 #### Reitz TJ-12-K3210 — SS 304 ([IPP# 97235](https://ims.internationalprocessplants.com/inventory/equipment/detail/97235))
 
 Used Reitz TJ-12-K3210 stainless steel 304 holoflite and screw dryer with single-screw configuration and 3,050 mm (120 in) length.
 
-- Stainless Steel 304
-- 3,050 mm (120 in) length
-- 0.34 bar (5 psi) jacket pressure
-- Single-screw configuration
-- Used condition
+- Material: Stainless Steel 304
+- Length: 3,050 mm (120 in) length
+- Jacket Pressure: 0.34 bar (5 psi) jacket pressure
+- Number of Screws: Single-screw configuration
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 97235](https://ims.internationalprocessplants.com/inventory/equipment/detail/97235)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/97235) | [View IPP# 97235](https://ims.internationalprocessplants.com/inventory/equipment/detail/97235)
 
 [Browse All Stainless Steel Holoflite & Screw Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/holoflite-and-screw-dryer)
 
@@ -120,37 +125,39 @@ Joy Denver is the deepest single-manufacturer position in IPP's holoflite and sc
 
 Used Joy Denver D-2420-6 carbon steel quad-screw holoflite processor with 53 m² (571 ft²) heat transfer surface area, rated for 5.5 bar (80 psi) at 343.3 °C (650 °F).
 
-- Carbon Steel
-- 53 m² (571 ft²) heat transfer area
-- 6,800 kg/h (15,000 lb/h) product rate
-- Four-screw configuration
-- Used condition
+- Material: Carbon Steel
+- Heat Transfer Surface Area: 53 m² (571 ft²) heat transfer area
+- Product Rate: 6,800 kg/h (15,000 lb/h) product rate
+- Number of Screws: Four-screw configuration
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 222018](https://ims.internationalprocessplants.com/inventory/equipment/detail/222018)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/222018) | [View IPP# 222018](https://ims.internationalprocessplants.com/inventory/equipment/detail/222018)
 
 #### Joy Denver D-2420-6 — IPP# 222019 ([IPP# 222019](https://ims.internationalprocessplants.com/inventory/equipment/detail/222019))
 
 Used Joy Denver D-2420-6 carbon steel holoflite and screw dryer with 53 m² (571 ft²) heat transfer surface area and 6,800 kg/h (15,000 lb/h) product rate.
 
-- Carbon Steel
-- 53 m² (571 ft²) heat transfer area
-- 5.5 bar (80 psi) at 343.3 °C (650 °F)
-- Four-screw configuration
-- Used condition
+- Material: Carbon Steel
+- Heat Transfer Surface Area: 53 m² (571 ft²) heat transfer area
+- Internal Pressure: 5.5 bar (80 psi)
+- Internal Temperature: 343.3 °C (650 °F)
+- Number of Screws: Four-screw configuration
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 222019](https://ims.internationalprocessplants.com/inventory/equipment/detail/222019)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/222019) | [View IPP# 222019](https://ims.internationalprocessplants.com/inventory/equipment/detail/222019)
 
 #### Joy Denver D12-20-5 — 11.9 m² ([IPP# 72348](https://ims.internationalprocessplants.com/inventory/equipment/detail/72348))
 
 Used Joy Denver D12-20-5 single-screw holoflite dryer with 11.9 m² (128 ft²) heat transfer surface area and 2.1 bar (30 psi) jacket pressure.
 
-- 11.9 m² (128 ft²) heat transfer area
-- 2.1 bar (30 psi) jacket at 343.3 °C (650 °F)
-- Single-screw configuration
-- 6,100 mm (240 in) length
-- Used condition
+- Heat Transfer Surface Area: 11.9 m² (128 ft²) heat transfer area
+- Jacket Pressure: 2.1 bar (30 psi)
+- Jacket Temperature: 343.3 °C (650 °F)
+- Number of Screws: Single-screw configuration
+- Length: 6,100 mm (240 in) length
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 72348](https://ims.internationalprocessplants.com/inventory/equipment/detail/72348)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/72348) | [View IPP# 72348](https://ims.internationalprocessplants.com/inventory/equipment/detail/72348)
 
 [Browse All Joy Denver Holoflite & Screw Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/holoflite-and-screw-dryer)
 
@@ -162,37 +169,38 @@ Svedala is the second deepest OEM position in IPP's holoflite and screw dryer in
 
 Used Svedala Q2424-6 carbon steel quad-screw holoflite processor with 141.1 m² (1,500 ft²) heat transfer surface area and 5,450 kg/h (12,000 lb/h) product rate.
 
-- Carbon Steel
-- 141.1 m² (1,500 ft²) heat transfer area
-- 5,450 kg/h (12,000 lb/h) product rate
-- Four-screw configuration
-- Used condition
+- Material: Carbon Steel
+- Heat Transfer Surface Area: 141.1 m² (1,500 ft²) heat transfer area
+- Product Rate: 5,450 kg/h (12,000 lb/h) product rate
+- Number of Screws: Four-screw configuration
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 232604](https://ims.internationalprocessplants.com/inventory/equipment/detail/232604)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/232604) | [View IPP# 232604](https://ims.internationalprocessplants.com/inventory/equipment/detail/232604)
 
 #### Svedala Q2424-6 — IPP# 232605 ([IPP# 232605](https://ims.internationalprocessplants.com/inventory/equipment/detail/232605))
 
 Used Svedala Q2424-6 carbon steel quad-screw holoflite processor with 141.1 m² (1,500 ft²) heat transfer surface area and 5,450 kg/h (12,000 lb/h) product rate.
 
-- Carbon Steel
-- 141.1 m² (1,500 ft²) heat transfer area
-- 2.1 bar (30 psi) at 343.3 °C (650 °F)
-- Four-screw configuration
-- Used condition
+- Material: Carbon Steel
+- Heat Transfer Surface Area: 141.1 m² (1,500 ft²) heat transfer area
+- Internal Pressure: 2.1 bar (30 psi)
+- Internal Temperature: 343.3 °C (650 °F)
+- Number of Screws: Four-screw configuration
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 232605](https://ims.internationalprocessplants.com/inventory/equipment/detail/232605)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/232605) | [View IPP# 232605](https://ims.internationalprocessplants.com/inventory/equipment/detail/232605)
 
 #### Svedala — 141.1 m² IPP# 232603 ([IPP# 232603](https://ims.internationalprocessplants.com/inventory/equipment/detail/232603))
 
 Used Svedala carbon steel quad-screw holoflite processor with 141.1 m² (1,500 ft²) heat transfer surface area and 5,450 kg/h (12,000 lb/h) product rate.
 
-- Carbon Steel
-- 141.1 m² (1,500 ft²) heat transfer area
-- 5,450 kg/h (12,000 lb/h) product rate
-- Four-screw configuration
-- Used condition
+- Material: Carbon Steel
+- Heat Transfer Surface Area: 141.1 m² (1,500 ft²) heat transfer area
+- Product Rate: 5,450 kg/h (12,000 lb/h) product rate
+- Number of Screws: Four-screw configuration
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 232603](https://ims.internationalprocessplants.com/inventory/equipment/detail/232603)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/232603) | [View IPP# 232603](https://ims.internationalprocessplants.com/inventory/equipment/detail/232603)
 
 [Browse All Svedala Holoflite & Screw Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/holoflite-and-screw-dryer)
 
@@ -204,37 +212,38 @@ Beyond Joy Denver and Svedala, IPP stocks holoflite and screw dryers from Hi Lin
 
 Used Denver Equipment D-12-18-5 stainless steel 316L holoflite and screw dryer with 19 m² (204 ft²) heat transfer surface area and twin-screw configuration.
 
-- Stainless Steel 316L
-- 19 m² (204 ft²) heat transfer area
-- 907 kg/h (2,000 lb/h) product rate
-- Twin-screw configuration
-- Used condition
+- Material: Stainless Steel 316L
+- Heat Transfer Surface Area: 19 m² (204 ft²) heat transfer area
+- Product Rate: 907 kg/h (2,000 lb/h) product rate
+- Number of Screws: Twin-screw configuration
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 232625](https://ims.internationalprocessplants.com/inventory/equipment/detail/232625)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/232625) | [View IPP# 232625](https://ims.internationalprocessplants.com/inventory/equipment/detail/232625)
 
 #### Hi Line Industries 2155M25 — SS 316 ([IPP# 91125](https://ims.internationalprocessplants.com/inventory/equipment/detail/91125))
 
 Used Hi Line Industries 2155M25 stainless steel 316 holoflite and screw dryer with single-screw configuration rated for 1.03 bar (14.9 psi) at 148.9 °C (300 °F).
 
-- Stainless Steel 316
-- 1.03 bar (14.9 psi) at 148.9 °C (300 °F)
-- 4,100 mm (162 in) length
-- Single-screw configuration
-- Used condition
+- Material: Stainless Steel 316
+- Internal Pressure: 1.03 bar (14.9 psi)
+- Internal Temperature: 148.9 °C (300 °F)
+- Length: 4,100 mm (162 in) length
+- Number of Screws: Single-screw configuration
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 91125](https://ims.internationalprocessplants.com/inventory/equipment/detail/91125)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/91125) | [View IPP# 91125](https://ims.internationalprocessplants.com/inventory/equipment/detail/91125)
 
 #### Reitz TJ-12-K3210 — SS 304 ([IPP# 97235](https://ims.internationalprocessplants.com/inventory/equipment/detail/97235))
 
 Used Reitz TJ-12-K3210 stainless steel 304 holoflite and screw dryer with single-screw configuration and 3,050 mm (120 in) length.
 
-- Stainless Steel 304
-- 3,050 mm (120 in) length
-- 0.34 bar (5 psi) jacket pressure
-- Single-screw configuration
-- Used condition
+- Material: Stainless Steel 304
+- Length: 3,050 mm (120 in) length
+- Jacket Pressure: 0.34 bar (5 psi) jacket pressure
+- Number of Screws: Single-screw configuration
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 97235](https://ims.internationalprocessplants.com/inventory/equipment/detail/97235)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/97235) | [View IPP# 97235](https://ims.internationalprocessplants.com/inventory/equipment/detail/97235)
 
 [Browse All Holoflite & Screw Dryers from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/holoflite-and-screw-dryer)
 
@@ -253,37 +262,37 @@ All holoflite and screw dryers in IPP's current inventory are in good used condi
 
 Used Joy Denver D-2420-6 carbon steel quad-screw holoflite processor with 53 m² (571 ft²) heat transfer surface area and 6,800 kg/h (15,000 lb/h) product rate.
 
-- Used condition
-- Carbon Steel
-- 53 m² (571 ft²) heat transfer area
-- 6,800 kg/h (15,000 lb/h) product rate
-- Four-screw configuration
+- Condition: Used condition
+- Material: Carbon Steel
+- Heat Transfer Surface Area: 53 m² (571 ft²) heat transfer area
+- Product Rate: 6,800 kg/h (15,000 lb/h) product rate
+- Number of Screws: Four-screw configuration
 
-[Request Specs](/contact/) | [View IPP# 222018](https://ims.internationalprocessplants.com/inventory/equipment/detail/222018)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/222018) | [View IPP# 222018](https://ims.internationalprocessplants.com/inventory/equipment/detail/222018)
 
 #### Used Denver Equipment D-12-18-5 — SS 316L ([IPP# 232625](https://ims.internationalprocessplants.com/inventory/equipment/detail/232625))
 
 Used Denver Equipment D-12-18-5 stainless steel 316L holoflite and screw dryer with 19 m² (204 ft²) heat transfer surface area and twin-screw configuration.
 
-- Used condition
-- Stainless Steel 316L
-- 19 m² (204 ft²) heat transfer area
-- 907 kg/h (2,000 lb/h) product rate
-- Twin-screw configuration
+- Condition: Used condition
+- Material: Stainless Steel 316L
+- Heat Transfer Surface Area: 19 m² (204 ft²) heat transfer area
+- Product Rate: 907 kg/h (2,000 lb/h) product rate
+- Number of Screws: Twin-screw configuration
 
-[Request Specs](/contact/) | [View IPP# 232625](https://ims.internationalprocessplants.com/inventory/equipment/detail/232625)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/232625) | [View IPP# 232625](https://ims.internationalprocessplants.com/inventory/equipment/detail/232625)
 
 #### Used Svedala Q2424-6 — 141.1 m² ([IPP# 232604](https://ims.internationalprocessplants.com/inventory/equipment/detail/232604))
 
 Used Svedala Q2424-6 carbon steel quad-screw holoflite processor with 141.1 m² (1,500 ft²) heat transfer surface area and 5,450 kg/h (12,000 lb/h) product rate.
 
-- Used condition
-- Carbon Steel
-- 141.1 m² (1,500 ft²) heat transfer area
-- 5,450 kg/h (12,000 lb/h) product rate
-- Four-screw configuration
+- Condition: Used condition
+- Material: Carbon Steel
+- Heat Transfer Surface Area: 141.1 m² (1,500 ft²) heat transfer area
+- Product Rate: 5,450 kg/h (12,000 lb/h) product rate
+- Number of Screws: Four-screw configuration
 
-[Request Specs](/contact/) | [View IPP# 232604](https://ims.internationalprocessplants.com/inventory/equipment/detail/232604)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/232604) | [View IPP# 232604](https://ims.internationalprocessplants.com/inventory/equipment/detail/232604)
 
 [Browse All Used Holoflite & Screw Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/holoflite-and-screw-dryer)
 
@@ -294,7 +303,7 @@ Used Svedala Q2424-6 carbon steel quad-screw holoflite processor with 141.1 m² 
 
 Tell us your specifications and requirements. Our team will match your needs against current holoflite and screw dryer inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -415,7 +424,7 @@ In addition to holoflite & screw dryers, IPP stocks equipment across multiple ca
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom-manufactured equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -424,4 +433,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to a Specialist](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/holoflite-and-screw-dryer)
+[Talk to a Specialist](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/holoflite-and-screw-dryer)

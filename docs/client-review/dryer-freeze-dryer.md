@@ -6,7 +6,7 @@ Shelf drying surfaces range from 1.57 m² (16.9 ft²) on IPP# 39799 to 63.2 m² 
 
 Shelf counts range from 5 shelves on IPP# 39799 up to 34 shelves on IPP# 94972. Condition options include used and unused stock. Buying used freeze dryers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/freeze-dryer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/freeze-dryer)
 
 **Quick Stats:** 15,000+ Equipment Pieces in IPP Inventory | 1980 Established Since | 15 Countries with Offices
 
@@ -30,13 +30,13 @@ IPP stocks Stainless Steel 304 freeze dryers suitable for pharmaceutical and foo
 
 Unused Hochvakuum Technik Dresden (Germany) TG16.10 Stainless Steel 304 freeze dryer with 1.57 m² (16.9 ft²) shelf drying surface and 5 shelves.
 
-- Stainless Steel 304
-- 1.57 m² (16.9 ft²) shelf area
-- 5 shelves
-- −40 °C to 80 °C shelf range
-- Unused condition
+- Material: Stainless Steel 304
+- Shelf Area - Drying Surface: 1.57 m² (16.9 ft²) shelf area
+- Number of Shelves: 5 shelves
+- Shelf Temperature Range: −40 °C to 80 °C shelf range
+- Condition: Unused condition
 
-[Request Specs](/contact/) | [View IPP# 39799](https://ims.internationalprocessplants.com/inventory/equipment/detail/39799)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/39799) | [View IPP# 39799](https://ims.internationalprocessplants.com/inventory/equipment/detail/39799)
 
 [Browse All Stainless Steel 304 Freeze Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/freeze-dryer)
 
@@ -48,13 +48,13 @@ IPP stocks Stainless Steel 316 freeze dryers for processes requiring higher corr
 
 Used Hull 653FXRS Stainless Steel 316 freeze dryer with 8.9 m² (96 ft²) shelf drying surface, 8 shelves, and 2,400 L (636 gallons) chamber volume.
 
-- Stainless Steel 316
-- 8.9 m² (96 ft²) shelf area
-- 8 shelves
-- −55 °C to 75 °C shelf range
+- Material: Stainless Steel 316
+- Shelf Area - Drying Surface: 8.9 m² (96 ft²) shelf area
+- Number of Shelves: 8 shelves
+- Shelf Temperature Range: −55 °C to 75 °C shelf range
 - Stoppering: Yes
 
-[Request Specs](/contact/) | [View IPP# 43079](https://ims.internationalprocessplants.com/inventory/equipment/detail/43079)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/43079) | [View IPP# 43079](https://ims.internationalprocessplants.com/inventory/equipment/detail/43079)
 
 [Browse All Stainless Steel 316 Freeze Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/freeze-dryer)
 
@@ -66,13 +66,13 @@ IPP stocks additional freeze dryers where the material of construction is not se
 
 Used Hull 680-FXS-800 freeze dryer with 63.2 m² (680 ft²) shelf drying surface and 34 shelves across dual chambers.
 
-- 63.2 m² (680 ft²) shelf area
-- 34 shelves
-- −55 °C to 75 °C shelf range
+- Shelf Area - Drying Surface: 63.2 m² (680 ft²) shelf area
+- Number of Shelves: 34 shelves
+- Shelf Temperature Range: −55 °C to 75 °C shelf range
 - Stoppering: Yes
-- Used condition
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 94972](https://ims.internationalprocessplants.com/inventory/equipment/detail/94972)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/94972) | [View IPP# 94972](https://ims.internationalprocessplants.com/inventory/equipment/detail/94972)
 
 [Browse All Freeze Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/freeze-dryer)
 
@@ -91,25 +91,25 @@ Hull is the deepest single-manufacturer position in IPP's freeze dryer inventory
 
 Used Hull 653FXRS Stainless Steel 316 freeze dryer with 8.9 m² (96 ft²) shelf drying surface, 8 shelves, and 2,400 L (636 gallons) chamber volume.
 
-- Stainless Steel 316
-- 8.9 m² (96 ft²) shelf area
-- 8 shelves
-- −55 °C to 75 °C shelf range
-- Used condition
+- Material: Stainless Steel 316
+- Shelf Area - Drying Surface: 8.9 m² (96 ft²) shelf area
+- Number of Shelves: 8 shelves
+- Shelf Temperature Range: −55 °C to 75 °C shelf range
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 43079](https://ims.internationalprocessplants.com/inventory/equipment/detail/43079)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/43079) | [View IPP# 43079](https://ims.internationalprocessplants.com/inventory/equipment/detail/43079)
 
 #### Hull 680-FXS-800 — 63.2 m² ([IPP# 94972](https://ims.internationalprocessplants.com/inventory/equipment/detail/94972))
 
 Used Hull 680-FXS-800 freeze dryer with 63.2 m² (680 ft²) shelf drying surface and 34 shelves across dual heresite-lined chambers.
 
-- 63.2 m² (680 ft²) shelf area
-- 34 shelves
-- −55 °C to 75 °C shelf range
+- Shelf Area - Drying Surface: 63.2 m² (680 ft²) shelf area
+- Number of Shelves: 34 shelves
+- Shelf Temperature Range: −55 °C to 75 °C shelf range
 - Stoppering: Yes
-- Used condition
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 94972](https://ims.internationalprocessplants.com/inventory/equipment/detail/94972)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/94972) | [View IPP# 94972](https://ims.internationalprocessplants.com/inventory/equipment/detail/94972)
 
 [Browse All Hull Freeze Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/freeze-dryer)
 
@@ -121,13 +121,13 @@ IPP stocks freeze dryers from Hochvakuum Technik Dresden (Germany), a specialist
 
 Unused Hochvakuum Technik Dresden (Germany) TG16.10 Stainless Steel 304 freeze dryer with 1.57 m² (16.9 ft²) shelf drying surface and 5 shelves.
 
-- Stainless Steel 304
-- 1.57 m² (16.9 ft²) shelf area
-- 5 shelves
-- −40 °C to 80 °C shelf range
-- R-22 refrigerant
+- Material: Stainless Steel 304
+- Shelf Area - Drying Surface: 1.57 m² (16.9 ft²) shelf area
+- Number of Shelves: 5 shelves
+- Shelf Temperature Range: −40 °C to 80 °C shelf range
+- Refrigerant Type: R-22 refrigerant
 
-[Request Specs](/contact/) | [View IPP# 39799](https://ims.internationalprocessplants.com/inventory/equipment/detail/39799)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/39799) | [View IPP# 39799](https://ims.internationalprocessplants.com/inventory/equipment/detail/39799)
 
 [Browse All Hochvakuum Technik Dresden Freeze Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/freeze-dryer)
 
@@ -146,25 +146,25 @@ Good used freeze dryers are the deepest condition position in IPP's inventory. T
 
 Used Hull 653FXRS Stainless Steel 316 freeze dryer with 8.9 m² (96 ft²) shelf drying surface, 8 shelves, and 2,400 L (636 gallons) chamber volume.
 
-- Used condition
-- Stainless Steel 316
-- 8.9 m² (96 ft²) shelf area
-- −55 °C to 75 °C shelf range
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Shelf Area - Drying Surface: 8.9 m² (96 ft²) shelf area
+- Shelf Temperature Range: −55 °C to 75 °C shelf range
 - Stoppering: Yes
 
-[Request Specs](/contact/) | [View IPP# 43079](https://ims.internationalprocessplants.com/inventory/equipment/detail/43079)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/43079) | [View IPP# 43079](https://ims.internationalprocessplants.com/inventory/equipment/detail/43079)
 
 #### Used Hull 680-FXS-800 — 63.2 m² ([IPP# 94972](https://ims.internationalprocessplants.com/inventory/equipment/detail/94972))
 
 Used Hull 680-FXS-800 freeze dryer with 63.2 m² (680 ft²) shelf drying surface and 34 shelves across dual heresite-lined chambers.
 
-- Used condition
-- 63.2 m² (680 ft²) shelf area
-- 34 shelves
-- −55 °C to 75 °C shelf range
+- Condition: Used condition
+- Shelf Area - Drying Surface: 63.2 m² (680 ft²) shelf area
+- Number of Shelves: 34 shelves
+- Shelf Temperature Range: −55 °C to 75 °C shelf range
 - Stoppering: Yes
 
-[Request Specs](/contact/) | [View IPP# 94972](https://ims.internationalprocessplants.com/inventory/equipment/detail/94972)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/94972) | [View IPP# 94972](https://ims.internationalprocessplants.com/inventory/equipment/detail/94972)
 
 [Browse All Used Freeze Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/freeze-dryer)
 
@@ -176,13 +176,13 @@ Unused freeze dryers were manufactured and delivered but never placed into produ
 
 Unused Hochvakuum Technik Dresden (Germany) TG16.10 Stainless Steel 304 freeze dryer with 1.57 m² (16.9 ft²) shelf drying surface and 5 shelves. Never placed into service.
 
-- Unused condition
-- Stainless Steel 304
-- 1.57 m² (16.9 ft²) shelf area
-- 5 shelves
-- −40 °C to 80 °C shelf range
+- Condition: Unused condition
+- Material: Stainless Steel 304
+- Shelf Area - Drying Surface: 1.57 m² (16.9 ft²) shelf area
+- Number of Shelves: 5 shelves
+- Shelf Temperature Range: −40 °C to 80 °C shelf range
 
-[Request Specs](/contact/) | [View IPP# 39799](https://ims.internationalprocessplants.com/inventory/equipment/detail/39799)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/39799) | [View IPP# 39799](https://ims.internationalprocessplants.com/inventory/equipment/detail/39799)
 
 [Browse All Unused Freeze Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/freeze-dryer)
 
@@ -193,7 +193,7 @@ Unused Hochvakuum Technik Dresden (Germany) TG16.10 Stainless Steel 304 freeze d
 
 Tell us your specifications and requirements. Our team will match your needs against current freeze dryer inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -313,7 +313,7 @@ In addition to freeze dryers, IPP stocks equipment across multiple categories fo
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -322,4 +322,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to a Specialist](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/freeze-dryer)
+[Talk to a Specialist](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/freeze-dryer)

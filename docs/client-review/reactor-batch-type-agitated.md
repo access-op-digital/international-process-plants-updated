@@ -1,12 +1,12 @@
 # Buy Used Batch-Type Agitated Reactors for Sale
 
-Buying used batch-type agitated reactors through International Process Plants gives chemical, pharmaceutical, biotech, and specialty manufacturers access to jacketed, agitated reactor vessels from Pfaudler, DeDietrich, Gale Process Solutions, and other OEM manufacturers.
+Buying used batch-type agitated reactors through International Process Plants gives chemical, pharmaceutical, biotech, and specialty manufacturers access to jacketed, agitated reactor vessels from UGE, Pfaudler, DeDietrich, Gale Process Solutions, and other OEM manufacturers.
 
 The material of construction includes glass-lined, stainless steel 316, 316L, 304, and 321, Hastelloy C-22, C-276, and C-4, and titanium. Volume capacity ranges from 2 L to 80,000 L (0.5 to 21,150 gallons). Pressure ratings range from 0.5 bar (7.3 psi) to 358.7 bar (5,202 psi). Vacuum capability is available across the inventory, with reactors rated for full vacuum operation.
 
 IPP stocks Pfaudler reactors across models E, RA, CE, DK, and BE. DeDietrich reactors are available across models SA, STU, STA, and CE. Gale Process Solutions supplies new stainless steel 316L reactors, and Universal Glasteel Equipment (UGE) supplies glass-lined units. Condition options include good used, re-glassed, new, and surplus. Agitation seal types include mechanical seal, packing seal, and double mechanical seal. Motor power ranges from 0.2 kW (0.3 HP) to 315 kW (422 HP). Jacket types include half-pipe/limpet, standard jacket, and dimple jacket. All vessels are ASME-coded, National Board, CRN, CE-marked, or PED compliant, with sanitary and clean-in-place (CIP/SIP) options available. Buying used batch-type agitated reactors from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
 
 **Quick Stats:** 700+ Reactors in Stock | 1980 Established Since | 15 Countries with Offices
 
@@ -30,37 +30,45 @@ IPP stocks glass-lined batch-type agitated reactors from manufacturers including
 
 Used Pfaudler BE glass-lined batch reactor. 70,100 L (18,500 gal) capacity with full vacuum capability and mechanical seal.
 
-- 70,100 L (18,500 gal) capacity
-- 6 bar (87 psi), 200°C (392°F)
-- Full vacuum capable
-- 43 kW (57.7 HP) motor
-- 3,750 mm (147.6 in) × 5,150 mm (202.8 in), Legs
+- Capacity (Design): 70,100 L (18,500 gal)
+- Internal Pressure: 6 bar (87 psi)
+- Internal Temperature: 200°C (392°F)
+- Internal Full Vacuum: Full vacuum capable
+- Motor Power: 43 kW (57.7 HP)
+- Diameter: 3,750 mm (147.6 in)
+- Straight Side Length: 5,150 mm (202.8 in)
+- Support Type: Legs
 
-[Request Specs](/contact/) | [View IPP# 216389](https://ims.internationalprocessplants.com/inventory/equipment/detail/216389)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/216389) | [View IPP# 216389](https://ims.internationalprocessplants.com/inventory/equipment/detail/216389)
 
 #### DeDietrich CE — 54,900 L ([IPP# 207104](https://ims.internationalprocessplants.com/inventory/equipment/detail/207104))
 
 Used DeDietrich CE glass-lined batch reactor. 54,900 L (14,500 gal) capacity with full vacuum capability. The largest DeDietrich reactor in IPP inventory.
 
-- 54,900 L (14,500 gal) capacity
-- 0.5 bar (7.3 psi), 132°C (269.6°F)
-- Full vacuum capable
-- 45 kW (60.3 HP) motor
-- 3,700 mm (145.7 in) × 7,500 mm (295.3 in)
+- Capacity (Design): 54,900 L (14,500 gal)
+- Internal Pressure: 0.5 bar (7.3 psi)
+- Internal Temperature: 132°C (269.6°F)
+- Internal Full Vacuum: Full vacuum capable
+- Motor Power: 45 kW (60.3 HP)
+- Diameter: 3,700 mm (145.7 in)
+- Straight Side Length: 7,500 mm (295.3 in)
 
-[Request Specs](/contact/) | [View IPP# 207104](https://ims.internationalprocessplants.com/inventory/equipment/detail/207104)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/207104) | [View IPP# 207104](https://ims.internationalprocessplants.com/inventory/equipment/detail/207104)
 
 #### Re-Glassed Pfaudler P — 37.9 L ([IPP# 101388](https://ims.internationalprocessplants.com/inventory/equipment/detail/101388))
 
 Re-glassed Pfaudler P glass-lined batch reactor. 37.9 L (10 gal) capacity for pilot-scale and small-batch processing with full vacuum capability.
 
-- 37.9 L (10 gal) capacity
-- 1.72 bar (25 psi), 176.7°C (350°F)
-- Full vacuum capable
-- Re-glassed condition
-- 355.6 mm (14 in) × 457.2 mm (18 in), Legs
+- Capacity (Design): 37.9 L (10 gal)
+- Internal Pressure: 1.72 bar (25 psi)
+- Internal Temperature: 176.7°C (350°F)
+- Internal Full Vacuum: Full vacuum capable
+- Condition: Re-glassed
+- Diameter: 355.6 mm (14 in)
+- Straight Side Length: 457.2 mm (18 in)
+- Support Type: Legs
 
-[Request Specs](/contact/) | [View IPP# 101388](https://ims.internationalprocessplants.com/inventory/equipment/detail/101388)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/101388) | [View IPP# 101388](https://ims.internationalprocessplants.com/inventory/equipment/detail/101388)
 
 [Browse All Glass-Lined Reactors in Stock](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
 
@@ -72,25 +80,31 @@ IPP stocks stainless steel batch-type agitated reactors across multiple grades i
 
 Used Mechanicca Sarda stainless steel 316L batch reactor. 80,000 L (21,150 gal) capacity — the largest stainless steel reactor in IPP inventory.
 
-- 80,000 L (21,150 gal) capacity
-- 21 bar (304.6 psi), 115°C (239°F)
-- Full vacuum capable
-- 315 kW (422.4 HP) motor
-- 3,900 mm (153.5 in) × 5,500 mm (216.5 in), Mechanical seal
+- Capacity (Design): 80,000 L (21,150 gal)
+- Internal Pressure: 21 bar (304.6 psi)
+- Internal Temperature: 115°C (239°F)
+- Internal Full Vacuum: Full vacuum capable
+- Motor Power: 315 kW (422.4 HP)
+- Diameter: 3,900 mm (153.5 in)
+- Straight Side Length: 5,500 mm (216.5 in)
+- Support Type: Mechanical seal
 
-[Request Specs](/contact/) | [View IPP# 222818](https://ims.internationalprocessplants.com/inventory/equipment/detail/222818)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/222818) | [View IPP# 222818](https://ims.internationalprocessplants.com/inventory/equipment/detail/222818)
 
 #### [New from GPS] Gale Process Solutions SS 316L — 15,150 L ([IPP# 230382](https://ims.internationalprocessplants.com/inventory/equipment/detail/230382))
 
 New Gale Process Solutions stainless steel 316L batch reactor. 15,150 L (4,000 gal) capacity with double mechanical seal and pitch blade agitation.
 
-- 15,150 L (4,000 gal) capacity
-- 10 bar (145 psi), 150°C (302°F)
-- Full vacuum, double mechanical seal
-- 22.4 kW (30 HP), pitch blade
-- 2,450 mm (96.5 in) × 3,150 mm (124 in), Lugs
+- Capacity (Design): 15,150 L (4,000 gal)
+- Internal Pressure: 10 bar (145 psi)
+- Internal Temperature: 150°C (302°F)
+- Internal Full Vacuum: Full vacuum, double mechanical seal
+- Motor Power: 22.4 kW (30 HP), pitch blade
+- Diameter: 2,450 mm (96.5 in)
+- Straight Side Length: 3,150 mm (124 in)
+- Support Type: Lugs
 
-[Request Specs](/contact/) | [View IPP# 230382](https://ims.internationalprocessplants.com/inventory/equipment/detail/230382)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/230382) | [View IPP# 230382](https://ims.internationalprocessplants.com/inventory/equipment/detail/230382)
 
 [Browse All Stainless Steel Reactors in Stock](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
 
@@ -102,13 +116,15 @@ IPP stocks Hastelloy batch-type agitated reactors in C-22, C-276, C-4, and other
 
 Used Wilner and Mutter (Germany) Hastelloy C4 batch reactor. 570 L (150.6 gal) capacity with 64 bar (928 psi) internal pressure rating.
 
-- 570 L (150.6 gal) capacity
-- 64 bar (928 psi) pressure rating
-- Hastelloy C4 construction
-- 7.5 kW (10.1 HP) motor
-- 800 mm (31.5 in) × 1,050 mm (41.3 in), Lugs
+- Capacity (Design): 570 L (150.6 gal)
+- Internal Pressure: 64 bar (928 psi)
+- Material: Hastelloy C4
+- Motor Power: 7.5 kW (10.1 HP)
+- Diameter: 800 mm (31.5 in)
+- Straight Side Length: 1,050 mm (41.3 in)
+- Support Type: Lugs
 
-[Request Specs](/contact/) | [View IPP# 108136](https://ims.internationalprocessplants.com/inventory/equipment/detail/108136)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/108136) | [View IPP# 108136](https://ims.internationalprocessplants.com/inventory/equipment/detail/108136)
 
 [Browse All Hastelloy & Specialty Alloy Reactors in Stock](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
 
@@ -127,25 +143,30 @@ IPP stocks Pfaudler batch-type agitated reactors across all Pfaudler variants �
 
 Used Pfaudler BE glass-lined batch reactor. 70,100 L (18,500 gal) with 6 bar pressure rating, full vacuum, and 43 kW motor.
 
-- 70,100 L (18,500 gal) capacity
-- 6 bar (87 psi), 200°C (392°F)
-- Full vacuum, mechanical seal
-- 43 kW (57.7 HP) motor
-- Good used condition, Legs
+- Capacity (Design): 70,100 L (18,500 gal)
+- Internal Pressure: 6 bar (87 psi)
+- Internal Temperature: 200°C (392°F)
+- Internal Full Vacuum: Full vacuum, mechanical seal
+- Motor Power: 43 kW (57.7 HP)
+- Condition: Good used
+- Support Type: Legs
 
-[Request Specs](/contact/) | [View IPP# 216389](https://ims.internationalprocessplants.com/inventory/equipment/detail/216389)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/216389) | [View IPP# 216389](https://ims.internationalprocessplants.com/inventory/equipment/detail/216389)
 
 #### Re-Glassed Pfaudler P — 37.9 L ([IPP# 101388](https://ims.internationalprocessplants.com/inventory/equipment/detail/101388))
 
 Re-glassed Pfaudler P glass-lined pilot reactor. 37.9 L (10 gal) for small-batch and pilot-scale processing.
 
-- 37.9 L (10 gal) capacity
-- 1.72 bar (25 psi), 176.7°C (350°F)
-- Full vacuum capable
-- Re-glassed condition
-- 355.6 mm (14 in) × 457.2 mm (18 in), Legs
+- Capacity (Design): 37.9 L (10 gal)
+- Internal Pressure: 1.72 bar (25 psi)
+- Internal Temperature: 176.7°C (350°F)
+- Internal Full Vacuum: Full vacuum capable
+- Condition: Re-glassed
+- Diameter: 355.6 mm (14 in)
+- Straight Side Length: 457.2 mm (18 in)
+- Support Type: Legs
 
-[Request Specs](/contact/) | [View IPP# 101388](https://ims.internationalprocessplants.com/inventory/equipment/detail/101388)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/101388) | [View IPP# 101388](https://ims.internationalprocessplants.com/inventory/equipment/detail/101388)
 
 [Browse All Pfaudler Reactors in Stock](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
 
@@ -157,15 +178,69 @@ IPP stocks DeDietrich batch-type agitated reactors across all DeDietrich variant
 
 Used DeDietrich CE glass-lined batch reactor. 54,900 L (14,500 gal) capacity with full vacuum capability and 45 kW motor.
 
-- 54,900 L (14,500 gal) capacity
-- 0.5 bar (7.3 psi), 132°C (269.6°F)
-- Full vacuum capable
-- 45 kW (60.3 HP) motor
-- 3,700 mm (145.7 in) × 7,500 mm (295.3 in)
+- Capacity (Design): 54,900 L (14,500 gal)
+- Internal Pressure: 0.5 bar (7.3 psi)
+- Internal Temperature: 132°C (269.6°F)
+- Internal Full Vacuum: Full vacuum capable
+- Motor Power: 45 kW (60.3 HP)
+- Diameter: 3,700 mm (145.7 in)
+- Straight Side Length: 7,500 mm (295.3 in)
 
-[Request Specs](/contact/) | [View IPP# 207104](https://ims.internationalprocessplants.com/inventory/equipment/detail/207104)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/207104) | [View IPP# 207104](https://ims.internationalprocessplants.com/inventory/equipment/detail/207104)
 
 [Browse All DeDietrich Reactors in Stock](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
+
+### Buy New & Re-Glassed UGE Batch Reactors
+
+Universal Glasteel Equipment (UGE) is IPP's glass-lined equipment division, supplying newly manufactured glass-lined batch reactors and providing factory-spec re-glassing of Pfaudler, DeDietrich, and other OEM vessels. IPP stocks new UGE glass-lined reactors in the batch-type agitated inventory, spanning UT-series pilot vessels (3–200 gal) and UA-series production reactors (300–4,000 gal). UGE re-glassed reactors are listed by OEM under the Pfaudler, DeDietrich, and Other Manufacturers tabs; browse the Re-Glassed condition tab for the full refurbished inventory.
+
+#### [Largest UGE New] UGE UA-4000 Glass-Lined — 15,150 L ([IPP# 246492](https://ims.internationalprocessplants.com/inventory/equipment/detail/246492))
+
+New UGE UA-4000 glass-lined batch reactor. 15,150 L (4,000 gal) capacity with 6.9 bar (100 psi) pressure rating, full vacuum capability, Cryo-Lock agitator, and flat-blade turbine impeller.
+
+- Capacity (Design): 15,150 L (4,000 gal)
+- Internal Pressure: 6.9 bar (100 psi)
+- Internal Temperature: 232.2°C (450°F)
+- Internal Full Vacuum: Yes
+- Agitator: Cryo-Lock, Flat Blade Turbine
+- Motor Power: 22.4 kW (30 HP)
+- Diameter: 2,450 mm (96 in)
+- Glass: New, fire polished
+- Condition: New
+
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246492) | [View IPP# 246492](https://ims.internationalprocessplants.com/inventory/equipment/detail/246492)
+
+#### UGE UA-1000 Glass-Lined — 3,800 L ([IPP# 246488](https://ims.internationalprocessplants.com/inventory/equipment/detail/246488))
+
+New UGE UA-1000 glass-lined batch reactor. 3,800 L (1,000 gal) capacity with double mechanical seal, Cryo-fix agitator, and integral-tip beavertail baffle.
+
+- Capacity (Design): 3,800 L (1,000 gal)
+- Internal Pressure: 6.9 bar (100 psi)
+- Internal Temperature: 232.2°C (450°F)
+- Internal Full Vacuum: Yes
+- Agitator: Cryo-fix, Double Mechanical Seal
+- Motor Power: 7.5 kW (10 HP)
+- Diameter: 1,500 mm (60 in)
+- Condition: New
+
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246488) | [View IPP# 246488](https://ims.internationalprocessplants.com/inventory/equipment/detail/246488)
+
+#### UGE UT-50 Glass-Lined — 189.3 L ([IPP# 246535](https://ims.internationalprocessplants.com/inventory/equipment/detail/246535))
+
+New UGE UT-50 glass-lined pilot-scale batch reactor. 189.3 L (50 gal) with 10.3 bar (150 psi) pressure rating and CBT agitator — suitable for pilot-scale and small-batch pharmaceutical and fine-chemical processing.
+
+- Capacity (Design): 189.3 L (50 gal)
+- Internal Pressure: 10.3 bar (150 psi)
+- Internal Temperature: 232.2°C (450°F)
+- Internal Full Vacuum: Yes
+- Agitator: CBT, mechanical seal
+- Motor Power: 1.12 kW (1.5 HP)
+- Diameter: 610 mm (24 in)
+- Condition: New
+
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246535) | [View IPP# 246535](https://ims.internationalprocessplants.com/inventory/equipment/detail/246535)
+
+[Browse All UGE Reactors in Stock](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
 
 ### Buy New Gale Process Solutions Batch Reactors
 
@@ -175,43 +250,50 @@ IPP stocks Gale Process Solutions (GPS) batch-type agitated reactors. GPS is an 
 
 New Gale Process Solutions stainless steel 316L batch reactor. 15,150 L (4,000 gal) capacity with double mechanical seal and pitch blade agitation.
 
-- 15,150 L (4,000 gal) capacity
-- 10 bar (145 psi), 150°C (302°F)
-- Full vacuum, double mechanical seal
-- 22.4 kW (30 HP), pitch blade
-- New condition, Lugs
+- Capacity (Design): 15,150 L (4,000 gal)
+- Internal Pressure: 10 bar (145 psi)
+- Internal Temperature: 150°C (302°F)
+- Internal Full Vacuum: Full vacuum, double mechanical seal
+- Motor Power: 22.4 kW (30 HP), pitch blade
+- Condition: New
+- Support Type: Lugs
 
-[Request Specs](/contact/) | [View IPP# 230382](https://ims.internationalprocessplants.com/inventory/equipment/detail/230382)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/230382) | [View IPP# 230382](https://ims.internationalprocessplants.com/inventory/equipment/detail/230382)
 
 [Browse All Gale Process Solutions Reactors](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
 
 ### Buy Used Batch Reactors from Other Manufacturers
 
-Beyond Pfaudler, DeDietrich, and Gale Process Solutions, IPP stocks batch-type agitated reactors from many additional manufacturers including UGE, Mechanicca Sarda, Schwelm, Schwelmer, Werkhuizen A Deprest, EHW Thale, Wilner and Mutter, and others. These reactors span the full range of materials, capacities, and pressure ratings.
+Beyond UGE, Pfaudler, DeDietrich, Universal Glasteel Equipment, and Gale Process Solutions, IPP stocks batch-type agitated reactors from many additional manufacturers including Mechanicca Sarda, Schwelm, Schwelmer, Werkhuizen A Deprest, EHW Thale, Wilner and Mutter, and others. These reactors span the full range of materials, capacities, and pressure ratings.
 
 #### Mechanicca Sarda SS 316L — 80,000 L ([IPP# 222818](https://ims.internationalprocessplants.com/inventory/equipment/detail/222818))
 
 Used Mechanicca Sarda stainless steel 316L batch reactor. 80,000 L (21,150 gal) — the largest reactor in IPP inventory by capacity.
 
-- 80,000 L (21,150 gal) capacity
-- 21 bar (304.6 psi), 115°C (239°F)
-- Full vacuum capable
-- 315 kW (422.4 HP) motor
-- 3,900 mm (153.5 in) × 5,500 mm (216.5 in), Mechanical seal
+- Capacity (Design): 80,000 L (21,150 gal)
+- Internal Pressure: 21 bar (304.6 psi)
+- Internal Temperature: 115°C (239°F)
+- Internal Full Vacuum: Full vacuum capable
+- Motor Power: 315 kW (422.4 HP)
+- Diameter: 3,900 mm (153.5 in)
+- Straight Side Length: 5,500 mm (216.5 in)
+- Support Type: Mechanical seal
 
-[Request Specs](/contact/) | [View IPP# 222818](https://ims.internationalprocessplants.com/inventory/equipment/detail/222818)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/222818) | [View IPP# 222818](https://ims.internationalprocessplants.com/inventory/equipment/detail/222818)
 
 #### Wilner and Mutter Hastelloy C4 — 570 L ([IPP# 108136](https://ims.internationalprocessplants.com/inventory/equipment/detail/108136))
 
 Used Wilner and Mutter (Germany) Hastelloy C4 batch reactor with 64 bar (928 psi) internal pressure rating.
 
-- 570 L (150.6 gal) capacity
-- 64 bar (928 psi) pressure
-- Hastelloy C4 construction
-- 7.5 kW (10.1 HP) motor
-- 800 mm (31.5 in) × 1,050 mm (41.3 in), Lugs
+- Capacity (Design): 570 L (150.6 gal)
+- Internal Pressure: 64 bar (928 psi)
+- Material: Hastelloy C4
+- Motor Power: 7.5 kW (10.1 HP)
+- Diameter: 800 mm (31.5 in)
+- Straight Side Length: 1,050 mm (41.3 in)
+- Support Type: Lugs
 
-[Request Specs](/contact/) | [View IPP# 108136](https://ims.internationalprocessplants.com/inventory/equipment/detail/108136)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/108136) | [View IPP# 108136](https://ims.internationalprocessplants.com/inventory/equipment/detail/108136)
 
 [Browse All Batch Reactors from Other Manufacturers](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
 
@@ -230,25 +312,30 @@ IPP stocks good used and surplus batch-type agitated reactors. Good used reactor
 
 Used Pfaudler BE glass-lined batch reactor. 70,100 L (18,500 gal) with mechanical seal and full vacuum capability.
 
-- 70,100 L (18,500 gal) capacity
-- Glass-lined, 6 bar, 200°C
-- Full vacuum, 43 kW motor
-- Mechanical seal, Legs
-- Good used condition
+- Capacity (Design): 70,100 L (18,500 gal)
+- Material: Glass-lined
+- Internal Pressure: 6 bar
+- Internal Temperature: 200°C
+- Internal Full Vacuum: Full vacuum
+- Motor Power: 43 kW
+- Agitation Seal Type: Mechanical seal
+- Support Type: Legs
+- Condition: Good used
 
-[Request Specs](/contact/) | [View IPP# 216389](https://ims.internationalprocessplants.com/inventory/equipment/detail/216389)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/216389) | [View IPP# 216389](https://ims.internationalprocessplants.com/inventory/equipment/detail/216389)
 
 #### Used Mechanicca Sarda SS 316L — 80,000 L ([IPP# 222818](https://ims.internationalprocessplants.com/inventory/equipment/detail/222818))
 
 Used Mechanicca Sarda stainless steel 316L batch reactor. 80,000 L (21,150 gal) with 315 kW motor and full vacuum.
 
-- 80,000 L (21,150 gal) capacity
-- SS 316L, 21 bar, 115°C
-- Full vacuum, 315 kW motor
-- Mechanical seal
-- Good used condition
+- Capacity (Design): 80,000 L (21,150 gal)
+- Internal Pressure: SS 316L
+- Internal Temperature: 21 bar, 115°C
+- Internal Full Vacuum: Full vacuum, 315 kW motor
+- Agitation Seal Type: Mechanical seal
+- Condition: Good used
 
-[Request Specs](/contact/) | [View IPP# 222818](https://ims.internationalprocessplants.com/inventory/equipment/detail/222818)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/222818) | [View IPP# 222818](https://ims.internationalprocessplants.com/inventory/equipment/detail/222818)
 
 [Browse All Used Batch Reactors in Stock](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
 
@@ -260,13 +347,16 @@ IPP stocks re-glassed batch-type agitated reactors, restored with new borosilica
 
 Re-glassed Pfaudler P glass-lined pilot batch reactor with full vacuum capability for small-batch and pilot-scale processing.
 
-- 37.9 L (10 gal) capacity
-- 1.72 bar (25 psi), 176.7°C (350°F)
-- Full vacuum capable
-- Re-glassed condition
-- 355.6 mm (14 in) × 457.2 mm (18 in), Legs
+- Capacity (Design): 37.9 L (10 gal)
+- Internal Pressure: 1.72 bar (25 psi)
+- Internal Temperature: 176.7°C (350°F)
+- Internal Full Vacuum: Full vacuum capable
+- Condition: Re-glassed
+- Diameter: 355.6 mm (14 in)
+- Straight Side Length: 457.2 mm (18 in)
+- Support Type: Legs
 
-[Request Specs](/contact/) | [View IPP# 101388](https://ims.internationalprocessplants.com/inventory/equipment/detail/101388)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/101388) | [View IPP# 101388](https://ims.internationalprocessplants.com/inventory/equipment/detail/101388)
 
 [Browse All Re-Glassed Reactors in Stock](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
 
@@ -278,13 +368,18 @@ IPP stocks new and unused batch-type agitated reactors. New reactors include cus
 
 New Gale Process Solutions stainless steel 316L batch reactor with double mechanical seal and pitch blade agitation.
 
-- 15,150 L (4,000 gal) capacity
-- 10 bar (145 psi), 150°C (302°F)
-- Full vacuum, double mechanical seal
-- 22.4 kW (30 HP), pitch blade
-- New condition, 2,450 mm (96.5 in) × 3,150 mm (124 in)
+- Capacity (Design): 15,150 L (4,000 gal)
+- Internal Pressure: 10 bar (145 psi)
+- Internal Temperature: 150°C (302°F)
+- Internal Full Vacuum: Full vacuum
+- Agitation Seal Type: double mechanical seal
+- Motor Power: 22.4 kW (30 HP)
+- Impeller Type: pitch blade
+- Condition: New
+- Diameter: 2,450 mm (96.5 in)
+- Straight Side Length: 3,150 mm (124 in)
 
-[Request Specs](/contact/) | [View IPP# 230382](https://ims.internationalprocessplants.com/inventory/equipment/detail/230382)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/230382) | [View IPP# 230382](https://ims.internationalprocessplants.com/inventory/equipment/detail/230382)
 
 [Browse All New & Unused Reactors in Stock](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
 
@@ -352,7 +447,7 @@ The process of purchasing a used batch reactor from IPP follows five steps, from
 
 Tell us your capacity, material, pressure, and temperature requirements. Our team will match your specifications against current batch reactor inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -453,7 +548,7 @@ A: IPP offers re-glassing services through its UGE (Universal Glasteel Equipment
 
 IPP Group supplies new batch reactors through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed reactors through its UGE (Universal Glasteel Equipment) division. If you cannot find what you need in our used inventory, we can build or re-glass to your specifications.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -462,4 +557,4 @@ IPP Group supplies new batch reactors through its Gale Process Solutions (GPS) s
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Reactor Inventory](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Reactor Inventory](https://ims.internationalprocessplants.com/inventory/equipment/reactor/batch-type-agitated)

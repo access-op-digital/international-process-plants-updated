@@ -4,13 +4,13 @@ Buying used tanks through International Process Plants gives chemical, pharmaceu
 
 Materials of construction include Stainless Steel 304, Glasslined, Stainless Steel 316, Stainless Steel Austenitic. Capacities range from 5 L (1.32 gallons) to 565,000 L (149,250 gallons). Pressure ratings range from 0.006 bar (0.09 psi) to 179.3 bar (2,600 psi). Available in Used, Unused, Re-glassed, Needs Reglass, New conditions. Buying used tanks from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/tank)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/tank)
 
 **Quick Stats:** 1300+ Tanks in Stock | 1980 Established Since | 15 Countries with Offices
 
 **Featured Equipment:**
 - [UGE Glasslined -- New](https://ims.internationalprocessplants.com/inventory/equipment/detail/246494)
-- [UGE Glasslined -- New](https://ims.internationalprocessplants.com/inventory/equipment/detail/246497)
+- [Pfaudler Glasslined -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/112205)
 - [Shandong HG Machinery Co., LTD. Stainless Steel 304 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/245650)
 
 
@@ -22,120 +22,135 @@ IPP stocks tanks across multiple material options. Choose the material that matc
 
 ### Buy Used Stainless Steel Tanks for Sale
 
-IPP stocks 840 stainless steel tanks. Available from , Grundy (Teddington) Ltd., Apache Stainless Equipment Corp. and other manufacturers.
+IPP stocks a deep inventory of stainless steel tanks. Available from Grundy (Teddington) Ltd., Apache Stainless Equipment Corp. and other manufacturers.
 
 #### [Stainless Steel] Shandong HG Machinery Co., LTD. Stainless Steel 304 ([IPP# 245650](https://ims.internationalprocessplants.com/inventory/equipment/detail/245650))
 
 Used Shandong HG Machinery Co., LTD. Stainless Steel 304 fermenter.
 
-- 3 bar (43.5 psi)
-- Stainless Steel 304
-- Used condition
-- 2,200 mm (86 in) x 3,500 mm (137 in)
+- Internal Pressure: 3 bar (43.5 psi)
+- Material: Stainless Steel 304
+- Condition: Used condition
+- Diameter: 2,200 mm (86 in)
+- Length: 3,500 mm (137 in)
 
-[Request Specs](/contact/) | [View IPP# 245650](https://ims.internationalprocessplants.com/inventory/equipment/detail/245650)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/245650) | [View IPP# 245650](https://ims.internationalprocessplants.com/inventory/equipment/detail/245650)
 
 #### ThermoFisher Stainless Steel 304 — 200 L ([IPP# 247095](https://ims.internationalprocessplants.com/inventory/equipment/detail/247095))
 
 Used ThermoFisher Stainless Steel 304 tank. 200 L (52.8 gallons) capacity.
 
-- 200 L (52.8 gallons)
-- 0.03 bar (0.5 psi), 40 °C (104 °F)
-- Stainless Steel 304
-- Used condition
-- ThermoFisher HyPerforma SUM0200.6645
+- Capacity (Design): 200 L (52.8 gallons)
+- Internal Pressure: 0.03 bar (0.5 psi)
+- Internal Temperature: 40 °C (104 °F)
+- Material: Stainless Steel 304
+- Condition: Used condition
+- Manufacturer: ThermoFisher
+- Model: HyPerforma SUM0200.6645
 
-[Request Specs](/contact/) | [View IPP# 247095](https://ims.internationalprocessplants.com/inventory/equipment/detail/247095)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/247095) | [View IPP# 247095](https://ims.internationalprocessplants.com/inventory/equipment/detail/247095)
 
 [Browse All Stainless Steel Tanks in Stock](https://ims.internationalprocessplants.com/inventory/equipment/tank)
 
 ### Buy Used Glass-Lined Tanks for Sale
 
-IPP stocks 408 glass-lined tanks. Available from Pfaudler, DeDietrich, and other manufacturers.
+IPP stocks a deep inventory of glass-lined tanks. Available from Pfaudler, DeDietrich, and other manufacturers.
 
 #### [Glass-Lined] UGE Glasslined — 1,150 L ([IPP# 246494](https://ims.internationalprocessplants.com/inventory/equipment/detail/246494))
 
 New UGE Glasslined reactor. 1,150 L (300 gallons) capacity.
 
-- 1,150 L (300 gallons)
-- 6.9 bar (100 psi), 232.2 °C (450 °F)
-- Glasslined
-- New condition
-- UGE UA-300
+- Capacity (Design): 1,150 L (300 gallons)
+- Internal Pressure: 6.9 bar (100 psi)
+- Internal Temperature: 232.2 °C (450 °F)
+- Material: Glasslined
+- Condition: New condition
+- Manufacturer: UGE
+- Model: UA-300
 
-[Request Specs](/contact/) | [View IPP# 246494](https://ims.internationalprocessplants.com/inventory/equipment/detail/246494)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/246494) | [View IPP# 246494](https://ims.internationalprocessplants.com/inventory/equipment/detail/246494)
 
 #### Pfaudler Glasslined — 378.5 L ([IPP# 247322](https://ims.internationalprocessplants.com/inventory/equipment/detail/247322))
 
 Used Pfaudler Glasslined tank. 378.5 L (100 gallons) capacity.
 
-- 378.5 L (100 gallons)
-- 0.97 bar (14 psi), 232.2 °C (450 °F)
-- Glasslined
-- Used condition
-- Pfaudler RT-32-100-ATMOS-90
+- Capacity (Design): 378.5 L (100 gallons)
+- Internal Pressure: 0.97 bar (14 psi)
+- Internal Temperature: 232.2 °C (450 °F)
+- Material: Glasslined
+- Condition: Used condition
+- Manufacturer: Pfaudler
+- Model: RT-32-100-ATMOS-90
 
-[Request Specs](/contact/) | [View IPP# 247322](https://ims.internationalprocessplants.com/inventory/equipment/detail/247322)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/247322) | [View IPP# 247322](https://ims.internationalprocessplants.com/inventory/equipment/detail/247322)
 
 [Browse All Glass-Lined Tanks in Stock](https://ims.internationalprocessplants.com/inventory/equipment/tank)
 
 ### Buy Used Carbon Steel Tanks for Sale
 
-IPP stocks 45 carbon steel tanks. Available from , R & J Dempster Ltd, Whessoe Ltd and other manufacturers.
+IPP stocks a range of carbon steel tanks. Available from R & J Dempster Ltd, Whessoe Ltd and other manufacturers.
 
 #### [Carbon Steel] Richard Stiehler KG Carbon Steel — 10,500 L ([IPP# 204132](https://ims.internationalprocessplants.com/inventory/equipment/detail/204132))
 
 Used Richard Stiehler KG Carbon Steel tank. 10,500 L (2,750 gallons) capacity.
 
-- 10,500 L (2,750 gallons)
-- 6 bar (87 psi), 200 °C (392 °F)
-- Carbon Steel
-- Used condition
-- 1,800 mm (70.9 in) x 3,450 mm (135.8 in)
+- Capacity (Design): 10,500 L (2,750 gallons)
+- Internal Pressure: 6 bar (87 psi)
+- Internal Temperature: 200 °C (392 °F)
+- Material: Carbon Steel
+- Condition: Used condition
+- Diameter: 1,800 mm (70.9 in)
+- Length: 3,450 mm (135.8 in)
 
-[Request Specs](/contact/) | [View IPP# 204132](https://ims.internationalprocessplants.com/inventory/equipment/detail/204132)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/204132) | [View IPP# 204132](https://ims.internationalprocessplants.com/inventory/equipment/detail/204132)
 
 #### Vulcan Manufacturing Company Carbon Steel — 757 L ([IPP# 213630](https://ims.internationalprocessplants.com/inventory/equipment/detail/213630))
 
 Used Vulcan Manufacturing Company Carbon Steel tank. 757 L (200 gallons) capacity.
 
-- 757 L (200 gallons)
-- 68.9 bar (1,000 psi), 260 °C (500 °F)
-- Carbon Steel
-- Used condition
-- 762 mm (30 in) x 1,050 mm (42 in)
+- Capacity (Design): 757 L (200 gallons)
+- Internal Pressure: 68.9 bar (1,000 psi)
+- Internal Temperature: 260 °C (500 °F)
+- Material: Carbon Steel
+- Condition: Used condition
+- Diameter: 762 mm (30 in)
+- Length: 1,050 mm (42 in)
 
-[Request Specs](/contact/) | [View IPP# 213630](https://ims.internationalprocessplants.com/inventory/equipment/detail/213630)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/213630) | [View IPP# 213630](https://ims.internationalprocessplants.com/inventory/equipment/detail/213630)
 
 [Browse All Carbon Steel Tanks in Stock](https://ims.internationalprocessplants.com/inventory/equipment/tank)
 
 ### Buy Used Other Tanks for Sale
 
-IPP stocks 43 other tanks. Available from , Mitsui, Pfaudler and other manufacturers.
+IPP stocks tanks in additional alloys and specialty materials. Available from Mitsui, Pfaudler and other manufacturers.
 
 #### [Other] Mitsui Titanium — 37,800 L ([IPP# 226203](https://ims.internationalprocessplants.com/inventory/equipment/detail/226203))
 
 Used Mitsui Titanium tank. 37,800 L (10,000 gallons) capacity.
 
-- 37,800 L (10,000 gallons)
-- 29.3 bar (425 psi), 252 °C (485.6 °F)
-- Titanium
-- Used condition
-- 2,750 mm (108 in) x 5,950 mm (234 in)
+- Capacity (Design): 37,800 L (10,000 gallons)
+- Internal Pressure: 29.3 bar (425 psi)
+- Internal Temperature: 252 °C (485.6 °F)
+- Material: Titanium
+- Condition: Used condition
+- Diameter: 2,750 mm (108 in)
+- Length: 5,950 mm (234 in)
 
-[Request Specs](/contact/) | [View IPP# 226203](https://ims.internationalprocessplants.com/inventory/equipment/detail/226203)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/226203) | [View IPP# 226203](https://ims.internationalprocessplants.com/inventory/equipment/detail/226203)
 
 #### Permascand Titanium — 5,400 L ([IPP# 206206](https://ims.internationalprocessplants.com/inventory/equipment/detail/206206))
 
 Used Permascand Titanium tank. 5,400 L (1,450 gallons) capacity.
 
-- 5,400 L (1,450 gallons)
-- 1 bar (14.5 psi), 120 °C (248 °F)
-- Titanium
-- Used condition
-- 1,900 mm (74.8 in) x 1,400 mm (55.1 in)
+- Capacity (Design): 5,400 L (1,450 gallons)
+- Internal Pressure: 1 bar (14.5 psi)
+- Internal Temperature: 120 °C (248 °F)
+- Material: Titanium
+- Condition: Used condition
+- Diameter: 1,900 mm (74.8 in)
+- Length: 1,400 mm (55.1 in)
 
-[Request Specs](/contact/) | [View IPP# 206206](https://ims.internationalprocessplants.com/inventory/equipment/detail/206206)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/206206) | [View IPP# 206206](https://ims.internationalprocessplants.com/inventory/equipment/detail/206206)
 
 [Browse All Other Tanks in Stock](https://ims.internationalprocessplants.com/inventory/equipment/tank)
 
@@ -146,7 +161,7 @@ Used Permascand Titanium tank. 5,400 L (1,450 gallons) capacity.
 
 Tell us your specifications and requirements. Our team will match your needs against current tanks inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -271,7 +286,7 @@ In addition to tanks, IPP stocks equipment across multiple categories for comple
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -280,4 +295,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Expert](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/tank)
+[Talk to an Expert](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/tank)

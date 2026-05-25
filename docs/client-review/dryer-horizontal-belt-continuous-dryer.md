@@ -6,7 +6,7 @@ Materials of construction include Stainless Steel 316. Belt widths from 600 mm (
 
 IPP stocks the PanGas Pugnale C/2-600 model. Available in used condition. Buying used horizontal belt & continuous dryers from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/horizontal-belt-continuous-dryer)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/horizontal-belt-continuous-dryer)
 
 **Quick Stats:** 15,000+ Equipment Pieces in Global Inventory | 1980 Established Since | 15 Countries with Offices
 
@@ -24,13 +24,14 @@ IPP stocks horizontal belt & continuous dryers from PanGas in Stainless Steel 31
 
 Used PanGas Pugnale C/2-600 stainless steel 316 horizontal belt & continuous dryer with 600 mm (23.6 in) belt width and 8,300 mm (326.8 in) belt length.
 
-- Stainless Steel 316
-- 600 mm (23.6 in) belt width
-- 8,300 mm (326.8 in) belt length
-- PanGas Pugnale C/2-600
-- Used condition
+- Material: Stainless Steel 316
+- Belt Width: 600 mm (23.6 in) belt width
+- Belt Length: 8,300 mm (326.8 in) belt length
+- Manufacturer: PanGas
+- Model: Pugnale C/2-600
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 706439](https://ims.internationalprocessplants.com/inventory/equipment/detail/706439)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706439) | [View IPP# 706439](https://ims.internationalprocessplants.com/inventory/equipment/detail/706439)
 
 [Browse All Horizontal Belt & Continuous Dryers on IMS](https://ims.internationalprocessplants.com/inventory/equipment/horizontal-belt-continuous-dryer)
 
@@ -49,13 +50,13 @@ IPP stocks horizontal belt and continuous dryers in Stainless Steel 316 construc
 
 Used PanGas Pugnale C/2-600 stainless steel 316 horizontal belt & continuous dryer with 600 mm (23.6 in) belt width and 8,300 mm (326.8 in) belt length.
 
-- Stainless Steel 316
-- 600 mm (23.6 in) belt width
-- 8,300 mm (326.8 in) belt length
-- Stainless Steel 316 belt
-- Used condition
+- Material: Stainless Steel 316
+- Belt Width: 600 mm (23.6 in) belt width
+- Belt Length: 8,300 mm (326.8 in) belt length
+- Belt MOC: Stainless Steel 316 belt
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 706439](https://ims.internationalprocessplants.com/inventory/equipment/detail/706439)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706439) | [View IPP# 706439](https://ims.internationalprocessplants.com/inventory/equipment/detail/706439)
 
 [Browse All Stainless Steel 316 Horizontal Belt & Continuous Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/horizontal-belt-continuous-dryer)
 
@@ -74,13 +75,14 @@ PanGas is the sole OEM represented in IPP's horizontal belt and continuous dryer
 
 Used PanGas Pugnale C/2-600 stainless steel 316 horizontal belt & continuous dryer with 600 mm (23.6 in) belt width and 8,300 mm (326.8 in) belt length.
 
-- PanGas Pugnale C/2-600
-- Stainless Steel 316
-- 600 mm (23.6 in) belt width
-- 8,300 mm (326.8 in) belt length
-- Used condition
+- Manufacturer: PanGas
+- Model: Pugnale C/2-600
+- Material: Stainless Steel 316
+- Belt Width: 600 mm (23.6 in) belt width
+- Belt Length: 8,300 mm (326.8 in) belt length
+- Condition: Used condition
 
-[Request Specs](/contact/) | [View IPP# 706439](https://ims.internationalprocessplants.com/inventory/equipment/detail/706439)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706439) | [View IPP# 706439](https://ims.internationalprocessplants.com/inventory/equipment/detail/706439)
 
 [Browse All PanGas Horizontal Belt & Continuous Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/horizontal-belt-continuous-dryer)
 
@@ -99,13 +101,14 @@ Good used horizontal belt and continuous dryers are available in IPP's inventory
 
 Used PanGas Pugnale C/2-600 stainless steel 316 horizontal belt & continuous dryer with 600 mm (23.6 in) belt width and 8,300 mm (326.8 in) belt length.
 
-- Used condition
-- Stainless Steel 316
-- 600 mm (23.6 in) belt width
-- 8,300 mm (326.8 in) belt length
-- PanGas Pugnale C/2-600
+- Condition: Used condition
+- Material: Stainless Steel 316
+- Belt Width: 600 mm (23.6 in) belt width
+- Belt Length: 8,300 mm (326.8 in) belt length
+- Manufacturer: PanGas
+- Model: Pugnale C/2-600
 
-[Request Specs](/contact/) | [View IPP# 706439](https://ims.internationalprocessplants.com/inventory/equipment/detail/706439)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/706439) | [View IPP# 706439](https://ims.internationalprocessplants.com/inventory/equipment/detail/706439)
 
 [Browse All Used Horizontal Belt & Continuous Dryers in Stock](https://ims.internationalprocessplants.com/inventory/equipment/horizontal-belt-continuous-dryer)
 
@@ -116,7 +119,7 @@ Used PanGas Pugnale C/2-600 stainless steel 316 horizontal belt & continuous dry
 
 Tell us your specifications and requirements. Our team will match your needs against current horizontal belt & continuous dryers inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -236,7 +239,7 @@ In addition to horizontal belt & continuous dryers, IPP stocks equipment across 
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom-built equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -245,4 +248,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to a Specialist](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/horizontal-belt-continuous-dryer)
+[Talk to a Specialist](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/horizontal-belt-continuous-dryer)
