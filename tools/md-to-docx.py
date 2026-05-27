@@ -31,6 +31,7 @@ DISPLAY_NAMES = {
     "fermenter-index": "Fermenters",
     "mill-index": "Mills",
     "pulverizer-index": "Pulverizers",
+    "reactor-tubular": "Tubular Reactors",
 }
 
 
@@ -260,13 +261,21 @@ def main():
     else:
         slugs = args.slugs
 
+    # Resolve slug to MD path — supports both "<slug>-index.md" and "<slug>.md" patterns
+    def md_path_for(slug: str):
+        for candidate in (MD_DIR / f"{slug}-index.md", MD_DIR / f"{slug}.md"):
+            if candidate.exists():
+                return candidate
+        return None
+
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     for slug in slugs:
-        md_path = MD_DIR / f"{slug}-index.md"
-        if not md_path.exists():
-            print(f"  SKIP: {md_path} not found")
+        md_path = md_path_for(slug)
+        if md_path is None:
+            print(f"  SKIP: no MD found for slug '{slug}'")
             continue
-        display = DISPLAY_NAMES.get(f"{slug}-index", slug.title() + "s")
+        key = md_path.stem
+        display = DISPLAY_NAMES.get(key, slug.title() + "s")
         out_path = OUT_DIR / f"{display}.docx"
         print(f"  Converting: {md_path.name} -> {out_path.name}")
         md_to_docx(md_path.read_text(encoding="utf-8"), display, out_path)

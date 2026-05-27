@@ -4,13 +4,13 @@ Buying used tubular reactors through International Process Plants gives chemical
 
 Materials of construction include Stainless Steel 304, Stainless Steel 316. Available in Used conditions. Buying used tubular reactors from IPP can save up to 50% of capital and 90% of lead time versus buying new.
 
-[Request a Quote](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/reactor/tubular)
+[Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/reactor/tubular)
 
 **Quick Stats:** 5+ Reactors in Stock | 1980 Established Since | 15 Countries with Offices
 
 **Featured Equipment:**
 - [Fox Fabricators Stainless Steel 304 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/216028)
-- [Unknown Stainless Steel 304 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/216053)
+- [Stainless Steel 304 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/216053)
 - [Snowtech Hydro Cracker & Fisher Tropsch Stainless Steel 316 -- Used](https://ims.internationalprocessplants.com/inventory/equipment/detail/232538)
 
 
@@ -18,35 +18,42 @@ Materials of construction include Stainless Steel 304, Stainless Steel 316. Avai
 
 ## Available Tubular Reactors in Stock
 
-IPP currently stocks 3 tubular reactors.
+IPP stocks a selection of tubular reactors. Browse the representative units below or contact IPP for the full list of currently in-stock units.
 
 #### [In Stock] Fox Fabricators Stainless Steel 304 ([IPP# 216028](https://ims.internationalprocessplants.com/inventory/equipment/detail/216028))
 
 Used Fox Fabricators Stainless Steel 304 reactor.
 
+- Tube Length: 182,900 mm (7,200 in)
+- Tube Temperature: 204.4 °C (400 °F)
+- Tube Pressure: 85.1 bar (1,250 psi)
 - Stainless Steel 304
 - Used condition
 - Fox Fabricators Tubular loop reactor
 
-[Request Specs](/contact/) | [View IPP# 216028](https://ims.internationalprocessplants.com/inventory/equipment/detail/216028)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/216028) | [View IPP# 216028](https://ims.internationalprocessplants.com/inventory/equipment/detail/216028)
 
-#### Unknown Stainless Steel 304 ([IPP# 216053](https://ims.internationalprocessplants.com/inventory/equipment/detail/216053))
+#### Stainless Steel 304 ([IPP# 216053](https://ims.internationalprocessplants.com/inventory/equipment/detail/216053))
 
-Used Unknown Stainless Steel 304 reactor.
+Used Stainless Steel 304 reactor.
 
+- Tube Length: 243,850 mm (9,600 in)
+- Tube Temperature: 204.4 °C (400 °F)
 - Stainless Steel 304
 - Used condition
 
-[Request Specs](/contact/) | [View IPP# 216053](https://ims.internationalprocessplants.com/inventory/equipment/detail/216053)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/216053) | [View IPP# 216053](https://ims.internationalprocessplants.com/inventory/equipment/detail/216053)
 
 #### Snowtech Hydro Cracker & Fisher Tropsch Stainless Steel 316 ([IPP# 232538](https://ims.internationalprocessplants.com/inventory/equipment/detail/232538))
 
 Used Snowtech Hydro Cracker & Fisher Tropsch Stainless Steel 316 reactor.
 
+- Tube Length: 15.7 mm (0.62 in)
+- Tube Temperature: 500 °C (932 °F)
 - Stainless Steel 316
 - Used condition
 
-[Request Specs](/contact/) | [View IPP# 232538](https://ims.internationalprocessplants.com/inventory/equipment/detail/232538)
+[View Specs](https://ims.internationalprocessplants.com/inventory/equipment/detail/232538) | [View IPP# 232538](https://ims.internationalprocessplants.com/inventory/equipment/detail/232538)
 
 [Browse All Tubular Reactors on IMS](https://ims.internationalprocessplants.com/inventory/equipment/reactor/tubular)
 
@@ -57,7 +64,7 @@ Used Snowtech Hydro Cracker & Fisher Tropsch Stainless Steel 316 reactor.
 
 Tell us your specifications and requirements. Our team will match your needs against current tubular reactors inventory and provide a detailed quote.
 
-[Request a Quote](/contact/)
+[Request a Quote](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -177,7 +184,7 @@ In addition to tubular reactors, IPP stocks equipment across multiple categories
 
 IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsidiary, which provides custom fabricated equipment with 12–16 week average delivery. IPP also offers re-glassed equipment through its UGE (Universal Glasteel Equipment) division.
 
-[Ask About New Equipment](/contact/)
+[Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
 
 ---
@@ -186,4 +193,4 @@ IPP Group supplies new equipment through its Gale Process Solutions (GPS) subsid
 
 IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need — our team will respond with matched inventory and pricing.
 
-[Talk to an Engineer](/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/reactor/tubular)
+[Talk to an Engineer](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/equipment/reactor/tubular)
