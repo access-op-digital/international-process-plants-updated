@@ -2,7 +2,7 @@
 
 Buying porcupine dryer parts through International Process Plants (IPP) matches plant engineering teams running Porcupine Processors with spare troughs and a new agitator shaft and flights set from Gale Process Solutions (GPS), IPP's subsidiary and the home of the legacy Bethlehem Corporation line. Trough diameters run from 457.2 mm (18 in) to 1,350 mm (54 in), in stainless steel 316 and 321, with the shaft set in carbon steel. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
 
-Spare troughs account for most of the parts inventory: a good used 1P1810JTB batch trough in stainless steel 316, an unused 1P3016JTC continuous trough in stainless steel 321, and a good used 5416 twin-shaft trough in stainless steel 316. A new carbon steel shaft, flights, blades and oil-diversion inserts for a 1,350 mm (54 in) processor round out the listings, and each porcupine dryer part for sale here is ready to ship.
+Spare troughs lead the parts inventory: a good used 1P1810JTB batch trough in stainless steel 316, an unused 1P3016JTC continuous trough in stainless steel 321, and a good used 5416 twin-shaft trough in stainless steel 316. A new carbon steel shaft, flights, blades and oil-diversion inserts for a 1,350 mm (54 in) processor complete the listings, and each porcupine dryer part for sale here is ready to ship.
 
 IPP's IMS inventory system describes each part by model, diameter, length, material and condition grade, with jacket ratings where recorded. New Porcupine Processors are available through GPS, which acquired the technology originally developed by the Bethlehem Corporation of Easton, Pennsylvania, and complete porcupine dryers are listed on IPP's porcupine dryer page.
 
@@ -25,7 +25,7 @@ IPP's IMS inventory system describes each part by model, diameter, length, mater
 
 ## Browse Used Porcupine Dryer Parts by Part Type
 
-Porcupine parts in stock break down into three groups: single-shaft troughs, a twin-shaft spare trough, and a new agitator shaft and flights set.
+Porcupine parts in stock form three groups: single-shaft troughs, a twin-shaft spare trough, and a new agitator shaft and flights set.
 
 
 ---

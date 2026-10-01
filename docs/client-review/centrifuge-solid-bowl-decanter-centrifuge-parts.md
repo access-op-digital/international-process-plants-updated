@@ -1,6 +1,6 @@
 # Buy Used Decanter Centrifuge Parts for Sale
 
-Buying used decanter centrifuge parts through International Process Plants (IPP) supplies plant engineering teams with scroll conveyors, rotating assemblies and a gearbox for Sharples, Alfa Laval, Dorr Oliver, Sangerhausen and Bird solid bowl decanter centrifuges. Most parts are stainless steel 316, and the conveyors carry hard-surfaced flights. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
+Buying used decanter centrifuge parts through International Process Plants (IPP) supplies plant engineering teams with scroll conveyors, rotating assemblies and a gearbox for Sharples, Alfa Laval, Dorr Oliver, Sangerhausen and Bird solid bowl decanter centrifuges. Stainless steel 316 covers the Dorr Oliver, Sharples P3400 and P-2000, and Sangerhausen parts, and the conveyors carry hard-surfaced flights. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
 
 IPP's good used decanter parts include scroll conveyors for the Sharples P3400, the Alfa Laval NX314 and the Dorr Oliver 16L and Flottweg Z3L, rotating assemblies for the Sharples P-2000 and the Sangerhausen SKZSNh450S, and a Bird gearbox. Each listing is a ready-to-ship centrifuge replacement part.
 
@@ -25,7 +25,7 @@ Each part's listing on IPP's IMS inventory system names the decanter it fits, al
 
 ## Browse Used Decanter Centrifuge Parts by Part Type
 
-Scroll conveyors, rotating assemblies and gearboxes make up the part types in stock.
+The part types in stock span scroll conveyors, rotating assemblies and gearboxes.
 
 
 ---
@@ -44,7 +44,7 @@ In-stock decanter centrifuge parts from IPP are ready to ship, with no wait for 
 IPP stocks decanter centrifuge parts for Sharples, Alfa Laval, Dorr Oliver, Sangerhausen and Bird machines, with the deepest range for Sharples. Each part is listed with its manufacturer and model where IMS records them.
 
 ### Scrolls to Rotating Assemblies
-Parts range from a gearbox and scroll conveyors to complete rotating assemblies, most in stainless steel 316.
+Parts range from a gearbox and scroll conveyors to complete rotating assemblies, with stainless steel 316 the leading material.
 
 ### Global Presence in 15 Countries
 IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom and United States. IPP has served 160,000+ customers worldwide.
@@ -105,7 +105,7 @@ Buying used decanter centrifuge parts from IPP can save up to 50% of capital and
 | Delivery Timeline | In-stock parts ready to ship | Extended lead times (new fabrication) |
 | Part Types | Scroll conveyors, rotating assemblies and a gearbox | Made to order |
 | Fit | Listed by decanter make and model on IMS | Ordered by part number |
-| Materials | Stainless steel 316 on most parts | Built to specification |
+| Materials | Stainless steel 316 on the Dorr Oliver, Sharples and Sangerhausen parts | Built to specification |
 | Condition Options | Good used | New only |
 
 
@@ -116,7 +116,7 @@ Buying used decanter centrifuge parts from IPP can save up to 50% of capital and
 Answers to the most common questions from engineering and procurement teams evaluating used decanter centrifuge parts from IPP.
 
 **Q: What decanter centrifuge parts does IPP stock?**
-A: Scroll conveyors, rotating assemblies and a gearbox for Sharples, Alfa Laval, Dorr Oliver, Sangerhausen and Bird machines make up IPP's good used decanter centrifuge parts. IMS carries the current list.
+A: Good used scroll conveyors, rotating assemblies and a gearbox fit Sharples, Alfa Laval, Dorr Oliver, Sangerhausen and Bird machines. IMS carries the current list.
 
 **Q: How much can I save buying used decanter centrifuge parts versus new?**
 A: Buying used decanter centrifuge parts from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on the part type and the decanter it fits, so each part is quoted on request. Contact IPP for pricing on specific parts.

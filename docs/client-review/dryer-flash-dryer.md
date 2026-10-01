@@ -1,6 +1,6 @@
 # Buy Used Industrial Flash Dryers for Sale
 
-Buying used industrial flash dryers through International Process Plants (IPP) delivers continuous flash drying systems from APV Anhydro, Aljet, Hosokawa Alpine and AKSH Engineering to chemical, pharmaceutical, food and specialty manufacturers. Product feed rates run from 309 kg/h (681 lb/h) to 1,050 kg/h (2,350 lb/h), with stainless steel construction on most units. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
+Buying used industrial flash dryers through International Process Plants (IPP) delivers continuous flash drying systems from APV Anhydro, Aljet, Hosokawa Alpine and AKSH Engineering to chemical, pharmaceutical, food and specialty manufacturers. Product feed rates run from 309 kg/h (681 lb/h) to 1,050 kg/h (2,350 lb/h), with stainless steel construction on the APV Anhydro, Hosokawa Alpine and AKSH Engineering units. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
 
 The flash dryer inventory pairs an APV Anhydro spin flash dryer and a gas-fired AKSH Engineering system with two classifier designs: an Aljet flash dryer with an integral classifier and cyclone collector, and a Hosokawa Alpine pulverizer, dryer and classifier. In every design, a high-velocity stream of hot air disperses the wet solids and carries them through the dryer while the moisture evaporates, and each used flash dryer for sale here is ready to ship.
 
@@ -110,7 +110,7 @@ Good used Aljet SBDF-50 CF-3-N/2 flash dryer with classifier rated for a 1,050 k
 
 ### Buy Used AKSH Engineering Flash Dryers for Sale
 
-AKSH Engineering built IPP's complete gas-fired flash drying system, rated for 309 kg/h (681 lb/h) of feed and 120 kg/h (265 lb/h) of product at 10% moisture. A 316 SS feed hopper, a direct-fired Maxon burner, a forced-draft blower rated for 14,500 m³/h (8,534 CFM), a 2,000 mm (78.7 in) swirling air disperser in 304 SS, an exhaust section and controls make up the CE-certified system.
+AKSH Engineering built IPP's complete gas-fired flash drying system, rated for 309 kg/h (681 lb/h) of feed and 120 kg/h (265 lb/h) of product at 10% moisture. A 316 SS feed hopper, a direct-fired Maxon burner, a forced-draft blower rated for 14,500 m³/h (8,534 CFM), a 2,000 mm (78.7 in) swirling air disperser in 304 SS, an exhaust section and controls form the CE-certified system.
 
 #### AKSH Engineering SS 316 ([IPP# 238462](https://ims.internationalprocessplants.com/inventory/equipment/detail/flash-dryer/238462))
 
@@ -206,7 +206,7 @@ Buying used flash dryers from IPP can save up to 50% of capital and 90% of lead 
 | Delivery Timeline | In-stock units ready to ship | Extended lead times (new fabrication) |
 | Designs | Spin flash, classifier and complete gas-fired units in stock | Built to specification |
 | Product Feed Rate | 309 kg/h (681 lb/h) to 1,050 kg/h (2,350 lb/h) in stock | Built to specification |
-| Materials | Stainless steel 316, 304 and other grades on most units | Built to specification |
+| Materials | Stainless steel 316, 304 and other grades | Built to specification |
 | Condition Options | Good used | New only |
 | New-Build Route | Custom fabricated stainless steel equipment via GPS, 12 to 16 week average delivery | OEM fabrication schedule |
 

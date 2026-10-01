@@ -1,6 +1,6 @@
 # Buy Used Lab Centrifuges for Sale
 
-Buying used lab centrifuges through International Process Plants (IPP) lets process development, pilot plant and laboratory teams take separation work beyond the benchtop with lab-scale units: Carr Centritech Centritec Cell 8 single-use flow centrifuges, a Sharples Type 1P laboratory super centrifuge and a beaker centrifuge. Speeds reach 50,000 rpm and 62,000 G on the Sharples unit. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
+Buying used lab centrifuges through International Process Plants (IPP) extends separation work beyond the benchtop for process development, pilot plant and laboratory teams, with lab-scale units: Carr Centritech Centritec Cell 8 single-use flow centrifuges, a Sharples Type 1P laboratory super centrifuge and a beaker centrifuge. Speeds reach 50,000 rpm and 62,000 G on the Sharples unit. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
 
 IPP's lab centrifuges are good used units in stainless steel 316L and 316, plus a carbon steel beaker centrifuge. The Carr Centritech units carry heating, refrigeration, a 2 to 150 °C (36 to 302 °F) temperature control range and programmable HMI controls, and the Sharples Type 1P runs on an air or steam turbine drive. Each used lab centrifuge for sale here is ready to ship.
 
@@ -230,7 +230,7 @@ A: IMS lists the Centritec Cell 8 as a single-use insert flow centrifuge from Ca
 A: The Carr Centritech units run to 1,200 rpm and 320 G with a 6 to 120 L/hr capacity, and the Sharples Type 1P runs to 50,000 rpm and 62,000 G with a 350 g (12.3 oz) maximum load. The beaker centrifuge has a 191 mm (7.5 in) diameter, 76 mm (3 in) deep chamber for two 38 mm (1.5 in) cone-bottom beakers.
 
 **Q: Which manufacturers' lab centrifuges does IPP carry?**
-A: IPP carries lab centrifuges from Carr Centritech and Sharples, plus a beaker centrifuge without a recorded manufacturer. Most units carry the Carr Centritech name, all of them Centritec Cell 8 flow centrifuges.
+A: IPP carries lab centrifuges from Carr Centritech and Sharples, plus a beaker centrifuge without a recorded manufacturer. Carr Centritech built the Centritec Cell 8 flow centrifuges, and Sharples the Type 1P laboratory super centrifuge.
 
 
 ---

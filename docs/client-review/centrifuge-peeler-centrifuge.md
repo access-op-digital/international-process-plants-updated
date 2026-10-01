@@ -468,7 +468,7 @@ Three IMS condition grades apply to IPP's peeler centrifuges: used, refurbished/
 
 ### Buy Good Used Peeler Centrifuges
 
-Good used peeler centrifuges make up most of IPP's inventory, each listed with its basket diameter, basket depth, maximum speed and load weight.
+Good used units lead IPP's peeler centrifuge inventory, each listed with its basket diameter, basket depth, maximum speed and load weight.
 
 #### [Featured] Krauss Maffei HZ630 PH Hastelloy C-22, 630 mm (24.8 in) ([IPP# 235730](https://ims.internationalprocessplants.com/inventory/equipment/detail/peeler-centrifuge/235730))
 
@@ -710,13 +710,13 @@ A: In a siphon peeler centrifuge, the basket has a solid outer shell and the fil
 A: IPP carries peeler centrifuges from Krauss Maffei, Alfa Laval, Escher Wyss, Luwa-Heine, Ellerwerk, GFT Trenntechnik, SMS Buss, Reineveld, Ferrum, Robatel and ZVU. Krauss Maffei has the widest range, with HZ models from 630 mm (24.8 in) to 1,600 mm (63 in).
 
 **Q: What basket materials are available?**
-A: IPP's peeler centrifuges have baskets in stainless steel 316, 316L, 904 and austenitic stainless steel, titanium, Hastelloy C-22, Hastelloy B and rubber-lined construction. Stainless steel 316 is the most common basket material in the inventory, followed by titanium.
+A: IPP's peeler centrifuges have baskets in stainless steel 316, 316L, 904 and austenitic stainless steel, titanium, Hastelloy C-22, Hastelloy B and rubber-lined construction. Stainless steel 316 tops the basket materials in the inventory, with titanium second.
 
 **Q: What basket sizes are available, and how do I find the right size?**
 A: IPP's peeler centrifuges range from 630 mm (24.8 in) to 1,600 mm (63 in) basket diameter, with basket depths of 300 mm (11.8 in) to 813 mm (32 in) and load weights of 50 kg (110.2 lb) to 952 kg (2,100 lb). Share your batch size, solids loading and target cycle time with IPP, and the team will match units in stock to your requirements.
 
 **Q: Are gas-tight and sanitary peeler centrifuges available?**
-A: Yes. IMS lists the Krauss Maffei HZ630 PH as gas tight, and the Ferrum HSZ-PHR 1250/600 and a Krauss Maffei HZ 125/3.2 SI D with sanitary construction. Cake washing and plow action are the most common features recorded across the inventory, and each listing states the features that apply.
+A: Yes. IMS lists the Krauss Maffei HZ630 PH as gas tight, and the Ferrum HSZ-PHR 1250/600 and a Krauss Maffei HZ 125/3.2 SI D with sanitary construction. Cake washing and plow action appear on more listings than any other recorded feature, and each listing states the features that apply.
 
 
 ---

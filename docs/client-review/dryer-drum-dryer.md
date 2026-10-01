@@ -2,7 +2,7 @@
 
 Buying used drum dryers through International Process Plants (IPP) outfits chemical, pharmaceutical, food and specialty manufacturers with single and double drum dryers from Simon Dryers, Blaw Knox and Gouda, plus unused cast iron dryer drums. Drum diameters range from 304.8 mm (12 in) to 1,850 mm (72 in), with heat transfer areas up to 16.7 m² (180 ft²). Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.
 
-Good used, refurbished and unused surplus units make up the drum dryer inventory, including industrial drum dryer machines with dip feed pans or applicator rolls, a chrome-plated Blaw Knox Model F double drum dryer, and unused cast iron dryer and flaker drums with ends and shafts. Each used drum dryer for sale is listed with its drum size and ratings.
+The drum dryer inventory features good used, refurbished and unused surplus units, including industrial drum dryer machines with dip feed pans or applicator rolls, a chrome-plated Blaw Knox Model F double drum dryer, and unused cast iron dryer and flaker drums with ends and shafts. Each used drum dryer for sale is listed with its drum size and ratings.
 
 Drum diameter, face length, configuration, heat transfer area and condition grade appear on each unit's listing in IPP's IMS inventory system. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
 

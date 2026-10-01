@@ -1,6 +1,6 @@
 # Buy Used Pusher Centrifuge Parts for Sale
 
-Buying used pusher centrifuge parts through International Process Plants (IPP) helps plant engineering teams source spare baskets, pusher shafts, rotating assemblies, screens and flex joints for industrial Krauss Maffei and Baker Perkins pusher centrifuges. Most parts fit the Krauss Maffei SB1000/2 two-stage machine with its 1,050 mm (40.6 in) basket, in stainless steel 304L. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
+Buying used pusher centrifuge parts through International Process Plants (IPP) secures spare baskets, pusher shafts, rotating assemblies, screens and flex joints for plant engineering teams running industrial Krauss Maffei and Baker Perkins pusher centrifuges. Parts for the Krauss Maffei SB1000/2 two-stage machine and its 1,050 mm (40.6 in) basket lead the listings, in stainless steel 304L. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
 
 Good used and unused surplus parts on hand range from inner and outer baskets, spare pusher shafts and a hollow pusher shaft to spare rotating assemblies, screen sets and flex joints, plus an unused lot of spare parts for a Krauss Maffei SZ-90L.
 
@@ -25,7 +25,7 @@ IPP's IMS inventory system lists every part with its description, the centrifuge
 
 ## Browse Used Pusher Centrifuge Parts by Part Type
 
-Pusher centrifuge parts in stock fall into part types, from baskets and pusher shafts to complete rotating assemblies.
+Part types in stock range from baskets and pusher shafts to complete rotating assemblies.
 
 
 ---
@@ -44,7 +44,7 @@ In-stock pusher centrifuge parts from IPP are ready to ship, with no wait for fa
 IPP stocks pusher centrifuge parts for Krauss Maffei and Baker Perkins machines, with the deepest range for the Krauss Maffei SB1000/2. Each part is listed with its manufacturer and model where IMS records them.
 
 ### Baskets to Rotating Assemblies
-Parts range from flex joints and screen sets to inner and outer baskets, pusher shafts and complete spare rotating assemblies, most in stainless steel 304L.
+Parts range from flex joints and screen sets to inner and outer baskets, pusher shafts and complete spare rotating assemblies, with stainless steel 304L the leading material.
 
 ### Global Presence in 15 Countries
 IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom and United States. IPP has served 160,000+ customers worldwide.
@@ -116,7 +116,7 @@ Buying used pusher centrifuge parts from IPP can save up to 50% of capital and 9
 Answers to the most common questions from engineering and procurement teams evaluating used pusher centrifuge parts from IPP.
 
 **Q: What pusher centrifuge parts does IPP stock?**
-A: Parts in stock fit Krauss Maffei and Baker Perkins machines: inner and outer baskets, pusher shafts, spare rotating assemblies, screen sets and flex joints, in good used and unused surplus condition. Most parts fit the Krauss Maffei SB1000/2. Availability updates live on IMS.
+A: Parts in stock fit Krauss Maffei and Baker Perkins machines: inner and outer baskets, pusher shafts, spare rotating assemblies, screen sets and flex joints, in good used and unused surplus condition. The Krauss Maffei SB1000/2 has the widest choice of parts. Availability updates live on IMS.
 
 **Q: How much can I save buying used pusher centrifuge parts versus new?**
 A: Buying used pusher centrifuge parts from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on the part type, the centrifuge it fits and its condition, so each part is quoted on request. Contact IPP for pricing on specific parts.
@@ -131,10 +131,10 @@ A: In-stock pusher centrifuge parts are ready to ship. IPP coordinates packaging
 A: A pusher centrifuge is built around four parts: the basket, the screen, the pusher shaft and the main drive shaft. The basket rotates on the hollow main drive shaft, the wedge-wire screen inside it holds back the solids, and the pusher shaft inside the main shaft drives the pusher plate back and forth. In a two-stage machine, the inner basket forms the cake and the outer basket finishes it, and IPP's inventory includes both pusher centrifuge basket stages for the Krauss Maffei SB1000/2 alongside spare pusher shafts.
 
 **Q: What is the Krauss Maffei SB 1000/2?**
-A: Krauss Maffei built the SB 1000/2 as a continuous, two-stage pusher centrifuge. A vane-type distributor feeds the inner basket, which removes about 80% of the liquid, and an axially reciprocating inner drum pushes the cake into the second stage for final dewatering and washing. IPP lists complete SB 1000/2 machines, with 1,050 mm (40.6 in) baskets and a gas-tight design, on its [pusher centrifuge](/process-equipment/centrifuge/pusher-centrifuge/) page.
+A: Krauss Maffei built the SB 1000/2 as a continuous, two-stage pusher centrifuge. A vane-type distributor feeds the inner basket, which drains the mother liquor and forms a stable cake ring, and an axially reciprocating inner drum pushes the cake into the second stage for final dewatering and washing. IPP lists complete SB 1000/2 machines, with 1,050 mm (40.6 in) baskets and a gas-tight design, on its [pusher centrifuge](/process-equipment/centrifuge/pusher-centrifuge/) page.
 
 **Q: Which centrifuges do these parts fit?**
-A: Most of IPP's pusher centrifuge parts fit the Krauss Maffei SB1000/2 two-stage machine. Two spare rotating assemblies fit a 1,000 mm (39.4 in) Krauss Maffei pusher, the unused lot fits a Krauss Maffei SZ-90L, and the Baker Perkins listing holds S-32 screens for the basket and shaft, so the stock covers Krauss Maffei centrifuge parts above all.
+A: The largest group of IPP's pusher centrifuge parts fits the Krauss Maffei SB1000/2 two-stage machine. Two spare rotating assemblies fit a 1,000 mm (39.4 in) Krauss Maffei pusher, the unused lot fits a Krauss Maffei SZ-90L, and the Baker Perkins listing holds S-32 screens for the basket and shaft, so the stock covers Krauss Maffei centrifuge parts above all.
 
 **Q: What are the parts made of?**
 A: IMS lists the Krauss Maffei SB1000/2 parts in stainless steel 304L, the material of the complete SB 1000/2 machines in IPP's inventory. The remaining listings state their material where IMS records it.

@@ -2,7 +2,7 @@
 
 Buying used Nauta dryers through International Process Plants (IPP) provides chemical, pharmaceutical, food and specialty manufacturers with conical screw vacuum dryers from Krauss Maffei, Bolz, Vrieco Nauta, Hosokawa Alpine, Summix Holland, Andritz and other OEM manufacturers. Working capacities range from 0.1 m³ (3.5 ft³) to 19.9 m³ (704 ft³), with stainless steel and Hastelloy C-276 vessels. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.
 
-IPP keeps good used and unused surplus conical dryers in stock, each built on the design in which an orbiting screw lifts the product along the wall of a jacketed cone. The inventory includes vacuum-rated vessels, heated screws and units with reverse jet filters, and each conical vacuum dryer is listed with its vessel and jacket ratings.
+IPP's conical dryer stock includes good used and unused surplus units, each built on the design in which an orbiting screw lifts the product along the wall of a jacketed cone. The inventory includes vacuum-rated vessels, heated screws and units with reverse jet filters, and each conical vacuum dryer is listed with its vessel and jacket ratings.
 
 IPP's IMS inventory system logs the working capacity, liquid capacity, vessel pressure and temperature, and condition grade of each unit. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
 
@@ -267,7 +267,7 @@ Conical dryers in IPP's inventory hold one of two IMS condition grades: used and
 
 ### Buy Good Used Nauta Dryers
 
-Good used conical dryers make up most of IPP's inventory, each listed with its working capacity, vessel ratings and jacket ratings.
+Good used conical dryers form the core of IPP's inventory, and every listing carries the working capacity, vessel ratings and jacket ratings.
 
 #### [Featured] Summix Holland DF-300-VD3 Hastelloy C-276, 3 m³ (105 ft³) ([IPP# 241005](https://ims.internationalprocessplants.com/inventory/equipment/detail/nauta-dryer/241005))
 
