@@ -27,7 +27,8 @@ from collections import Counter
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 DATA_DIR = os.path.join(PROJECT_ROOT, "data")
-LANDING_DIR = os.path.join(PROJECT_ROOT, "landing-pages")
+# Pages live under equipment/, at the same path as each category's url_path
+LANDING_DIR = os.path.join(PROJECT_ROOT, "equipment")
 
 # ============================================================
 # CATEGORY DEFINITIONS
@@ -2534,7 +2535,7 @@ def process_category(cat, dry_run=False):
 
     # Write to file
     slug = slug_from_name(display_name)
-    output_dir = os.path.join(LANDING_DIR, lp_folder)
+    output_dir = os.path.join(PROJECT_ROOT, url_path.strip("/"))
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, f"INTERNAL-REVIEW-{slug}.html")
 

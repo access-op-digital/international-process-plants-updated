@@ -23,7 +23,8 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"
-LANDING_DIR = BASE_DIR / "landing-pages"
+# Pages live under equipment/, at the same path as each category's url_path
+LANDING_DIR = BASE_DIR / "equipment"
 
 CATEGORIES = [
     # (data_folder, landing_folder, display_name, url_path, ims_category_url, primary_query, equipment_type_short)
@@ -2805,7 +2806,7 @@ def main():
                     slug = slug + "s"
 
         filename = f"INTERNAL-REVIEW-{slug}.html"
-        out_dir = LANDING_DIR / landing_folder
+        out_dir = BASE_DIR / url_path.strip("/")
         out_path = out_dir / filename
 
         # Create directory
