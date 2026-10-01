@@ -4,6 +4,52 @@
     { "source": "/buy-used-drive-agitators.html", "destination": "/equipment/agitators/buy-used-drive-agitators.html" },
     { "source": "/buy-used-glass-lined-agitators.html", "destination": "/equipment/agitators/buy-used-glass-lined-agitators.html" },
     { "source": "/buy-used-shaft-mixer-agitators.html", "destination": "/equipment/agitators/buy-used-shaft-mixer-agitators.html" },
-    { "source": "/buy-used-batch-type-agitated-reactors.html", "destination": "/equipment/reactor/batch-type-agitated/buy-used-batch-type-agitated-reactors.html" }
+    { "source": "/buy-used-batch-type-agitated-reactors.html", "destination": "/equipment/reactor/batch-type-agitated/buy-used-batch-type-agitated-reactors.html" },
+    { "source": "/equipment/heat-exchanger/plate-and-frame", "destination": "/equipment/heat-exchanger/plate-and-frame/INTERNAL-REVIEW-plate-and-frame.html" },
+    { "source": "/equipment/heat-exchanger/plate-and-frame/", "destination": "/equipment/heat-exchanger/plate-and-frame/INTERNAL-REVIEW-plate-and-frame.html" }
+  ],
+  "redirects": [
+    { "source": "/buy-used", "destination": "https://internationalprocessplants.com/buy-used/", "permanent": false },
+    { "source": "/buy-used/", "destination": "https://internationalprocessplants.com/buy-used/", "permanent": false },
+    { "source": "/buy-new", "destination": "https://internationalprocessplants.com/buy-new/", "permanent": false },
+    { "source": "/buy-new/", "destination": "https://internationalprocessplants.com/buy-new/", "permanent": false },
+    { "source": "/sell-to-ipp", "destination": "https://internationalprocessplants.com/sell-to-ipp/", "permanent": false },
+    { "source": "/sell-to-ipp/", "destination": "https://internationalprocessplants.com/sell-to-ipp/", "permanent": false },
+    { "source": "/plants", "destination": "https://internationalprocessplants.com/plants/", "permanent": false },
+    { "source": "/plants/", "destination": "https://internationalprocessplants.com/plants/", "permanent": false },
+    { "source": "/about", "destination": "https://internationalprocessplants.com/about-us/", "permanent": false },
+    { "source": "/about/", "destination": "https://internationalprocessplants.com/about-us/", "permanent": false },
+    { "source": "/careers", "destination": "https://internationalprocessplants.com/more/#ipp_careers", "permanent": false },
+    { "source": "/careers/", "destination": "https://internationalprocessplants.com/more/#ipp_careers", "permanent": false },
+    { "source": "/contact", "destination": "https://internationalprocessplants.com/contact/", "permanent": false },
+    { "source": "/contact/", "destination": "https://internationalprocessplants.com/contact/", "permanent": false },
+    { "source": "/buy-used/reactors", "destination": "/equipment/reactor/", "permanent": false },
+    { "source": "/buy-used/reactors/", "destination": "/equipment/reactor/", "permanent": false },
+    { "source": "/buy-used/heat-exchangers", "destination": "/equipment/heat-exchanger/", "permanent": false },
+    { "source": "/buy-used/heat-exchangers/", "destination": "/equipment/heat-exchanger/", "permanent": false },
+    { "source": "/buy-used/centrifuges", "destination": "/equipment/centrifuge/", "permanent": false },
+    { "source": "/buy-used/centrifuges/", "destination": "/equipment/centrifuge/", "permanent": false },
+    { "source": "/buy-used/dryers", "destination": "/equipment/dryer/", "permanent": false },
+    { "source": "/buy-used/dryers/", "destination": "/equipment/dryer/", "permanent": false },
+    { "source": "/buy-used/filters", "destination": "/equipment/filter/", "permanent": false },
+    { "source": "/buy-used/filters/", "destination": "/equipment/filter/", "permanent": false },
+    { "source": "/equipment/agitator", "destination": "/equipment/agitators/buy-used-agitators.html", "permanent": false },
+    { "source": "/equipment/agitator/", "destination": "/equipment/agitators/buy-used-agitators.html", "permanent": false },
+    { "source": "/equipment/agitators", "destination": "/equipment/agitators/buy-used-agitators.html", "permanent": false },
+    { "source": "/equipment/agitators/", "destination": "/equipment/agitators/buy-used-agitators.html", "permanent": false },
+    { "source": "/equipment/agitator/drive", "destination": "/equipment/agitators/buy-used-drive-agitators.html", "permanent": false },
+    { "source": "/equipment/agitator/drive/", "destination": "/equipment/agitators/buy-used-drive-agitators.html", "permanent": false },
+    { "source": "/equipment/agitator/shaft-mixer", "destination": "/equipment/agitators/buy-used-shaft-mixer-agitators.html", "permanent": false },
+    { "source": "/equipment/agitator/shaft-mixer/", "destination": "/equipment/agitators/buy-used-shaft-mixer-agitators.html", "permanent": false },
+    { "source": "/equipment/agitator/glass-lined", "destination": "/equipment/agitators/buy-used-glass-lined-agitators.html", "permanent": false },
+    { "source": "/equipment/agitator/glass-lined/", "destination": "/equipment/agitators/buy-used-glass-lined-agitators.html", "permanent": false }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+      ]
+    }
   ]
 }

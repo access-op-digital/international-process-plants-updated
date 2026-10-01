@@ -1,0 +1,14 @@
+# Repo-only material: kept in Git, never published on the Vercel site.
+# The site itself is index.html, review-*.html and equipment/.
+data/
+docs/
+tools/
+meeting-notes/
+.claude/
+.vscode/
+LABEL_REVIEW.txt
+README.md
+node_modules/
+**/__pycache__/
+*.pyc
+.DS_Store

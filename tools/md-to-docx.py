@@ -276,7 +276,9 @@ def main():
             continue
         key = md_path.stem
         display = DISPLAY_NAMES.get(key, slug.title() + "s")
-        out_path = OUT_DIR / f"{display}.docx"
+        # URL-safe file name (Vercel-friendly); the display title inside the document is unchanged
+        out_name = re.sub(r"[^a-z0-9]+", "-", display.lower().replace("&", " and ")).strip("-")
+        out_path = OUT_DIR / f"{out_name}.docx"
         print(f"  Converting: {md_path.name} -> {out_path.name}")
         md_to_docx(md_path.read_text(encoding="utf-8"), display, out_path)
     print(f"\n  Done. Output: {OUT_DIR}")
