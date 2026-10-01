@@ -16,7 +16,17 @@
     { "source": "/equipment/centrifuge/misc-and-hydraulic-centrifuge", "destination": "/equipment/centrifuge/misc-and-hydraulic-centrifuge/INTERNAL-REVIEW-misc-and-hydraulic-centrifuge.html" },
     { "source": "/equipment/centrifuge/misc-and-hydraulic-centrifuge/", "destination": "/equipment/centrifuge/misc-and-hydraulic-centrifuge/INTERNAL-REVIEW-misc-and-hydraulic-centrifuge.html" },
     { "source": "/equipment/centrifuge/lab-centrifuge", "destination": "/equipment/centrifuge/lab-centrifuge/INTERNAL-REVIEW-lab-centrifuge.html" },
-    { "source": "/equipment/centrifuge/lab-centrifuge/", "destination": "/equipment/centrifuge/lab-centrifuge/INTERNAL-REVIEW-lab-centrifuge.html" }
+    { "source": "/equipment/centrifuge/lab-centrifuge/", "destination": "/equipment/centrifuge/lab-centrifuge/INTERNAL-REVIEW-lab-centrifuge.html" },
+    { "source": "/equipment/dryer/nauta-dryer", "destination": "/equipment/dryer/nauta-dryer/INTERNAL-REVIEW-nauta-dryer.html" },
+    { "source": "/equipment/dryer/nauta-dryer/", "destination": "/equipment/dryer/nauta-dryer/INTERNAL-REVIEW-nauta-dryer.html" },
+    { "source": "/equipment/dryer/drum-dryer", "destination": "/equipment/dryer/drum-dryer/INTERNAL-REVIEW-drum-dryer.html" },
+    { "source": "/equipment/dryer/drum-dryer/", "destination": "/equipment/dryer/drum-dryer/INTERNAL-REVIEW-drum-dryer.html" },
+    { "source": "/equipment/centrifuge/solid-bowl-decanter-centrifuge-parts", "destination": "/equipment/centrifuge/solid-bowl-decanter-centrifuge-parts/INTERNAL-REVIEW-solid-bowl-decanter-centrifuge-parts.html" },
+    { "source": "/equipment/centrifuge/solid-bowl-decanter-centrifuge-parts/", "destination": "/equipment/centrifuge/solid-bowl-decanter-centrifuge-parts/INTERNAL-REVIEW-solid-bowl-decanter-centrifuge-parts.html" },
+    { "source": "/equipment/dryer/flash-dryer", "destination": "/equipment/dryer/flash-dryer/INTERNAL-REVIEW-flash-dryer.html" },
+    { "source": "/equipment/dryer/flash-dryer/", "destination": "/equipment/dryer/flash-dryer/INTERNAL-REVIEW-flash-dryer.html" },
+    { "source": "/equipment/dryer/porcupine-dryer-parts", "destination": "/equipment/dryer/porcupine-dryer-parts/INTERNAL-REVIEW-porcupine-dryer-parts.html" },
+    { "source": "/equipment/dryer/porcupine-dryer-parts/", "destination": "/equipment/dryer/porcupine-dryer-parts/INTERNAL-REVIEW-porcupine-dryer-parts.html" }
   ],
   "redirects": [
     { "source": "/buy-used", "destination": "https://internationalprocessplants.com/buy-used/", "permanent": false },

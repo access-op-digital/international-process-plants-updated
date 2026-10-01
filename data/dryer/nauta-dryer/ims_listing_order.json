@@ -1,0 +1,96 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/nauta-dryer",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/nauta-dryer",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used Nauta dryers for sale: conical vacuum dryers for delicate and high-purity materials",
+ "items_found": 11,
+ "items_this_category": 11,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "241005",
+   1,
+   1,
+   "Dryer- Nauta / Conical Hastelloy - C276 Summix Holland DF-300-VD3"
+  ],
+  [
+   2,
+   "231137",
+   1,
+   1,
+   "Dryer Nauta Krauss Maffei MT 2/300 Stainless Steel 316"
+  ],
+  [
+   3,
+   "246751",
+   1,
+   1,
+   "Dryer-Nauta Andritz GHD3000S Stainless Steel 316"
+  ],
+  [
+   4,
+   "201391",
+   0,
+   1,
+   "Stainless Steel 304 JH Day FA-3.5 Mark II Dryer- Nauta / Conical"
+  ],
+  [
+   5,
+   "231223",
+   0,
+   1,
+   "Stainless Steel 316 Clad Engelsmann AG Dryer- Nauta / Conical"
+  ],
+  [
+   6,
+   "248271",
+   0,
+   1,
+   "Stainless Steel 316L Bolz GmbH Dryer- Nauta / Conical"
+  ],
+  [
+   7,
+   "248077",
+   0,
+   1,
+   "Stainless Steel 304 Dryer- Nauta / Conical"
+  ],
+  [
+   8,
+   "203543",
+   0,
+   1,
+   "Stainless Steel Austenitic Krauss Maffei TMT 20/300 Dryer- Nauta / Conical"
+  ],
+  [
+   9,
+   "706888",
+   0,
+   1,
+   "Stainless Steel 316 Vrieco Nauta 20 VB-S Dryer-Nauta"
+  ],
+  [
+   10,
+   "231222",
+   0,
+   1,
+   "Stainless Steel 316 Clad Bauer Mainz T710C Dryer-Nauta"
+  ],
+  [
+   11,
+   "247055",
+   0,
+   1,
+   "Stainless Steel Other Hosokawa Alpine Dryer-Nauta"
+  ]
+ ]
+}

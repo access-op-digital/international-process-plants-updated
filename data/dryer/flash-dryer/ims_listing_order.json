@@ -1,0 +1,47 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/flash-dryer",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/flash-dryer",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used flash dryers for sale: rapid drying technology for fine powders and slurries",
+ "items_found": 4,
+ "items_this_category": 4,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "203553",
+   0,
+   1,
+   "4,650 m3/h (2,700 CFM) Dryer-Flash"
+  ],
+  [
+   2,
+   "207113",
+   0,
+   1,
+   "Stainless Steel Other APV Anhydro III Number 55 Dryer-Flash"
+  ],
+  [
+   3,
+   "205616",
+   0,
+   1,
+   "Stainless Steel 304 Dryer-Flash"
+  ],
+  [
+   4,
+   "238462",
+   0,
+   1,
+   "Stainless Steel 316 Dryer-Flash"
+  ]
+ ]
+}

@@ -1,10 +1,10 @@
 # Buy Used Plate and Frame Heat Exchangers for Sale
 
-Buying used plate and frame heat exchangers through International Process Plants (IPP) gives chemical, pharmaceutical, food and specialty manufacturers access to gasketed plate heat exchangers from Alfa Laval, API Schmidt-Bretten, APV, Tranter, Vicarb, GEA and other OEM manufacturers. Heat transfer surface areas range from 0.2 m² (2.2 ft²) to 938 m² (10,100 ft²), with plates in stainless steel, titanium, Hastelloy and graphite. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.
+Buying used plate and frame heat exchangers through International Process Plants (IPP) equips chemical, pharmaceutical, food and specialty manufacturers with gasketed plate heat exchangers from Alfa Laval, API Schmidt-Bretten, APV, Tranter, Vicarb, GEA and other OEM manufacturers. Heat transfer surface areas range from 0.2 m² (2.2 ft²) to 938 m² (10,100 ft²), with plates in stainless steel, titanium, Hastelloy and graphite. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.
 
-IPP stocks good used, unused and new plate and frame heat exchangers, the gasketed design in which a frame clamps a pack of corrugated plates. Plate materials include stainless steel 304, 316, 316L and 321, titanium, Hastelloy C-276 and Hastelloy B, and graphite, and plate packs range from 6 to 588 plates.
+IPP's inventory holds good used, unused and new plate and frame heat exchangers, the gasketed design in which a frame clamps a pack of corrugated plates. Plate materials include stainless steel 304, 316, 316L and 321, titanium, Hastelloy C-276 and Hastelloy B, and graphite, and plate packs range from 6 to 588 plates.
 
-Each plate and frame heat exchanger is listed on IPP's IMS inventory system with its heat transfer area, plate count, pressure and temperature ratings and condition grade. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
+IPP's IMS inventory system records the heat transfer area, plate count, pressure and temperature ratings and condition grade of every plate and frame heat exchanger. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
 
 [Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/search/equipment/heat-exchanger/plate-and-frame)
 
@@ -14,9 +14,6 @@ Each plate and frame heat exchanger is listed on IPP's IMS inventory system with
 - [Stainless Steel Plate Units -- SS 304, 316, 316L and 321 plate packs](https://ims.internationalprocessplants.com/search?equipmenttype=heat-exchanger&equipmentsubtype=plate-and-frame&material=Stainless%20Steel%20304&material=Stainless%20Steel%20316&material=Stainless%20Steel%20316L&material=Stainless%20Steel%20321&material=Stainless%20Steel%20Austenitic&material=Stainless%20Steel%20Other)
 - [Titanium & Hastelloy Units -- Titanium and nickel alloy plate packs](https://ims.internationalprocessplants.com/search?equipmenttype=heat-exchanger&equipmentsubtype=plate-and-frame&material=Titanium&material=Hastelloy%20-%20C276&material=Hastelloy%20-%20B&material=Hastelloy%20-%20Other)
 - [New & Unused Units -- New and unused surplus plate heat exchangers](https://ims.internationalprocessplants.com/search?equipmenttype=heat-exchanger&equipmentsubtype=plate-and-frame&condition=New&condition=Unused)
-
-
-Trusted around the world by
 
 
 ---

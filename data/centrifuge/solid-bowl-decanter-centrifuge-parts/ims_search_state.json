@@ -1,0 +1,82 @@
+{
+ "group_code": "CESB",
+ "subgroup_code": "CESBPRTS",
+ "attributes": [
+  {
+   "name": "Bowl Diameter",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "in",
+   "unit_metric": "mm"
+  },
+  {
+   "name": "Bowl Length",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "in",
+   "unit_metric": "mm"
+  },
+  {
+   "name": "Main Motor Horsepower",
+   "group": "Capacity",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "HP",
+   "unit_metric": "kW"
+  },
+  {
+   "name": "Bowl Max RPM",
+   "group": null,
+   "type": "Number",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Back Drive",
+   "group": null,
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Bowl Type",
+   "group": null,
+   "type": "Text",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Gas Tight",
+   "group": null,
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Washing",
+   "group": null,
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  }
+ ],
+ "seo": {
+  "windowTitle": null,
+  "metaDescription": null
+ }
+}

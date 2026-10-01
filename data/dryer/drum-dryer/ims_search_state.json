@@ -1,0 +1,127 @@
+{
+ "group_code": "DYDM",
+ "subgroup_code": null,
+ "attributes": [
+  {
+   "name": "Diameter",
+   "group": "Capacity",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "in",
+   "unit_metric": "mm"
+  },
+  {
+   "name": "Length",
+   "group": "Dimensions",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "in",
+   "unit_metric": "mm"
+  },
+  {
+   "name": "Drum Heating-Cooling",
+   "group": null,
+   "type": "Dropdown",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Heating Type",
+   "group": null,
+   "type": "Dropdown",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Drum Configuration",
+   "group": null,
+   "type": "Dropdown",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Pressure",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "psi",
+   "unit_metric": "bar"
+  },
+  {
+   "name": "Temperature",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "°F",
+   "unit_metric": "°C"
+  },
+  {
+   "name": "Heat Transfer Surface Area",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "ft²",
+   "unit_metric": "m²"
+  },
+  {
+   "name": "Number of Applicator Rolls",
+   "group": null,
+   "type": "Number",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Applicator Roll Diameter",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "in",
+   "unit_metric": "mm"
+  },
+  {
+   "name": "Vacuum Rated",
+   "group": null,
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Vacuum Housing",
+   "group": null,
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Vacuum Housing MOC",
+   "group": null,
+   "type": "Dropdown",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  }
+ ],
+ "seo": {
+  "windowTitle": null,
+  "metaDescription": null
+ }
+}

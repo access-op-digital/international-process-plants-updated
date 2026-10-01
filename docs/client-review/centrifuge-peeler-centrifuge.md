@@ -1,8 +1,19 @@
 # Buy Used Peeler Centrifuges for Sale
 
+Buying used peeler centrifuges through International Process Plants (IPP) furnishes chemical, pharmaceutical, food and specialty manufacturers with batch filtering centrifuges from Krauss Maffei, Alfa Laval, Escher Wyss, Luwa-Heine, Ellerwerk and other OEM manufacturers. Basket diameters range from 630 mm (24.8 in) to 1,600 mm (63 in), with baskets in stainless steel, titanium, Hastelloy and rubber-lined construction. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980, and its second hand peeler centrifuge machines are ready to buy and ship.
+
+IPP carries good used, refurbished and unused surplus peeler centrifuges, the batch design in which a knife peels the filter cake from a rotating basket. The inventory includes Krauss Maffei HZ siphon models, basket depths from 300 mm (11.8 in) to 813 mm (32 in) and maximum speeds from 750 to 2,400 rpm.
+
+Every peeler centrifuge listing on IPP's IMS inventory system states the basket diameter, basket depth, maximum speed, load weight and condition grade. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
+
 [Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/search/equipment/peeler-centrifuge)
 
 **Quick Stats:** 10+ OEM Manufacturers | 4 Basket Material Groups | 1980 Established Since | 15 Countries with Offices
+
+**Featured Equipment:**
+- [Stainless Steel Baskets -- SS 316, 316L, 904 and austenitic baskets](https://ims.internationalprocessplants.com/search?equipmenttype=peeler-centrifuge&material=Stainless%20Steel%20316&material=Stainless%20Steel%20316L&material=Stainless%20Steel%20Austenitic&material=Stainless%20Steel%20904&material=Stainless%20Steel%20304&material=Stainless%20Steel%20Other)
+- [Titanium & Hastelloy Units -- Titanium and nickel alloy baskets](https://ims.internationalprocessplants.com/search?equipmenttype=peeler-centrifuge&material=Titanium&material=Hastelloy%20-%20C22&material=Hastelloy%20-%20B&material=Hastelloy%20-%20Other&material=Hastelloy%20-%20C276)
+- [Refurbished & Unused Units -- Rebuilt and unused surplus peeler centrifuges](https://ims.internationalprocessplants.com/search?equipmenttype=peeler-centrifuge&condition=Refurbished/Rebuilt&condition=Unused)
 
 
 ---
@@ -14,14 +25,14 @@
 
 ## Browse Used Peeler Centrifuges by Material
 
-IPP lists this inventory by basket material, following the material groups on its IMS inventory system: stainless steel, titanium, Hastelloy and rubber-lined.
+Basket material divides this inventory, following the material groups on IPP's IMS inventory system: stainless steel, titanium, Hastelloy and rubber-lined.
 
 
 ---
 
 ## Buy Used Peeler Centrifuges by Basket Diameter
 
-Basket diameter is the capacity figure IMS records for each peeler centrifuge, and IPP's inventory runs from 630 mm (24.8 in) to 1,600 mm (63 in). Each tab shows featured units in that size range, with a link to every matching unit on IMS.
+Basket diameter is the capacity figure IMS records for each peeler centrifuge, and IPP's inventory runs from 630 mm (24.8 in) to 1,600 mm (63 in). Featured units fill each size tab, and its link opens every matching unit on IMS.
 
 ### Buy Used Peeler Centrifuges up to 900 mm (35.4 in)
 
@@ -171,7 +182,7 @@ Good used Escher Wyss H160 peeler centrifuge with a Rubber-lined basket, 1,600 m
 
 ## Peeler vs Pusher Centrifuges
 
-Peeler and pusher centrifuges both separate solids from liquids in a rotating basket through a filter medium, and they differ in how the cycle runs and how the cake leaves the basket. Here is how the two designs compare across key factors.
+Peeler and pusher centrifuges both separate solids from liquids in a rotating basket through a filter medium, and they differ in how the cycle runs and how the cake leaves the basket. Their key differences line up as follows.
 
 | Factor | Peeler Centrifuge | Pusher Centrifuge |
 |-----|-----|-----|
@@ -187,7 +198,7 @@ Peeler and pusher centrifuges both separate solids from liquids in a rotating ba
 
 ## Buy Used Peeler Centrifuges for Sale by Manufacturer
 
-Krauss Maffei, Alfa Laval, Luwa-Heine and Escher Wyss hold the deepest positions in IPP's peeler centrifuge inventory, alongside Ellerwerk, GFT Trenntechnik, SMS Buss, Reineveld, Ferrum, Robatel and ZVU.
+Krauss Maffei, Alfa Laval, Luwa-Heine and Escher Wyss anchor IPP's peeler centrifuge inventory, alongside Ellerwerk, GFT Trenntechnik, SMS Buss, Reineveld, Ferrum, Robatel and ZVU.
 
 ### Buy Used Krauss Maffei Peeler Centrifuges for Sale
 
@@ -453,7 +464,7 @@ Good used GFT Trenntechnik H10 peeler centrifuge with a stainless steel 316 bask
 
 ## Buy Peeler Centrifuges for Sale by Condition
 
-IPP lists each peeler centrifuge under one of three IMS condition grades: used, refurbished/rebuilt and unused.
+Three IMS condition grades apply to IPP's peeler centrifuges: used, refurbished/rebuilt and unused.
 
 ### Buy Good Used Peeler Centrifuges
 
@@ -675,7 +686,7 @@ Buying used peeler centrifuges from IPP can save up to 50% of capital and 90% of
 Answers to the most common questions from engineering and procurement teams evaluating used peeler centrifuges from IPP.
 
 **Q: What peeler centrifuges does IPP stock?**
-A: IPP stocks good used, refurbished and unused surplus peeler centrifuges from Krauss Maffei, Alfa Laval, Escher Wyss, Luwa-Heine and other OEM manufacturers. Units range from 630 mm (24.8 in) to 1,600 mm (63 in) basket diameter, with stainless steel, titanium, Hastelloy and rubber-lined baskets. Browse the IMS inventory for current availability.
+A: The peeler centrifuges in stock come from Krauss Maffei, Alfa Laval, Escher Wyss, Luwa-Heine and other OEM manufacturers, in good used, refurbished and unused surplus condition. Units range from 630 mm (24.8 in) to 1,600 mm (63 in) basket diameter, with stainless steel, titanium, Hastelloy and rubber-lined baskets. Check IMS for current availability.
 
 **Q: How much can I save buying a used peeler centrifuge versus new?**
 A: Buying a used peeler centrifuge from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on manufacturer, basket diameter, basket material and condition, so the cost of a specific unit is quoted on request. Contact IPP for pricing on specific units.
@@ -696,7 +707,7 @@ A: The two designs differ in the axis of the rotating basket. A horizontal unit 
 A: In a siphon peeler centrifuge, the basket has a solid outer shell and the filtrate drains through axial channels into a siphon chamber at the rear of the basket, where a pivoting skimmer pipe draws it off. The radial distance between the filter cloth and the liquid level in the siphon chamber adds driving force to the filtration. Krauss Maffei designates this design HZ Si, and IPP's inventory includes HZ-125-SI, HZ 125/3.2 SI D, HZ125/2.5Si and HZ 1250/3,2 Si D siphon models.
 
 **Q: Which manufacturers' peeler centrifuges does IPP carry?**
-A: IPP carries peeler centrifuges from Krauss Maffei, Alfa Laval, Escher Wyss, Luwa-Heine, Ellerwerk, GFT Trenntechnik, SMS Buss, Reineveld, Ferrum, Robatel and ZVU. Krauss Maffei holds the deepest position, with HZ models from 630 mm (24.8 in) to 1,600 mm (63 in).
+A: IPP carries peeler centrifuges from Krauss Maffei, Alfa Laval, Escher Wyss, Luwa-Heine, Ellerwerk, GFT Trenntechnik, SMS Buss, Reineveld, Ferrum, Robatel and ZVU. Krauss Maffei has the widest range, with HZ models from 630 mm (24.8 in) to 1,600 mm (63 in).
 
 **Q: What basket materials are available?**
 A: IPP's peeler centrifuges have baskets in stainless steel 316, 316L, 904 and austenitic stainless steel, titanium, Hastelloy C-22, Hastelloy B and rubber-lined construction. Stainless steel 316 is the most common basket material in the inventory, followed by titanium.

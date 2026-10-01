@@ -1,8 +1,19 @@
 # Buy Used Lab Centrifuges for Sale
 
+Buying used lab centrifuges through International Process Plants (IPP) lets process development, pilot plant and laboratory teams take separation work beyond the benchtop with lab-scale units: Carr Centritech Centritec Cell 8 single-use flow centrifuges, a Sharples Type 1P laboratory super centrifuge and a beaker centrifuge. Speeds reach 50,000 rpm and 62,000 G on the Sharples unit. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
+
+IPP's lab centrifuges are good used units in stainless steel 316L and 316, plus a carbon steel beaker centrifuge. The Carr Centritech units carry heating, refrigeration, a 2 to 150 °C (36 to 302 °F) temperature control range and programmable HMI controls, and the Sharples Type 1P runs on an air or steam turbine drive. Each used lab centrifuge for sale here is ready to ship.
+
+On IPP's IMS inventory system, every lab centrifuge carries its type, maximum speed, maximum G force, capacity and condition grade. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
+
 [Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/search/equipment/lab-centrifuge)
 
 **Quick Stats:** 50,000 Maximum rpm | 3 Lab Centrifuge Types | 1980 Established Since | 15 Countries with Offices
+
+**Featured Equipment:**
+- [Single-Use Flow Centrifuges -- Carr Centritech Centritec Cell 8 units](https://ims.internationalprocessplants.com/search?equipmenttype=lab-centrifuge&attr-lab-centrifuge-type=Micro)
+- [Laboratory Super Centrifuge -- Sharples Type 1P, 50,000 rpm](https://ims.internationalprocessplants.com/search?equipmenttype=lab-centrifuge&attr-lab-centrifuge-type=Ultra%20Centrifuge)
+- [All Lab Centrifuges -- The full IMS lab centrifuge category](https://ims.internationalprocessplants.com/inventory/search/equipment/lab-centrifuge)
 
 
 ---
@@ -14,14 +25,14 @@
 
 ## Browse Used Lab Centrifuges by Type
 
-IPP lists this inventory by the Lab Centrifuge Type field on its IMS inventory system: micro flow centrifuges, an ultra-speed laboratory super centrifuge and a multipurpose beaker centrifuge.
+The Lab Centrifuge Type field on IPP's IMS inventory system sorts this inventory into micro flow centrifuges, an ultra-speed laboratory super centrifuge and a multipurpose beaker centrifuge.
 
 
 ---
 
 ## Continuous-Flow vs Batch Lab Centrifuges
 
-Continuous-flow and batch lab centrifuges both use centrifugal force to separate components by density, and they differ in how material enters and leaves the machine. Here is how the two designs compare across key factors.
+Continuous-flow and batch lab centrifuges both use centrifugal force to separate components by density, and they differ in how material enters and leaves the machine. The table compares them factor by factor.
 
 | Factor | Continuous-Flow Centrifuge | Batch Centrifuge |
 |-----|-----|-----|
@@ -195,7 +206,7 @@ Buying used lab centrifuges from IPP can save up to 50% of capital and 90% of le
 Answers to the most common questions from engineering and procurement teams evaluating used lab centrifuges from IPP.
 
 **Q: Which lab centrifuges does IPP stock?**
-A: IPP's lab centrifuges are process-scale units rather than benchtop tube centrifuges: Carr Centritech Centritec Cell 8 single-use flow centrifuges, a Sharples Type 1P laboratory super centrifuge and a carbon steel beaker centrifuge, all good used. Browse the IMS inventory for current availability.
+A: IPP's lab centrifuges are process-scale units rather than benchtop tube centrifuges: Carr Centritech Centritec Cell 8 single-use flow centrifuges, a Sharples Type 1P laboratory super centrifuge and a carbon steel beaker centrifuge, all good used. Current availability is live on IMS.
 
 **Q: How much can I save buying a used lab centrifuge versus new?**
 A: Buying a used lab centrifuge from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on manufacturer, type, maximum speed and condition, so the cost of a specific unit is quoted on request. Contact IPP for pricing on specific units.
@@ -219,7 +230,7 @@ A: IMS lists the Centritec Cell 8 as a single-use insert flow centrifuge from Ca
 A: The Carr Centritech units run to 1,200 rpm and 320 G with a 6 to 120 L/hr capacity, and the Sharples Type 1P runs to 50,000 rpm and 62,000 G with a 350 g (12.3 oz) maximum load. The beaker centrifuge has a 191 mm (7.5 in) diameter, 76 mm (3 in) deep chamber for two 38 mm (1.5 in) cone-bottom beakers.
 
 **Q: Which manufacturers' lab centrifuges does IPP carry?**
-A: IPP carries lab centrifuges from Carr Centritech and Sharples, plus a beaker centrifuge without a recorded manufacturer. Carr Centritech holds the deepest position, with Centritec Cell 8 flow centrifuges.
+A: IPP carries lab centrifuges from Carr Centritech and Sharples, plus a beaker centrifuge without a recorded manufacturer. Most units carry the Carr Centritech name, all of them Centritec Cell 8 flow centrifuges.
 
 
 ---

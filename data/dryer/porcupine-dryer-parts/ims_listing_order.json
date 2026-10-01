@@ -1,0 +1,47 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/porcupine-dryer/parts",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/porcupine-dryer/parts",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used Porcupine dryers for sale: indirect thermal dryers for sticky or viscous materials",
+ "items_found": 4,
+ "items_this_category": 4,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "70959",
+   0,
+   1,
+   "Stainless Steel 316 Gale Process Solutions 1P1810JTB Parts Dryer-Porcupine"
+  ],
+  [
+   2,
+   "85675",
+   0,
+   1,
+   "Unused Stainless Steel 321 Gale Process Solutions 1P3016JTC Parts Dryer-Porcupine"
+  ],
+  [
+   3,
+   "239450",
+   0,
+   0,
+   "New Carbon Steel Gale Process Solutions Parts Dryer-Porcupine"
+  ],
+  [
+   4,
+   "214815",
+   0,
+   0,
+   "Stainless Steel 316 Gale Process Solutions 5416 Parts Dryer-Porcupine"
+  ]
+ ]
+}

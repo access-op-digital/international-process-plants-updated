@@ -1,8 +1,19 @@
 # Buy Used Tubular, Podbielniak & Hydraulic Centrifuges for Sale
 
+Buying used tubular, Podbielniak and hydraulic centrifuges through International Process Plants (IPP) connects chemical, pharmaceutical, food and specialty manufacturers with the separation equipment IPP groups under Misc. & Hydraulic on its IMS inventory system: Sharples tubular bowl super centrifuges, Podbielniak centrifugal extractors from Podbielniak, APV and Baker Perkins, and Oil Gear and Sanborn hydraulic drives. Bowl speeds reach 50,000 rpm, and buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.
+
+The inventory spans good used and refurbished units, including used super centrifuge models from Sharples (AS16, AS26, AS14, AE-18V and T1P), tubular units from Rina, Carl Padberg and Robatel, Podbielniak 6900 countercurrent extractors and APV D36 and Baker Perkins D18 Podbielniak-type units. Every used tubular centrifuge is listed with its specifications, ready to buy and ship.
+
+IPP's IMS inventory system shows the bowl speed, motor power, description and condition grade for each unit. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
+
 [Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/search/equipment/misc-and-hydraulic-centrifuge)
 
 **Quick Stats:** 10+ OEM Manufacturers | 50,000 Maximum rpm | 1980 Established Since | 15 Countries with Offices
+
+**Featured Equipment:**
+- [Tubular Super Centrifuges -- Sharples, Rina, CEPA and Robatel units](https://ims.internationalprocessplants.com/search?equipmenttype=misc-and-hydraulic-centrifuge&attr-is-vertical-tubular=true)
+- [Podbielniak Extractors -- Podbielniak, APV and Baker Perkins units](https://ims.internationalprocessplants.com/search?equipmenttype=misc-and-hydraulic-centrifuge&attr-is-podbielniak=true)
+- [Hydraulic Drives -- Oil Gear and Sanborn drives and pumps](https://ims.internationalprocessplants.com/search?equipmenttype=misc-and-hydraulic-centrifuge&q=hydraulic)
 
 
 ---
@@ -14,14 +25,14 @@
 
 ## Browse Used Tubular & Podbielniak Centrifuges by Design
 
-IPP lists this inventory by design, using the Podbielniak and vertical tubular flags on its IMS inventory system plus the hydraulic drives and components in the category.
+The Podbielniak and vertical tubular flags on IPP's IMS inventory system split this inventory by design, and the hydraulic drives and components in the category form a third group.
 
 
 ---
 
 ## Tubular Bowl vs Disc Stack Centrifuges
 
-Tubular bowl and disc stack centrifuges both spin a vertical bowl to separate fine solids and liquids, and they differ in bowl geometry, G-force, throughput and solids discharge. Here is how the two designs compare across key factors.
+Tubular bowl and disc stack centrifuges both spin a vertical bowl to separate fine solids and liquids, and they differ in bowl geometry, G-force, throughput and solids discharge. Key factors for each design appear in the table.
 
 | Factor | Tubular Bowl Centrifuge | Disc Stack Centrifuge |
 |-----|-----|-----|
@@ -37,7 +48,7 @@ Tubular bowl and disc stack centrifuges both spin a vertical bowl to separate fi
 
 ## Buy Used Tubular, Podbielniak & Hydraulic Centrifuges by Manufacturer
 
-Sharples and Podbielniak hold the deepest positions in this part of IPP's centrifuge inventory, alongside APV, Baker Perkins, Oil Gear, Robatel, Rina, Carl Padberg, Sanborn, Tolhurst, Dorr Oliver and Adelet.
+Sharples and Podbielniak top this part of IPP's centrifuge inventory, alongside APV, Baker Perkins, Oil Gear, Robatel, Rina, Carl Padberg, Sanborn, Tolhurst, Dorr Oliver and Adelet.
 
 ### Buy Used Sharples Tubular Centrifuges for Sale
 
@@ -300,7 +311,7 @@ Refurbished Robatel EC-03 other centrifuge or component with a 3,600 rpm maximum
 
 ## Buy Tubular, Podbielniak & Hydraulic Centrifuges by Condition
 
-IPP lists each unit in this category under one of two IMS condition grades: used and refurbished/rebuilt.
+Units in this category carry one of two IMS condition grades: used and refurbished/rebuilt.
 
 ### Buy Good Used Tubular & Podbielniak Centrifuges
 
@@ -487,7 +498,7 @@ Buying used tubular and Podbielniak centrifuges from IPP can save up to 50% of c
 Answers to the most common questions from engineering and procurement teams evaluating used tubular and Podbielniak centrifuges from IPP.
 
 **Q: What centrifuges does IPP stock in its misc. and hydraulic category?**
-A: IPP's misc. and hydraulic centrifuge category holds Sharples tubular bowl super centrifuges, Podbielniak-type centrifugal extractors from Podbielniak, APV and Baker Perkins, Oil Gear and Sanborn hydraulic drives and pumps, and centrifuge components. Units are good used or refurbished. Browse the IMS inventory for current availability.
+A: IPP's misc. and hydraulic centrifuge category holds Sharples tubular bowl super centrifuges, Podbielniak-type centrifugal extractors from Podbielniak, APV and Baker Perkins, Oil Gear and Sanborn hydraulic drives and pumps, and centrifuge components. Units are good used or refurbished. IMS shows what is available today.
 
 **Q: How much can I save buying a used tubular or Podbielniak centrifuge versus new?**
 A: Buying a used tubular or Podbielniak centrifuge from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on manufacturer, design, bowl speed and condition, so the cost of a specific unit is quoted on request. Contact IPP for pricing on specific units.
@@ -508,7 +519,7 @@ A: A Podbielniak centrifugal extractor brings the heavy and the light liquid int
 A: Sharples super centrifuges are high-speed vertical tubular bowl machines, with AS16 and AS26 series units rated to 15,000 rpm and the turbine-driven T1P to 50,000 rpm. Sharples is the super centrifuge manufacturer behind most of the tubular units in IPP's inventory.
 
 **Q: What does a hydraulic centrifuge drive do?**
-A: A hydraulic centrifuge drive turns the basket through a hydraulic motor fed by a pump and power unit, instead of a direct electric motor or gearbox, which gives high starting torque and smooth acceleration. The same hydraulic power can run the discharge plows on a basket centrifuge, and IPP's Oil Gear and Sanborn units include drives built for basket centrifuges.
+A: A hydraulic centrifuge drive turns the basket through a hydraulic motor fed by a pump and power unit, instead of a direct electric motor or gearbox, which delivers high starting torque and smooth acceleration. The same hydraulic power can run the discharge plows on a basket centrifuge, and IPP's Oil Gear and Sanborn units include drives built for basket centrifuges.
 
 **Q: Which manufacturers' centrifuges does IPP carry in this category?**
 A: IPP carries Sharples, Podbielniak, APV, Baker Perkins, Oil Gear, Robatel, Rina, Carl Padberg, Sanborn, Tolhurst, Dorr Oliver and Adelet equipment in this category. Sharples leads the tubular bowl units, and Podbielniak, APV and Baker Perkins make up the Podbielniak-type extractors.

@@ -1,8 +1,19 @@
 # Buy Used Pusher Centrifuges for Sale
 
+Buying used pusher centrifuges through International Process Plants (IPP) offers chemical, pharmaceutical, food and specialty manufacturers continuous filtering centrifuges from Krauss Maffei, Escher Wyss, Andritz, Siebtechnik and other OEM manufacturers. Basket diameters range from 281 mm (11.1 in) to 1,050 mm (41.9 in), with stainless steel and Hastelloy baskets in single-stage, two-stage and multi-stage designs. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980, and its second hand pusher centrifuges are ready to ship.
+
+IPP's pusher centrifuge inventory covers good used and refurbished units of the continuous design, in which a reciprocating pusher plate moves the filter cake along a rotating screen basket. Two-stage machines make up most of the inventory, with maximum speeds from 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP).
+
+IMS, IPP's inventory system, details the basket diameter, number of basket stages, maximum speed, motor power and condition grade of each pusher centrifuge. Spare baskets, pusher shafts and screens are listed separately on IPP's pusher centrifuge parts page, and new custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
+
 [Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/search/equipment/pusher-centrifuge)
 
 **Quick Stats:** 7 OEM Manufacturers | 3 Basket Stage Designs | 1980 Established Since | 15 Countries with Offices
+
+**Featured Equipment:**
+- [Two-Stage Machines -- Inner and outer basket pusher centrifuges](https://ims.internationalprocessplants.com/search?equipmenttype=pusher-centrifuge&attr-number-of-basket-stages=2)
+- [Hastelloy Baskets -- Escher Wyss P-3 units in Hastelloy](https://ims.internationalprocessplants.com/search?equipmenttype=pusher-centrifuge&material=Hastelloy%20-%20Other&material=Hastelloy%20-%20C276&material=Hastelloy%20-%20C22&material=Hastelloy%20-%20B)
+- [Refurbished Units -- Rebuilt Andritz, Escher Wyss and Krauss Maffei machines](https://ims.internationalprocessplants.com/search?equipmenttype=pusher-centrifuge&condition=Refurbished/Rebuilt)
 
 
 ---
@@ -14,14 +25,14 @@
 
 ## Browse Used Pusher Centrifuges by Basket Stages
 
-IPP lists this inventory by basket stages, following the Number of Basket Stages field on its IMS inventory system: single-stage, two-stage and multi-stage.
+The Number of Basket Stages field on IPP's IMS inventory system separates this inventory into single-stage, two-stage and multi-stage machines.
 
 
 ---
 
 ## Buy Used Pusher Centrifuges by Basket Diameter
 
-Basket diameter is the capacity figure IMS records for each pusher centrifuge, and IPP's inventory runs from 281 mm (11.1 in) to 1,050 mm (41.9 in). Each tab shows featured units in that size range, with a link to the matching units on IMS.
+Basket diameter is the capacity figure IMS records for each pusher centrifuge, and IPP's inventory runs from 281 mm (11.1 in) to 1,050 mm (41.9 in). Every size tab carries featured units plus a link to the matching units on IMS.
 
 ### Buy Used Pusher Centrifuges up to 500 mm (19.7 in)
 
@@ -165,7 +176,7 @@ Good used Escher Wyss pusher centrifuge with a stainless steel 316 basket, 1,050
 
 ## Single-Stage vs Two-Stage Pusher Centrifuges
 
-Single-stage and two-stage pusher centrifuges both push the filter cake along a rotating screen basket with a reciprocating pusher plate, and they differ in how many basket stages the cake crosses. Here is how the two designs compare across key factors.
+Single-stage and two-stage pusher centrifuges both push the filter cake along a rotating screen basket with a reciprocating pusher plate, and they differ in how many basket stages the cake crosses. The factors below set the two designs apart.
 
 | Factor | Two-Stage Pusher | Single-Stage Pusher |
 |-----|-----|-----|
@@ -181,7 +192,7 @@ Single-stage and two-stage pusher centrifuges both push the filter cake along a 
 
 ## Buy Used Pusher Centrifuges for Sale by Manufacturer
 
-Krauss Maffei and Escher Wyss hold the deepest positions in IPP's pusher centrifuge inventory, alongside Andritz, Siebtechnik, Bird, Baker Perkins and Alfa Laval.
+Krauss Maffei and Escher Wyss make up the bulk of IPP's pusher centrifuge inventory, alongside Andritz, Siebtechnik, Bird, Baker Perkins and Alfa Laval.
 
 ### Buy Used Krauss Maffei Pusher Centrifuges for Sale
 
@@ -346,7 +357,7 @@ Good used Siebtechnik H1000-K- 10/224-29 pusher centrifuge with a stainless stee
 
 ## Buy Pusher Centrifuges for Sale by Condition
 
-IPP lists each pusher centrifuge under one of two IMS condition grades: used and refurbished/rebuilt.
+Every pusher centrifuge in stock falls under one of two IMS condition grades: used and refurbished/rebuilt.
 
 ### Buy Good Used Pusher Centrifuges
 
@@ -546,7 +557,7 @@ Buying used pusher centrifuges from IPP can save up to 50% of capital and 90% of
 Answers to the most common questions from engineering and procurement teams evaluating used pusher centrifuges from IPP.
 
 **Q: What pusher centrifuges does IPP stock?**
-A: IPP stocks good used and refurbished pusher centrifuges from Krauss Maffei, Escher Wyss, Andritz, Siebtechnik and other OEM manufacturers. Units range from 281 mm (11.1 in) to 1,050 mm (41.9 in) basket diameter, with stainless steel and Hastelloy baskets in single-stage, two-stage and multi-stage designs. Browse the IMS inventory for current availability.
+A: Good used and refurbished pusher centrifuges from Krauss Maffei, Escher Wyss, Andritz, Siebtechnik and other OEM manufacturers fill IPP's current stock. Units range from 281 mm (11.1 in) to 1,050 mm (41.9 in) basket diameter, with stainless steel and Hastelloy baskets in single-stage, two-stage and multi-stage designs. The IMS inventory reflects current availability.
 
 **Q: How much can I save buying a used pusher centrifuge versus new?**
 A: Buying a used pusher centrifuge from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on manufacturer, basket diameter, number of stages and condition, so the cost of a specific unit is quoted on request. Contact IPP for pricing on specific units.
@@ -567,10 +578,10 @@ A: A pusher centrifuge works on the principle of continuous filtration on a rota
 A: Wash nozzles spray liquid onto the cake as it advances along the basket, and the wash liquid displaces the mother liquor held in the crystal bed. Baffles or separate housings collect the wash filtrate apart from the mother liquor, and IMS records washing on about half of IPP's pusher centrifuges, including the Krauss Maffei SB 1000/2 machines.
 
 **Q: Which manufacturers' pusher centrifuges does IPP carry?**
-A: IPP carries pusher centrifuges from Krauss Maffei, Escher Wyss, Andritz, Siebtechnik, Bird, Baker Perkins and Alfa Laval. Krauss Maffei and Escher Wyss hold the deepest positions, with models from 281 mm (11.1 in) to 1,050 mm (41.9 in).
+A: IPP carries pusher centrifuges from Krauss Maffei, Escher Wyss, Andritz, Siebtechnik, Bird, Baker Perkins and Alfa Laval. Most units carry the Krauss Maffei or Escher Wyss name, with models from 281 mm (11.1 in) to 1,050 mm (41.9 in).
 
 **Q: What basket materials are available?**
-A: IPP's pusher centrifuges have baskets in stainless steel 316, 304, 317, austenitic and other stainless grades, and Hastelloy. Stainless steel 316 is the most common basket material in the inventory.
+A: IPP's pusher centrifuges have baskets in stainless steel 316, 304, 317, austenitic and other stainless grades, and Hastelloy. Most baskets in the inventory are stainless steel 316.
 
 **Q: What basket sizes are available, and how do I find the right size?**
 A: IPP's pusher centrifuges range from 281 mm (11.1 in) to 1,050 mm (41.9 in) basket diameter, with maximum speeds of 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP). Share your throughput, feed concentration and number of stages with IPP, and the team will match units in stock to your requirements.

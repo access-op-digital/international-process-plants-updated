@@ -1,0 +1,172 @@
+{
+ "group_code": "DYPO",
+ "subgroup_code": "PRTS",
+ "attributes": [
+  {
+   "name": "Shell Configuration",
+   "group": null,
+   "type": "Dropdown",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Operational Mode",
+   "group": null,
+   "type": "Dropdown",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Diameter",
+   "group": "Capacity",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "in",
+   "unit_metric": "mm"
+  },
+  {
+   "name": "Length",
+   "group": "Dimensions",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "in",
+   "unit_metric": "mm"
+  },
+  {
+   "name": "Number of Shafts",
+   "group": "",
+   "type": "Number",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Has Jacket",
+   "group": "Jacket",
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Jacket Surface Area",
+   "group": "Heating Surface Area",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "ft²",
+   "unit_metric": "m²"
+  },
+  {
+   "name": "Porcupine Surface Area",
+   "group": "Heating Surface Area",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "ft²",
+   "unit_metric": "m²"
+  },
+  {
+   "name": "Porcupine Operating Pressure",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "psi",
+   "unit_metric": "bar"
+  },
+  {
+   "name": "Porcupine Operating Temperature",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "°F",
+   "unit_metric": "°C"
+  },
+  {
+   "name": "Jacket Operating Pressure",
+   "group": "Jacket",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "psi",
+   "unit_metric": "bar"
+  },
+  {
+   "name": "Jacket Operating Temperature",
+   "group": "Jacket",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "°F",
+   "unit_metric": "°C"
+  },
+  {
+   "name": "Total Heat Transfer Surface Area",
+   "group": "Heating Surface Area",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "ft²",
+   "unit_metric": "m²"
+  },
+  {
+   "name": "Porcupine Agitator Pressure",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "psi",
+   "unit_metric": "bar"
+  },
+  {
+   "name": "Porcupine Agitator Temperature",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "°F",
+   "unit_metric": "°C"
+  },
+  {
+   "name": "Total Working Volume",
+   "group": "Capacity",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "ft3",
+   "unit_metric": "m3"
+  },
+  {
+   "name": "Size",
+   "group": "Dimensions",
+   "type": "Text",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Shaft is Cored ?",
+   "group": null,
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  }
+ ],
+ "seo": {
+  "windowTitle": null,
+  "metaDescription": null
+ }
+}
