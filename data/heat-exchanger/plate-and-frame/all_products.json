@@ -1,0 +1,3104 @@
+[
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/100862",
+    "stock_number": "100862",
+    "title": "Stainless Steel 316 APV Baker 3HH-208/1 Plate and Frame Heat Exchanger - IPP# 100862",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV Baker",
+      "Model": "3HH-208/1",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "0.8 m&#xB2; (8.6 ft&#xB2;)",
+      "Nozzle Schedule": "openings: tube side 2-2\"; shell 2-3\"",
+      "Cold-side Pressure": "25 bar (362.6 psi)",
+      "Cold-side Temperature": "200 \u00b0C (392 \u00b0F)",
+      "Hot-side Pressure": "25 bar (362.6 psi)",
+      "Hot-side Temperature": "200 \u00b0C (392 \u00b0F)",
+      "Number of Plates": "23"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/100863",
+    "stock_number": "100863",
+    "title": "Stainless Steel 316 APV Baker 3HH-208/171 Plate and Frame Heat Exchanger - IPP# 100863",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV Baker",
+      "Model": "3HH-208/171",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "0.8 m&#xB2; (8.6 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: tube side 2-2\"; shell 2-3\"",
+      "Cold-side Pressure": "16 bar (232.1 psi)",
+      "Cold-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Hot-side Pressure": "16 bar (232.1 psi)",
+      "Hot-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Number of Plates": "23"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/102130",
+    "stock_number": "102130",
+    "title": "Stainless Steel 316 Plate and Frame Heat Exchanger - IPP# 102130",
+    "attribute_count": 7,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "20.9 m&#xB2; (225 ft&#xB2;)",
+      "Nozzle Schedule": "Opening sizes: service 2-4\"; product 2-4\"",
+      "Number of Plates": "150"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/102131",
+    "stock_number": "102131",
+    "title": "Stainless Steel 316 Plate and Frame Heat Exchanger - IPP# 102131",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "20.9 m&#xB2; (225 ft&#xB2;)",
+      "Number of Plates": "150"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/108240",
+    "stock_number": "108240",
+    "title": "Stainless Steel 304 APV HXU8 Plate and Frame Heat Exchanger - IPP# 108240",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Model": "HXU8",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "13 m&#xB2; (140 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: process side 2-2\"; service side 2-2\".",
+      "Number of Plates": "38"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/108356",
+    "stock_number": "108356",
+    "title": "Stainless Steel 316 Plate and Frame Heat Exchanger - IPP# 108356",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Superchanger",
+      "Model": "06T96HP-301",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "169.5 m&#xB2; (1,800 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: process side 2-8' service side 2-8\".",
+      "Cold-side Pressure": "5.2 bar (75 psi)",
+      "Cold-side Temperature": "65.6 \u00b0C (150 \u00b0F)",
+      "Hot-side Pressure": "5.2 bar (75 psi)",
+      "Hot-side Temperature": "65.6 \u00b0C (150 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/201438",
+    "stock_number": "201438",
+    "title": "Stainless Steel Other Plate and Frame Heat Exchanger - IPP# 201438",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV Crapco",
+      "Model": "SR6AAO",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "148.3 m&#xB2; (1,600 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: 4-4\"",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "103.3 \u00b0C (218 \u00b0F)",
+      "Number of Plates": "152"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/201439",
+    "stock_number": "201439",
+    "title": "Stainless Steel Other Plate and Frame Heat Exchanger - IPP# 201439",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Model": "SR6AAO",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "148.3 m&#xB2; (1,600 ft&#xB2;)",
+      "Nozzle Schedule": "- Openings: 4-4\"",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "103.3 \u00b0C (218 \u00b0F)",
+      "Number of Plates": "152"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/201585",
+    "stock_number": "201585",
+    "title": "Hastelloy - C276 Plate and Frame Heat Exchanger - IPP# 201585",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "VICARB",
+      "Condition": "Used",
+      "Material": "Hastelloy - C276",
+      "Heat Transfer Surface Area": "10.8 m&#xB2; (116.3 ft&#xB2;)",
+      "Nozzle Schedule": "- Openings: 2-3\" process side, 2-2\" service side",
+      "Cold-side Pressure": "2.1 bar (30 psi)",
+      "Cold-side Temperature": "50 \u00b0C (122 \u00b0F)",
+      "Hot-side Pressure": "3.1 bar (45 psi)",
+      "Hot-side Temperature": "50 \u00b0C (122 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/201586",
+    "stock_number": "201586",
+    "title": "Stainless Steel Austenitic VICARB Plate and Frame Heat Exchanger - IPP# 201586",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "VICARB",
+      "Condition": "Used",
+      "Material": "Stainless Steel Austenitic",
+      "Heat Transfer Surface Area": "8.6 m&#xB2; (93 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: 2-3\" service side, 2-2\" process side.",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "60 \u00b0C (140 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "60 \u00b0C (140 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/201600",
+    "stock_number": "201600",
+    "title": "Stainless Steel Austenitic Vicarb Plate and Frame Heat Exchanger - IPP# 201600",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Vicarb",
+      "Condition": "Used",
+      "Material": "Stainless Steel Austenitic",
+      "Heat Transfer Surface Area": "8.6 m&#xB2; (93 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: 2-3\" process side, 2-2\" service side",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "185 \u00b0C (365 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "62.8 \u00b0C (145 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/202272",
+    "stock_number": "202272",
+    "title": "Stainless Steel 316 Alfa Laval (Switzerland) AM20-HBM Plate and Frame Heat Exchanger - IPP# 202272",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval (Switzerland)",
+      "Model": "AM20-HBM",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "92.2 m&#xB2; (992 ft&#xB2;)",
+      "Nozzle Schedule": "Nozzles: 4-8\" on one end",
+      "Cold-side Pressure": "8 bar (116 psi)",
+      "Hot-side Pressure": "8 bar (116 psi)",
+      "Number of Plates": "124"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/202273",
+    "stock_number": "202273",
+    "title": "Stainless Steel 316 Alfa Laval MOM FM47 Plate and Frame Heat Exchanger - IPP# 202273",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "MOM FM47",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "18.2 m&#xB2; (196 ft&#xB2;)",
+      "Nozzle Schedule": "4-3\" on one end",
+      "Cold-side Pressure": "6.9 bar (100 psi)",
+      "Cold-side Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Hot-side Pressure": "6.9 bar (100 psi)",
+      "Hot-side Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Number of Plates": "47"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/202277",
+    "stock_number": "202277",
+    "title": "Stainless Steel 316 Alfa Laval M10B FN T Plate and Frame Heat Exchanger - IPP# 202277",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "M10B FN T",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "102.2 m&#xB2; (1,100 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: (4) 100MM, 150 psi flanged connections.",
+      "Housing Material": "Carbon Steel"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/203244",
+    "stock_number": "203244",
+    "title": "IPP# 203244 - Plate and Frame Heat Exchanger 5.4 m&#xB2; (58 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Bariquand Platulaire Heat Exchanger",
+      "Model": "IXASP 1x11/5x2x1500x220",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "5.4 m&#xB2; (58 ft&#xB2;)",
+      "Length": "1,950 mm (76.2 in)",
+      "Nozzle Schedule": "Openings include service side (2) 50mm, process side (1) 50mm, (1) 80mm.",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "2 bar (29 psi)",
+      "Cold-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Hot-side Pressure": "2 bar (29 psi)",
+      "Hot-side Temperature": "150 \u00b0C (302 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/203245",
+    "stock_number": "203245",
+    "title": "IPP# 203245 - Plate and Frame Heat Exchanger 18 m&#xB2; (194 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Bariquand Platulaire Heat Exchanger",
+      "Model": "DIXASP 1x16/1x15x2500x280",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "18 m&#xB2; (194 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: Service side (2) 150mm, process side (2) 50mm, (1) 200mm",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "5 bar (72.5 psi)",
+      "Cold-side Temperature": "50 \u00b0C (122 \u00b0F)",
+      "Hot-side Pressure": "3 bar (43.5 psi)",
+      "Hot-side Temperature": "150 \u00b0C (302 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/203552",
+    "stock_number": "203552",
+    "title": "IPP# 203552 - Plate and Frame Heat Exchanger 9.1 m&#xB2; (97.5 ft&#xB2;) Stainless Steel 304 For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "P2-16",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "9.1 m&#xB2; (97.5 ft&#xB2;)",
+      "Nozzle Schedule": "- Inlet/Outlet Size: 2\" (on both hot and cold sides)",
+      "Hot-side Pressure": "6.9 bar (100 psi)",
+      "Hot-side Temperature": "110 \u00b0C (230 \u00b0F)",
+      "Number of Plates": "75"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/204165",
+    "stock_number": "204165",
+    "title": "IPP# 204165 - Plate and Frame Heat Exchanger 8.1 m&#xB2; (87.4 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "VICARB",
+      "Model": "V28CH",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "8.1 m&#xB2; (87.4 ft&#xB2;)",
+      "Nozzle Schedule": "- Openings: 4-100mm",
+      "Cold-side Pressure": "4 bar (58 psi)",
+      "Cold-side Temperature": "24.9 \u00b0C (76.8 \u00b0F)",
+      "Hot-side Pressure": "4 bar (58 psi)",
+      "Hot-side Temperature": "-1.11 \u00b0C (30 \u00b0F)",
+      "Number of Plates": "31"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/204166",
+    "stock_number": "204166",
+    "title": "IPP# 204166 - Plate and Frame Heat Exchanger 8.1 m&#xB2; (87.4 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "VICARB",
+      "Model": "V28CH",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "8.1 m&#xB2; (87.4 ft&#xB2;)",
+      "Nozzle Schedule": "4-100mm openings,",
+      "Cold-side Pressure": "4 bar (58 psi)",
+      "Cold-side Temperature": "24.9 \u00b0C (76.8 \u00b0F)",
+      "Hot-side Pressure": "4 bar (58 psi)",
+      "Hot-side Temperature": "30 \u00b0C (86 \u00b0F)",
+      "Number of Plates": "31"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/204167",
+    "stock_number": "204167",
+    "title": "IPP# 204167 - Plate and Frame Heat Exchanger 8.1 m&#xB2; (87.4 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "VICARB",
+      "Model": "V28CH",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "8.1 m&#xB2; (87.4 ft&#xB2;)",
+      "Nozzle Schedule": "4-100mm openings,",
+      "Cold-side Pressure": "4 bar (58 psi)",
+      "Cold-side Temperature": "24.9 \u00b0C (76.8 \u00b0F)",
+      "Hot-side Pressure": "4 bar (58 psi)",
+      "Hot-side Temperature": "30 \u00b0C (86 \u00b0F)",
+      "Number of Plates": "31"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/204508",
+    "stock_number": "204508",
+    "title": "IPP# 204508 - Plate and Frame Heat Exchanger 27 m&#xB2; (290.6 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "Am 10-HX",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "27 m&#xB2; (290.6 ft&#xB2;)",
+      "Nozzle Schedule": "- Openings: 4 x 100mm",
+      "Hot-side Pressure": "6.9 bar (100.1 psi)",
+      "Number of Plates": "63"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/204579",
+    "stock_number": "204579",
+    "title": "Stainless Steel Other APV Plate and Frame Heat Exchanger - IPP# 204579",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "185.8 m&#xB2; (2,000 ft&#xB2;)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "135 \u00b0C (275 \u00b0F)",
+      "Number of Plates": "360"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/204580",
+    "stock_number": "204580",
+    "title": "Stainless Steel Other APV R 860 Plate and Frame Heat Exchanger - IPP# 204580",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Model": "R 860",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "139.4 m&#xB2; (1,500 ft&#xB2;)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "135 \u00b0C (275 \u00b0F)",
+      "Number of Plates": "189"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/206743",
+    "stock_number": "206743",
+    "title": "Stainless Steel Other Paul Mueller AT 10 C20 Plate and Frame Heat Exchanger - IPP# 206743",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Paul Mueller",
+      "Model": "AT 10 C20",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "1.39 m&#xB2; (15 ft&#xB2;)",
+      "Nozzle Schedule": "- Hot lines in and out: 2\" NPT - Cold lines in and out: 2\" NPT",
+      "Hot-side Pressure": "6.9 bar (100 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/206745",
+    "stock_number": "206745",
+    "title": "Stainless Steel Other Paul Mueller AT 10 C20 Plate and Frame Heat Exchanger - IPP# 206745",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Paul Mueller",
+      "Model": "AT 10 C20",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "1.39 m&#xB2; (15 ft&#xB2;)",
+      "Nozzle Schedule": "- Hot lines in and out: 2\" NPT - Cold lines in and out: 2\" NPT",
+      "Hot-side Pressure": "6.9 bar (100 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/206746",
+    "stock_number": "206746",
+    "title": "Paul Mueller AT 10 C20 Plate and Frame Heat Exchanger - IPP# 206746",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Paul Mueller",
+      "Model": "AT 10 C20",
+      "Condition": "Used",
+      "Heat Transfer Surface Area": "1.39 m&#xB2; (15 ft&#xB2;)",
+      "Nozzle Schedule": "- Hot lines in and out: 2\" NPT - Cold lines in and out: 2\" NPT",
+      "Hot-side Pressure": "6.9 bar (100 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/207036",
+    "stock_number": "207036",
+    "title": "Stainless Steel 316 Graham GLP-18 Plate and Frame Heat Exchanger - IPP# 207036",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Graham Manufacturing Co.",
+      "Model": "GLP-18",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "19.2 m&#xB2; (207 ft&#xB2;)",
+      "Nozzle Schedule": "- Inlet and outlet (cold side): Two, 3\" flanges - Inlet and outlet (hot side): Two, # \" flanges (size not specified)",
+      "Hot-side Pressure": "6.9 bar (100 psi)",
+      "Hot-side Temperature": "93.3 \u00b0C (200 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/207641",
+    "stock_number": "207641",
+    "title": "Stainless Steel 304 Mueller Accutherm AT40-HV-B310 Plate and Frame Heat Exchanger - IPP# 207641",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Mueller Accutherm",
+      "Model": "AT40-HV-B310",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "13.9 m&#xB2; (150 ft&#xB2;)",
+      "Nozzle Schedule": "- Inlets: (2) 4\" - Outlets: (2) 4\"",
+      "Housing Material": "Carbon Steel",
+      "Hot-side Pressure": "6.9 bar (100 psi)",
+      "Hot-side Temperature": "148.9 \u00b0C (300 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/207642",
+    "stock_number": "207642",
+    "title": "Stainless Steel 304 Plate and Frame Heat Exchanger - IPP# 207642",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Mueller Accutherm",
+      "Model": "AT40-HV-B310",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "13.9 m&#xB2; (150 ft&#xB2;)",
+      "Nozzle Schedule": "- Inlets: (2) 4\" - Outlets: (2) 4\"",
+      "Housing Material": "Carbon Steel",
+      "Hot-side Pressure": "6.9 bar (100 psi)",
+      "Hot-side Temperature": "148.9 \u00b0C (300 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/207660",
+    "stock_number": "207660",
+    "title": "Titanium APV SR25 Plate and Frame Heat Exchanger - IPP# 207660",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Model": "SR25",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "4.6 m&#xB2; (50 ft&#xB2;)",
+      "Nozzle Schedule": "- Inlets: (2) 2.5\" - Outlets: (2) 2.5\"",
+      "Housing Material": "Carbon Steel",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "135 \u00b0C (275 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/209868",
+    "stock_number": "209868",
+    "title": "IPP# 209868 - Plate and Frame Heat Exchanger 9.9 m&#xB2; (107 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Model": "N35-M6516",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "9.9 m&#xB2; (107 ft&#xB2;)",
+      "Nozzle Schedule": "- Openings: 4-3\"",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Number of Plates": "27"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/210848",
+    "stock_number": "210848",
+    "title": "Stainless Steel 316 Hebeler Corp Plate and Frame Heat Exchanger - IPP# 210848",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Hebeler Corp",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "20.9 m&#xB2; (225 ft&#xB2;)",
+      "Nozzle Schedule": "Hot and cold side inlets and outlets, 4\"",
+      "Housing Material": "Carbon Steel",
+      "Hot-side Pressure": "15.5 bar (225 psi)",
+      "Hot-side Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Number of Plates": "166"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/212471",
+    "stock_number": "212471",
+    "title": "IPP# 212471 - Plate and Frame Heat Exchanger 7.6 m&#xB2; (81.8 ft&#xB2;) Hastelloy - C276 For Sale",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Condition": "Used",
+      "Material": "Hastelloy - C276",
+      "Heat Transfer Surface Area": "7.6 m&#xB2; (81.8 ft&#xB2;)",
+      "Nozzle Schedule": "4-100mm openings",
+      "Number of Plates": "29"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/212495",
+    "stock_number": "212495",
+    "title": "Stainless Steel 316 Graham UFX-18 Plate and Frame Heat Exchanger - IPP# 212495",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Graham",
+      "Model": "UFX-18",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "12.4 m&#xB2; (134 ft&#xB2;)",
+      "Nozzle Schedule": "- Inlet/outlet size: 2.5\" flanged",
+      "Cold-side Pressure": "6.9 bar (100 psi)",
+      "Cold-side Temperature": "160 \u00b0C (320 \u00b0F)",
+      "Hot-side Pressure": "6.9 bar (100 psi)",
+      "Hot-side Temperature": "160 \u00b0C (320 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/212502",
+    "stock_number": "212502",
+    "title": "Stainless Steel 316 Plate and Frame Heat Exchanger - IPP# 212502",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "American Heat Reclaiming",
+      "Model": "AM.10.FG",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "16.3 m&#xB2; (175.9 ft&#xB2;)",
+      "Nozzle Schedule": "with (2) 4\" openings cold side; (2) 4\" opening hot side",
+      "Hot-side Pressure": "8.6 bar (125 psi)",
+      "Hot-side Temperature": "121.1 \u00b0C (250 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/212701",
+    "stock_number": "212701",
+    "title": "IPP# 212701 - Plate and Frame Heat Exchanger 1.6 m&#xB2; (17.2 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmidt",
+      "Model": "Sigma 17-SVB-K",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "1.6 m&#xB2; (17.2 ft&#xB2;)",
+      "Nozzle Schedule": "- Inlet/outlet size: 40 mm",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "30 \u00b0C (86 \u00b0F)",
+      "Number of Plates": "14"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/212765",
+    "stock_number": "212765",
+    "title": "IPP# 212765 - Plate and Frame Heat Exchanger 112 m&#xB2; (1,200 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "GEA Ahlborn",
+      "Model": "VT-40",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "112 m&#xB2; (1,200 ft&#xB2;)",
+      "Nozzle Schedule": "- Openings: - Inlet: 2-100mm - Outlet: 2-100mm",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "110 \u00b0C (230 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/213496",
+    "stock_number": "213496",
+    "title": "Stainless Steel 304 Alfa Laval A15-3FG Plate and Frame Heat Exchanger - IPP# 213496",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "A15-3FG",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "146.1 m&#xB2; (1,550 ft&#xB2;)",
+      "Length": "2,150 mm (84 in)",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Cold-side Temperature": "110 \u00b0C (230 \u00b0F)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "110 \u00b0C (230 \u00b0F)",
+      "Number of Plates": "195"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/214105",
+    "stock_number": "214105",
+    "title": "IPP# 214105 - Plate and Frame Heat Exchanger 2.2 m&#xB2; (23.8 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Tranter",
+      "Model": "GC-30NI*28",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "2.2 m&#xB2; (23.8 ft&#xB2;)",
+      "Nozzle Schedule": "- Openings: 4-50mm",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "28"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/214106",
+    "stock_number": "214106",
+    "title": "IPP# 214106 - Plate and Frame Heat Exchanger 2.2 m&#xB2; (23.8 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Tranter",
+      "Model": "GC-30NI*28",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "2.2 m&#xB2; (23.8 ft&#xB2;)",
+      "Nozzle Schedule": "- Openings: 4-50mm",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "28"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/214107",
+    "stock_number": "214107",
+    "title": "IPP# 214107 - Plate and Frame Heat Exchanger 1.36 m&#xB2; (14.6 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Tranter",
+      "Model": "GC-30N1-18",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "1.36 m&#xB2; (14.6 ft&#xB2;)",
+      "Nozzle Schedule": "- Openings: 4-50mm",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "18"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/214108",
+    "stock_number": "214108",
+    "title": "IPP# 214108 - Plate and Frame Heat Exchanger 1.02 m&#xB2; (11 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Tranter",
+      "Model": "GC-30N1-14",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "1.02 m&#xB2; (11 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: 4-50mm",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "14"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/214848",
+    "stock_number": "214848",
+    "title": "Unused Stainless Steel 316 Alfa Laval M30-FD Plate and Frame Heat Exchanger - IPP# 214848",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "M30-FD",
+      "Condition": "Unused",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "938 m&#xB2; (10,100 ft&#xB2;)",
+      "Nozzle Schedule": "- Inlets: (2) 12\" - Outlets: (2) 12\"",
+      "Housing Material": "Stainless Steel 316",
+      "Hot-side Pressure": "20.7 bar (300 psi)",
+      "Hot-side Temperature": "110 \u00b0C (230 \u00b0F)",
+      "Number of Plates": "588"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/216059",
+    "stock_number": "216059",
+    "title": "Stainless Steel 316 Alfa Laval A10-BFD Type A Plate and Frame Heat Exchanger - IPP# 216059",
+    "attribute_count": 15,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "A10-BFD Type A",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "8.3 m&#xB2; (89 ft&#xB2;)",
+      "Length": "42 mm (1.65 in)",
+      "Nozzle Schedule": "- Nozzle size: 6\" for process and service.",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "150 bar (2,200 psi)",
+      "Cold-side Temperature": "230 \u00b0C (446 \u00b0F)",
+      "Hot-side Pressure": "150 bar (2,200 psi)",
+      "Hot-side Temperature": "230 \u00b0C (446 \u00b0F)",
+      "Number of Plates": "36"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/216094",
+    "stock_number": "216094",
+    "title": "Stainless Steel 304 Alfa Laval A10-BFD Plate and Frame Heat Exchanger - IPP# 216094",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "A10-BFD",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "36.1 m&#xB2; (389.1 ft&#xB2;)",
+      "Hot-side Pressure": "11.4 bar (165 psi)",
+      "Hot-side Temperature": "162.8 \u00b0C (325 \u00b0F)",
+      "Number of Plates": "36"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/216118",
+    "stock_number": "216118",
+    "title": "Hastelloy - B Plate and Frame Heat Exchanger - IPP# 216118",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "12\" MA30-WFG",
+      "Condition": "Used",
+      "Material": "Hastelloy - B",
+      "Heat Transfer Surface Area": "179.8 m&#xB2; (1,950 ft&#xB2;)",
+      "Nozzle Schedule": "Inlet/Outlet Size: 12\"",
+      "Housing Material": "Carbon Steel",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Number of Plates": "59"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/216154",
+    "stock_number": "216154",
+    "title": "Unused Hastelloy - Other Plate and Frame Heat Exchanger - IPP# 216154",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Condition": "Unused",
+      "Material": "Hastelloy - Other",
+      "Heat Transfer Surface Area": "182.8 m&#xB2; (1,950 ft&#xB2;)",
+      "Number of Plates": "59"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/216324",
+    "stock_number": "216324",
+    "title": "Paul Mueller Plate and Frame Heat Exchanger - IPP# 216324",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Paul Mueller",
+      "Model": "AT80 B-20",
+      "Condition": "Used",
+      "Heat Transfer Surface Area": "9.3 m&#xB2; (100 ft&#xB2;)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "65.6 \u00b0C (150 \u00b0F)",
+      "Number of Plates": "72"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/216388",
+    "stock_number": "216388",
+    "title": "Stainless Steel 304 Plate and Frame Heat Exchanger - IPP# 216388",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "9.3 m&#xB2; (100 ft&#xB2;)",
+      "Nozzle Schedule": "- Nozzles: Four 4\"-150 lb. flange, with 2 turned to 90 degrees",
+      "Housing Material": "Carbon Steel",
+      "Hot-side Pressure": "31 bar (450 psi)",
+      "Hot-side Temperature": "195 \u00b0C (383 \u00b0F)",
+      "Number of Plates": "150"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/217633",
+    "stock_number": "217633",
+    "title": "IPP# 217633 - Plate and Frame Heat Exchanger 2.5 m&#xB2; (26.5 ft&#xB2;) Hastelloy - C276 For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmidtz",
+      "Model": "Sigma 27 NCL",
+      "Condition": "Used",
+      "Material": "Hastelloy - C276",
+      "Heat Transfer Surface Area": "2.5 m&#xB2; (26.5 ft&#xB2;)",
+      "Cold-side Pressure": "7 bar (101.5 psi)",
+      "Cold-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Hot-side Pressure": "7 bar (101.5 psi)",
+      "Hot-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Housing Material": "Hastelloy - C276",
+      "Number of Plates": "12"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/217885",
+    "stock_number": "217885",
+    "title": "IPP# 217885 - Plate and Frame Heat Exchanger 2.5 m&#xB2; (26.6 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "VICARB",
+      "Model": "V13",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "2.5 m&#xB2; (26.6 ft&#xB2;)",
+      "Nozzle Schedule": "openings (4) DN50",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Number of Plates": "19"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/219021",
+    "stock_number": "219021",
+    "title": "IPP# 219021 - Plate and Frame Heat Exchanger 11.8 m&#xB2; (127 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmidtz",
+      "Model": "Sigma X19-NBL",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "11.8 m&#xB2; (127 ft&#xB2;)",
+      "Nozzle Schedule": "- Plate openings: 4-50mm",
+      "Housing Material": "Stainless Steel 316",
+      "Number of Plates": "61"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/219022",
+    "stock_number": "219022",
+    "title": "IPP# 219022 - Plate and Frame Heat Exchanger 11.8 m&#xB2; (127 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmidtz",
+      "Model": "Sigma X19-NBL",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "11.8 m&#xB2; (127 ft&#xB2;)",
+      "Nozzle Schedule": "- Plate openings: 4-50mm",
+      "Housing Material": "Stainless Steel 316",
+      "Number of Plates": "58"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/219185",
+    "stock_number": "219185",
+    "title": "IPP# 219185 - Plate and Frame Heat Exchanger 51 m&#xB2; (549 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmidtz",
+      "Model": "Sigma 65-SBL",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "51 m&#xB2; (549 ft&#xB2;)",
+      "Nozzle Schedule": "- Plate openings: 2-100mm, 2-80mm",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Number of Plates": "80"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/219186",
+    "stock_number": "219186",
+    "title": "IPP# 219186 - Plate and Frame Heat Exchanger 53 m&#xB2; (570 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmidtz",
+      "Model": "Sigma 65-SBL",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "53 m&#xB2; (570 ft&#xB2;)",
+      "Nozzle Schedule": "- Plate openings: 2-100mm, 2-80mm",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Number of Plates": "82"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/219187",
+    "stock_number": "219187",
+    "title": "IPP# 219187 - Plate and Frame Heat Exchanger 51 m&#xB2; (549 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmidtz",
+      "Model": "Sigma 65-SBL",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "51 m&#xB2; (549 ft&#xB2;)",
+      "Nozzle Schedule": "- Plate openings: 2-100mm, 2-80mm",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Number of Plates": "80"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/219259",
+    "stock_number": "219259",
+    "title": "IPP# 219259 - Plate and Frame Heat Exchanger 47.5 m&#xB2; (512 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "GEA Ahlborn GmbH Co KG/Germany",
+      "Model": "N40",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "47.5 m&#xB2; (512 ft&#xB2;)",
+      "Cold-side Pressure": "12 bar (174 psi)",
+      "Cold-side Temperature": "115 \u00b0C (239 \u00b0F)",
+      "Hot-side Pressure": "12 bar (174 psi)",
+      "Hot-side Temperature": "115 \u00b0C (239 \u00b0F)",
+      "Housing Material": "Stainless Steel 321",
+      "Number of Plates": "105"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/219681",
+    "stock_number": "219681",
+    "title": "IPP# 219681 - Plate and Frame Heat Exchanger 54 m&#xB2; (581 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "W.Schmidt KG",
+      "Model": "Sigma 64",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "54 m&#xB2; (581 ft&#xB2;)",
+      "Nozzle Schedule": "Openings on product side: 2 DN100",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "140 \u00b0C (284 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "140 \u00b0C (284 \u00b0F)",
+      "Number of Plates": "83"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/219739",
+    "stock_number": "219739",
+    "title": "IPP# 219739 - Plate and Frame Heat Exchanger 4.5 m&#xB2; (48.4 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmit",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "4.5 m&#xB2; (48.4 ft&#xB2;)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/219740",
+    "stock_number": "219740",
+    "title": "IPP# 219740 - Plate and Frame Heat Exchanger 4.5 m&#xB2; (48.4 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmit",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "4.5 m&#xB2; (48.4 ft&#xB2;)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/219741",
+    "stock_number": "219741",
+    "title": "IPP# 219741 - Plate and Frame Heat Exchanger 4.5 m&#xB2; (48.4 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmit",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "4.5 m&#xB2; (48.4 ft&#xB2;)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/219742",
+    "stock_number": "219742",
+    "title": "IPP# 219742 - Plate and Frame Heat Exchanger 4.5 m&#xB2; (48.4 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmit",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "4.5 m&#xB2; (48.4 ft&#xB2;)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/219743",
+    "stock_number": "219743",
+    "title": "IPP# 219743 - Plate and Frame Heat Exchanger 4.5 m&#xB2; (48.4 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmit",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "4.5 m&#xB2; (48.4 ft&#xB2;)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/219744",
+    "stock_number": "219744",
+    "title": "IPP# 219744 - Plate and Frame Heat Exchanger 4.5 m&#xB2; (48.4 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmit",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "4.5 m&#xB2; (48.4 ft&#xB2;)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/220407",
+    "stock_number": "220407",
+    "title": "IPP# 220407 - Plate and Frame Heat Exchanger 0.2 m&#xB2; (2.2 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "API Schmidt-Bretten, Germany",
+      "Model": "SIGMAWIG ST 3 VDN",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "0.2 m&#xB2; (2.2 ft&#xB2;)",
+      "Nozzle Schedule": "- Openings: inlet 2-DN25, outlet 2-DN25",
+      "Housing Material": "Stainless Steel 316",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "200 \u00b0C (392 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "200 \u00b0C (392 \u00b0F)",
+      "Number of Plates": "12"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/221170",
+    "stock_number": "221170",
+    "title": "Stainless Steel 316 VICARB 760C95 Plate and Frame Heat Exchanger - IPP# 221170",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "VICARB",
+      "Model": "760C95",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "36.3 m&#xB2; (390.7 ft&#xB2;)",
+      "Cold-side Pressure": "4 bar (58 psi)",
+      "Cold-side Temperature": "130 \u00b0C (266 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "130 \u00b0C (266 \u00b0F)",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "34"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/221171",
+    "stock_number": "221171",
+    "title": "IPP# 221171 - Plate and Frame Heat Exchanger 13.9 m&#xB2; (150 ft&#xB2;) Stainless Steel Austenitic For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "VICARB",
+      "Condition": "Used",
+      "Material": "Stainless Steel Austenitic",
+      "Heat Transfer Surface Area": "13.9 m&#xB2; (150 ft&#xB2;)",
+      "Cold-side Pressure": "0.21 bar (3 psi)",
+      "Cold-side Temperature": "35 \u00b0C (95 \u00b0F)",
+      "Hot-side Pressure": "0.21 bar (3 psi)",
+      "Hot-side Temperature": "23.9 \u00b0C (75 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/221321",
+    "stock_number": "221321",
+    "title": "Stainless Steel 304 Tranter Superchanger GDX-060-L-5-UP-207 Plate and Frame Heat Exchanger - IPP# 221321",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Tranter Superchanger",
+      "Model": "GDX-060-L-5-UP-207",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "114.8 m&#xB2; (1,250 ft&#xB2;)",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Cold-side Temperature": "121.1 \u00b0C (250 \u00b0F)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "121.1 \u00b0C (250 \u00b0F)",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "194"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/221322",
+    "stock_number": "221322",
+    "title": "Stainless Steel 304 Graham UF-60 Plate and Frame Heat Exchanger - IPP# 221322",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Graham",
+      "Model": "UF-60",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "84.5 m&#xB2; (910 ft&#xB2;)",
+      "Nozzle Schedule": "Pass arrangement H.S.-1, C.S.-1Inlets and outlets are 8\". Drain is 6\".",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Cold-side Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Number of Plates": "153"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/221365",
+    "stock_number": "221365",
+    "title": "Titanium Plate and Frame Heat Exchanger - IPP# 221365",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Condition": "Used",
+      "Material": "Titanium",
+      "Heat Transfer Surface Area": "749 m&#xB2; (8,050 ft&#xB2;)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "65.6 \u00b0C (150 \u00b0F)",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "407"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/221366",
+    "stock_number": "221366",
+    "title": "Titanium Plate and Frame Heat Exchanger - IPP# 221366",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Condition": "Used",
+      "Material": "Titanium",
+      "Heat Transfer Surface Area": "749 m&#xB2; (8,050 ft&#xB2;)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "65.6 \u00b0C (150 \u00b0F)",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "407"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/221368",
+    "stock_number": "221368",
+    "title": "Titanium Plate and Frame Heat Exchanger - IPP# 221368",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Condition": "Used",
+      "Material": "Titanium",
+      "Heat Transfer Surface Area": "749 m&#xB2; (8,050 ft&#xB2;)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "65.6 \u00b0C (150 \u00b0F)",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "407"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/221369",
+    "stock_number": "221369",
+    "title": "Titanium Plate and Frame Heat Exchanger - IPP# 221369",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Condition": "Used",
+      "Material": "Titanium",
+      "Heat Transfer Surface Area": "749 m&#xB2; (8,050 ft&#xB2;)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "65.6 \u00b0C (150 \u00b0F)",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "407"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/221370",
+    "stock_number": "221370",
+    "title": "Titanium Plate and Frame Heat Exchanger - IPP# 221370",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Condition": "Used",
+      "Material": "Titanium",
+      "Heat Transfer Surface Area": "749 m&#xB2; (8,050 ft&#xB2;)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "65.6 \u00b0C (150 \u00b0F)",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "407"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/221510",
+    "stock_number": "221510",
+    "title": "Graphite Sigri P05-28-2.1-F100 Plate and Frame Heat Exchanger - IPP# 221510",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Sigri GmbH",
+      "Model": "P05-28-2.1-F100",
+      "Condition": "Used",
+      "Material": "Graphite",
+      "Heat Transfer Surface Area": "1.3 m&#xB2; (14 ft&#xB2;)",
+      "Nozzle Schedule": "4-1\"Openings,",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "140 \u00b0C (284 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "140 \u00b0C (284 \u00b0F)",
+      "Number of Plates": "28"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/221511",
+    "stock_number": "221511",
+    "title": "Graphite SGL Technik P05-6-11-F100 Plate and Frame Heat Exchanger - IPP# 221511",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "SGL Technik",
+      "Model": "P05-6-11-F100",
+      "Condition": "Used",
+      "Material": "Graphite",
+      "Heat Transfer Surface Area": "0.2 m&#xB2; (2.2 ft&#xB2;)",
+      "Nozzle Schedule": "4-1\" openings,",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "140 \u00b0C (284 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "140 \u00b0C (284 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/221529",
+    "stock_number": "221529",
+    "title": "Graphite SGL P25-11-1.1-F100 Plate and Frame Heat Exchanger - IPP# 221529",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "SGL",
+      "Model": "P25-11-1.1-F100",
+      "Condition": "Used",
+      "Material": "Graphite",
+      "Heat Transfer Surface Area": "2.3 m&#xB2; (24.2 ft&#xB2;)",
+      "Nozzle Schedule": "4-4\" openings",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "140 \u00b0C (284 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "140 \u00b0C (284 \u00b0F)",
+      "Number of Plates": "11"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/221686",
+    "stock_number": "221686",
+    "title": "IPP# 221686 - Plate and Frame Heat Exchanger 20 m&#xB2; (215.3 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "CF Scheer & CIE",
+      "Model": "CP2050",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "20 m&#xB2; (215.3 ft&#xB2;)",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Number of Plates": "75"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/222017",
+    "stock_number": "222017",
+    "title": "Stainless Steel 304 Graham UF-60 Plate and Frame Heat Exchanger - IPP# 222017",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Graham",
+      "Model": "UF-60",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "84.5 m&#xB2; (910 ft&#xB2;)",
+      "Nozzle Schedule": "Cold side inlet/outlet are 8\", hot side inlet & outlet are 8\". Six inch drain valve.",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Cold-side Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Number of Plates": "153"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/222334",
+    "stock_number": "222334",
+    "title": "IPP# 222334 - Plate and Frame Heat Exchanger 10 m&#xB2; (107.6 ft&#xB2;) Stainless Steel Austenitic For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "M6-MFM",
+      "Condition": "Used",
+      "Material": "Stainless Steel Austenitic",
+      "Heat Transfer Surface Area": "10 m&#xB2; (107.6 ft&#xB2;)",
+      "Nozzle Schedule": "openings side A: 2-50mm, side B: 2-50mm",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "8 bar (116 psi)",
+      "Cold-side Temperature": "130 \u00b0C (266 \u00b0F)",
+      "Hot-side Pressure": "8 bar (116 psi)",
+      "Hot-side Temperature": "130 \u00b0C (266 \u00b0F)",
+      "Number of Plates": "71"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/222335",
+    "stock_number": "222335",
+    "title": "IPP# 222335 - Plate and Frame Heat Exchanger 50.8 m&#xB2; (547 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmidt API heat transfer",
+      "Model": "Sigma M66 SAL",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "50.8 m&#xB2; (547 ft&#xB2;)",
+      "Nozzle Schedule": "openings 4-100mm",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Number of Plates": "78"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/222337",
+    "stock_number": "222337",
+    "title": "IPP# 222337 - Plate and Frame Heat Exchanger 15.9 m&#xB2; (171 ft&#xB2;) Stainless Steel Austenitic For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Model": "TL 250 KAXL",
+      "Condition": "Used",
+      "Material": "Stainless Steel Austenitic",
+      "Heat Transfer Surface Area": "15.9 m&#xB2; (171 ft&#xB2;)",
+      "Nozzle Schedule": "openings 4-80mm 316Ti stainless steel (1.4571)",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Number of Plates": "61"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/222339",
+    "stock_number": "222339",
+    "title": "IPP# 222339 - Plate and Frame Heat Exchanger 2.3 m&#xB2; (24.8 ft&#xB2;) Stainless Steel Austenitic For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Thermowave Gmbh",
+      "Model": "TL 250 KBXL",
+      "Condition": "Used",
+      "Material": "Stainless Steel Austenitic",
+      "Heat Transfer Surface Area": "2.3 m&#xB2; (24.8 ft&#xB2;)",
+      "Nozzle Schedule": "openings 4-50mm 316Ti stainless steel (1.4571)",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "140 \u00b0C (284 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "140 \u00b0C (284 \u00b0F)",
+      "Number of Plates": "17"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/222340",
+    "stock_number": "222340",
+    "title": "IPP# 222340 - Plate and Frame Heat Exchanger 1.4 m&#xB2; (15.1 ft&#xB2;) Stainless Steel Austenitic For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Thermowave Gmbh",
+      "Model": "TL 150 KBAL",
+      "Condition": "Used",
+      "Material": "Stainless Steel Austenitic",
+      "Heat Transfer Surface Area": "1.4 m&#xB2; (15.1 ft&#xB2;)",
+      "Nozzle Schedule": "openings 4-25mm",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Number of Plates": "11"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/222343",
+    "stock_number": "222343",
+    "title": "IPP# 222343 - Plate and Frame Heat Exchanger 20.6 m&#xB2; (221.7 ft&#xB2;) Titanium For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Thermowave Gmbh",
+      "Model": "TL 500 KAXL",
+      "Condition": "Used",
+      "Material": "Titanium",
+      "Heat Transfer Surface Area": "20.6 m&#xB2; (221.7 ft&#xB2;)",
+      "Nozzle Schedule": "openings 2-200mm 316Ti stainless steel (1.4571), 2-50mm 316Ti stainless steel (1.4571)",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Number of Plates": "45"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/222354",
+    "stock_number": "222354",
+    "title": "IPP# 222354 - Plate and Frame Heat Exchanger 20.2 m&#xB2; (217.4 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "TLM250 KBGL",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "20.2 m&#xB2; (217.4 ft&#xB2;)",
+      "Nozzle Schedule": "openings : 4-100mm 316Ti stainless steel (1.4571)",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Number of Plates": "77"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/222355",
+    "stock_number": "222355",
+    "title": "IPP# 222355 - Plate and Frame Heat Exchanger 20.2 m&#xB2; (217.4 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "TLM250 KBGL",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "20.2 m&#xB2; (217.4 ft&#xB2;)",
+      "Nozzle Schedule": "openings : 4-100mm 316Ti stainless steel (1.4571)",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Number of Plates": "77"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/223102",
+    "stock_number": "223102",
+    "title": "Stainless Steel 316 Thermaline T-13 Plate and Frame Heat Exchanger - IPP# 223102",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Thermaline",
+      "Model": "T-13",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "2.7 m&#xB2; (29.4 ft&#xB2;)",
+      "Hot-side Pressure": "150 bar (2,200 psi)",
+      "Hot-side Temperature": "300 \u00b0C (572 \u00b0F)",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "21"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/223170",
+    "stock_number": "223170",
+    "title": "Stainless Steel 316 ITT Plate and Frame Heat Exchanger - IPP# 223170",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "ITT",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "1.86 m&#xB2; (20 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: (4) 2\".",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Cold-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Number of Plates": "7"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/223172",
+    "stock_number": "223172",
+    "title": "Stainless Steel 316 ITT Plate and Frame Heat Exchanger - IPP# 223172",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "ITT",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "1.86 m&#xB2; (20 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: (4) 2\".",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Cold-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Number of Plates": "7"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/228300",
+    "stock_number": "228300",
+    "title": "IPP# 228300 - Plate and Frame Heat Exchanger Stainless Steel Austenitic For Sale",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Ley Kg",
+      "Condition": "Used",
+      "Material": "Stainless Steel Austenitic",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "200 \u00b0C (392 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "200 \u00b0C (392 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/228308",
+    "stock_number": "228308",
+    "title": "IPP# 228308 - Plate and Frame Heat Exchanger 13.1 m&#xB2; (141 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "API",
+      "Model": "SIGMA M 35 S SBL",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "13.1 m&#xB2; (141 ft&#xB2;)",
+      "Nozzle Schedule": "openings: 4-100mm",
+      "Housing Material": "Carbon Steel",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "60 \u00b0C (140 \u00b0F)",
+      "Number of Plates": "34"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/229489",
+    "stock_number": "229489",
+    "title": "Stainless Steel 316 Alfa Laval M15-BFM8 Plate and Frame Heat Exchanger - IPP# 229489",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "M15-BFM8",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "76.9 m&#xB2; (828 ft&#xB2;)",
+      "Nozzle Schedule": "openings 4-140mm",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "80 \u00b0C (176 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "80 \u00b0C (176 \u00b0F)",
+      "Number of Plates": "124"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/231037",
+    "stock_number": "231037",
+    "title": "Plate and Frame Heat Exchanger API Schmidt-Bretten, Germany Sigma M25 S NBL - IPP# 231037",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "API Schmidt-Bretten, Germany",
+      "Model": "Sigma M25 S NBL",
+      "Condition": "Used",
+      "Material": "Titanium",
+      "Heat Transfer Surface Area": "8.1 m&#xB2; (87.2 ft&#xB2;)",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Number of Plates": "34"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/231041",
+    "stock_number": "231041",
+    "title": "IPP# 231041 - Plate and Frame Heat Exchanger 2.3 m&#xB2; (24.6 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Vahterus",
+      "Model": "PSHE 3LL-32/1/1",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "2.3 m&#xB2; (24.6 ft&#xB2;)",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Number of Plates": "32"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/231143",
+    "stock_number": "231143",
+    "title": "IPP# 231143 - Plate and Frame Heat Exchanger 6.1 m&#xB2; (65.7 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "API Schmidt-Bretten, Germany",
+      "Model": "SIGMA M-19-NBL",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "6.1 m&#xB2; (65.7 ft&#xB2;)",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "160 \u00b0C (320 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "160 \u00b0C (320 \u00b0F)",
+      "Number of Plates": "34"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/231144",
+    "stock_number": "231144",
+    "title": "IPP# 231144 - Plate and Frame Heat Exchanger 1.9 m&#xB2; (20.5 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "API Schmidt-Bretten, Germany",
+      "Model": "Sigmawig ST12-PF 1888",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "1.9 m&#xB2; (20.5 ft&#xB2;)",
+      "Number of Plates": "16"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/231147",
+    "stock_number": "231147",
+    "title": "IPP# 231147 - Plate and Frame Heat Exchanger 3.1 m&#xB2; (33.4 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "API Schmidt-Bretten, Germany",
+      "Model": "Sigmawig ST12-VBN",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "3.1 m&#xB2; (33.4 ft&#xB2;)",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "200 \u00b0C (392 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "200 \u00b0C (392 \u00b0F)",
+      "Number of Plates": "24"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/231230",
+    "stock_number": "231230",
+    "title": "IPP# 231230 - Plate and Frame Heat Exchanger 12 m&#xB2; (129.2 ft&#xB2;) Titanium For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Tranter",
+      "Model": "GC-26N-66",
+      "Condition": "Used",
+      "Material": "Titanium",
+      "Heat Transfer Surface Area": "12 m&#xB2; (129.2 ft&#xB2;)",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "150 \u00b0C (302 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/231235",
+    "stock_number": "231235",
+    "title": "IPP# 231235 - Plate and Frame Heat Exchanger 12.8 m&#xB2; (137.8 ft&#xB2;) Stainless Steel Austenitic For Sale",
+    "attribute_count": 6,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Vicarb Deutschland Gmbh",
+      "Condition": "Used",
+      "Material": "Stainless Steel Austenitic",
+      "Heat Transfer Surface Area": "12.8 m&#xB2; (137.8 ft&#xB2;)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/232028",
+    "stock_number": "232028",
+    "title": "Stainless Steel 316 Alfa Laval 16-FG Plate and Frame Heat Exchanger - IPP# 232028",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "16-FG",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "3.2 m&#xB2; (34 ft&#xB2;)",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Cold-side Temperature": "121.1 \u00b0C (250 \u00b0F)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "121.1 \u00b0C (250 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/232711",
+    "stock_number": "232711",
+    "title": "Stainless Steel 316 Plate and Frame Heat Exchanger - IPP# 232711",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV /Hebeler",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "84.7 m&#xB2; (912 ft&#xB2;)",
+      "Length": "3,950 mm (156 in)",
+      "Cold-side Pressure": "13.8 bar (200 psi)",
+      "Cold-side Temperature": "162.8 \u00b0C (325 \u00b0F)",
+      "Hot-side Pressure": "13.8 bar (200 psi)",
+      "Hot-side Temperature": "162.8 \u00b0C (325 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/232712",
+    "stock_number": "232712",
+    "title": "Stainless Steel 316 Plate and Frame Heat Exchanger - IPP# 232712",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV/Hebeler",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "84.7 m&#xB2; (912 ft&#xB2;)",
+      "Length": "3,050 mm (120 in)",
+      "Cold-side Pressure": "13.8 bar (200 psi)",
+      "Cold-side Temperature": "162.8 \u00b0C (325 \u00b0F)",
+      "Hot-side Pressure": "13.8 bar (200 psi)",
+      "Hot-side Temperature": "162.8 \u00b0C (325 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/232793",
+    "stock_number": "232793",
+    "title": "IPP# 232793 - New Plate and Frame Heat Exchanger 96 m&#xB2; (1,050 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schiller Apparatebau Gmbh",
+      "Condition": "New",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "96 m&#xB2; (1,050 ft&#xB2;)",
+      "Length": "2,300 mm (90.1 in)",
+      "Nozzle Schedule": "Openings: Plate side - 2-150mm, shell side - 1-700mm (top head), 1-200mm, 1-150mm (bottom head)",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "250 \u00b0C (482 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "110 \u00b0C (230 \u00b0F)",
+      "Number of Plates": "38"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/232794",
+    "stock_number": "232794",
+    "title": "IPP# 232794 - New Plate and Frame Heat Exchanger 6.5 m&#xB2; (70 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schiller Apparatebau Gmbh",
+      "Condition": "New",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "6.5 m&#xB2; (70 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: Plate side - 2-200mm, shell side - 1-50mm (top head), 1-50mm (bottom head), 1-40mm (bottom head)",
+      "Housing Material": "Stainless Steel 316",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "250 \u00b0C (482 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "110 \u00b0C (230 \u00b0F)",
+      "Number of Plates": "12"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/233139",
+    "stock_number": "233139",
+    "title": "Hastelloy - C276 Trantor UX-216-HJ-9 Plate and Frame Heat Exchanger - IPP# 233139",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Trantor",
+      "Model": "UX-216-HJ-9",
+      "Condition": "Used",
+      "Material": "Hastelloy - C276",
+      "Heat Transfer Surface Area": "1.5 m&#xB2; (16.1 ft&#xB2;)",
+      "Cold-side Pressure": "5.2 bar (75 psi)",
+      "Cold-side Temperature": "148.9 \u00b0C (300 \u00b0F)",
+      "Hot-side Pressure": "5.2 bar (75 psi)",
+      "Hot-side Temperature": "148.9 \u00b0C (300 \u00b0F)",
+      "Number of Plates": "6"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/233140",
+    "stock_number": "233140",
+    "title": "Hastelloy - C276 Trantor UX-216-HJ-9 Plate and Frame Heat Exchanger - IPP# 233140",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Trantor",
+      "Model": "UX-216-HJ-9",
+      "Condition": "Used",
+      "Material": "Hastelloy - C276",
+      "Heat Transfer Surface Area": "1.5 m&#xB2; (16.1 ft&#xB2;)",
+      "Cold-side Pressure": "5.2 bar (75 psi)",
+      "Cold-side Temperature": "148.9 \u00b0C (300 \u00b0F)",
+      "Hot-side Pressure": "5.2 bar (75 psi)",
+      "Hot-side Temperature": "148.9 \u00b0C (300 \u00b0F)",
+      "Number of Plates": "6"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/233721",
+    "stock_number": "233721",
+    "title": "Stainless Steel 316 Plate and Frame Heat Exchanger - IPP# 233721",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "71 m&#xB2; (764 ft&#xB2;)",
+      "Length": "1,400 mm (55 in)",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Cold-side Temperature": "115 \u00b0C (239 \u00b0F)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "115 \u00b0C (239 \u00b0F)",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "73"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/233786",
+    "stock_number": "233786",
+    "title": "Heat Exchanger - IPP# 233786",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316L",
+      "Heat Transfer Surface Area": "9.5 m&#xB2; (102 ft&#xB2;)",
+      "Length": "610 mm (24 in)",
+      "Nozzle Schedule": "2\" ANSIB 16.5 class 150 304 SS",
+      "Housing Material": "Stainless Steel 316L",
+      "Cold-side Pressure": "16 bar (232 psi)",
+      "Cold-side Temperature": "148.9 \u00b0C (300 \u00b0F)",
+      "Hot-side Pressure": "16 bar (232 psi)",
+      "Hot-side Temperature": "148.9 \u00b0C (300 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/236183",
+    "stock_number": "236183",
+    "title": "IPP# 236183 - Plate and Frame Heat Exchanger Stainless Steel Other For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Vahterus",
+      "Model": "PSHE 5HH-176/1/1",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Cold-side Pressure": "25 bar (362.6 psi)",
+      "Cold-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Hot-side Pressure": "25 bar (362.6 psi)",
+      "Hot-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Housing Material": "Stainless Steel Other"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/245823",
+    "stock_number": "245823",
+    "title": "IPP# 245823 - Plate and Frame Heat Exchanger 6 m&#xB2; (64.6 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Fiorini Industries",
+      "Model": "PHE F 016 316 0,5 EPDM 043-1 10bar PEDI",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "6 m&#xB2; (64.6 ft&#xB2;)",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "160 \u00b0C (320 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "160 \u00b0C (320 \u00b0F)",
+      "Number of Plates": "43"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/245824",
+    "stock_number": "245824",
+    "title": "IPP# 245824 - Plate and Frame Heat Exchanger 21.1 m&#xB2; (227.1 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "M10-MFG",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "21.1 m&#xB2; (227.1 ft&#xB2;)",
+      "Cold-side Pressure": "2.4 bar (34.8 psi)",
+      "Cold-side Temperature": "90 \u00b0C (194 \u00b0F)",
+      "Hot-side Pressure": "5 bar (72.5 psi)",
+      "Hot-side Temperature": "90 \u00b0C (194 \u00b0F)",
+      "Number of Plates": "96"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/245826",
+    "stock_number": "245826",
+    "title": "IPP# 245826 - Plate and Frame Heat Exchanger 108.8 m&#xB2; (1,150 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "P31-HX",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "108.8 m&#xB2; (1,150 ft&#xB2;)",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Number of Plates": "340"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/245827",
+    "stock_number": "245827",
+    "title": "IPP# 245827 - Plate and Frame Heat Exchanger 193.8 m&#xB2; (2,100 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "M15-FFM8",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "193.8 m&#xB2; (2,100 ft&#xB2;)",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "90 \u00b0C (194 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "90 \u00b0C (194 \u00b0F)",
+      "Number of Plates": "323"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/245828",
+    "stock_number": "245828",
+    "title": "IPP# 245828 - Plate and Frame Heat Exchanger 202.7 m&#xB2; (2,200 ft&#xB2;) Stainless Steel 304 For Sale",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alpha Laval",
+      "Model": "M15-MFG8",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "202.7 m&#xB2; (2,200 ft&#xB2;)",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "90 \u00b0C (194 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "90 \u00b0C (194 \u00b0F)",
+      "Number of Plates": "327"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/245829",
+    "stock_number": "245829",
+    "title": "Stainless Steel 304 Plate and Frame Heat Exchanger - IPP# 245829",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "M15-FFM8",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "213.6 m&#xB2; (2,300 ft&#xB2;)",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "95 \u00b0C (203 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "95 \u00b0C (203 \u00b0F)",
+      "Number of Plates": "356"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/245830",
+    "stock_number": "245830",
+    "title": "IPP# 245830 - Plate and Frame Heat Exchanger 213.6 m&#xB2; (2,300 ft&#xB2;) Stainless Steel 304 For Sale",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "T8-MFG",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "213.6 m&#xB2; (2,300 ft&#xB2;)",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "65 \u00b0C (149 \u00b0F)",
+      "Number of Plates": "34"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/246423",
+    "stock_number": "246423",
+    "title": "Stainless Steel 316L APV K71 Plate and Frame Heat Exchanger - IPP# 246423",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Model": "K71",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316L",
+      "Heat Transfer Surface Area": "141.3 m&#xB2; (1,500 ft&#xB2;)",
+      "Nozzle Schedule": "inlet 2-100mm, outlet 2-100mm,",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "50 \u00b0C (122 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "50 \u00b0C (122 \u00b0F)",
+      "Number of Plates": "201"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/246669",
+    "stock_number": "246669",
+    "title": "Stainless Steel 304 Plate and Frame Heat Exchanger - IPP# 246669",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Sondex",
+      "Model": "1PL042PA150-85",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "33.4 m&#xB2; (359.7 ft&#xB2;)",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Cold-side Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Housing Material": "Carbon Steel"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/248317",
+    "stock_number": "248317",
+    "title": "Hastelloy Other Alfa Laval M10=MFG Plate Heat Exchanger - IPP# 248317",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "M10-MFG",
+      "Condition": "Used",
+      "Material": "Hastelloy - Other",
+      "Heat Transfer Surface Area": "9.2 m&#xB2; (99 ft&#xB2;)",
+      "Cold-side Pressure": "10 bar (145 psi)",
+      "Cold-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "43"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/248424",
+    "stock_number": "248424",
+    "title": "458 ft2 Stainless Steel 304 Plate and Frame Heat Exchanger - IPP# 248424",
+    "attribute_count": 15,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Karbate Vicarb, Inc.",
+      "Model": "V60-SAT",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "42.5 m&#xB2; (458 ft&#xB2;)",
+      "Length": "1,550 mm (60.4 in)",
+      "Nozzle Schedule": "(4) 6\" inlet/outlet.",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Cold-side Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Number of Plates": "120"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/248550",
+    "stock_number": "248550",
+    "title": "Plate and Frame Heat Exchanger - IPP# 248550",
+    "attribute_count": 15,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Tranter-Superchanger",
+      "Model": "UX-226-UP-58",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "21 m&#xB2; (226 ft&#xB2;)",
+      "Length": "1,200 mm (48 in)",
+      "Nozzle Schedule": "4\" flange nozzle",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Cold-side Temperature": "65.6 \u00b0C (150 \u00b0F)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Temperature": "65.6 \u00b0C (150 \u00b0F)",
+      "Number of Plates": "58"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/36150",
+    "stock_number": "36150",
+    "title": "Stainless Steel 304 Alfa Laval (Sweden) P-17HBM Plate and Frame Heat Exchanger - IPP# 36150",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "P-17HBM",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "339 m&#xB2; (3,650 ft&#xB2;)",
+      "Nozzle Schedule": "(4) 7 1/2\" diameter nozzles.",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "270"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/39006",
+    "stock_number": "39006",
+    "title": "IPP# 39006 - Plate and Frame Heat Exchanger 42 m&#xB2; (452.1 ft&#xB2;) For Sale",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Model": "PEX 462/1277/3",
+      "Condition": "Used",
+      "Heat Transfer Surface Area": "42 m&#xB2; (452.1 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: 2-4\" inlets and 2-4\" outlets.",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "110"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/39143",
+    "stock_number": "39143",
+    "title": "IPP# 39143 - Plate and Frame Heat Exchanger 40.5 m&#xB2; (436 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Model": "R405",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "40.5 m&#xB2; (436 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: 2-4\" inlets and 2-4\" outlets.",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Number of Plates": "106"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/39144",
+    "stock_number": "39144",
+    "title": "IPP# 39144 - Plate and Frame Heat Exchanger 40.5 m&#xB2; (436 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Model": "R405",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "40.5 m&#xB2; (436 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: 2-4\" inlets and 2-4\" outlets.",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Number of Plates": "106"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/39200",
+    "stock_number": "39200",
+    "title": "Stainless Steel 304 Alfa Laval P-31-HBM Plate and Frame Heat Exchanger - IPP# 39200",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "P-31-HBM",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "91.3 m&#xB2; (983 ft&#xB2;)",
+      "Nozzle Schedule": "Unit has 2-4\" inlets, 2-4\" outlets.",
+      "Housing Material": "Carbon Steel",
+      "Cold-side Pressure": "20.5 bar (298 psi)",
+      "Hot-side Pressure": "20.5 bar (298 psi)",
+      "Number of Plates": "285"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/49729",
+    "stock_number": "49729",
+    "title": "Stainless Steel 304 Kyffhausehutte (Germany) PAH500/213 Plate and Frame Heat Exchanger - IPP# 49729",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Kyffhausehutte (Germany)",
+      "Model": "PAH500/213",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "134.6 m&#xB2; (1,450 ft&#xB2;)",
+      "Number of Plates": "272"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/701105",
+    "stock_number": "701105",
+    "title": "IPP# 701105 - Plate and Frame Heat Exchanger 30 m&#xB2; (322.9 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Paasch, Larson Peterson",
+      "Model": "561",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "30 m&#xB2; (322.9 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: 10-1 1/2\" (37mm), 2-1\" (25mm)",
+      "Housing Material": "Stainless Steel Other",
+      "Number of Plates": "54"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/701171",
+    "stock_number": "701171",
+    "title": "IPP# 701171 - Plate and Frame Heat Exchanger 93 m&#xB2; (1,000 ft&#xB2;) Stainless Steel 321 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "DeLaval",
+      "Model": "P161-HBM",
+      "Condition": "Used",
+      "Material": "Stainless Steel 321",
+      "Heat Transfer Surface Area": "93 m&#xB2; (1,000 ft&#xB2;)",
+      "Cold-side Pressure": "4 bar (58 psi)",
+      "Hot-side Pressure": "4 bar (58 psi)",
+      "Number of Plates": "114"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/703604",
+    "stock_number": "703604",
+    "title": "IPP# 703604 - Plate and Frame Heat Exchanger 14.8 m&#xB2; (159.3 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Paasch and Silkeborg",
+      "Model": "PBB-NR1",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "14.8 m&#xB2; (159.3 ft&#xB2;)",
+      "Length": "1,050 mm (42 in)",
+      "Nozzle Schedule": "Openings: 3-50mm inlets, 2-38mm outlets",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "73"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/703605",
+    "stock_number": "703605",
+    "title": "IPP# 703605 - Plate and Frame Heat Exchanger 14.8 m&#xB2; (159.3 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Paasch and Silkeborg",
+      "Model": "PBB-NR1",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "14.8 m&#xB2; (159.3 ft&#xB2;)",
+      "Length": "1,050 mm (42 in)",
+      "Nozzle Schedule": "Openings: 3-50mm inlets, 2-38mm outlets",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "73"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/703606",
+    "stock_number": "703606",
+    "title": "IPP# 703606 - Plate and Frame Heat Exchanger 30.7 m&#xB2; (330.5 ft&#xB2;) Stainless Steel 304 For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Paasch and Silkeborg",
+      "Model": "PBB-3",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "30.7 m&#xB2; (330.5 ft&#xB2;)",
+      "Length": "1,650 mm (64 in)",
+      "Nozzle Schedule": "Openings: 7-75 inlets/outlets",
+      "Housing Material": "Carbon Steel",
+      "Number of Plates": "73"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/703607",
+    "stock_number": "703607",
+    "title": "IPP# 703607 - Plate and Frame Heat Exchanger 10.8 m&#xB2; (116.3 ft&#xB2;) Stainless Steel 304 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Model": "HX",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "10.8 m&#xB2; (116.3 ft&#xB2;)",
+      "Length": "1,700 mm (66 in)",
+      "Nozzle Schedule": "Openings: 9-50mm inlets/outlets.",
+      "Number of Plates": "67"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/703724",
+    "stock_number": "703724",
+    "title": "IPP# 703724 - Plate and Frame Heat Exchanger 6 m&#xB2; (64.6 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 14,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "GEA",
+      "Model": "VT40P/C6",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "6 m&#xB2; (64.6 ft&#xB2;)",
+      "Length": "610 mm (24 in)",
+      "Nozzle Schedule": "Openings: inlets: 1-1 1/2\", 1-3\"; outlets 1-1 1/2\", 1-3\"",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "50 \u00b0C (122 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "50 \u00b0C (122 \u00b0F)",
+      "Number of Plates": "13"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/704662",
+    "stock_number": "704662",
+    "title": "IPP# 704662 - Plate and Frame Heat Exchanger 15 m&#xB2; (161.5 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Swep",
+      "Model": "G65",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "15 m&#xB2; (161.5 ft&#xB2;)",
+      "Cold-side Pressure": "1 bar (14.5 psi)",
+      "Cold-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Hot-side Pressure": "1 bar (14.5 psi)",
+      "Hot-side Temperature": "150 \u00b0C (302 \u00b0F)",
+      "Number of Plates": "40"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/705321",
+    "stock_number": "705321",
+    "title": "IPP# 705321 - Plate and Frame Heat Exchanger 10.7 m&#xB2; (115.6 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "GEA",
+      "Model": "VT20",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "10.7 m&#xB2; (115.6 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: 4-50mm.",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Number of Plates": "31"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/706475",
+    "stock_number": "706475",
+    "title": "Titanium Alfa Laval M15-MFG8 Plate and Frame Heat Exchanger - IPP# 706475",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "M15-MFG8",
+      "Condition": "Used",
+      "Material": "Titanium",
+      "Heat Transfer Surface Area": "37.2 m&#xB2; (400.4 ft&#xB2;)",
+      "Nozzle Schedule": "Openings process side: 2-125mm - Openings service side: 2-125mm",
+      "Housing Material": "Carbon Steel",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "60 \u00b0C (140 \u00b0F)",
+      "Number of Plates": "62"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/706476",
+    "stock_number": "706476",
+    "title": "Titanium APV Paraflow SR-35 Plate and Frame Heat Exchanger - IPP# 706476",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Model": "Paraflow SR-35",
+      "Condition": "Used",
+      "Material": "Titanium",
+      "Heat Transfer Surface Area": "19.6 m&#xB2; (211 ft&#xB2;)",
+      "Nozzle Schedule": "openings process side: 2- 80mm, process side 2- 80mm,",
+      "Housing Material": "Carbon Steel",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Number of Plates": "56"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/706477",
+    "stock_number": "706477",
+    "title": "IPP# 706477 - Plate and Frame Heat Exchanger 37.2 m&#xB2; (400.4 ft&#xB2;) Titanium For Sale",
+    "attribute_count": 12,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "M15-MFG8",
+      "Condition": "Used",
+      "Material": "Titanium",
+      "Heat Transfer Surface Area": "37.2 m&#xB2; (400.4 ft&#xB2;)",
+      "Nozzle Schedule": "Openings (process side): 2- 125mm - Openings (service side): 2-125mm",
+      "Housing Material": "Carbon Steel",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "60 \u00b0C (140 \u00b0F)",
+      "Number of Plates": "62"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/706493",
+    "stock_number": "706493",
+    "title": "IPP# 706493 - Plate and Frame Heat Exchanger 39.9 m&#xB2; (429.5 ft&#xB2;) Stainless Steel 304 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "H7-RC",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "39.9 m&#xB2; (429.5 ft&#xB2;)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Housing Material": "Stainless Steel Other",
+      "Number of Plates": "105"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/706502",
+    "stock_number": "706502",
+    "title": "IPP# 706502 - Plate and Frame Heat Exchanger 7 m&#xB2; (75.3 ft&#xB2;) Stainless Steel 304 For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Pasilac",
+      "Model": "1020",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "7 m&#xB2; (75.3 ft&#xB2;)",
+      "Nozzle Schedule": "Number of openings: 8 (4-75mm and 4-50mm)",
+      "Housing Material": "Stainless Steel Other",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Number of Plates": "19"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/706503",
+    "stock_number": "706503",
+    "title": "IPP# 706503 - Plate and Frame Heat Exchanger 11.1 m&#xB2; (119.5 ft&#xB2;) Stainless Steel 304 For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Pasilac",
+      "Model": "1020",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "11.1 m&#xB2; (119.5 ft&#xB2;)",
+      "Nozzle Schedule": "Number of openings: 4-75mm and 4-50mm",
+      "Housing Material": "Stainless Steel Other",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Number of Plates": "30"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/706508",
+    "stock_number": "706508",
+    "title": "IPP# 706508 - Plate and Frame Heat Exchanger 9 m&#xB2; (96.4 ft&#xB2;) Stainless Steel 304 For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "P13-RB",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "9 m&#xB2; (96.4 ft&#xB2;)",
+      "Nozzle Schedule": "4-50mm openings, divider plate with 2-50mm",
+      "Housing Material": "Stainless Steel Other",
+      "Hot-side Pressure": "4 bar (58 psi)",
+      "Number of Plates": "56"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/706590",
+    "stock_number": "706590",
+    "title": "IPP# 706590 - Plate and Frame Heat Exchanger 53.1 m&#xB2; (571 ft&#xB2;) Stainless Steel 316L For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Superchanger",
+      "Model": "TW-188-HP-36",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316L",
+      "Heat Transfer Surface Area": "53.1 m&#xB2; (571 ft&#xB2;)",
+      "Nozzle Schedule": "4-150mm openings",
+      "Hot-side Pressure": "6.9 bar (100 psi)",
+      "Hot-side Temperature": "65.6 \u00b0C (150 \u00b0F)"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/706711",
+    "stock_number": "706711",
+    "title": "Stainless Steel 316 Alfa Laval M10/MFM Plate and Frame Heat Exchanger - IPP# 706711",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "M10/MFM",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "4.6 m&#xB2; (49.5 ft&#xB2;)",
+      "Hot-side Pressure": "10 bar (145 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Number of Plates": "21"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/78659",
+    "stock_number": "78659",
+    "title": "Stainless Steel 304 Alfa Laval P14RB Plate and Frame Heat Exchanger - IPP# 78659",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Alfa Laval",
+      "Model": "P14RB",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "25.8 m&#xB2; (277.7 ft&#xB2;)",
+      "Nozzle Schedule": "W/2-3\" (75mm) nozzles on top of one endplate and 2-3\" (75mm) nozzles on btm of other endplate.",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Number of Plates": "38"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/81090",
+    "stock_number": "81090",
+    "title": "Stainless Steel 304 Plate and Frame Heat Exchanger - IPP# 81090",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Paterson Kelly",
+      "Model": "HX-85H-241-M3-1",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "203.1 m&#xB2; (2,200 ft&#xB2;)",
+      "Nozzle Schedule": "2-10\" inlets, 2-10\" outlets.",
+      "Hot-side Pressure": "6.9 bar (100 psi)",
+      "Hot-side Temperature": "93.3 \u00b0C (200 \u00b0F)",
+      "Number of Plates": "241"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/81720",
+    "stock_number": "81720",
+    "title": "IPP# 81720 - Plate and Frame Heat Exchanger 10 m&#xB2; (107.6 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmit",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "10 m&#xB2; (107.6 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: 6-35mm.",
+      "Hot-side Pressure": "5 bar (72.5 psi)",
+      "Hot-side Temperature": "65 \u00b0C (149 \u00b0F)",
+      "Number of Plates": "40"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/82158",
+    "stock_number": "82158",
+    "title": "IPP# 82158 - Plate and Frame Heat Exchanger 6 m&#xB2; (64.6 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmidt",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "6 m&#xB2; (64.6 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: 4-50mm",
+      "Hot-side Pressure": "5 bar (72.5 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Number of Plates": "30"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/82242",
+    "stock_number": "82242",
+    "title": "IPP# 82242 - Plate and Frame Heat Exchanger 8.1 m&#xB2; (87 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "W Schmidt Kg",
+      "Model": "Sigma-20",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "8.1 m&#xB2; (87 ft&#xB2;)",
+      "Number of Plates": "48"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/82263",
+    "stock_number": "82263",
+    "title": "IPP# 82263 - Plate and Frame Heat Exchanger 4 m&#xB2; (42.6 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "W Schmidt Kg",
+      "Model": "Sigma-20/22",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "4 m&#xB2; (42.6 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: process side 4-40mm; service side 2-40mm",
+      "Cold-side Pressure": "5 bar (72.5 psi)",
+      "Hot-side Pressure": "5 bar (72.5 psi)",
+      "Number of Plates": "43"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/82696",
+    "stock_number": "82696",
+    "title": "IPP# 82696 - Plate and Frame Heat Exchanger 5 m&#xB2; (53.8 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 10,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmidtz",
+      "Model": "Sigma 20",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "5 m&#xB2; (53.8 ft&#xB2;)",
+      "Nozzle Schedule": "4-1 1/2\" (35mm) openings.",
+      "Hot-side Pressure": "6.2 bar (90 psi)",
+      "Number of Plates": "32"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/82697",
+    "stock_number": "82697",
+    "title": "IPP# 82697 - Plate and Frame Heat Exchanger 6.5 m&#xB2; (70 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmidtz",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "6.5 m&#xB2; (70 ft&#xB2;)",
+      "Nozzle Schedule": "- Openings: 4- 65mm",
+      "Hot-side Pressure": "6.2 bar (90 psi)",
+      "Number of Plates": "41"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/85060",
+    "stock_number": "85060",
+    "title": "IPP# 85060 - Plate and Frame Heat Exchanger 5.5 m&#xB2; (58.8 ft&#xB2;) Stainless Steel Other For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "GEA",
+      "Model": "VT20C-6",
+      "Condition": "Used",
+      "Material": "Stainless Steel Other",
+      "Heat Transfer Surface Area": "5.5 m&#xB2; (58.8 ft&#xB2;)",
+      "Nozzle Schedule": "- Openings: t-75mm",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Number of Plates": "23"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/89041",
+    "stock_number": "89041",
+    "title": "IPP# 89041 - Plate and Frame Heat Exchanger 22.4 m&#xB2; (241.5 ft&#xB2;) Stainless Steel Austenitic For Sale",
+    "attribute_count": 11,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Stemmed",
+      "Model": "Sigma G37",
+      "Condition": "Used",
+      "Material": "Stainless Steel Austenitic",
+      "Heat Transfer Surface Area": "22.4 m&#xB2; (241.5 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: 4-75mm nozzles",
+      "Cold-side Pressure": "10.3 bar (150 psi)",
+      "Hot-side Pressure": "10.3 bar (150 psi)",
+      "Number of Plates": "34"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/89365",
+    "stock_number": "89365",
+    "title": "IPP# 89365 - Plate and Frame Heat Exchanger 42 m&#xB2; (452.1 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 8,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Model": "HMBL",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "42 m&#xB2; (452.1 ft&#xB2;)",
+      "Nozzle Schedule": "4-50mm openings,",
+      "Number of Plates": "70"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/89485",
+    "stock_number": "89485",
+    "title": "IPP# 89485 - Plate and Frame Heat Exchanger 10.8 m&#xB2; (116 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "GEA",
+      "Model": "VT20",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "10.8 m&#xB2; (116 ft&#xB2;)",
+      "Nozzle Schedule": "Openings: 4-100mm.",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "50 \u00b0C (122 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "50 \u00b0C (122 \u00b0F)",
+      "Number of Plates": "20"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/90047",
+    "stock_number": "90047",
+    "title": "Stainless Steel 304 APV R860 Plate and Frame Heat Exchanger - IPP# 90047",
+    "attribute_count": 9,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "APV",
+      "Model": "R860",
+      "Condition": "Used",
+      "Material": "Stainless Steel 304",
+      "Heat Transfer Surface Area": "32.1 m&#xB2; (346 ft&#xB2;)",
+      "Nozzle Schedule": "Has 4-6\" openings.",
+      "Number of Plates": "44"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/90596",
+    "stock_number": "90596",
+    "title": "IPP# 90596 - Plate and Frame Heat Exchanger 16.8 m&#xB2; (180.8 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Jaeggi (Switzerland)",
+      "Model": "HXH61-2-2(120)",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "16.8 m&#xB2; (180.8 ft&#xB2;)",
+      "Nozzle Schedule": "- Openings: - One side: 2-100mm, 2-75mm",
+      "Cold-side Pressure": "6 bar (87 psi)",
+      "Cold-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Hot-side Pressure": "6 bar (87 psi)",
+      "Hot-side Temperature": "120 \u00b0C (248 \u00b0F)",
+      "Number of Plates": "59"
+    }
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/91974",
+    "stock_number": "91974",
+    "title": "IPP# 91974 - Plate and Frame Heat Exchanger 19.2 m&#xB2; (206.7 ft&#xB2;) Stainless Steel 316 For Sale",
+    "attribute_count": 13,
+    "attributes": {
+      "Type": "Heat Exchanger",
+      "Subtype": "Plate and Frame",
+      "Manufacturer": "Schmidt",
+      "Model": "Sigma-27H",
+      "Condition": "Used",
+      "Material": "Stainless Steel 316",
+      "Heat Transfer Surface Area": "19.2 m&#xB2; (206.7 ft&#xB2;)",
+      "Nozzle Schedule": "- Opening sizes: 4-65mm, 2-65mm, 2-65mm on sides.",
+      "Cold-side Pressure": "8 bar (116 psi)",
+      "Cold-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Hot-side Pressure": "8 bar (116 psi)",
+      "Hot-side Temperature": "100 \u00b0C (212 \u00b0F)",
+      "Number of Plates": "32"
+    }
+  }
+]
