@@ -53,6 +53,7 @@
     { "source": "/equipment/agitator/shaft-mixer/", "destination": "/equipment/agitators/buy-used-shaft-mixer-agitators.html", "permanent": false },
     { "source": "/equipment/agitator/glass-lined", "destination": "/equipment/agitators/buy-used-glass-lined-agitators.html", "permanent": false },
     { "source": "/equipment/agitator/glass-lined/", "destination": "/equipment/agitators/buy-used-glass-lined-agitators.html", "permanent": false },
+    { "source": "/process-equipment/:path*/", "destination": "/equipment/:path*/", "permanent": false },
     { "source": "/process-equipment/:path*", "destination": "/equipment/:path*", "permanent": false }
   ],
   "headers": [
