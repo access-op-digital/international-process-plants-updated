@@ -1,22 +1,8 @@
 # Buy Used Tubular, Podbielniak & Hydraulic Centrifuges for Sale
 
-Buying used tubular, Podbielniak and hydraulic centrifuges through International Process Plants (IPP) gives chemical, pharmaceutical, food and specialty manufacturers access to the separation equipment IPP groups under Misc. & Hydraulic on its IMS inventory system: Sharples tubular bowl super centrifuges, Podbielniak centrifugal extractors from Podbielniak, APV and Baker Perkins, and Oil Gear and Sanborn hydraulic drives. Bowl speeds reach 50,000 rpm, and buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.
-
-IPP stocks good used and refurbished units, including used super centrifuge models from Sharples (AS16, AS26, AS14, AE-18V and T1P), tubular units from Rina, Carl Padberg and Robatel, Podbielniak 6900 countercurrent extractors and APV D36 and Baker Perkins D18 Podbielniak-type units. Every used tubular centrifuge is listed with its specifications, ready to buy and ship.
-
-Each unit is listed on IPP's IMS inventory system with its bowl speed, motor power, description and condition grade. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
-
 [Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/search/equipment/misc-and-hydraulic-centrifuge)
 
 **Quick Stats:** 10+ OEM Manufacturers | 50,000 Maximum rpm | 1980 Established Since | 15 Countries with Offices
-
-**Featured Equipment:**
-- [Tubular Super Centrifuges -- Sharples, Rina, CEPA and Robatel units](https://ims.internationalprocessplants.com/search?equipmenttype=misc-and-hydraulic-centrifuge&attr-is-vertical-tubular=true)
-- [Podbielniak Extractors -- Podbielniak, APV and Baker Perkins units](https://ims.internationalprocessplants.com/search?equipmenttype=misc-and-hydraulic-centrifuge&attr-is-podbielniak=true)
-- [Hydraulic Drives -- Oil Gear and Sanborn drives and pumps](https://ims.internationalprocessplants.com/search?equipmenttype=misc-and-hydraulic-centrifuge&q=hydraulic)
-
-
-Trusted around the world by
 
 
 ---
@@ -35,7 +21,7 @@ IPP lists this inventory by design, using the Podbielniak and vertical tubular f
 
 ## Tubular Bowl vs Disc Stack Centrifuges
 
-Tubular bowl and disc stack centrifuges both spin a vertical bowl to separate fine solids and liquids, and they differ in bowl geometry, G-force, throughput and solids discharge. Here is how the two designs compare across key factors, and IPP's [disc stack centrifuge guide](https://internationalprocessplants.com/disc-stack-centrifuge-how-it-works-disc-bowl-process/) covers the disc bowl process.
+Tubular bowl and disc stack centrifuges both spin a vertical bowl to separate fine solids and liquids, and they differ in bowl geometry, G-force, throughput and solids discharge. Here is how the two designs compare across key factors.
 
 | Factor | Tubular Bowl Centrifuge | Disc Stack Centrifuge |
 |-----|-----|-----|
@@ -519,7 +505,7 @@ A: A tubular bowl centrifuge works on the principle of high-speed separation in 
 A: A Podbielniak centrifugal extractor brings the heavy and the light liquid into the rotating drum through the shaft from opposite ends, so the two phases flow countercurrent through the drum and leave through the mechanically sealed shaft. The rotation creates a separation force well above gravity, which lets this liquid-liquid extraction machine contact and separate the phases in one compact unit.
 
 **Q: What is a Sharples super centrifuge?**
-A: Sharples super centrifuges are high-speed vertical tubular bowl machines, with AS16 and AS26 series units rated to 15,000 rpm and the turbine-driven T1P to 50,000 rpm. Sharples is the super centrifuge manufacturer behind most of the tubular units in IPP's inventory, and IPP's [G-force and rpm guide](https://internationalprocessplants.com/g-force-rpm-centrifuge-size-performance/) explains how bowl speed relates to separation force.
+A: Sharples super centrifuges are high-speed vertical tubular bowl machines, with AS16 and AS26 series units rated to 15,000 rpm and the turbine-driven T1P to 50,000 rpm. Sharples is the super centrifuge manufacturer behind most of the tubular units in IPP's inventory.
 
 **Q: What does a hydraulic centrifuge drive do?**
 A: A hydraulic centrifuge drive turns the basket through a hydraulic motor fed by a pump and power unit, instead of a direct electric motor or gearbox, which gives high starting torque and smooth acceleration. The same hydraulic power can run the discharge plows on a basket centrifuge, and IPP's Oil Gear and Sanborn units include drives built for basket centrifuges.

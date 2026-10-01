@@ -1,22 +1,8 @@
 # Buy Used Pusher Centrifuges for Sale
 
-Buying used pusher centrifuges through International Process Plants (IPP) gives chemical, pharmaceutical, food and specialty manufacturers access to continuous filtering centrifuges from Krauss Maffei, Escher Wyss, Andritz, Siebtechnik and other OEM manufacturers. Basket diameters range from 281 mm (11.1 in) to 1,050 mm (41.9 in), with stainless steel and Hastelloy baskets in single-stage, two-stage and multi-stage designs. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980, and its second hand pusher centrifuges are ready to ship.
-
-IPP stocks good used and refurbished pusher centrifuges, the continuous design in which a reciprocating pusher plate moves the filter cake along a rotating screen basket. Two-stage machines make up most of the inventory, with maximum speeds from 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP).
-
-Each pusher centrifuge is listed on IPP's IMS inventory system with its basket diameter, number of basket stages, maximum speed, motor power and condition grade. Spare baskets, pusher shafts and screens are listed separately on IPP's [pusher centrifuge parts](/process-equipment/centrifuge/pusher-centrifuge-parts/) page, and new custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
-
 [Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/search/equipment/pusher-centrifuge)
 
 **Quick Stats:** 7 OEM Manufacturers | 3 Basket Stage Designs | 1980 Established Since | 15 Countries with Offices
-
-**Featured Equipment:**
-- [Two-Stage Machines -- Inner and outer basket pusher centrifuges](https://ims.internationalprocessplants.com/search?equipmenttype=pusher-centrifuge&attr-number-of-basket-stages=2)
-- [Hastelloy Baskets -- Escher Wyss P-3 units in Hastelloy](https://ims.internationalprocessplants.com/search?equipmenttype=pusher-centrifuge&material=Hastelloy%20-%20Other&material=Hastelloy%20-%20C276&material=Hastelloy%20-%20C22&material=Hastelloy%20-%20B)
-- [Refurbished Units -- Rebuilt Andritz, Escher Wyss and Krauss Maffei machines](https://ims.internationalprocessplants.com/search?equipmenttype=pusher-centrifuge&condition=Refurbished/Rebuilt)
-
-
-Trusted around the world by
 
 
 ---
@@ -179,7 +165,7 @@ Good used Escher Wyss pusher centrifuge with a stainless steel 316 basket, 1,050
 
 ## Single-Stage vs Two-Stage Pusher Centrifuges
 
-Single-stage and two-stage pusher centrifuges both push the filter cake along a rotating screen basket with a reciprocating pusher plate, and they differ in how many basket stages the cake crosses. Here is how the two designs compare across key factors, and IPP's [peeler vs pusher guide](https://internationalprocessplants.com/peeler-vs-pusher-centrifuge-differences-applications-selection/) sets pushers against the batch alternative.
+Single-stage and two-stage pusher centrifuges both push the filter cake along a rotating screen basket with a reciprocating pusher plate, and they differ in how many basket stages the cake crosses. Here is how the two designs compare across key factors.
 
 | Factor | Two-Stage Pusher | Single-Stage Pusher |
 |-----|-----|-----|
@@ -584,10 +570,10 @@ A: Wash nozzles spray liquid onto the cake as it advances along the basket, and 
 A: IPP carries pusher centrifuges from Krauss Maffei, Escher Wyss, Andritz, Siebtechnik, Bird, Baker Perkins and Alfa Laval. Krauss Maffei and Escher Wyss hold the deepest positions, with models from 281 mm (11.1 in) to 1,050 mm (41.9 in).
 
 **Q: What basket materials are available?**
-A: IPP's pusher centrifuges have baskets in stainless steel 316, 304, 317, austenitic and other stainless grades, and Hastelloy. Stainless steel 316 is the most common basket material in the inventory, and IPP's [centrifuge materials guide](https://internationalprocessplants.com/centrifuge-materials-316-stainless-hastelloy-duplex/) compares 316 stainless steel, Hastelloy and duplex grades.
+A: IPP's pusher centrifuges have baskets in stainless steel 316, 304, 317, austenitic and other stainless grades, and Hastelloy. Stainless steel 316 is the most common basket material in the inventory.
 
 **Q: What basket sizes are available, and how do I find the right size?**
-A: IPP's pusher centrifuges range from 281 mm (11.1 in) to 1,050 mm (41.9 in) basket diameter, with maximum speeds of 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP). Share your throughput, feed concentration and number of stages with IPP, and the team will match units in stock to your requirements. IPP's [centrifuge sizing guide](https://internationalprocessplants.com/centrifuge-sizing-guide-for-your-application/) explains how basket size relates to throughput.
+A: IPP's pusher centrifuges range from 281 mm (11.1 in) to 1,050 mm (41.9 in) basket diameter, with maximum speeds of 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP). Share your throughput, feed concentration and number of stages with IPP, and the team will match units in stock to your requirements.
 
 **Q: Are gas-tight pusher centrifuges available?**
 A: Yes. IMS lists the Krauss Maffei SB 1000/2 pusher centrifuges as gas tight, with washing and 2.1 m² (23 ft²) of filtration area. Each listing states the features that apply, including washing and controls.

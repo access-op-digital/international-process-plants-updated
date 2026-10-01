@@ -280,7 +280,7 @@
           "name": "What is a Sharples super centrifuge?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Sharples super centrifuges are high-speed vertical tubular bowl machines, with AS16 and AS26 series units rated to 15,000 rpm and the turbine-driven T1P to 50,000 rpm. Sharples is the super centrifuge manufacturer behind most of the tubular units in IPP's inventory, and IPP's G-force and rpm guide explains how bowl speed relates to separation force."
+            "text": "Sharples super centrifuges are high-speed vertical tubular bowl machines, with AS16 and AS26 series units rated to 15,000 rpm and the turbine-driven T1P to 50,000 rpm. Sharples is the super centrifuge manufacturer behind most of the tubular units in IPP's inventory."
           }
         },
         {
@@ -1428,6 +1428,60 @@
 .rf .see-more .btn.is-loading::before { content: ""; width: 14px; height: 14px; flex: 0 0 14px; border-radius: 50%; border: 2px solid rgba(255, 255, 255, 0.35); border-top-color: #fff; display: inline-block; animation: 0.7s linear 0s infinite normal none running rf-spin; }
 @keyframes rf-spin { to { transform: rotate(360deg); } }
 
+/* ===== Live WordPress hero, logo strip and tabs (reactor hub, measured 2026-10-02) ===== */
+.hero { background: #183947 !important; background-image: none !important; padding: 64px 0 0 !important; }
+.hero::before { display: none !important; }
+.hero-grid { display: grid !important; grid-template-columns: 1fr 1fr !important; grid-template-areas: "title ." "content cards"; column-gap: 100px !important; row-gap: 0 !important; align-items: start !important; }
+.hero-grid > h1 { grid-area: title; }
+.hero-grid > .hero-content { grid-area: content; }
+.hero-grid > .hero-cards { grid-area: cards; }
+.hero h1 { font-family: Montserrat, 'Inter', sans-serif; font-size: 40px; font-weight: 600; line-height: 52px; letter-spacing: 0; color: #fff; margin-bottom: 20px; }
+.hero h1 span { color: inherit; }
+.hero-more { font-size: 16px; line-height: 1.72; color: #fff; margin-bottom: 40px; }
+.hero-more summary { display: inline; cursor: pointer; list-style: none; color: #fff; }
+.hero-more summary::-webkit-details-marker { display: none; }
+.hero-more summary::marker { content: ''; }
+.hero-more .open-icon, .hero-more .close-icon { color: #fff; font-size: 16px; cursor: pointer; }
+.hero-more[open] summary .open-icon { display: none; }
+.hero-more .close-icon { display: none; margin-left: 8px; }
+.hero-more[open] .close-icon { display: inline; }
+.hero-more .hero-more-rest { color: #fff; }
+.hero-stats { display: grid !important; grid-template-columns: repeat(4, 1fr); gap: 40px; padding-top: 28px; border-top: 1px solid rgba(255,255,255,0.2); }
+.hero-stat { text-align: center; }
+.hero-stat .number { display: block; font-family: Montserrat, 'Inter', sans-serif; font-size: 30px; font-weight: 600; line-height: 39px; color: #1a8fc4; margin-bottom: 12px; }
+.hero-stat .label { display: block; font-size: 14px; font-weight: 500; line-height: 1.4; color: #fff; }
+.hero-image.hero-cards { display: flex; flex-direction: column; gap: 36px; text-align: left; margin-top: 2px; }
+.hero-card { display: flex; align-items: flex-start; gap: 24px; background: #2a5263; border: 1px solid #3c7086; border-radius: 20px; padding: 22px 22px 22px 35px; color: #fff; text-decoration: none; text-align: left; transition: border-color .2s; }
+.hero-card:hover { border-color: #1a8fc4; }
+.hero-card i { font-size: 30px; color: #1a8fc4; width: 40px; flex: 0 0 40px; text-align: center; margin-top: 4px; }
+.hero-card .hc-title { display: block; font-family: Montserrat, 'Inter', sans-serif; font-size: 20px; font-weight: 700; line-height: 1.5; color: #fff; }
+.hero-card .hc-text { display: block; font-size: 16px; line-height: 1.72; color: #fff; }
+.trusted-row { display: flex; align-items: center; gap: 40px; padding: 56px 0 50px; }
+.trusted-row .trusted-label { font-family: Montserrat, 'Inter', sans-serif; font-size: 24px; font-weight: 700; color: #fff; white-space: nowrap; margin: 0; flex: 0 0 auto; }
+.logo-carousel { flex: 1 1 auto; min-width: 0; overflow: hidden; }
+.logo-carousel-track { display: flex; width: max-content; animation: logo-scroll 20s linear infinite; }
+.logo-carousel-group { display: flex; flex-shrink: 0; align-items: center; }
+.logo-carousel-group img { height: 40px; width: auto; margin: 0 32px; }
+@keyframes logo-scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+@media (prefers-reduced-motion: reduce) { .logo-carousel-track { animation: none; } }
+.tab-nav { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; background: transparent; padding: 0; border-radius: 0; }
+.tab-nav button { background: #e6e6e6; color: #54595f; border: 0; border-radius: 10px; padding: 15px 35px; font-family: Montserrat, 'Inter', sans-serif; font-size: 13.33px; font-weight: 600; box-shadow: none; }
+.tab-nav button.active { background: #1a8fc4; color: #fff; box-shadow: none; }
+.tab-nav button:hover:not(.active) { background: #dcdcdc; color: #183947; }
+@media (max-width: 1024px) {
+  .hero-grid { grid-template-columns: 1fr !important; grid-template-areas: "title" "content"; }
+  .hero-image.hero-cards { display: none; }
+  .trusted-row { flex-direction: column; align-items: flex-start; gap: 24px; }
+  .logo-carousel { width: 100%; }
+}
+@media (max-width: 768px) {
+  .hero { padding: 40px 0 0 !important; }
+  .hero h1 { font-size: 30px; line-height: 39px; }
+  .hero-stats { grid-template-columns: 1fr 1fr; gap: 20px; }
+  .tab-nav { flex-wrap: nowrap; justify-content: flex-start; overflow-x: auto; }
+  .tab-nav button { padding: 12px 20px; white-space: nowrap; flex-shrink: 0; }
+}
+
 .trusted-strip { background: #183947; padding: 24px 0 30px; }
 .trusted-label { text-align: center; font-size: 16px; font-weight: 400; color: rgba(255, 255, 255, .78); margin: 0 0 16px; }
 .trusted-logos { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 22px 36px; }
@@ -1460,18 +1514,9 @@
 <section class="hero">
     <div class="container">
         <div class="hero-grid">
+            <h1>Buy Used Tubular, Podbielniak &amp; Hydraulic Centrifuges <span>for Sale</span></h1>
             <div class="hero-content">
-                <h1>Buy Used Tubular, Podbielniak &amp; Hydraulic Centrifuges <span>for Sale</span></h1>
-
-                <p class="intro-text">Buying used tubular, Podbielniak and hydraulic centrifuges through International Process Plants (IPP) gives chemical, pharmaceutical, food and specialty manufacturers access to the separation equipment IPP groups under Misc. &amp; Hydraulic on its IMS inventory system: Sharples tubular bowl super centrifuges, Podbielniak centrifugal extractors from Podbielniak, APV and Baker Perkins, and Oil Gear and Sanborn hydraulic drives. Bowl speeds reach 50,000 rpm, and buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.</p>
-
-                <details class="intro-expand">
-                    <summary>
-                        <p><span class="truncated">IPP stocks good used and refurbished units, including used super centrifuge models from Sharples (AS16, AS26, AS14,...</span> <span class="arrow-expand">&#10132;</span></p>
-                    </summary>
-                    <p class="intro-rest">IPP stocks good used and refurbished units, including used super centrifuge models from Sharples (AS16, AS26, AS14, AE-18V and T1P), tubular units from Rina, Carl Padberg and Robatel, Podbielniak 6900 countercurrent extractors and APV D36 and Baker Perkins D18 Podbielniak-type units. Every used tubular centrifuge is listed with its specifications, ready to buy and ship.</p>
-                    <p class="intro-rest">Each unit is listed on IPP's IMS inventory system with its bowl speed, motor power, description and condition grade. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.</p>
-                </details>
+                <details class="hero-more"><summary>Buying used tubular, Podbielniak and hydraulic centrifuges through International Process Plants (IPP) gives chemical, pharmaceutical, food and specialty manufacturers access to the separation equipment IPP groups under Misc. &amp; Hydraulic on its IMS inventory system: Sharples tubular bowl super centrifuges, Podbielniak centrifugal extractors from Podbielniak, APV and Baker Perkins, and Oil Gear and Sanborn hydraulic drives. Bowl speeds reach 50,000 rpm, and buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980. <span class="open-icon" aria-label="Read more">&#9654;</span></summary><span class="hero-more-rest"><br><br>IPP stocks good used and refurbished units, including used super centrifuge models from Sharples (AS16, AS26, AS14, AE-18V and T1P), tubular units from Rina, Carl Padberg and Robatel, Podbielniak 6900 countercurrent extractors and APV D36 and Baker Perkins D18 Podbielniak-type units. Every used tubular centrifuge is listed with its specifications, ready to buy and ship.<br><br>Each unit is listed on IPP's IMS inventory system with its bowl speed, motor power, description and condition grade. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery. <span class="close-icon" role="button" tabindex="0" aria-label="Show less" onclick="this.closest('details').removeAttribute('open')">&#9650;</span></span></details>
 
                 <div class="hero-cta-group">
                     <a href="https://internationalprocessplants.com/contact/" class="btn-primary"><i class="fas fa-envelope"></i> Request a Quote</a>
@@ -1479,75 +1524,25 @@
                 </div>
 
                 <div class="hero-stats">
-                    <div class="hero-stat">
-                        <span class="number">10+</span>
-                        <span class="label">OEM<br>Manufacturers</span>
-                    </div>
-                    <div class="hero-stat">
-                        <span class="number">50,000</span>
-                        <span class="label">Maximum<br>rpm</span>
-                    </div>
-                    <div class="hero-stat">
-                        <span class="number">1980</span>
-                        <span class="label">Established<br>Since</span>
-                    </div>
-                    <div class="hero-stat">
-                        <span class="number">15</span>
-                        <span class="label">Countries<br>with Offices</span>
-                    </div>
+                    <div class="hero-stat"><span class="number">10+</span><span class="label">OEM<br>Manufacturers</span></div>
+                    <div class="hero-stat"><span class="number">50,000</span><span class="label">Maximum<br>rpm</span></div>
+                    <div class="hero-stat"><span class="number">1980</span><span class="label">Established<br>Since</span></div>
+                    <div class="hero-stat"><span class="number">15</span><span class="label">Countries<br>with Offices</span></div>
                 </div>
             </div>
 
-            <div class="hero-image" style="display: flex; flex-direction: column; gap: 16px;">
-                <a href="https://ims.internationalprocessplants.com/search?equipmenttype=misc-and-hydraulic-centrifuge&attr-is-vertical-tubular=true" target="_blank" style="display: flex; align-items: center; gap: 16px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); border-radius: 14px; padding: 20px 24px; color: white; text-decoration: none; transition: all 0.3s ease;">
-                    <i class="fas fa-grip-lines-vertical" style="font-size: 36px; color: var(--accent); width: 48px; text-align: center;"></i>
-                    <div>
-                        <div style="font-size: 17px; font-weight: 700;">Tubular Super Centrifuges</div>
-                        <div style="font-size: 13px; color: rgba(255,255,255,0.6);">Sharples, Rina, CEPA and Robatel units</div>
-                    </div>
-                    <i class="fas fa-arrow-right" style="margin-left: auto; color: var(--accent); font-size: 14px;"></i>
-                </a>
-                <a href="https://ims.internationalprocessplants.com/search?equipmenttype=misc-and-hydraulic-centrifuge&attr-is-podbielniak=true" target="_blank" style="display: flex; align-items: center; gap: 16px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); border-radius: 14px; padding: 20px 24px; color: white; text-decoration: none; transition: all 0.3s ease;">
-                    <i class="fas fa-arrows-left-right" style="font-size: 36px; color: var(--accent); width: 48px; text-align: center;"></i>
-                    <div>
-                        <div style="font-size: 17px; font-weight: 700;">Podbielniak Extractors</div>
-                        <div style="font-size: 13px; color: rgba(255,255,255,0.6);">Podbielniak, APV and Baker Perkins units</div>
-                    </div>
-                    <i class="fas fa-arrow-right" style="margin-left: auto; color: var(--accent); font-size: 14px;"></i>
-                </a>
-                <a href="https://ims.internationalprocessplants.com/search?equipmenttype=misc-and-hydraulic-centrifuge&q=hydraulic" target="_blank" style="display: flex; align-items: center; gap: 16px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); border-radius: 14px; padding: 20px 24px; color: white; text-decoration: none; transition: all 0.3s ease;">
-                    <i class="fas fa-oil-can" style="font-size: 36px; color: var(--accent); width: 48px; text-align: center;"></i>
-                    <div>
-                        <div style="font-size: 17px; font-weight: 700;">Hydraulic Drives</div>
-                        <div style="font-size: 13px; color: rgba(255,255,255,0.6);">Oil Gear and Sanborn drives and pumps</div>
-                    </div>
-                    <i class="fas fa-arrow-right" style="margin-left: auto; color: var(--accent); font-size: 14px;"></i>
-                </a>
+            <div class="hero-image hero-cards">
+                <a class="hero-card" href="https://ims.internationalprocessplants.com/search?equipmenttype=misc-and-hydraulic-centrifuge&attr-is-vertical-tubular=true" target="_blank"><i class="fas fa-grip-lines-vertical"></i><span><span class="hc-title">Tubular Super Centrifuges</span><span class="hc-text">Sharples, Rina, CEPA and Robatel units</span></span></a>
+                <a class="hero-card" href="https://ims.internationalprocessplants.com/search?equipmenttype=misc-and-hydraulic-centrifuge&attr-is-podbielniak=true" target="_blank"><i class="fas fa-arrows-left-right"></i><span><span class="hc-title">Podbielniak Extractors</span><span class="hc-text">Podbielniak, APV and Baker Perkins units</span></span></a>
+                <a class="hero-card" href="https://ims.internationalprocessplants.com/search?equipmenttype=misc-and-hydraulic-centrifuge&q=hydraulic" target="_blank"><i class="fas fa-oil-can"></i><span><span class="hc-title">Hydraulic Drives</span><span class="hc-text">Oil Gear and Sanborn drives and pumps</span></span></a>
             </div>
+        </div>
+        <div class="trusted-row">
+            <p class="trusted-label">Trusted around the world by</p>
+            <div class="logo-carousel"><div class="logo-carousel-track"><div class="logo-carousel-group"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/shell.png" alt="Shell" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/sanofi.png" alt="Sanofi" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lilly.png" alt="Lilly" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/pandg.png" alt="P&amp;G" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/exonnmobil.png" alt="ExxonMobil" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/chevron.png" alt="Chevron" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/DOW.png" alt="Dow" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lonza.png" alt="Lonza" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/cepsa.png" alt="Cepsa" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/air-products.png" alt="Air Products" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/CMS.png" alt="CMS" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/mosaic.png" alt="Mosaic" width="80" height="40" loading="lazy"></div><div class="logo-carousel-group" aria-hidden="true"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/shell.png" alt="" data-alt="Shell" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/sanofi.png" alt="" data-alt="Sanofi" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lilly.png" alt="" data-alt="Lilly" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/pandg.png" alt="" data-alt="P&amp;G" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/exonnmobil.png" alt="" data-alt="ExxonMobil" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/chevron.png" alt="" data-alt="Chevron" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/DOW.png" alt="" data-alt="Dow" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lonza.png" alt="" data-alt="Lonza" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/cepsa.png" alt="" data-alt="Cepsa" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/air-products.png" alt="" data-alt="Air Products" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/CMS.png" alt="" data-alt="CMS" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/mosaic.png" alt="" data-alt="Mosaic" width="80" height="40" loading="lazy"></div></div></div>
         </div>
     </div>
 </section>
-
-<!-- ===== TRUSTED BY (live layout) ===== -->
-<div class="trusted-strip">
-    <div class="container">
-        <p class="trusted-label">Trusted around the world by</p>
-        <div class="trusted-logos">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/shell.png" alt="Shell" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/sanofi.png" alt="Sanofi" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lilly.png" alt="Lilly" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/pandg.png" alt="P&amp;G" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/exonnmobil.png" alt="ExxonMobil" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/chevron.png" alt="Chevron" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/DOW.png" alt="Dow" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lonza.png" alt="Lonza" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/cepsa.png" alt="Cepsa" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/air-products.png" alt="Air Products" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/CMS.png" alt="CMS" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/mosaic.png" alt="Mosaic" width="80" height="40" loading="lazy">
-        </div>
-    </div>
-</div>
 
 <!-- ===== PRODUCT LISTING (IMS logic, live layout) ===== -->
 <section class="rf-wrap" style="padding: 48px 0;">
@@ -1645,7 +1640,7 @@
     <div class="container">
         <div class="section-header">
             <h2>Tubular Bowl vs <span>Disc Stack Centrifuges</span></h2>
-            <p>Tubular bowl and disc stack centrifuges both spin a vertical bowl to separate fine solids and liquids, and they differ in bowl geometry, G-force, throughput and solids discharge. Here is how the two designs compare across key factors, and IPP's <a href="https://internationalprocessplants.com/disc-stack-centrifuge-how-it-works-disc-bowl-process/">disc stack centrifuge guide</a> covers the disc bowl process.</p>
+            <p>Tubular bowl and disc stack centrifuges both spin a vertical bowl to separate fine solids and liquids, and they differ in bowl geometry, G-force, throughput and solids discharge. Here is how the two designs compare across key factors.</p>
         </div>
 
         <table class="comparison-table">
@@ -1701,12 +1696,12 @@
         </div>
 
         <div class="tab-nav" id="manufacturerTabs">
-            <button class="active" data-tab="mfr-sharples"><i class="fas fa-industry"></i> Sharples</button>
-            <button data-tab="mfr-podbielniak"><i class="fas fa-gears"></i> Podbielniak</button>
-            <button data-tab="mfr-apv"><i class="fas fa-cubes"></i> APV</button>
-            <button data-tab="mfr-baker-perkins"><i class="fas fa-bars-staggered"></i> Baker Perkins</button>
-            <button data-tab="mfr-oil-gear"><i class="fas fa-grip-lines"></i> Oil Gear</button>
-            <button data-tab="mfr-robatel"><i class="fas fa-layer-group"></i> Robatel</button>
+            <button class="active" data-tab="mfr-sharples">Sharples</button>
+            <button data-tab="mfr-podbielniak">Podbielniak</button>
+            <button data-tab="mfr-apv">APV</button>
+            <button data-tab="mfr-baker-perkins">Baker Perkins</button>
+            <button data-tab="mfr-oil-gear">Oil Gear</button>
+            <button data-tab="mfr-robatel">Robatel</button>
         </div>
 
         <div class="tab-content active" id="mfr-sharples">
@@ -2145,8 +2140,8 @@
         </div>
 
         <div class="tab-nav" id="conditionTabs">
-            <button class="active" data-tab="cond-used"><i class="fas fa-recycle"></i> Good Used</button>
-            <button data-tab="cond-refurbished"><i class="fas fa-screwdriver-wrench"></i> Refurbished</button>
+            <button class="active" data-tab="cond-used">Good Used</button>
+            <button data-tab="cond-refurbished">Refurbished</button>
         </div>
 
         <div class="tab-content active" id="cond-used">
@@ -2528,7 +2523,7 @@
                 </div>
                 <div class="faq-item">
                     <button class="faq-question">What is a Sharples super centrifuge? <i class="fas fa-chevron-down"></i></button>
-                    <div class="faq-answer">Sharples super centrifuges are high-speed vertical tubular bowl machines, with AS16 and AS26 series units rated to 15,000 rpm and the turbine-driven T1P to 50,000 rpm. Sharples is the super centrifuge manufacturer behind most of the tubular units in IPP's inventory, and IPP's <a href="https://internationalprocessplants.com/g-force-rpm-centrifuge-size-performance/">G-force and rpm guide</a> explains how bowl speed relates to separation force.</div>
+                    <div class="faq-answer">Sharples super centrifuges are high-speed vertical tubular bowl machines, with AS16 and AS26 series units rated to 15,000 rpm and the turbine-driven T1P to 50,000 rpm. Sharples is the super centrifuge manufacturer behind most of the tubular units in IPP's inventory.</div>
                 </div>
                 <div class="faq-item">
                     <button class="faq-question">What does a hydraulic centrifuge drive do? <i class="fas fa-chevron-down"></i></button>

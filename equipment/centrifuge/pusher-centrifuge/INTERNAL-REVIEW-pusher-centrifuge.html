@@ -260,7 +260,7 @@
           "name": "What basket materials are available?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "IPP's pusher centrifuges have baskets in stainless steel 316, 304, 317, austenitic and other stainless grades, and Hastelloy. Stainless steel 316 is the most common basket material in the inventory, and IPP's centrifuge materials guide compares 316 stainless steel, Hastelloy and duplex grades."
+            "text": "IPP's pusher centrifuges have baskets in stainless steel 316, 304, 317, austenitic and other stainless grades, and Hastelloy. Stainless steel 316 is the most common basket material in the inventory."
           }
         },
         {
@@ -268,7 +268,7 @@
           "name": "What basket sizes are available, and how do I find the right size?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "IPP's pusher centrifuges range from 281 mm (11.1 in) to 1,050 mm (41.9 in) basket diameter, with maximum speeds of 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP). Share your throughput, feed concentration and number of stages with IPP, and the team will match units in stock to your requirements. IPP's centrifuge sizing guide explains how basket size relates to throughput."
+            "text": "IPP's pusher centrifuges range from 281 mm (11.1 in) to 1,050 mm (41.9 in) basket diameter, with maximum speeds of 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP). Share your throughput, feed concentration and number of stages with IPP, and the team will match units in stock to your requirements."
           }
         },
         {
@@ -1400,6 +1400,60 @@
 .rf .see-more .btn.is-loading::before { content: ""; width: 14px; height: 14px; flex: 0 0 14px; border-radius: 50%; border: 2px solid rgba(255, 255, 255, 0.35); border-top-color: #fff; display: inline-block; animation: 0.7s linear 0s infinite normal none running rf-spin; }
 @keyframes rf-spin { to { transform: rotate(360deg); } }
 
+/* ===== Live WordPress hero, logo strip and tabs (reactor hub, measured 2026-10-02) ===== */
+.hero { background: #183947 !important; background-image: none !important; padding: 64px 0 0 !important; }
+.hero::before { display: none !important; }
+.hero-grid { display: grid !important; grid-template-columns: 1fr 1fr !important; grid-template-areas: "title ." "content cards"; column-gap: 100px !important; row-gap: 0 !important; align-items: start !important; }
+.hero-grid > h1 { grid-area: title; }
+.hero-grid > .hero-content { grid-area: content; }
+.hero-grid > .hero-cards { grid-area: cards; }
+.hero h1 { font-family: Montserrat, 'Inter', sans-serif; font-size: 40px; font-weight: 600; line-height: 52px; letter-spacing: 0; color: #fff; margin-bottom: 20px; }
+.hero h1 span { color: inherit; }
+.hero-more { font-size: 16px; line-height: 1.72; color: #fff; margin-bottom: 40px; }
+.hero-more summary { display: inline; cursor: pointer; list-style: none; color: #fff; }
+.hero-more summary::-webkit-details-marker { display: none; }
+.hero-more summary::marker { content: ''; }
+.hero-more .open-icon, .hero-more .close-icon { color: #fff; font-size: 16px; cursor: pointer; }
+.hero-more[open] summary .open-icon { display: none; }
+.hero-more .close-icon { display: none; margin-left: 8px; }
+.hero-more[open] .close-icon { display: inline; }
+.hero-more .hero-more-rest { color: #fff; }
+.hero-stats { display: grid !important; grid-template-columns: repeat(4, 1fr); gap: 40px; padding-top: 28px; border-top: 1px solid rgba(255,255,255,0.2); }
+.hero-stat { text-align: center; }
+.hero-stat .number { display: block; font-family: Montserrat, 'Inter', sans-serif; font-size: 30px; font-weight: 600; line-height: 39px; color: #1a8fc4; margin-bottom: 12px; }
+.hero-stat .label { display: block; font-size: 14px; font-weight: 500; line-height: 1.4; color: #fff; }
+.hero-image.hero-cards { display: flex; flex-direction: column; gap: 36px; text-align: left; margin-top: 2px; }
+.hero-card { display: flex; align-items: flex-start; gap: 24px; background: #2a5263; border: 1px solid #3c7086; border-radius: 20px; padding: 22px 22px 22px 35px; color: #fff; text-decoration: none; text-align: left; transition: border-color .2s; }
+.hero-card:hover { border-color: #1a8fc4; }
+.hero-card i { font-size: 30px; color: #1a8fc4; width: 40px; flex: 0 0 40px; text-align: center; margin-top: 4px; }
+.hero-card .hc-title { display: block; font-family: Montserrat, 'Inter', sans-serif; font-size: 20px; font-weight: 700; line-height: 1.5; color: #fff; }
+.hero-card .hc-text { display: block; font-size: 16px; line-height: 1.72; color: #fff; }
+.trusted-row { display: flex; align-items: center; gap: 40px; padding: 56px 0 50px; }
+.trusted-row .trusted-label { font-family: Montserrat, 'Inter', sans-serif; font-size: 24px; font-weight: 700; color: #fff; white-space: nowrap; margin: 0; flex: 0 0 auto; }
+.logo-carousel { flex: 1 1 auto; min-width: 0; overflow: hidden; }
+.logo-carousel-track { display: flex; width: max-content; animation: logo-scroll 20s linear infinite; }
+.logo-carousel-group { display: flex; flex-shrink: 0; align-items: center; }
+.logo-carousel-group img { height: 40px; width: auto; margin: 0 32px; }
+@keyframes logo-scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+@media (prefers-reduced-motion: reduce) { .logo-carousel-track { animation: none; } }
+.tab-nav { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; background: transparent; padding: 0; border-radius: 0; }
+.tab-nav button { background: #e6e6e6; color: #54595f; border: 0; border-radius: 10px; padding: 15px 35px; font-family: Montserrat, 'Inter', sans-serif; font-size: 13.33px; font-weight: 600; box-shadow: none; }
+.tab-nav button.active { background: #1a8fc4; color: #fff; box-shadow: none; }
+.tab-nav button:hover:not(.active) { background: #dcdcdc; color: #183947; }
+@media (max-width: 1024px) {
+  .hero-grid { grid-template-columns: 1fr !important; grid-template-areas: "title" "content"; }
+  .hero-image.hero-cards { display: none; }
+  .trusted-row { flex-direction: column; align-items: flex-start; gap: 24px; }
+  .logo-carousel { width: 100%; }
+}
+@media (max-width: 768px) {
+  .hero { padding: 40px 0 0 !important; }
+  .hero h1 { font-size: 30px; line-height: 39px; }
+  .hero-stats { grid-template-columns: 1fr 1fr; gap: 20px; }
+  .tab-nav { flex-wrap: nowrap; justify-content: flex-start; overflow-x: auto; }
+  .tab-nav button { padding: 12px 20px; white-space: nowrap; flex-shrink: 0; }
+}
+
 .trusted-strip { background: #183947; padding: 24px 0 30px; }
 .trusted-label { text-align: center; font-size: 16px; font-weight: 400; color: rgba(255, 255, 255, .78); margin: 0 0 16px; }
 .trusted-logos { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 22px 36px; }
@@ -1432,18 +1486,9 @@
 <section class="hero">
     <div class="container">
         <div class="hero-grid">
+            <h1>Buy Used Pusher Centrifuges <span>for Sale</span></h1>
             <div class="hero-content">
-                <h1>Buy Used Pusher Centrifuges <span>for Sale</span></h1>
-
-                <p class="intro-text">Buying used pusher centrifuges through International Process Plants (IPP) gives chemical, pharmaceutical, food and specialty manufacturers access to continuous filtering centrifuges from Krauss Maffei, Escher Wyss, Andritz, Siebtechnik and other OEM manufacturers. Basket diameters range from 281 mm (11.1 in) to 1,050 mm (41.9 in), with stainless steel and Hastelloy baskets in single-stage, two-stage and multi-stage designs. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980, and its second hand pusher centrifuges are ready to ship.</p>
-
-                <details class="intro-expand">
-                    <summary>
-                        <p><span class="truncated">IPP stocks good used and refurbished pusher centrifuges, the continuous design in which a reciprocating pusher plate...</span> <span class="arrow-expand">&#10132;</span></p>
-                    </summary>
-                    <p class="intro-rest">IPP stocks good used and refurbished pusher centrifuges, the continuous design in which a reciprocating pusher plate moves the filter cake along a rotating screen basket. Two-stage machines make up most of the inventory, with maximum speeds from 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP).</p>
-                    <p class="intro-rest">Each pusher centrifuge is listed on IPP's IMS inventory system with its basket diameter, number of basket stages, maximum speed, motor power and condition grade. Spare baskets, pusher shafts and screens are listed separately on IPP's <a href="/process-equipment/centrifuge/pusher-centrifuge-parts/">pusher centrifuge parts</a> page, and new custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.</p>
-                </details>
+                <details class="hero-more"><summary>Buying used pusher centrifuges through International Process Plants (IPP) gives chemical, pharmaceutical, food and specialty manufacturers access to continuous filtering centrifuges from Krauss Maffei, Escher Wyss, Andritz, Siebtechnik and other OEM manufacturers. Basket diameters range from 281 mm (11.1 in) to 1,050 mm (41.9 in), with stainless steel and Hastelloy baskets in single-stage, two-stage and multi-stage designs. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980, and its second hand pusher centrifuges are ready to ship. <span class="open-icon" aria-label="Read more">&#9654;</span></summary><span class="hero-more-rest"><br><br>IPP stocks good used and refurbished pusher centrifuges, the continuous design in which a reciprocating pusher plate moves the filter cake along a rotating screen basket. Two-stage machines make up most of the inventory, with maximum speeds from 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP).<br><br>Each pusher centrifuge is listed on IPP's IMS inventory system with its basket diameter, number of basket stages, maximum speed, motor power and condition grade. Spare baskets, pusher shafts and screens are listed separately on IPP's pusher centrifuge parts page, and new custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery. <span class="close-icon" role="button" tabindex="0" aria-label="Show less" onclick="this.closest('details').removeAttribute('open')">&#9650;</span></span></details>
 
                 <div class="hero-cta-group">
                     <a href="https://internationalprocessplants.com/contact/" class="btn-primary"><i class="fas fa-envelope"></i> Request a Quote</a>
@@ -1451,75 +1496,25 @@
                 </div>
 
                 <div class="hero-stats">
-                    <div class="hero-stat">
-                        <span class="number">7</span>
-                        <span class="label">OEM<br>Manufacturers</span>
-                    </div>
-                    <div class="hero-stat">
-                        <span class="number">3</span>
-                        <span class="label">Basket Stage<br>Designs</span>
-                    </div>
-                    <div class="hero-stat">
-                        <span class="number">1980</span>
-                        <span class="label">Established<br>Since</span>
-                    </div>
-                    <div class="hero-stat">
-                        <span class="number">15</span>
-                        <span class="label">Countries<br>with Offices</span>
-                    </div>
+                    <div class="hero-stat"><span class="number">7</span><span class="label">OEM<br>Manufacturers</span></div>
+                    <div class="hero-stat"><span class="number">3</span><span class="label">Basket Stage<br>Designs</span></div>
+                    <div class="hero-stat"><span class="number">1980</span><span class="label">Established<br>Since</span></div>
+                    <div class="hero-stat"><span class="number">15</span><span class="label">Countries<br>with Offices</span></div>
                 </div>
             </div>
 
-            <div class="hero-image" style="display: flex; flex-direction: column; gap: 16px;">
-                <a href="https://ims.internationalprocessplants.com/search?equipmenttype=pusher-centrifuge&attr-number-of-basket-stages=2" target="_blank" style="display: flex; align-items: center; gap: 16px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); border-radius: 14px; padding: 20px 24px; color: white; text-decoration: none; transition: all 0.3s ease;">
-                    <i class="fas fa-equals" style="font-size: 36px; color: var(--accent); width: 48px; text-align: center;"></i>
-                    <div>
-                        <div style="font-size: 17px; font-weight: 700;">Two-Stage Machines</div>
-                        <div style="font-size: 13px; color: rgba(255,255,255,0.6);">Inner and outer basket pusher centrifuges</div>
-                    </div>
-                    <i class="fas fa-arrow-right" style="margin-left: auto; color: var(--accent); font-size: 14px;"></i>
-                </a>
-                <a href="https://ims.internationalprocessplants.com/search?equipmenttype=pusher-centrifuge&material=Hastelloy%20-%20Other&material=Hastelloy%20-%20C276&material=Hastelloy%20-%20C22&material=Hastelloy%20-%20B" target="_blank" style="display: flex; align-items: center; gap: 16px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); border-radius: 14px; padding: 20px 24px; color: white; text-decoration: none; transition: all 0.3s ease;">
-                    <i class="fas fa-flask-vial" style="font-size: 36px; color: var(--accent); width: 48px; text-align: center;"></i>
-                    <div>
-                        <div style="font-size: 17px; font-weight: 700;">Hastelloy Baskets</div>
-                        <div style="font-size: 13px; color: rgba(255,255,255,0.6);">Escher Wyss P-3 units in Hastelloy</div>
-                    </div>
-                    <i class="fas fa-arrow-right" style="margin-left: auto; color: var(--accent); font-size: 14px;"></i>
-                </a>
-                <a href="https://ims.internationalprocessplants.com/search?equipmenttype=pusher-centrifuge&condition=Refurbished/Rebuilt" target="_blank" style="display: flex; align-items: center; gap: 16px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); border-radius: 14px; padding: 20px 24px; color: white; text-decoration: none; transition: all 0.3s ease;">
-                    <i class="fas fa-screwdriver-wrench" style="font-size: 36px; color: var(--accent); width: 48px; text-align: center;"></i>
-                    <div>
-                        <div style="font-size: 17px; font-weight: 700;">Refurbished Units</div>
-                        <div style="font-size: 13px; color: rgba(255,255,255,0.6);">Rebuilt Andritz, Escher Wyss and Krauss Maffei machines</div>
-                    </div>
-                    <i class="fas fa-arrow-right" style="margin-left: auto; color: var(--accent); font-size: 14px;"></i>
-                </a>
+            <div class="hero-image hero-cards">
+                <a class="hero-card" href="https://ims.internationalprocessplants.com/search?equipmenttype=pusher-centrifuge&attr-number-of-basket-stages=2" target="_blank"><i class="fas fa-equals"></i><span><span class="hc-title">Two-Stage Machines</span><span class="hc-text">Inner and outer basket pusher centrifuges</span></span></a>
+                <a class="hero-card" href="https://ims.internationalprocessplants.com/search?equipmenttype=pusher-centrifuge&material=Hastelloy%20-%20Other&material=Hastelloy%20-%20C276&material=Hastelloy%20-%20C22&material=Hastelloy%20-%20B" target="_blank"><i class="fas fa-flask-vial"></i><span><span class="hc-title">Hastelloy Baskets</span><span class="hc-text">Escher Wyss P-3 units in Hastelloy</span></span></a>
+                <a class="hero-card" href="https://ims.internationalprocessplants.com/search?equipmenttype=pusher-centrifuge&condition=Refurbished/Rebuilt" target="_blank"><i class="fas fa-screwdriver-wrench"></i><span><span class="hc-title">Refurbished Units</span><span class="hc-text">Rebuilt Andritz, Escher Wyss and Krauss Maffei machines</span></span></a>
             </div>
+        </div>
+        <div class="trusted-row">
+            <p class="trusted-label">Trusted around the world by</p>
+            <div class="logo-carousel"><div class="logo-carousel-track"><div class="logo-carousel-group"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/shell.png" alt="Shell" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/sanofi.png" alt="Sanofi" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lilly.png" alt="Lilly" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/pandg.png" alt="P&amp;G" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/exonnmobil.png" alt="ExxonMobil" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/chevron.png" alt="Chevron" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/DOW.png" alt="Dow" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lonza.png" alt="Lonza" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/cepsa.png" alt="Cepsa" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/air-products.png" alt="Air Products" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/CMS.png" alt="CMS" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/mosaic.png" alt="Mosaic" width="80" height="40" loading="lazy"></div><div class="logo-carousel-group" aria-hidden="true"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/shell.png" alt="" data-alt="Shell" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/sanofi.png" alt="" data-alt="Sanofi" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lilly.png" alt="" data-alt="Lilly" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/pandg.png" alt="" data-alt="P&amp;G" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/exonnmobil.png" alt="" data-alt="ExxonMobil" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/chevron.png" alt="" data-alt="Chevron" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/DOW.png" alt="" data-alt="Dow" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lonza.png" alt="" data-alt="Lonza" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/cepsa.png" alt="" data-alt="Cepsa" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/air-products.png" alt="" data-alt="Air Products" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/CMS.png" alt="" data-alt="CMS" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/mosaic.png" alt="" data-alt="Mosaic" width="80" height="40" loading="lazy"></div></div></div>
         </div>
     </div>
 </section>
-
-<!-- ===== TRUSTED BY (live layout) ===== -->
-<div class="trusted-strip">
-    <div class="container">
-        <p class="trusted-label">Trusted around the world by</p>
-        <div class="trusted-logos">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/shell.png" alt="Shell" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/sanofi.png" alt="Sanofi" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lilly.png" alt="Lilly" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/pandg.png" alt="P&amp;G" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/exonnmobil.png" alt="ExxonMobil" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/chevron.png" alt="Chevron" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/DOW.png" alt="Dow" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lonza.png" alt="Lonza" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/cepsa.png" alt="Cepsa" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/air-products.png" alt="Air Products" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/CMS.png" alt="CMS" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/mosaic.png" alt="Mosaic" width="80" height="40" loading="lazy">
-        </div>
-    </div>
-</div>
 
 <!-- ===== PRODUCT LISTING (IMS logic, live layout) ===== -->
 <section class="rf-wrap" style="padding: 48px 0;">
@@ -1601,9 +1596,9 @@
         </div>
 
         <div class="tab-nav" id="sizeTabs">
-            <button class="active" data-tab="size-small"><i class="fas fa-compress"></i> Up to 500 mm (19.7 in)</button>
-            <button data-tab="size-medium"><i class="fas fa-layer-group"></i> 686 to 800 mm (27 to 31.5 in)</button>
-            <button data-tab="size-large"><i class="fas fa-expand"></i> 1,000 mm (39.4 in) and Over</button>
+            <button class="active" data-tab="size-small">Up to 500 mm (19.7 in)</button>
+            <button data-tab="size-medium">686 to 800 mm (27 to 31.5 in)</button>
+            <button data-tab="size-large">1,000 mm (39.4 in) and Over</button>
         </div>
 
         <div class="tab-content active" id="size-small">
@@ -1840,7 +1835,7 @@
     <div class="container">
         <div class="section-header">
             <h2>Single-Stage vs <span>Two-Stage Pusher Centrifuges</span></h2>
-            <p>Single-stage and two-stage pusher centrifuges both push the filter cake along a rotating screen basket with a reciprocating pusher plate, and they differ in how many basket stages the cake crosses. Here is how the two designs compare across key factors, and IPP's <a href="https://internationalprocessplants.com/peeler-vs-pusher-centrifuge-differences-applications-selection/">peeler vs pusher guide</a> sets pushers against the batch alternative.</p>
+            <p>Single-stage and two-stage pusher centrifuges both push the filter cake along a rotating screen basket with a reciprocating pusher plate, and they differ in how many basket stages the cake crosses. Here is how the two designs compare across key factors.</p>
         </div>
 
         <table class="comparison-table">
@@ -1896,10 +1891,10 @@
         </div>
 
         <div class="tab-nav" id="manufacturerTabs">
-            <button class="active" data-tab="mfr-krauss-maffei"><i class="fas fa-industry"></i> Krauss Maffei</button>
-            <button data-tab="mfr-escher-wyss"><i class="fas fa-gears"></i> Escher Wyss</button>
-            <button data-tab="mfr-andritz"><i class="fas fa-cubes"></i> Andritz</button>
-            <button data-tab="mfr-siebtechnik"><i class="fas fa-bars-staggered"></i> Siebtechnik</button>
+            <button class="active" data-tab="mfr-krauss-maffei">Krauss Maffei</button>
+            <button data-tab="mfr-escher-wyss">Escher Wyss</button>
+            <button data-tab="mfr-andritz">Andritz</button>
+            <button data-tab="mfr-siebtechnik">Siebtechnik</button>
         </div>
 
         <div class="tab-content active" id="mfr-krauss-maffei">
@@ -2174,8 +2169,8 @@
         </div>
 
         <div class="tab-nav" id="conditionTabs">
-            <button class="active" data-tab="cond-used"><i class="fas fa-recycle"></i> Good Used</button>
-            <button data-tab="cond-refurbished"><i class="fas fa-screwdriver-wrench"></i> Refurbished</button>
+            <button class="active" data-tab="cond-used">Good Used</button>
+            <button data-tab="cond-refurbished">Refurbished</button>
         </div>
 
         <div class="tab-content active" id="cond-used">
@@ -2592,11 +2587,11 @@
             <div class="faq-tab-content" id="faq-materials">
                 <div class="faq-item">
                     <button class="faq-question">What basket materials are available? <i class="fas fa-chevron-down"></i></button>
-                    <div class="faq-answer">IPP's pusher centrifuges have baskets in stainless steel 316, 304, 317, austenitic and other stainless grades, and Hastelloy. Stainless steel 316 is the most common basket material in the inventory, and IPP's <a href="https://internationalprocessplants.com/centrifuge-materials-316-stainless-hastelloy-duplex/">centrifuge materials guide</a> compares 316 stainless steel, Hastelloy and duplex grades.</div>
+                    <div class="faq-answer">IPP's pusher centrifuges have baskets in stainless steel 316, 304, 317, austenitic and other stainless grades, and Hastelloy. Stainless steel 316 is the most common basket material in the inventory.</div>
                 </div>
                 <div class="faq-item">
                     <button class="faq-question">What basket sizes are available, and how do I find the right size? <i class="fas fa-chevron-down"></i></button>
-                    <div class="faq-answer">IPP's pusher centrifuges range from 281 mm (11.1 in) to 1,050 mm (41.9 in) basket diameter, with maximum speeds of 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP). Share your throughput, feed concentration and number of stages with IPP, and the team will match units in stock to your requirements. IPP's <a href="https://internationalprocessplants.com/centrifuge-sizing-guide-for-your-application/">centrifuge sizing guide</a> explains how basket size relates to throughput.</div>
+                    <div class="faq-answer">IPP's pusher centrifuges range from 281 mm (11.1 in) to 1,050 mm (41.9 in) basket diameter, with maximum speeds of 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP). Share your throughput, feed concentration and number of stages with IPP, and the team will match units in stock to your requirements.</div>
                 </div>
                 <div class="faq-item">
                     <button class="faq-question">Are gas-tight pusher centrifuges available? <i class="fas fa-chevron-down"></i></button>

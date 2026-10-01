@@ -1,22 +1,8 @@
 # Buy Used Peeler Centrifuges for Sale
 
-Buying used peeler centrifuges through International Process Plants (IPP) gives chemical, pharmaceutical, food and specialty manufacturers access to batch filtering centrifuges from Krauss Maffei, Alfa Laval, Escher Wyss, Luwa-Heine, Ellerwerk and other OEM manufacturers. Basket diameters range from 630 mm (24.8 in) to 1,600 mm (63 in), with baskets in stainless steel, titanium, Hastelloy and rubber-lined construction. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980, and its second hand peeler centrifuge machines are ready to buy and ship.
-
-IPP stocks good used, refurbished and unused surplus peeler centrifuges, the batch design in which a knife peels the filter cake from a rotating basket. The inventory includes Krauss Maffei HZ siphon models, basket depths from 300 mm (11.8 in) to 813 mm (32 in) and maximum speeds from 750 to 2,400 rpm.
-
-Each peeler centrifuge is listed on IPP's IMS inventory system with its basket diameter, basket depth, maximum speed, load weight and condition grade. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
-
 [Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/search/equipment/peeler-centrifuge)
 
 **Quick Stats:** 10+ OEM Manufacturers | 4 Basket Material Groups | 1980 Established Since | 15 Countries with Offices
-
-**Featured Equipment:**
-- [Stainless Steel Baskets -- SS 316, 316L, 904 and austenitic baskets](https://ims.internationalprocessplants.com/search?equipmenttype=peeler-centrifuge&material=Stainless%20Steel%20316&material=Stainless%20Steel%20316L&material=Stainless%20Steel%20Austenitic&material=Stainless%20Steel%20904&material=Stainless%20Steel%20304&material=Stainless%20Steel%20Other)
-- [Titanium & Hastelloy Units -- Titanium and nickel alloy baskets](https://ims.internationalprocessplants.com/search?equipmenttype=peeler-centrifuge&material=Titanium&material=Hastelloy%20-%20C22&material=Hastelloy%20-%20B&material=Hastelloy%20-%20Other&material=Hastelloy%20-%20C276)
-- [Refurbished & Unused Units -- Rebuilt and unused surplus peeler centrifuges](https://ims.internationalprocessplants.com/search?equipmenttype=peeler-centrifuge&condition=Refurbished/Rebuilt&condition=Unused)
-
-
-Trusted around the world by
 
 
 ---
@@ -185,7 +171,7 @@ Good used Escher Wyss H160 peeler centrifuge with a Rubber-lined basket, 1,600 m
 
 ## Peeler vs Pusher Centrifuges
 
-Peeler and pusher centrifuges both separate solids from liquids in a rotating basket through a filter medium, and they differ in how the cycle runs and how the cake leaves the basket. Here is how the two designs compare across key factors, and IPP's [peeler vs pusher centrifuge guide](https://internationalprocessplants.com/peeler-vs-pusher-centrifuge-differences-applications-selection/) covers the differences in more depth.
+Peeler and pusher centrifuges both separate solids from liquids in a rotating basket through a filter medium, and they differ in how the cycle runs and how the cake leaves the basket. Here is how the two designs compare across key factors.
 
 | Factor | Peeler Centrifuge | Pusher Centrifuge |
 |-----|-----|-----|
@@ -701,7 +687,7 @@ A: Yes. IPP's peeler centrifuge inventory includes unused surplus stock alongsid
 A: In-stock peeler centrifuges are ready to ship. IPP coordinates packaging, crating, freight and delivery to your plant site from offices in 15 countries. Contact IPP for shipping details on a specific unit.
 
 **Q: How does a peeler centrifuge work?**
-A: A peeler centrifuge works on the principle of batch filtration in a rotating perforated basket. Slurry fills the basket, centrifugal force drives the liquid through the filter cloth, and the solids build a cake on the basket wall. The cake is washed and spun dry, then the basket slows to peeling speed and a peeler knife cuts the cake away so the solids drop through a discharge chute. A thin residual heel usually stays on the filter cloth for the next cycle, and IPP's [step-by-step guide](https://internationalprocessplants.com/what-is-a-peeler-centrifuge/) covers each stage in detail.
+A: A peeler centrifuge works on the principle of batch filtration in a rotating perforated basket. Slurry fills the basket, centrifugal force drives the liquid through the filter cloth, and the solids build a cake on the basket wall. The cake is washed and spun dry, then the basket slows to peeling speed and a peeler knife cuts the cake away so the solids drop through a discharge chute. A thin residual heel usually stays on the filter cloth for the next cycle.
 
 **Q: What is the difference between horizontal and vertical peeler centrifuges?**
 A: The two designs differ in the axis of the rotating basket. A horizontal unit turns its basket on a horizontal axis and guides the peeled cake out through a side discharge chute, while a vertical peeler centrifuge turns on a vertical axis and drops the peeled solids through a bottom discharge, which can call for a speed reduction during peeling. Both designs run the same fill, spin, wash, dry-spin and peel cycle, and the Krauss Maffei HZ units in IPP's inventory are horizontal machines.
@@ -713,10 +699,10 @@ A: In a siphon peeler centrifuge, the basket has a solid outer shell and the fil
 A: IPP carries peeler centrifuges from Krauss Maffei, Alfa Laval, Escher Wyss, Luwa-Heine, Ellerwerk, GFT Trenntechnik, SMS Buss, Reineveld, Ferrum, Robatel and ZVU. Krauss Maffei holds the deepest position, with HZ models from 630 mm (24.8 in) to 1,600 mm (63 in).
 
 **Q: What basket materials are available?**
-A: IPP's peeler centrifuges have baskets in stainless steel 316, 316L, 904 and austenitic stainless steel, titanium, Hastelloy C-22, Hastelloy B and rubber-lined construction. Stainless steel 316 is the most common basket material in the inventory, followed by titanium, and IPP's [centrifuge materials guide](https://internationalprocessplants.com/centrifuge-materials-316-stainless-hastelloy-duplex/) compares 316 stainless steel, Hastelloy and duplex grades.
+A: IPP's peeler centrifuges have baskets in stainless steel 316, 316L, 904 and austenitic stainless steel, titanium, Hastelloy C-22, Hastelloy B and rubber-lined construction. Stainless steel 316 is the most common basket material in the inventory, followed by titanium.
 
 **Q: What basket sizes are available, and how do I find the right size?**
-A: IPP's peeler centrifuges range from 630 mm (24.8 in) to 1,600 mm (63 in) basket diameter, with basket depths of 300 mm (11.8 in) to 813 mm (32 in) and load weights of 50 kg (110.2 lb) to 952 kg (2,100 lb). Share your batch size, solids loading and target cycle time with IPP, and the team will match units in stock to your requirements. IPP's [centrifuge sizing guide](https://internationalprocessplants.com/centrifuge-sizing-guide-for-your-application/) explains how basket size relates to throughput.
+A: IPP's peeler centrifuges range from 630 mm (24.8 in) to 1,600 mm (63 in) basket diameter, with basket depths of 300 mm (11.8 in) to 813 mm (32 in) and load weights of 50 kg (110.2 lb) to 952 kg (2,100 lb). Share your batch size, solids loading and target cycle time with IPP, and the team will match units in stock to your requirements.
 
 **Q: Are gas-tight and sanitary peeler centrifuges available?**
 A: Yes. IMS lists the Krauss Maffei HZ630 PH as gas tight, and the Ferrum HSZ-PHR 1250/600 and a Krauss Maffei HZ 125/3.2 SI D with sanitary construction. Cake washing and plow action are the most common features recorded across the inventory, and each listing states the features that apply.

@@ -204,7 +204,7 @@
           "name": "What speeds and capacities are available?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Carr Centritech units run to 1,200 rpm and 320 G with a 6 to 120 L/hr capacity, and the Sharples Type 1P runs to 50,000 rpm and 62,000 G with a 350 g (12.3 oz) maximum load. The beaker centrifuge has a 191 mm (7.5 in) diameter, 76 mm (3 in) deep chamber for two 38 mm (1.5 in) cone-bottom beakers, and IPP's G-force and rpm guide explains how speed relates to separation force."
+            "text": "The Carr Centritech units run to 1,200 rpm and 320 G with a 6 to 120 L/hr capacity, and the Sharples Type 1P runs to 50,000 rpm and 62,000 G with a 350 g (12.3 oz) maximum load. The beaker centrifuge has a 191 mm (7.5 in) diameter, 76 mm (3 in) deep chamber for two 38 mm (1.5 in) cone-bottom beakers."
           }
         },
         {
@@ -1336,6 +1336,60 @@
 .rf .see-more .btn.is-loading::before { content: ""; width: 14px; height: 14px; flex: 0 0 14px; border-radius: 50%; border: 2px solid rgba(255, 255, 255, 0.35); border-top-color: #fff; display: inline-block; animation: 0.7s linear 0s infinite normal none running rf-spin; }
 @keyframes rf-spin { to { transform: rotate(360deg); } }
 
+/* ===== Live WordPress hero, logo strip and tabs (reactor hub, measured 2026-10-02) ===== */
+.hero { background: #183947 !important; background-image: none !important; padding: 64px 0 0 !important; }
+.hero::before { display: none !important; }
+.hero-grid { display: grid !important; grid-template-columns: 1fr 1fr !important; grid-template-areas: "title ." "content cards"; column-gap: 100px !important; row-gap: 0 !important; align-items: start !important; }
+.hero-grid > h1 { grid-area: title; }
+.hero-grid > .hero-content { grid-area: content; }
+.hero-grid > .hero-cards { grid-area: cards; }
+.hero h1 { font-family: Montserrat, 'Inter', sans-serif; font-size: 40px; font-weight: 600; line-height: 52px; letter-spacing: 0; color: #fff; margin-bottom: 20px; }
+.hero h1 span { color: inherit; }
+.hero-more { font-size: 16px; line-height: 1.72; color: #fff; margin-bottom: 40px; }
+.hero-more summary { display: inline; cursor: pointer; list-style: none; color: #fff; }
+.hero-more summary::-webkit-details-marker { display: none; }
+.hero-more summary::marker { content: ''; }
+.hero-more .open-icon, .hero-more .close-icon { color: #fff; font-size: 16px; cursor: pointer; }
+.hero-more[open] summary .open-icon { display: none; }
+.hero-more .close-icon { display: none; margin-left: 8px; }
+.hero-more[open] .close-icon { display: inline; }
+.hero-more .hero-more-rest { color: #fff; }
+.hero-stats { display: grid !important; grid-template-columns: repeat(4, 1fr); gap: 40px; padding-top: 28px; border-top: 1px solid rgba(255,255,255,0.2); }
+.hero-stat { text-align: center; }
+.hero-stat .number { display: block; font-family: Montserrat, 'Inter', sans-serif; font-size: 30px; font-weight: 600; line-height: 39px; color: #1a8fc4; margin-bottom: 12px; }
+.hero-stat .label { display: block; font-size: 14px; font-weight: 500; line-height: 1.4; color: #fff; }
+.hero-image.hero-cards { display: flex; flex-direction: column; gap: 36px; text-align: left; margin-top: 2px; }
+.hero-card { display: flex; align-items: flex-start; gap: 24px; background: #2a5263; border: 1px solid #3c7086; border-radius: 20px; padding: 22px 22px 22px 35px; color: #fff; text-decoration: none; text-align: left; transition: border-color .2s; }
+.hero-card:hover { border-color: #1a8fc4; }
+.hero-card i { font-size: 30px; color: #1a8fc4; width: 40px; flex: 0 0 40px; text-align: center; margin-top: 4px; }
+.hero-card .hc-title { display: block; font-family: Montserrat, 'Inter', sans-serif; font-size: 20px; font-weight: 700; line-height: 1.5; color: #fff; }
+.hero-card .hc-text { display: block; font-size: 16px; line-height: 1.72; color: #fff; }
+.trusted-row { display: flex; align-items: center; gap: 40px; padding: 56px 0 50px; }
+.trusted-row .trusted-label { font-family: Montserrat, 'Inter', sans-serif; font-size: 24px; font-weight: 700; color: #fff; white-space: nowrap; margin: 0; flex: 0 0 auto; }
+.logo-carousel { flex: 1 1 auto; min-width: 0; overflow: hidden; }
+.logo-carousel-track { display: flex; width: max-content; animation: logo-scroll 20s linear infinite; }
+.logo-carousel-group { display: flex; flex-shrink: 0; align-items: center; }
+.logo-carousel-group img { height: 40px; width: auto; margin: 0 32px; }
+@keyframes logo-scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+@media (prefers-reduced-motion: reduce) { .logo-carousel-track { animation: none; } }
+.tab-nav { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; background: transparent; padding: 0; border-radius: 0; }
+.tab-nav button { background: #e6e6e6; color: #54595f; border: 0; border-radius: 10px; padding: 15px 35px; font-family: Montserrat, 'Inter', sans-serif; font-size: 13.33px; font-weight: 600; box-shadow: none; }
+.tab-nav button.active { background: #1a8fc4; color: #fff; box-shadow: none; }
+.tab-nav button:hover:not(.active) { background: #dcdcdc; color: #183947; }
+@media (max-width: 1024px) {
+  .hero-grid { grid-template-columns: 1fr !important; grid-template-areas: "title" "content"; }
+  .hero-image.hero-cards { display: none; }
+  .trusted-row { flex-direction: column; align-items: flex-start; gap: 24px; }
+  .logo-carousel { width: 100%; }
+}
+@media (max-width: 768px) {
+  .hero { padding: 40px 0 0 !important; }
+  .hero h1 { font-size: 30px; line-height: 39px; }
+  .hero-stats { grid-template-columns: 1fr 1fr; gap: 20px; }
+  .tab-nav { flex-wrap: nowrap; justify-content: flex-start; overflow-x: auto; }
+  .tab-nav button { padding: 12px 20px; white-space: nowrap; flex-shrink: 0; }
+}
+
 .trusted-strip { background: #183947; padding: 24px 0 30px; }
 .trusted-label { text-align: center; font-size: 16px; font-weight: 400; color: rgba(255, 255, 255, .78); margin: 0 0 16px; }
 .trusted-logos { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 22px 36px; }
@@ -1368,18 +1422,9 @@
 <section class="hero">
     <div class="container">
         <div class="hero-grid">
+            <h1>Buy Used Lab Centrifuges <span>for Sale</span></h1>
             <div class="hero-content">
-                <h1>Buy Used Lab Centrifuges <span>for Sale</span></h1>
-
-                <p class="intro-text">Buying used lab centrifuges through International Process Plants (IPP) gives process development, pilot plant and laboratory teams access to lab-scale centrifuges for separation work beyond the benchtop: Carr Centritech Centritec Cell 8 single-use flow centrifuges, a Sharples Type 1P laboratory super centrifuge and a beaker centrifuge. Speeds reach 50,000 rpm and 62,000 G on the Sharples unit. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.</p>
-
-                <details class="intro-expand">
-                    <summary>
-                        <p><span class="truncated">IPP's lab centrifuges are good used units in stainless steel 316L and 316, plus a carbon steel beaker centrifuge. The...</span> <span class="arrow-expand">&#10132;</span></p>
-                    </summary>
-                    <p class="intro-rest">IPP's lab centrifuges are good used units in stainless steel 316L and 316, plus a carbon steel beaker centrifuge. The Carr Centritech units carry heating, refrigeration, a 2 to 150 °C (36 to 302 °F) temperature control range and programmable HMI controls, and the Sharples Type 1P runs on an air or steam turbine drive. Each used lab centrifuge for sale here is ready to ship.</p>
-                    <p class="intro-rest">Each lab centrifuge is listed on IPP's IMS inventory system with its type, maximum speed, maximum G force, capacity and condition grade. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.</p>
-                </details>
+                <details class="hero-more"><summary>Buying used lab centrifuges through International Process Plants (IPP) gives process development, pilot plant and laboratory teams access to lab-scale centrifuges for separation work beyond the benchtop: Carr Centritech Centritec Cell 8 single-use flow centrifuges, a Sharples Type 1P laboratory super centrifuge and a beaker centrifuge. Speeds reach 50,000 rpm and 62,000 G on the Sharples unit. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980. <span class="open-icon" aria-label="Read more">&#9654;</span></summary><span class="hero-more-rest"><br><br>IPP's lab centrifuges are good used units in stainless steel 316L and 316, plus a carbon steel beaker centrifuge. The Carr Centritech units carry heating, refrigeration, a 2 to 150 °C (36 to 302 °F) temperature control range and programmable HMI controls, and the Sharples Type 1P runs on an air or steam turbine drive. Each used lab centrifuge for sale here is ready to ship.<br><br>Each lab centrifuge is listed on IPP's IMS inventory system with its type, maximum speed, maximum G force, capacity and condition grade. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery. <span class="close-icon" role="button" tabindex="0" aria-label="Show less" onclick="this.closest('details').removeAttribute('open')">&#9650;</span></span></details>
 
                 <div class="hero-cta-group">
                     <a href="https://internationalprocessplants.com/contact/" class="btn-primary"><i class="fas fa-envelope"></i> Request a Quote</a>
@@ -1387,75 +1432,25 @@
                 </div>
 
                 <div class="hero-stats">
-                    <div class="hero-stat">
-                        <span class="number">50,000</span>
-                        <span class="label">Maximum<br>rpm</span>
-                    </div>
-                    <div class="hero-stat">
-                        <span class="number">3</span>
-                        <span class="label">Lab Centrifuge<br>Types</span>
-                    </div>
-                    <div class="hero-stat">
-                        <span class="number">1980</span>
-                        <span class="label">Established<br>Since</span>
-                    </div>
-                    <div class="hero-stat">
-                        <span class="number">15</span>
-                        <span class="label">Countries<br>with Offices</span>
-                    </div>
+                    <div class="hero-stat"><span class="number">50,000</span><span class="label">Maximum<br>rpm</span></div>
+                    <div class="hero-stat"><span class="number">3</span><span class="label">Lab Centrifuge<br>Types</span></div>
+                    <div class="hero-stat"><span class="number">1980</span><span class="label">Established<br>Since</span></div>
+                    <div class="hero-stat"><span class="number">15</span><span class="label">Countries<br>with Offices</span></div>
                 </div>
             </div>
 
-            <div class="hero-image" style="display: flex; flex-direction: column; gap: 16px;">
-                <a href="https://ims.internationalprocessplants.com/search?equipmenttype=lab-centrifuge&attr-lab-centrifuge-type=Micro" target="_blank" style="display: flex; align-items: center; gap: 16px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); border-radius: 14px; padding: 20px 24px; color: white; text-decoration: none; transition: all 0.3s ease;">
-                    <i class="fas fa-arrows-spin" style="font-size: 36px; color: var(--accent); width: 48px; text-align: center;"></i>
-                    <div>
-                        <div style="font-size: 17px; font-weight: 700;">Single-Use Flow Centrifuges</div>
-                        <div style="font-size: 13px; color: rgba(255,255,255,0.6);">Carr Centritech Centritec Cell 8 units</div>
-                    </div>
-                    <i class="fas fa-arrow-right" style="margin-left: auto; color: var(--accent); font-size: 14px;"></i>
-                </a>
-                <a href="https://ims.internationalprocessplants.com/search?equipmenttype=lab-centrifuge&attr-lab-centrifuge-type=Ultra%20Centrifuge" target="_blank" style="display: flex; align-items: center; gap: 16px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); border-radius: 14px; padding: 20px 24px; color: white; text-decoration: none; transition: all 0.3s ease;">
-                    <i class="fas fa-gauge-high" style="font-size: 36px; color: var(--accent); width: 48px; text-align: center;"></i>
-                    <div>
-                        <div style="font-size: 17px; font-weight: 700;">Laboratory Super Centrifuge</div>
-                        <div style="font-size: 13px; color: rgba(255,255,255,0.6);">Sharples Type 1P, 50,000 rpm</div>
-                    </div>
-                    <i class="fas fa-arrow-right" style="margin-left: auto; color: var(--accent); font-size: 14px;"></i>
-                </a>
-                <a href="https://ims.internationalprocessplants.com/inventory/search/equipment/lab-centrifuge" target="_blank" style="display: flex; align-items: center; gap: 16px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); border-radius: 14px; padding: 20px 24px; color: white; text-decoration: none; transition: all 0.3s ease;">
-                    <i class="fas fa-search" style="font-size: 36px; color: var(--accent); width: 48px; text-align: center;"></i>
-                    <div>
-                        <div style="font-size: 17px; font-weight: 700;">All Lab Centrifuges</div>
-                        <div style="font-size: 13px; color: rgba(255,255,255,0.6);">The full IMS lab centrifuge category</div>
-                    </div>
-                    <i class="fas fa-arrow-right" style="margin-left: auto; color: var(--accent); font-size: 14px;"></i>
-                </a>
+            <div class="hero-image hero-cards">
+                <a class="hero-card" href="https://ims.internationalprocessplants.com/search?equipmenttype=lab-centrifuge&attr-lab-centrifuge-type=Micro" target="_blank"><i class="fas fa-arrows-spin"></i><span><span class="hc-title">Single-Use Flow Centrifuges</span><span class="hc-text">Carr Centritech Centritec Cell 8 units</span></span></a>
+                <a class="hero-card" href="https://ims.internationalprocessplants.com/search?equipmenttype=lab-centrifuge&attr-lab-centrifuge-type=Ultra%20Centrifuge" target="_blank"><i class="fas fa-gauge-high"></i><span><span class="hc-title">Laboratory Super Centrifuge</span><span class="hc-text">Sharples Type 1P, 50,000 rpm</span></span></a>
+                <a class="hero-card" href="https://ims.internationalprocessplants.com/inventory/search/equipment/lab-centrifuge" target="_blank"><i class="fas fa-search"></i><span><span class="hc-title">All Lab Centrifuges</span><span class="hc-text">The full IMS lab centrifuge category</span></span></a>
             </div>
+        </div>
+        <div class="trusted-row">
+            <p class="trusted-label">Trusted around the world by</p>
+            <div class="logo-carousel"><div class="logo-carousel-track"><div class="logo-carousel-group"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/shell.png" alt="Shell" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/sanofi.png" alt="Sanofi" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lilly.png" alt="Lilly" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/pandg.png" alt="P&amp;G" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/exonnmobil.png" alt="ExxonMobil" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/chevron.png" alt="Chevron" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/DOW.png" alt="Dow" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lonza.png" alt="Lonza" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/cepsa.png" alt="Cepsa" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/air-products.png" alt="Air Products" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/CMS.png" alt="CMS" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/mosaic.png" alt="Mosaic" width="80" height="40" loading="lazy"></div><div class="logo-carousel-group" aria-hidden="true"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/shell.png" alt="" data-alt="Shell" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/sanofi.png" alt="" data-alt="Sanofi" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lilly.png" alt="" data-alt="Lilly" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/pandg.png" alt="" data-alt="P&amp;G" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/exonnmobil.png" alt="" data-alt="ExxonMobil" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/chevron.png" alt="" data-alt="Chevron" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/DOW.png" alt="" data-alt="Dow" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lonza.png" alt="" data-alt="Lonza" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/cepsa.png" alt="" data-alt="Cepsa" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/air-products.png" alt="" data-alt="Air Products" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/CMS.png" alt="" data-alt="CMS" width="80" height="40" loading="lazy"><img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/mosaic.png" alt="" data-alt="Mosaic" width="80" height="40" loading="lazy"></div></div></div>
         </div>
     </div>
 </section>
-
-<!-- ===== TRUSTED BY (live layout) ===== -->
-<div class="trusted-strip">
-    <div class="container">
-        <p class="trusted-label">Trusted around the world by</p>
-        <div class="trusted-logos">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/shell.png" alt="Shell" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/sanofi.png" alt="Sanofi" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lilly.png" alt="Lilly" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/pandg.png" alt="P&amp;G" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/exonnmobil.png" alt="ExxonMobil" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/chevron.png" alt="Chevron" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/DOW.png" alt="Dow" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/lonza.png" alt="Lonza" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/cepsa.png" alt="Cepsa" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/air-products.png" alt="Air Products" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/CMS.png" alt="CMS" width="80" height="40" loading="lazy">
-            <img src="https://internationalprocessplants.com/wp-content/uploads/2025/04/mosaic.png" alt="Mosaic" width="80" height="40" loading="lazy">
-        </div>
-    </div>
-</div>
 
 <!-- ===== PRODUCT LISTING (IMS logic, live layout) ===== -->
 <section class="rf-wrap" style="padding: 48px 0;">
@@ -1559,12 +1554,12 @@
     <div class="container">
         <div class="section-header">
             <h2>Buy Used Lab Centrifuges for Sale <span>by Manufacturer</span></h2>
-            <p>Carr Centritech and Sharples are the named manufacturers in IPP's lab centrifuge inventory, and larger Sharples tubular bowl units are listed on IPP's <a href="/process-equipment/centrifuge/misc-and-hydraulic-centrifuge/">tubular and Podbielniak centrifuge</a> page.</p>
+            <p>Carr Centritech and Sharples are the named manufacturers in IPP's lab centrifuge inventory, and larger Sharples tubular bowl units are listed on IPP's tubular and Podbielniak centrifuge page.</p>
         </div>
 
         <div class="tab-nav" id="manufacturerTabs">
-            <button class="active" data-tab="mfr-carr-centritech"><i class="fas fa-industry"></i> Carr Centritech</button>
-            <button data-tab="mfr-sharples"><i class="fas fa-gears"></i> Sharples</button>
+            <button class="active" data-tab="mfr-carr-centritech">Carr Centritech</button>
+            <button data-tab="mfr-sharples">Sharples</button>
         </div>
 
         <div class="tab-content active" id="mfr-carr-centritech">
@@ -1904,7 +1899,7 @@
             <div class="faq-tab-content" id="faq-specs">
                 <div class="faq-item">
                     <button class="faq-question">What speeds and capacities are available? <i class="fas fa-chevron-down"></i></button>
-                    <div class="faq-answer">The Carr Centritech units run to 1,200 rpm and 320 G with a 6 to 120 L/hr capacity, and the Sharples Type 1P runs to 50,000 rpm and 62,000 G with a 350 g (12.3 oz) maximum load. The beaker centrifuge has a 191 mm (7.5 in) diameter, 76 mm (3 in) deep chamber for two 38 mm (1.5 in) cone-bottom beakers, and IPP's <a href="https://internationalprocessplants.com/g-force-rpm-centrifuge-size-performance/">G-force and rpm guide</a> explains how speed relates to separation force.</div>
+                    <div class="faq-answer">The Carr Centritech units run to 1,200 rpm and 320 G with a 6 to 120 L/hr capacity, and the Sharples Type 1P runs to 50,000 rpm and 62,000 G with a 350 g (12.3 oz) maximum load. The beaker centrifuge has a 191 mm (7.5 in) diameter, 76 mm (3 in) deep chamber for two 38 mm (1.5 in) cone-bottom beakers.</div>
                 </div>
                 <div class="faq-item">
                     <button class="faq-question">Which manufacturers' lab centrifuges does IPP carry? <i class="fas fa-chevron-down"></i></button>
