@@ -1,0 +1,40 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/spherical-dryer",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/spherical-dryer",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used spherical dryers for sale: precision vacuum drying for high-purity and solvent-based materials",
+ "items_found": 3,
+ "items_this_category": 3,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "233216",
+   0,
+   1,
+   "Stainless Steel 316L Rosenmund AG CH-4410 Liestal, # RKT-2000-109-98 Dryer-Spherical"
+  ],
+  [
+   2,
+   "233215",
+   0,
+   1,
+   "Stainless Steel 316L Rosenmund AG CH-4410 Liestal, # RKT-2000-109-97 Dryer-Spherical"
+  ],
+  [
+   3,
+   "233214",
+   0,
+   1,
+   "Stainless Steel 316L Pierre Guerin Turbosphere TS200 Dryer-Spherical"
+  ]
+ ]
+}

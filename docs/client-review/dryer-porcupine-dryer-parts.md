@@ -1,8 +1,8 @@
 # Buy Used Porcupine Dryer Parts for Sale
 
-Buying porcupine dryer parts through International Process Plants (IPP) matches plant engineering teams running Porcupine Processors with spare troughs and a new agitator shaft and flights set from Gale Process Solutions (GPS), IPP's subsidiary and the home of the legacy Bethlehem Corporation line. Trough diameters run from 457.2 mm (18 in) to 1,350 mm (54 in), in stainless steel 316 and 321, with the shaft set in carbon steel. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
+Buying good used, unused, and new porcupine dryer parts from International Process Plants (IPP) matches troughs, agitator shafts, and flight sets to Gale and Bethlehem Porcupine Processors while shrinking issues like trough fabrication lead times and new-part pricing. Every part carries the Gale Process Solutions (GPS) name, IPP's subsidiary and the home of the legacy Bethlehem Corporation line. Trough diameters run from 457.2 mm (18 in) to 1,350 mm (54 in), in stainless steel 316 and 321, with the shaft set in carbon steel. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
 
-Spare troughs lead the parts inventory: a good used 1P1810JTB batch trough in stainless steel 316, an unused 1P3016JTC continuous trough in stainless steel 321, and a good used 5416 twin-shaft trough in stainless steel 316. A new carbon steel shaft, flights, blades and oil-diversion inserts for a 1,350 mm (54 in) processor complete the listings, and each porcupine dryer part for sale here is ready to ship.
+Spare troughs lead the parts inventory: a good used 1P1810JTB batch trough in stainless steel 316, an unused 1P3016JTC continuous trough in stainless steel 321, and a good used 5416 twin-shaft trough in stainless steel 316. A new carbon steel shaft, flights, blades and oil-diversion inserts for a 1,350 mm (54 in) processor complete the listings, and each porcupine dryer part for sale here ships without a build wait.
 
 IPP's IMS inventory system describes each part by model, diameter, length, material and condition grade, with jacket ratings where recorded. New Porcupine Processors are available through GPS, which acquired the technology originally developed by the Bethlehem Corporation of Easton, Pennsylvania, and complete porcupine dryers are listed on IPP's porcupine dryer page.
 
@@ -127,7 +127,7 @@ Parts run from 457.2 mm (18 in) and 762 mm (30 in) troughs to a 1,350 mm (54 in)
 IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom and United States. IPP has served 160,000+ customers worldwide.
 
 ### Good Used, Unused & New Options
-Porcupine dryer parts come in good used, unused surplus and new condition, and each IMS listing states its grade beside the part description.
+Porcupine dryer parts come in good used, unused surplus and new condition, and IMS prints the grade beside each part description.
 
 
 ---
@@ -200,7 +200,7 @@ A: IPP's porcupine dryer parts are spare troughs for 457.2 mm (18 in), 762 mm (3
 A: Buying used porcupine dryer parts from IPP can save up to 50% of capital and 90% of lead time versus buying new. Each part is quoted on request, since the price depends on the part type, its size and its condition. Contact IPP for pricing on specific parts.
 
 **Q: Does IPP have new or unused porcupine dryer parts?**
-A: Yes. IPP's inventory includes an unused 1P3016JTC continuous trough in stainless steel 321 and a new carbon steel shaft and flights set for a 1,350 mm (54 in) processor. New Porcupine Processors are available through IPP's Gale Process Solutions (GPS) subsidiary in batch or continuous configurations, with or without vacuum capability.
+A: Yes. IPP's stock pairs an unused 1P3016JTC continuous trough in stainless steel 321 with a new carbon steel shaft and flights set for a 1,350 mm (54 in) processor. New Porcupine Processors are available through IPP's Gale Process Solutions (GPS) subsidiary in batch or continuous configurations, with or without vacuum capability.
 
 **Q: How long does it take to receive porcupine dryer parts from IPP?**
 A: In-stock porcupine dryer parts are ready to ship, and IPP arranges crating, freight and delivery to your plant site from offices in 15 countries. Contact IPP for shipping details on a specific part.

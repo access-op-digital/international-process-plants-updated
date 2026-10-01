@@ -1,8 +1,8 @@
 # Buy Used Industrial Flash Dryers for Sale
 
-Buying used industrial flash dryers through International Process Plants (IPP) delivers continuous flash drying systems from APV Anhydro, Aljet, Hosokawa Alpine and AKSH Engineering to chemical, pharmaceutical, food and specialty manufacturers. Product feed rates run from 309 kg/h (681 lb/h) to 1,050 kg/h (2,350 lb/h), with stainless steel construction on the APV Anhydro, Hosokawa Alpine and AKSH Engineering units. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
+Buying good used industrial flash dryers from International Process Plants (IPP) offers rapid moisture removal, continuous powder output, and integrated particle classification while averting issues like long system build times and high project costs. Chemical, pharmaceutical, food and specialty manufacturers select from continuous flash drying systems by APV Anhydro, Aljet, Hosokawa Alpine and AKSH Engineering. Product feed rates run from 309 kg/h (681 lb/h) to 1,050 kg/h (2,350 lb/h), with stainless steel construction on the APV Anhydro, Hosokawa Alpine and AKSH Engineering units. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
 
-The flash dryer inventory pairs an APV Anhydro spin flash dryer and a gas-fired AKSH Engineering system with two classifier designs: an Aljet flash dryer with an integral classifier and cyclone collector, and a Hosokawa Alpine pulverizer, dryer and classifier. In every design, a high-velocity stream of hot air disperses the wet solids and carries them through the dryer while the moisture evaporates, and each used flash dryer for sale here is ready to ship.
+The flash dryer inventory pairs an APV Anhydro spin flash dryer and a gas-fired AKSH Engineering system with two classifier designs: an Aljet flash dryer with an integral classifier and cyclone collector, and a Hosokawa Alpine pulverizer, dryer and classifier. In every design, a high-velocity stream of hot air disperses the wet solids and carries them through the dryer while the moisture evaporates, and every used flash dryer for sale ships from stock.
 
 For each unit, IPP's IMS inventory system reports the product feed rate, air flow, outlet moisture and heating type where recorded, plus the condition grade. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
 
@@ -32,7 +32,7 @@ Dryer design separates this inventory into three groups: a spin flash dryer, fla
 
 ## Flash Dryers vs Spray Dryers
 
-Flash dryers and spray dryers both dry a product in contact with hot air, and they differ in the feed each one accepts and how that feed meets the air. Each row below sets a flash dryer against a spray dryer.
+Flash dryers and spray dryers both dry a product in contact with hot air; the feed each one accepts and the way it meets the air divide the two. Each row below sets a flash dryer against a spray dryer.
 
 | Factor | Flash Dryer | Spray Dryer |
 |-----|-----|-----|
@@ -239,7 +239,7 @@ A: A spin flash dryer adds a high-speed rotor at the base of the drying chamber,
 A: A classifier keeps particles in the dryer until they reach the target particle size and then releases them. On the Hosokawa Alpine MDV-4, the classifier rotor turns at 45 to 450 rpm, and its speed and the air flow set the product fineness, 100 to 325 mesh in the unit's original design. The Aljet SBDF-50 carries an integral internal classifier.
 
 **Q: What feed rates and air flows are available?**
-A: Product feed rates run from 309 kg/h (681 lb/h) on the AKSH Engineering system and 419.6 kg/h (925 lb/h) on the Hosokawa Alpine unit to 685 kg/h (1,500 lb/h) on the APV Anhydro and 1,050 kg/h (2,350 lb/h) on the Aljet. Air flows range from 4,650 m³/h (2,700 CFM) to 8,550 m³/h (5,000 CFM), and outlet moisture from 0.3% to 10%. Share your feed rate and moisture targets with IPP, and the team will match units in stock to your requirements.
+A: Product feed rates run from 309 kg/h (681 lb/h) on the AKSH Engineering system and 419.6 kg/h (925 lb/h) on the Hosokawa Alpine unit to 685 kg/h (1,500 lb/h) on the APV Anhydro and 1,050 kg/h (2,350 lb/h) on the Aljet. Air flows range from 4,650 m³/h (2,700 CFM) to 8,550 m³/h (5,000 CFM), and outlet moisture from 0.3% to 10%. IPP's team checks your feed rate and moisture targets against the flash dryers in stock.
 
 **Q: How are IPP's flash dryers heated?**
 A: Heating varies by unit: the Aljet SBDF-50 uses a steam coil air heater, the APV Anhydro and AKSH Engineering units are direct gas fired, and the Hosokawa Alpine MDV-4 ships without a heater. Its original design used an inert heating gas at a 149 °C (300 °F) inlet temperature.

@@ -1,0 +1,47 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/rotary-hot-air-dryer",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/rotary-hot-air-dryer",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used rotary hot air dryers for sale: reliable drying for bulk solids and powders",
+ "items_found": 4,
+ "items_this_category": 4,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "111037",
+   1,
+   1,
+   "Refurbished Dryer-Rotary Hot Air Stainless Steel 316"
+  ],
+  [
+   2,
+   "108033",
+   0,
+   1,
+   "Stainless Steel 304 Standard Steel Corp. Dryer-Rotary Hot Air"
+  ],
+  [
+   3,
+   "105920",
+   0,
+   1,
+   "Stainless Steel 304 Patterson Kelly Dryer-Rotary Hot Air"
+  ],
+  [
+   4,
+   "246717",
+   0,
+   0,
+   "Carbon Steel Link Belt Dryer-Rotary Hot Air"
+  ]
+ ]
+}

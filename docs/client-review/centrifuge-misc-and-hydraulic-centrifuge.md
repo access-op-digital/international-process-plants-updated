@@ -1,6 +1,6 @@
 # Buy Used Tubular, Podbielniak & Hydraulic Centrifuges for Sale
 
-Buying used tubular, Podbielniak and hydraulic centrifuges through International Process Plants (IPP) connects chemical, pharmaceutical, food and specialty manufacturers with the separation equipment IPP groups under Misc. & Hydraulic on its IMS inventory system: Sharples tubular bowl super centrifuges, Podbielniak centrifugal extractors from Podbielniak, APV and Baker Perkins, and Oil Gear and Sanborn hydraulic drives. Bowl speeds reach 50,000 rpm, and buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.
+Buying good used and refurbished tubular, Podbielniak, and hydraulic centrifuges from International Process Plants (IPP) supplies high-speed clarification, countercurrent liquid-liquid extraction, and hydraulic drive power while reducing issues like long OEM build times and premium new-build budgets. Chemical, pharmaceutical, food and specialty manufacturers reach the separation equipment IPP groups under Misc. & Hydraulic on its IMS inventory system: Sharples tubular bowl super centrifuges, Podbielniak centrifugal extractors from Podbielniak, APV and Baker Perkins, and Oil Gear and Sanborn hydraulic drives. Bowl speeds reach 50,000 rpm, and buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.
 
 The inventory spans good used and refurbished units, including used super centrifuge models from Sharples (AS16, AS26, AS14, AE-18V and T1P), tubular units from Rina, Carl Padberg and Robatel, Podbielniak 6900 countercurrent extractors and APV D36 and Baker Perkins D18 Podbielniak-type units. Every used tubular centrifuge is listed with its specifications, ready to buy and ship.
 
@@ -32,7 +32,7 @@ The Podbielniak and vertical tubular flags on IPP's IMS inventory system split t
 
 ## Tubular Bowl vs Disc Stack Centrifuges
 
-Tubular bowl and disc stack centrifuges both spin a vertical bowl to separate fine solids and liquids, and they differ in bowl geometry, G-force, throughput and solids discharge. Key factors for each design appear in the table.
+Tubular bowl and disc stack centrifuges both spin a vertical bowl to separate fine solids and liquids, with bowl geometry, G-force, throughput and solids discharge as the dividing lines. Key factors for each design appear in the table.
 
 | Factor | Tubular Bowl Centrifuge | Disc Stack Centrifuge |
 |-----|-----|-----|
@@ -362,7 +362,7 @@ Good used Baker Perkins D18 Podbielniak centrifugal extractor with a 2,100 rpm m
 
 ### Buy Refurbished Tubular & Podbielniak Centrifuges
 
-Refurbished units in IPP's inventory include Sharples AS-26 three-phase separators, an APV D36 with a Gyrol fluid drive and a Robatel EC-03, listed on IMS with the condition grade Refurbished/Rebuilt.
+Refurbished units in IPP's inventory include Sharples AS-26 three-phase separators, an APV D36 with a Gyrol fluid drive and a Robatel EC-03, each graded refurbished/rebuilt on IMS.
 
 #### [Refurbished] APV D36 SS 316 ([IPP# 211012](https://ims.internationalprocessplants.com/inventory/equipment/detail/misc-and-hydraulic-centrifuge/211012))
 
@@ -504,13 +504,13 @@ A: IPP's misc. and hydraulic centrifuge category holds Sharples tubular bowl sup
 A: Buying a used tubular or Podbielniak centrifuge from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on manufacturer, design, bowl speed and condition, so the cost of a specific unit is quoted on request. Contact IPP for pricing on specific units.
 
 **Q: What condition grades are available?**
-A: IPP lists the units in this category as good used or refurbished/rebuilt, each IMS listing stating its grade. For new equipment, IPP's Gale Process Solutions (GPS) subsidiary provides custom fabricated stainless steel equipment with 12 to 16 week average delivery.
+A: IPP lists the units in this category as good used or refurbished/rebuilt, and the grade appears on every listing. For new equipment, IPP's Gale Process Solutions (GPS) subsidiary provides custom fabricated stainless steel equipment with 12 to 16 week average delivery.
 
 **Q: How long does it take to receive a centrifuge from IPP?**
 A: In-stock units are ready to ship. IPP coordinates packaging, crating, freight and delivery to your plant site from offices in 15 countries. Contact IPP for shipping details on a specific unit.
 
 **Q: How does a tubular bowl centrifuge work?**
-A: A tubular bowl centrifuge works on the principle of high-speed separation in a long, narrow vertical bowl. The feed enters at the bottom, the bowl spins at typically 10,000 to 20,000 rpm, and centrifugal force drives the solids to the bowl wall while the clarified liquid, or a light and a heavy liquid, leave through ports at the top. In a manual discharging tubular centrifuge, the trapped solids are cleaned out after the run, while the liquid flow itself is continuous.
+A: Tubular bowl centrifuges rely on a working principle of high-speed separation in a long, narrow vertical bowl. The feed enters at the bottom, the bowl spins at typically 10,000 to 20,000 rpm, and centrifugal force drives the solids to the bowl wall while the clarified liquid, or a light and a heavy liquid, leave through ports at the top. In a manual discharging tubular centrifuge, the trapped solids are cleaned out after the run, while the liquid flow itself is continuous.
 
 **Q: How does a Podbielniak centrifugal extractor work?**
 A: A Podbielniak centrifugal extractor feeds the heavy and the light liquid into the rotating drum through the shaft from opposite ends, so the two phases flow countercurrent through the drum and leave through the mechanically sealed shaft. The rotation creates a separation force well above gravity, so this liquid-liquid extraction machine contacts and separates the phases in one compact unit.

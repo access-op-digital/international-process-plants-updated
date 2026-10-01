@@ -1,8 +1,8 @@
 # Buy Used Lab Centrifuges for Sale
 
-Buying used lab centrifuges through International Process Plants (IPP) extends separation work beyond the benchtop for process development, pilot plant and laboratory teams, with lab-scale units: Carr Centritech Centritec Cell 8 single-use flow centrifuges, a Sharples Type 1P laboratory super centrifuge and a beaker centrifuge. Speeds reach 50,000 rpm and 62,000 G on the Sharples unit. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
+Buying good used lab centrifuges from International Process Plants (IPP) adds high-speed separation, continuous-flow processing, and pilot-scale capacity while ending issues like long build lead times and high new-unit prices. Process development, pilot plant and laboratory teams take separation work beyond the benchtop with lab-scale units: Carr Centritech Centritec Cell 8 single-use flow centrifuges, a Sharples Type 1P laboratory super centrifuge and a beaker centrifuge. Speeds reach 50,000 rpm and 62,000 G on the Sharples unit. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
 
-IPP's lab centrifuges are good used units in stainless steel 316L and 316, plus a carbon steel beaker centrifuge. The Carr Centritech units carry heating, refrigeration, a 2 to 150 °C (36 to 302 °F) temperature control range and programmable HMI controls, and the Sharples Type 1P runs on an air or steam turbine drive. Each used lab centrifuge for sale here is ready to ship.
+IPP's lab centrifuges are good used units in stainless steel 316L and 316, plus a carbon steel beaker centrifuge. The Carr Centritech units carry heating, refrigeration, a 2 to 150 °C (36 to 302 °F) temperature control range and programmable HMI controls, and the Sharples Type 1P runs on an air or steam turbine drive. Each used lab centrifuge for sale here is available now.
 
 On IPP's IMS inventory system, every lab centrifuge carries its type, maximum speed, maximum G force, capacity and condition grade. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
 
@@ -25,14 +25,14 @@ On IPP's IMS inventory system, every lab centrifuge carries its type, maximum sp
 
 ## Browse Used Lab Centrifuges by Type
 
-The Lab Centrifuge Type field on IPP's IMS inventory system sorts this inventory into micro flow centrifuges, an ultra-speed laboratory super centrifuge and a multipurpose beaker centrifuge.
+IMS types sort this inventory into micro flow centrifuges, an ultra-speed laboratory super centrifuge and a multipurpose beaker centrifuge.
 
 
 ---
 
 ## Continuous-Flow vs Batch Lab Centrifuges
 
-Continuous-flow and batch lab centrifuges both use centrifugal force to separate components by density, and they differ in how material enters and leaves the machine. The table compares them factor by factor.
+Continuous-flow and batch lab centrifuges both use centrifugal force to separate components by density, while the way material enters and leaves the machine separates them. The table compares them factor by factor.
 
 | Factor | Continuous-Flow Centrifuge | Batch Centrifuge |
 |-----|-----|-----|
@@ -212,7 +212,7 @@ A: IPP's lab centrifuges are process-scale units rather than benchtop tube centr
 A: Buying a used lab centrifuge from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on manufacturer, type, maximum speed and condition, so the cost of a specific unit is quoted on request. Contact IPP for pricing on specific units.
 
 **Q: What condition are IPP's lab centrifuges in?**
-A: IPP's lab centrifuges are good used units, each IMS listing stating its condition grade, and the Sharples Type 1P comes with spares and tools. For new equipment, IPP's Gale Process Solutions (GPS) subsidiary provides custom fabricated stainless steel equipment with 12 to 16 week average delivery.
+A: IPP's lab centrifuges are good used units with their condition grade on IMS, and the Sharples Type 1P comes with spares and tools. For new equipment, IPP's Gale Process Solutions (GPS) subsidiary provides custom fabricated stainless steel equipment with 12 to 16 week average delivery.
 
 **Q: How long does it take to receive a lab centrifuge from IPP?**
 A: In-stock lab centrifuges are ready to ship. IPP coordinates packaging, crating, freight and delivery to your plant site from offices in 15 countries. Contact IPP for shipping details on a specific unit.

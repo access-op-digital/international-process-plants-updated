@@ -1,6 +1,6 @@
 # Buy Used Nauta & Conical Vacuum Dryers for Sale
 
-Buying used Nauta dryers through International Process Plants (IPP) provides chemical, pharmaceutical, food and specialty manufacturers with conical screw vacuum dryers from Krauss Maffei, Bolz, Vrieco Nauta, Hosokawa Alpine, Summix Holland, Andritz and other OEM manufacturers. Working capacities range from 0.1 m³ (3.5 ft³) to 19.9 m³ (704 ft³), with stainless steel and Hastelloy C-276 vessels. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.
+Buying good used and unused Nauta and conical vacuum dryers from International Process Plants (IPP) combines orbital screw mixing, vacuum drying, and jacketed heat transfer while limiting issues like lengthy vessel fabrication and full OEM pricing. Chemical, pharmaceutical, food and specialty manufacturers compare conical screw vacuum dryers here from Krauss Maffei, Bolz, Vrieco Nauta, Hosokawa Alpine, Summix Holland, Andritz and other OEM manufacturers. Working capacities range from 0.1 m³ (3.5 ft³) to 19.9 m³ (704 ft³), with stainless steel and Hastelloy C-276 vessels. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.
 
 IPP's conical dryer stock includes good used and unused surplus units, each built on the design in which an orbiting screw lifts the product along the wall of a jacketed cone. The inventory includes vacuum-rated vessels, heated screws and units with reverse jet filters, and each conical vacuum dryer is listed with its vessel and jacket ratings.
 
@@ -25,14 +25,14 @@ IPP's IMS inventory system logs the working capacity, liquid capacity, vessel pr
 
 ## Browse Used Nauta Dryers by Material
 
-Vessel material defines the groups in this inventory, following the material field on IPP's IMS inventory system: stainless steel 316 and 316L, stainless steel 304 and other grades, and Hastelloy C-276.
+Vessel material defines the groups in this inventory: stainless steel 316 and 316L, stainless steel 304 and other grades, and Hastelloy C-276.
 
 
 ---
 
 ## Buy Used Nauta Dryers by Working Capacity
 
-Working capacity is the capacity figure IMS records for each conical dryer, and IPP's inventory runs from 0.1 m³ (3.5 ft³) to 19.9 m³ (704 ft³). The tabs feature units from each range and link to the matching units on IMS.
+Conical dryers on IMS carry a working capacity figure, and IPP's units span 0.1 m³ (3.5 ft³) to 19.9 m³ (704 ft³). The tabs feature units from each range and link to the matching units on IMS.
 
 ### Buy Used Nauta Dryers up to 3.3 m³ (116 ft³)
 
@@ -135,7 +135,7 @@ Good used Krauss Maffei TMT 20/300 conical screw dryer with a stainless steel Au
 
 ## Conical Screw vs Double Cone Dryers
 
-Conical screw and double cone dryers both dry a batch against heated vessel walls, usually under vacuum, and they differ in what moves: the screw or the whole vessel. These factors separate the two designs.
+Conical screw and double cone dryers both dry a batch against heated vessel walls, usually under vacuum; what moves, the screw or the whole vessel, decides the difference. These factors separate the two designs.
 
 | Factor | Conical Screw (Nauta) Dryer | Double Cone Dryer |
 |-----|-----|-----|
@@ -315,7 +315,7 @@ Good used Andritz GHD3000S conical screw dryer with a stainless steel 316 vessel
 
 ### Buy Unused Surplus Nauta Dryers
 
-Unused surplus conical dryers in IPP's inventory include a Vrieco Nauta 20 VB-S of 1.98 m³ (70 ft³) in stainless steel 316, listed on IMS with the condition grade Unused.
+Unused surplus conical dryers in IPP's inventory include a Vrieco Nauta 20 VB-S of 1.98 m³ (70 ft³) in stainless steel 316, which IMS grades as unused.
 
 #### [Unused surplus] Vrieco Nauta 20 VB-S SS 316, 1.98 m³ (70 ft³) ([IPP# 706888](https://ims.internationalprocessplants.com/inventory/equipment/detail/nauta-dryer/706888))
 
@@ -403,10 +403,10 @@ IPP supplies used nauta dryers to manufacturers across 10 process industries wor
 
 ## Available Materials of Construction
 
-Conical dryers are specified by vessel material, and IPP's inventory covers the grades below.
+Vessel material sets each conical dryer specification; these grades are in stock.
 
 ### Stainless Steel 316 & 316L
-Stainless steel 316 and 316L vessels represent the largest share of IPP's conical dryer inventory, two of them with clad construction. Grades 316 and 316L contain molybdenum, which improves pitting resistance compared with grade 304.
+Stainless steel 316 and 316L vessels top IPP's conical dryer inventory, two of them with clad construction. The molybdenum in 316 and 316L strengthens resistance to pitting compared with grade 304.
 
 ### Stainless Steel 304 & Austenitic
 Stainless steel 304, austenitic and polished stainless steel vessels come on the Bolz Apparatebau MF250, JH Day, Krauss Maffei TMT 20/300 and Hosokawa Alpine units. Grades 304 and 316 both belong to the austenitic stainless steel family.
@@ -445,7 +445,7 @@ A: IPP's conical screw dryers come from Krauss Maffei, Bolz, Vrieco Nauta, Hosok
 A: Buying a used nauta dryer from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on manufacturer, working capacity, vessel material and condition, so the cost of a specific unit is quoted on request. Contact IPP for pricing on specific units.
 
 **Q: Can I buy an unused Nauta dryer from IPP?**
-A: Yes. IPP's inventory includes an unused Vrieco Nauta 20 VB-S of 1.98 m³ (70 ft³) in stainless steel 316, listed on IMS with the condition grade Unused. For new equipment, IPP's Gale Process Solutions (GPS) subsidiary provides custom fabricated stainless steel equipment with 12 to 16 week average delivery.
+A: Yes. An unused Vrieco Nauta 20 VB-S of 1.98 m³ (70 ft³) in stainless steel 316 is part of IPP's stock. For new equipment, IPP's Gale Process Solutions (GPS) subsidiary provides custom fabricated stainless steel equipment with 12 to 16 week average delivery.
 
 **Q: How long does it take to receive a Nauta dryer from IPP?**
 A: In-stock nauta dryers are ready to ship. IPP coordinates packaging, crating, freight and delivery to your plant site from offices in 15 countries. Contact IPP for shipping details on a specific unit.
@@ -466,7 +466,7 @@ A: IPP carries conical dryers from Krauss Maffei, Bolz, Vrieco Nauta, Hosokawa A
 A: IPP's conical dryers have vessels in stainless steel 316, 316L and 304, austenitic and polished stainless steel, and Hastelloy C-276, with two clad units. Stainless steel 316 vessels outnumber every other grade in the inventory.
 
 **Q: What capacities are available, and how do I find the right size?**
-A: IPP's conical dryers range from 0.1 m³ (3.5 ft³) to 19.9 m³ (704 ft³) of working capacity, with liquid capacities from 98.4 L (26 gal) to 19,950 L (5,250 gal). Share your batch volume, vessel material and pressure rating with IPP, and the team will match units in stock to your requirements.
+A: IPP's conical dryers range from 0.1 m³ (3.5 ft³) to 19.9 m³ (704 ft³) of working capacity, with liquid capacities from 98.4 L (26 gal) to 19,950 L (5,250 gal). IPP compares your batch volume, vessel material and pressure rating against the conical dryers in stock.
 
 **Q: Do the dryers include filters and dust collection?**
 A: Yes. IMS lists reverse jet filters on the Engelsmann unit, the Bauer Mainz T710C with a 26 m² (280 ft²) filter and the Krauss Maffei MT 2/300 with a 5.5 m² (59 ft²) jacketed filter, and a 6 m² (65 ft²) jacketed bag filter on the Krauss Maffei TMT 20/300. Dust collection is recorded on the Summix Holland, Andritz, Bolz and Krauss Maffei TMT 20/300 units.

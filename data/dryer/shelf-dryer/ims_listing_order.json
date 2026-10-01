@@ -1,0 +1,217 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/shelf-dryer",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/shelf-dryer",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used shelf dryers for sale: static vacuum drying for heat-sensitive materials",
+ "items_found": 32,
+ "items_this_category": 23,
+ "excluded_other_types": [
+  [
+   "233218",
+   "/inventory/equipment/detail/oven-dryer/233218"
+  ],
+  [
+   "245821",
+   "/inventory/equipment/detail/oven-dryer/245821"
+  ],
+  [
+   "245820",
+   "/inventory/equipment/detail/oven-dryer/245820"
+  ],
+  [
+   "705426",
+   "/inventory/equipment/detail/oven-dryer/705426"
+  ],
+  [
+   "705427",
+   "/inventory/equipment/detail/oven-dryer/705427"
+  ],
+  [
+   "705371",
+   "/inventory/equipment/detail/oven-dryer/705371"
+  ],
+  [
+   "74452",
+   "/inventory/equipment/detail/oven-dryer/74452"
+  ],
+  [
+   "212176",
+   "/inventory/equipment/detail/oven-dryer/212176"
+  ],
+  [
+   "800397",
+   "/inventory/equipment/detail/oven-dryer/800397"
+  ]
+ ],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "245506",
+   1,
+   1,
+   "Dryer-Shelf United McGill 9E-10 SP Stainless Steel 316"
+  ],
+  [
+   2,
+   "111539",
+   0,
+   1,
+   "Stainless Steel 304 Gruenberg C18H360 Dryer-Shelf"
+  ],
+  [
+   3,
+   "213057",
+   0,
+   1,
+   "Lined Dryer-Shelf"
+  ],
+  [
+   4,
+   "207114",
+   0,
+   1,
+   "Stainless Steel 316 Hering Dryer-Shelf"
+  ],
+  [
+   5,
+   "705834",
+   0,
+   1,
+   "4 m² (43.1 ft²) Stainless Steel 316 Dryer-Shelf"
+  ],
+  [
+   6,
+   "704176",
+   0,
+   1,
+   "9.8 m² (105 ft²) Stainless Steel 316 Dryer-Shelf"
+  ],
+  [
+   7,
+   "245566",
+   0,
+   1,
+   "Stainless Steel 316 United McGill 9E-10SP Dryer-Shelf"
+  ],
+  [
+   8,
+   "213258",
+   0,
+   1,
+   "Lined Devine Dryer-Shelf"
+  ],
+  [
+   9,
+   "247049",
+   0,
+   1,
+   "Hastelloy - C22 Italvacuum E0.5 Dryer-Shelf"
+  ],
+  [
+   10,
+   "208006",
+   0,
+   1,
+   "Stainless Steel 304 Devine Dryer-Shelf"
+  ],
+  [
+   11,
+   "213260",
+   0,
+   1,
+   "Lined Devine Dryer-Shelf"
+  ],
+  [
+   12,
+   "89700",
+   0,
+   1,
+   "14 m² (150.7 ft²) Nickel Dryer-Shelf"
+  ],
+  [
+   13,
+   "213698",
+   0,
+   1,
+   "Hot water Generator for a Stokes 600-540 Shelf Dryer"
+  ],
+  [
+   14,
+   "216275",
+   0,
+   1,
+   "New Stainless Steel 316 Stalwart international 1 Dryer-Shelf"
+  ],
+  [
+   15,
+   "89709",
+   0,
+   1,
+   "28 m² (301.4 ft²) Nickel Dryer-Shelf"
+  ],
+  [
+   16,
+   "89773",
+   0,
+   1,
+   "15.8 m² (169.5 ft²) Nickel Dryer-Shelf"
+  ],
+  [
+   17,
+   "81508",
+   0,
+   1,
+   "Lined Edward King Zurich Dryer-Shelf"
+  ],
+  [
+   18,
+   "704177",
+   0,
+   1,
+   "4.5 m² (48 ft²) Stainless Steel 316 Dryer-Shelf"
+  ],
+  [
+   19,
+   "703742",
+   0,
+   1,
+   "13.3 m² (143 ft²) Lined Dryer-Shelf"
+  ],
+  [
+   20,
+   "208078",
+   0,
+   1,
+   "Stainless Steel 304 Devine Dryer-Shelf"
+  ],
+  [
+   21,
+   "30792",
+   0,
+   0,
+   "Carbon Steel Stokes 338-J-16 Dryer-Shelf"
+  ],
+  [
+   22,
+   "92367",
+   0,
+   0,
+   "Stainless Steel 304 Dryer-Shelf"
+  ],
+  [
+   23,
+   "704960",
+   0,
+   0,
+   "Carbon Steel Apex B21E Dryer-Shelf"
+  ]
+ ]
+}

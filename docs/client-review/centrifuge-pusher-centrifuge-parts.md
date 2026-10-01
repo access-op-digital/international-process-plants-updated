@@ -1,6 +1,6 @@
 # Buy Used Pusher Centrifuge Parts for Sale
 
-Buying used pusher centrifuge parts through International Process Plants (IPP) secures spare baskets, pusher shafts, rotating assemblies, screens and flex joints for plant engineering teams running industrial Krauss Maffei and Baker Perkins pusher centrifuges. Parts for the Krauss Maffei SB1000/2 two-stage machine and its 1,050 mm (40.6 in) basket lead the listings, in stainless steel 304L. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
+Buying good used and unused pusher centrifuge parts from International Process Plants (IPP) renews baskets, pusher shafts, and screen sets on Krauss Maffei and Baker Perkins pusher centrifuges while eliminating issues like extended part lead times and full new-part pricing. Plant engineering teams running these industrial machines also find spare rotating assemblies and flex joints. Parts for the Krauss Maffei SB1000/2 two-stage machine and its 1,050 mm (40.6 in) basket lead the listings, in stainless steel 304L. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
 
 Good used and unused surplus parts on hand range from inner and outer baskets, spare pusher shafts and a hollow pusher shaft to spare rotating assemblies, screen sets and flex joints, plus an unused lot of spare parts for a Krauss Maffei SZ-90L.
 
@@ -50,7 +50,7 @@ Parts range from flex joints and screen sets to inner and outer baskets, pusher 
 IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom and United States. IPP has served 160,000+ customers worldwide.
 
 ### Good Used & Unused Options
-IPP lists pusher centrifuge parts in good used and unused surplus condition. Each IMS listing states the condition grade alongside the part's description.
+IPP lists pusher centrifuge parts in good used and unused surplus condition. Every part's IMS listing pairs its condition grade with the description.
 
 
 ---
@@ -122,7 +122,7 @@ A: Parts in stock fit Krauss Maffei and Baker Perkins machines: inner and outer 
 A: Buying used pusher centrifuge parts from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on the part type, the centrifuge it fits and its condition, so each part is quoted on request. Contact IPP for pricing on specific parts.
 
 **Q: Can I buy unused pusher centrifuge parts from IPP?**
-A: Yes. IPP's inventory includes an unused lot of spare parts for a Krauss Maffei SZ-90L pusher centrifuge, with the filtrate housing, the solids housing with door and sight glass with wiper, a 3-step drum rotor, hand brake, oil pump, oil cooler and drive components.
+A: Yes. IPP holds an unused lot of spare parts for a Krauss Maffei SZ-90L pusher centrifuge, with the filtrate housing, the solids housing with door and sight glass with wiper, a 3-step drum rotor, hand brake, oil pump, oil cooler and drive components.
 
 **Q: How long does it take to receive pusher centrifuge parts from IPP?**
 A: In-stock pusher centrifuge parts are ready to ship. IPP coordinates packaging, crating, freight and delivery to your plant site from offices in 15 countries. Contact IPP for shipping details on a specific part.

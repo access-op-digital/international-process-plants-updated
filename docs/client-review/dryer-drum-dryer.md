@@ -1,6 +1,6 @@
 # Buy Used Drum Dryers for Sale
 
-Buying used drum dryers through International Process Plants (IPP) outfits chemical, pharmaceutical, food and specialty manufacturers with single and double drum dryers from Simon Dryers, Blaw Knox and Gouda, plus unused cast iron dryer drums. Drum diameters range from 304.8 mm (12 in) to 1,850 mm (72 in), with heat transfer areas up to 16.7 m² (180 ft²). Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.
+Buying good used, refurbished, and unused drum dryers from International Process Plants (IPP) provides thin-film drying, continuous knife discharge, and steam-heated drum surfaces while minimizing issues like drum fabrication delays and new-build costs. Chemical, pharmaceutical, food and specialty manufacturers order single and double drum dryers here from Simon Dryers, Blaw Knox and Gouda, plus unused cast iron dryer drums. Drum diameters range from 304.8 mm (12 in) to 1,850 mm (72 in), with heat transfer areas up to 16.7 m² (180 ft²). Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.
 
 The drum dryer inventory features good used, refurbished and unused surplus units, including industrial drum dryer machines with dip feed pans or applicator rolls, a chrome-plated Blaw Knox Model F double drum dryer, and unused cast iron dryer and flaker drums with ends and shafts. Each used drum dryer for sale is listed with its drum size and ratings.
 
@@ -25,14 +25,14 @@ Drum diameter, face length, configuration, heat transfer area and condition grad
 
 ## Browse Used Drum Dryers by Configuration
 
-Drum configuration splits this inventory, following the Drum Configuration field on IPP's IMS inventory system, and the unused spare drums form their own group.
+Drum configuration splits this inventory, and the unused spare drums form their own group.
 
 
 ---
 
 ## Buy Used Drum Dryers by Drum Diameter
 
-Drum diameter is the capacity figure IMS records for each drum dryer, and IPP's inventory runs from 304.8 mm (12 in) to 1,850 mm (72 in). Featured units appear under each diameter tab, linked to the matching units on IMS.
+IMS measures each drum dryer by drum diameter, from 304.8 mm (12 in) to 1,850 mm (72 in) across IPP's units. Featured units appear under each diameter tab, linked to the matching units on IMS.
 
 ### Buy Used Drum Dryers up to 914 mm (36 in)
 
@@ -131,7 +131,7 @@ Unused surplus cast iron dryer drum (model 135.2896A.01.01.000 SB) with a 1,350 
 
 ## Single vs Double Drum Dryers
 
-Single and double drum dryers both dry a thin film on the outside of a steam-heated drum and scrape it off with a knife, and they differ in whether each dryer turns one drum or two and how the feed reaches them. The table sets out the factors that separate them.
+Single and double drum dryers both dry a thin film on the outside of a steam-heated drum and scrape it off with a knife, and the drum count per dryer and the feed path draw the line between them. The table sets out the factors that separate them.
 
 | Factor | Single Drum | Double Drum |
 |-----|-----|-----|
@@ -312,7 +312,7 @@ Good used Blaw Knox single drum dryer with a 304.8 mm (12 in) drum.
 
 ### Buy Refurbished Drum Dryers
 
-Refurbished drum dryers in IPP's inventory include a Simon Dryers 914 mm (36 in) cast iron unit with applicator rolls of 228.6 mm (9 in), listed on IMS with the condition grade Refurbished/Rebuilt.
+Refurbished drum dryers in IPP's inventory include a Simon Dryers 914 mm (36 in) cast iron unit with applicator rolls of 228.6 mm (9 in), refurbished per its IMS grade.
 
 #### [Refurbished] Simon Dryers, 914 mm (36 in) ([IPP# 703709](https://ims.internationalprocessplants.com/inventory/equipment/detail/drum-dryer/703709))
 
@@ -332,7 +332,7 @@ Refurbished Simon Dryers single drum dryer with a 914 mm (36 in) drum and 7.4 m�
 
 ### Buy Unused Surplus Drum Dryers
 
-Unused surplus units in IPP's inventory include a 762 mm (30 in) stainless steel 316 single drum dryer and cast iron dryer and flaker drums with ends and shafts, listed on IMS with the condition grade Unused.
+Unused surplus units in IPP's inventory include a 762 mm (30 in) stainless steel 316 single drum dryer and cast iron dryer and flaker drums with ends and shafts, all graded unused.
 
 #### [Unused surplus] 134-4 0000 SS 316, 762 mm (30 in) ([IPP# 71315](https://ims.internationalprocessplants.com/inventory/equipment/detail/drum-dryer/71315))
 
@@ -446,7 +446,7 @@ IPP supplies used drum dryers to manufacturers across 10 process industries worl
 
 ## Available Drum Surfaces and Materials
 
-Drum dryers are specified by drum surface and construction material, and IPP's inventory covers the options below.
+Buyers specify drum dryers by drum surface and construction material, and these options are in stock.
 
 ### Cast Iron Drums
 Cast iron drums come on the unused spare drums and the Simon Dryers units. Cast iron provides uniform thermal conductivity across the drum face and withstands high steam pressures.
@@ -455,7 +455,7 @@ Cast iron drums come on the unused spare drums and the Simon Dryers units. Cast 
 Chrome-plated drums and rolls come on the Blaw Knox Model F, a Blaw Knox 508 mm (20 in) dryer and the Gouda unit. Hard chrome plating creates an inert, smooth and hard surface that eases product release at the knife.
 
 ### Stainless Steel Construction
-Stainless steel 316 and 304 construction comes on the Simon Dryers, Buflovak and unbranded units, including enclosures and wetted parts in grade 316. Grade 316 contains molybdenum, which improves pitting resistance compared with grade 304.
+Stainless steel 316 and 304 construction comes on the Simon Dryers, Buflovak and unbranded units, including enclosures and wetted parts in grade 316. With molybdenum in its chemistry, grade 316 outperforms grade 304 on pitting resistance.
 
 
 ---
@@ -488,13 +488,13 @@ A: Single and double drum dryers from Simon Dryers, Blaw Knox and Gouda are in s
 A: Buying a used drum dryer from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on manufacturer, drum size, configuration and condition, so the cost of a specific unit is quoted on request. Contact IPP for pricing on specific units.
 
 **Q: Can I buy an unused drum dryer or dryer drum from IPP?**
-A: Yes. IPP's inventory includes an unused 762 mm (30 in) stainless steel 316 single drum dryer and unused cast iron dryer and flaker drums of 995 mm (39.2 in) and 1,350 mm (53.5 in), listed on IMS with the condition grade Unused. For new equipment, IPP's Gale Process Solutions (GPS) subsidiary provides custom fabricated stainless steel equipment with 12 to 16 week average delivery.
+A: Yes. Unused stock covers a 762 mm (30 in) stainless steel 316 single drum dryer and cast iron dryer and flaker drums of 995 mm (39.2 in) and 1,350 mm (53.5 in). For new equipment, IPP's Gale Process Solutions (GPS) subsidiary provides custom fabricated stainless steel equipment with 12 to 16 week average delivery.
 
 **Q: How long does it take to receive a drum dryer from IPP?**
 A: In-stock drum dryers are ready to ship. IPP coordinates packaging, crating, freight and delivery to your plant site from offices in 15 countries. Contact IPP for shipping details on a specific unit.
 
 **Q: How does a drum dryer work?**
-A: A drum dryer works on the principle of conduction drying on a heated, slowly rotating cylinder. Steam inside the drum, usually at 120 to 150 °C (248 to 302 °F), heats the drum wall while the liquid, slurry or paste is applied to the outside as a thin film. Moisture evaporates as the drum turns, and before the drum completes a revolution a scraper blade called the doctor knife peels off the dried film.
+A: A drum dryer's working principle is conduction drying on a heated, slowly rotating cylinder. Steam inside the drum, usually at 120 to 150 °C (248 to 302 °F), heats the drum wall while the liquid, slurry or paste is applied to the outside as a thin film. Moisture evaporates as the drum turns, and before the drum completes a revolution a scraper blade called the doctor knife peels off the dried film.
 
 **Q: Is a drum dryer the same as a rotary drum dryer?**
 A: No. A drum dryer dries a thin film of liquid, slurry or paste on the outside of a steam-heated cylinder, while a rotary dryer tumbles bulk solids through hot air or combustion gas inside a slowly turning, tilted shell. IPP lists rotary units under [rotary hot air dryers](https://ims.internationalprocessplants.com/inventory/search/equipment/rotary-hot-air-dryer) on its IMS inventory system.
@@ -503,16 +503,16 @@ A: No. A drum dryer dries a thin film of liquid, slurry or paste on the outside 
 A: Feed reaches the drum in one of four ways: a dip pan, in which the lower part of the drum turns through the feed; applicator rolls that meter the material onto the drum; the nip between two drums on a double drum dryer; or spray and splash feeding. IPP's inventory includes dip feed units from Simon Dryers and Buflovak, applicator-roll units from Gouda and Simon Dryers, and the Blaw Knox Model F.
 
 **Q: Which manufacturers' drum dryers does IPP carry?**
-A: IPP carries drum dryers from Simon Dryers, Blaw Knox and Buflovak / Blaw Knox, and Gouda, plus units and spare drums without a recorded manufacturer. The largest share of named units comes from Simon Dryers and Blaw Knox.
+A: IPP carries drum dryers from Simon Dryers, Blaw Knox and Buflovak / Blaw Knox, and Gouda, plus units and spare drums without a recorded manufacturer. Simon Dryers and Blaw Knox built more of the named units than Gouda.
 
 **Q: What drum surfaces and materials are available?**
 A: IPP's drum dryers have cast iron, chrome-plated or stainless steel drums and construction: cast iron on the spare drums and Simon Dryers units, hard chrome plating on the Blaw Knox and Gouda units, and stainless steel 316 and 304 enclosures and wetted parts on the Simon Dryers, Buflovak and unbranded units. One unused spare drum is listed in carbon steel.
 
 **Q: What drum sizes are available, and how do I find the right size?**
-A: IPP's drum dryers range from 304.8 mm (12 in) to 1,850 mm (72 in) drum diameter, with face lengths of 457.2 mm (18 in) to 3,500 mm (137.8 in) and heat transfer areas of 0.84 m² (9 ft²) to 16.7 m² (180 ft²). Share your feed rate, solids content and target moisture with IPP, and the team will match units in stock to your requirements.
+A: IPP's drum dryers range from 304.8 mm (12 in) to 1,850 mm (72 in) drum diameter, with face lengths of 457.2 mm (18 in) to 3,500 mm (137.8 in) and heat transfer areas of 0.84 m² (9 ft²) to 16.7 m² (180 ft²). Give IPP your feed rate, solids content and target moisture, and the team selects matching units in stock.
 
 **Q: What steam pressures are the drums rated for?**
-A: The Blaw Knox Model F double drum dryer is rated 11 bar (160 psi), the unused cast iron spare drums 10 bar (145 psi), and the Simon Dryers units 7 bar (101.5 psi). Each IMS listing states the steam pressure and temperature where they are recorded.
+A: The Blaw Knox Model F double drum dryer is rated 11 bar (160 psi), the unused cast iron spare drums 10 bar (145 psi), and the Simon Dryers units 7 bar (101.5 psi). Steam pressure and temperature appear on the listings where IMS records them.
 
 
 ---

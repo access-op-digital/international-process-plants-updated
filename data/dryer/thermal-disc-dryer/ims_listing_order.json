@@ -1,0 +1,75 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/thermal-disc-dryer",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/thermal-disc-dryer",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used thermal disc dryers for sale: indirect drying for sludge, pastes and fine solids",
+ "items_found": 8,
+ "items_this_category": 8,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "225385",
+   1,
+   1,
+   "Unused Dryer-Thermal Disc Bepex TD48-9"
+  ],
+  [
+   2,
+   "225384",
+   0,
+   1,
+   "Unused Carbon Steel Bepex TD48-9 Dryer-Thermal Disc"
+  ],
+  [
+   3,
+   "96831",
+   0,
+   1,
+   "Unused 1,750 mm (69 in) Carbon Steel Dryer-Thermal Disc"
+  ],
+  [
+   4,
+   "88925",
+   0,
+   1,
+   "Carbon Steel Bethlehem Corp 24H5S87 Dryer-Thermal Disc"
+  ],
+  [
+   5,
+   "96720",
+   0,
+   1,
+   "Unused 1,200 mm (48 in) Carbon Steel Dryer-Thermal Disc"
+  ],
+  [
+   6,
+   "96719",
+   0,
+   1,
+   "Unused 1,200 mm (48 in) Carbon Steel Dryer-Thermal Disc"
+  ],
+  [
+   7,
+   "239472",
+   0,
+   1,
+   "Dryer-Thermal Disc"
+  ],
+  [
+   8,
+   "33050",
+   0,
+   1,
+   "Carbon Steel Dryer-Thermal Disc"
+  ]
+ ]
+}

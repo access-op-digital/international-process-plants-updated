@@ -1,6 +1,6 @@
 # Buy Used Decanter Centrifuge Parts for Sale
 
-Buying used decanter centrifuge parts through International Process Plants (IPP) supplies plant engineering teams with scroll conveyors, rotating assemblies and a gearbox for Sharples, Alfa Laval, Dorr Oliver, Sangerhausen and Bird solid bowl decanter centrifuges. Stainless steel 316 covers the Dorr Oliver, Sharples P3400 and P-2000, and Sangerhausen parts, and the conveyors carry hard-surfaced flights. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
+Buying good used decanter centrifuge parts from International Process Plants (IPP) restores scroll conveyors, rotating assemblies, and gearboxes on Sharples, Alfa Laval, Dorr Oliver, Sangerhausen, and Bird decanters while clearing issues like long OEM part lead times and new-part costs. Plant engineering teams running solid bowl decanter centrifuges buy them straight from stock. Stainless steel 316 covers the Dorr Oliver, Sharples P3400 and P-2000, and Sangerhausen parts, and the conveyors carry hard-surfaced flights. Buying used saves up to 50% of capital and 90% of lead time versus buying new, and IPP has supplied process equipment worldwide since 1980.
 
 IPP's good used decanter parts include scroll conveyors for the Sharples P3400, the Alfa Laval NX314 and the Dorr Oliver 16L and Flottweg Z3L, rotating assemblies for the Sharples P-2000 and the Sangerhausen SKZSNh450S, and a Bird gearbox. Each listing is a ready-to-ship centrifuge replacement part.
 
@@ -50,7 +50,7 @@ Parts range from a gearbox and scroll conveyors to complete rotating assemblies,
 IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom and United States. IPP has served 160,000+ customers worldwide.
 
 ### Good Used Units
-IPP lists decanter centrifuge parts in good used condition. Each IMS listing states the condition grade alongside the part's description.
+IPP lists decanter centrifuge parts in good used condition. IMS shows the grade next to each part's description.
 
 
 ---
@@ -122,7 +122,7 @@ A: Good used scroll conveyors, rotating assemblies and a gearbox fit Sharples, A
 A: Buying used decanter centrifuge parts from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on the part type and the decanter it fits, so each part is quoted on request. Contact IPP for pricing on specific parts.
 
 **Q: What condition are the parts in?**
-A: IPP's decanter centrifuge parts are good used, each IMS listing stating its condition grade. The listings record features such as hard-surfaced conveyor flights and which assembly includes a gearbox.
+A: IPP's decanter centrifuge parts are good used, with the condition grade printed on IMS. The listings record features such as hard-surfaced conveyor flights and which assembly includes a gearbox.
 
 **Q: How long does it take to receive decanter centrifuge parts from IPP?**
 A: In-stock decanter centrifuge parts are ready to ship. IPP coordinates packaging, crating, freight and delivery to your plant site from offices in 15 countries. Contact IPP for shipping details on a specific part.

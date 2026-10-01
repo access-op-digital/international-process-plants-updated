@@ -26,7 +26,17 @@
     { "source": "/equipment/dryer/flash-dryer", "destination": "/equipment/dryer/flash-dryer/INTERNAL-REVIEW-flash-dryer.html" },
     { "source": "/equipment/dryer/flash-dryer/", "destination": "/equipment/dryer/flash-dryer/INTERNAL-REVIEW-flash-dryer.html" },
     { "source": "/equipment/dryer/porcupine-dryer-parts", "destination": "/equipment/dryer/porcupine-dryer-parts/INTERNAL-REVIEW-porcupine-dryer-parts.html" },
-    { "source": "/equipment/dryer/porcupine-dryer-parts/", "destination": "/equipment/dryer/porcupine-dryer-parts/INTERNAL-REVIEW-porcupine-dryer-parts.html" }
+    { "source": "/equipment/dryer/porcupine-dryer-parts/", "destination": "/equipment/dryer/porcupine-dryer-parts/INTERNAL-REVIEW-porcupine-dryer-parts.html" },
+    { "source": "/equipment/dryer/rotary-hot-air-dryer", "destination": "/equipment/dryer/rotary-hot-air-dryer/INTERNAL-REVIEW-rotary-hot-air-dryer.html" },
+    { "source": "/equipment/dryer/rotary-hot-air-dryer/", "destination": "/equipment/dryer/rotary-hot-air-dryer/INTERNAL-REVIEW-rotary-hot-air-dryer.html" },
+    { "source": "/equipment/dryer/shelf-dryer", "destination": "/equipment/dryer/shelf-dryer/INTERNAL-REVIEW-shelf-dryer.html" },
+    { "source": "/equipment/dryer/shelf-dryer/", "destination": "/equipment/dryer/shelf-dryer/INTERNAL-REVIEW-shelf-dryer.html" },
+    { "source": "/equipment/dryer/thin-film-dryer", "destination": "/equipment/dryer/thin-film-dryer/INTERNAL-REVIEW-thin-film-dryer.html" },
+    { "source": "/equipment/dryer/thin-film-dryer/", "destination": "/equipment/dryer/thin-film-dryer/INTERNAL-REVIEW-thin-film-dryer.html" },
+    { "source": "/equipment/dryer/thermal-disc-dryer", "destination": "/equipment/dryer/thermal-disc-dryer/INTERNAL-REVIEW-thermal-disc-dryer.html" },
+    { "source": "/equipment/dryer/thermal-disc-dryer/", "destination": "/equipment/dryer/thermal-disc-dryer/INTERNAL-REVIEW-thermal-disc-dryer.html" },
+    { "source": "/equipment/dryer/spherical-dryer", "destination": "/equipment/dryer/spherical-dryer/INTERNAL-REVIEW-spherical-dryer.html" },
+    { "source": "/equipment/dryer/spherical-dryer/", "destination": "/equipment/dryer/spherical-dryer/INTERNAL-REVIEW-spherical-dryer.html" }
   ],
   "redirects": [
     { "source": "/buy-used", "destination": "https://internationalprocessplants.com/buy-used/", "permanent": false },

@@ -1,6 +1,6 @@
 # Buy Used Pusher Centrifuges for Sale
 
-Buying used pusher centrifuges through International Process Plants (IPP) offers chemical, pharmaceutical, food and specialty manufacturers continuous filtering centrifuges from Krauss Maffei, Escher Wyss, Andritz, Siebtechnik and other OEM manufacturers. Basket diameters range from 281 mm (11.1 in) to 1,050 mm (41.9 in), with stainless steel and Hastelloy baskets in single-stage, two-stage and multi-stage designs. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980, and its second hand pusher centrifuges are ready to ship.
+Buying good used and refurbished pusher centrifuges from International Process Plants (IPP) secures continuous filtration, multi-stage dewatering, and cake washing while curbing issues like capacity delays and long delivery windows. Chemical, pharmaceutical, food and specialty manufacturers get continuous filtering centrifuges from Krauss Maffei, Escher Wyss, Andritz, Siebtechnik and other OEM manufacturers. Basket diameters range from 281 mm (11.1 in) to 1,050 mm (41.9 in), with stainless steel and Hastelloy baskets in single-stage, two-stage and multi-stage designs. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980, and its second hand pusher centrifuges are ready to ship.
 
 IPP's pusher centrifuge inventory covers good used and refurbished units of the continuous design, in which a reciprocating pusher plate moves the filter cake along a rotating screen basket. Two-stage machines lead the inventory, with maximum speeds from 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP).
 
@@ -25,14 +25,14 @@ IMS, IPP's inventory system, details the basket diameter, number of basket stage
 
 ## Browse Used Pusher Centrifuges by Basket Stages
 
-The Number of Basket Stages field on IPP's IMS inventory system separates this inventory into single-stage, two-stage and multi-stage machines.
+Basket stage counts on IMS separate this inventory into single-stage, two-stage and multi-stage machines.
 
 
 ---
 
 ## Buy Used Pusher Centrifuges by Basket Diameter
 
-Basket diameter is the capacity figure IMS records for each pusher centrifuge, and IPP's inventory runs from 281 mm (11.1 in) to 1,050 mm (41.9 in). Every size tab carries featured units plus a link to the matching units on IMS.
+IMS sizes pusher centrifuges by basket diameter, which spans 281 mm (11.1 in) to 1,050 mm (41.9 in) across IPP's stock. Every size tab carries featured units plus a link to the matching units on IMS.
 
 ### Buy Used Pusher Centrifuges up to 500 mm (19.7 in)
 
@@ -176,7 +176,7 @@ Good used Escher Wyss pusher centrifuge with a stainless steel 316 basket, 1,050
 
 ## Single-Stage vs Two-Stage Pusher Centrifuges
 
-Single-stage and two-stage pusher centrifuges both push the filter cake along a rotating screen basket with a reciprocating pusher plate, and they differ in how many basket stages the cake crosses. The factors below set the two designs apart.
+Single-stage and two-stage pusher centrifuges both push the filter cake along a rotating screen basket with a reciprocating pusher plate, and the number of basket stages the cake crosses sets them apart. The factors below set the two designs apart.
 
 | Factor | Two-Stage Pusher | Single-Stage Pusher |
 |-----|-----|-----|
@@ -408,7 +408,7 @@ Good used Krauss Maffei SB 1000/2 pusher centrifuge with a stainless steel 304 b
 
 ### Buy Refurbished Pusher Centrifuges
 
-Refurbished pusher centrifuges in IPP's inventory include Andritz SZ400/2, Escher Wyss P-3, P-5 and S-700 and Krauss Maffei SV70 units, listed on IMS with the condition grade Refurbished/Rebuilt.
+Refurbished pusher centrifuges in IPP's inventory include Andritz SZ400/2, Escher Wyss P-3, P-5 and S-700 and Krauss Maffei SV70 units under IMS's refurbished/rebuilt grade.
 
 #### [Refurbished] Krauss Maffei SV70 SS 316, 700 mm (27.6 in) ([IPP# 704397](https://ims.internationalprocessplants.com/inventory/equipment/detail/pusher-centrifuge/704397))
 
@@ -521,10 +521,10 @@ IPP supplies used pusher centrifuges to manufacturers across 10 process industri
 
 ## Available Materials of Construction
 
-Pusher centrifuges are specified by basket material, and IPP's inventory covers the basket grades below.
+Each pusher centrifuge is specified by basket grade, with the grades in stock listed here.
 
 ### Stainless Steel 316 & 317
-Stainless steel 316 baskets represent the largest share of IPP's pusher centrifuge inventory, with SS 317 on the Andritz SZ400/2 units. Grades 316 and 317 contain molybdenum, which improves pitting resistance compared with grade 304.
+Stainless steel 316 baskets lead IPP's pusher centrifuge inventory, with SS 317 on the Andritz SZ400/2 units. Grades 316 and 317 resist pitting better than grade 304 because of their molybdenum content.
 
 ### Stainless Steel 304 & Austenitic
 Stainless steel 304 baskets come on the Krauss Maffei SB 1000/2 machines, and austenitic stainless steel baskets on the Siebtechnik H1000 and Alfa Laval SB800/2 units. Stainless steel baskets offer high mechanical strength and durability under high rotational G-forces.
@@ -563,7 +563,7 @@ A: Good used and refurbished pusher centrifuges from Krauss Maffei, Escher Wyss,
 A: Buying a used pusher centrifuge from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on manufacturer, basket diameter, number of stages and condition, so the cost of a specific unit is quoted on request. Contact IPP for pricing on specific units.
 
 **Q: What condition grades are available for pusher centrifuges?**
-A: IPP lists pusher centrifuges in good used and refurbished/rebuilt condition, each IMS listing stating its grade. For new equipment, IPP's Gale Process Solutions (GPS) subsidiary provides custom fabricated stainless steel equipment with 12 to 16 week average delivery.
+A: IPP lists pusher centrifuges in good used and refurbished/rebuilt condition, with the grade on each listing. For new equipment, IPP's Gale Process Solutions (GPS) subsidiary provides custom fabricated stainless steel equipment with 12 to 16 week average delivery.
 
 **Q: How long does it take to receive a pusher centrifuge from IPP?**
 A: In-stock pusher centrifuges are ready to ship. IPP coordinates packaging, crating, freight and delivery to your plant site from offices in 15 countries. Contact IPP for shipping details on a specific unit.
@@ -572,7 +572,7 @@ A: In-stock pusher centrifuges are ready to ship. IPP coordinates packaging, cra
 A: Pusher centrifuges are continuous filtering centrifuges: feeding, filtration, washing and discharge run at the same time, without the stop-start cycle of a batch machine. The pusher type centrifuge takes its name from the reciprocating plate that pushes the cake along the basket, and IPP's [peeler centrifuges](/process-equipment/centrifuge/peeler-centrifuge/) are the batch alternative.
 
 **Q: How does a pusher centrifuge work?**
-A: A pusher centrifuge works on the principle of continuous filtration on a rotating screen basket. Slurry enters through a central feed pipe and a distributor spreads it onto the basket wall, where centrifugal force drives the liquid through the screen slots and the solids form a ring-shaped cake. A pusher plate rotates with the basket and strokes back and forth, so each forward stroke moves the cake a step toward the open end, where the solids leave the basket into the discharge housing.
+A: Continuous filtration on a rotating screen basket defines the pusher centrifuge's working principle. Slurry enters through a central feed pipe and a distributor spreads it onto the basket wall, where centrifugal force drives the liquid through the screen slots and the solids form a ring-shaped cake. A pusher plate rotates with the basket and strokes back and forth, so each forward stroke moves the cake a step toward the open end, where the solids leave the basket into the discharge housing.
 
 **Q: How does cake washing work in a pusher centrifuge?**
 A: Wash nozzles spray liquid onto the cake as it advances along the basket, and the wash liquid displaces the mother liquor held in the crystal bed. Baffles or separate housings collect the wash filtrate apart from the mother liquor, and IMS records washing on half of IPP's pusher centrifuges, including the Krauss Maffei SB 1000/2 machines.
@@ -584,7 +584,7 @@ A: IPP carries pusher centrifuges from Krauss Maffei, Escher Wyss, Andritz, Sieb
 A: IPP's pusher centrifuges have baskets in stainless steel 316, 304, 317, austenitic and other stainless grades, and Hastelloy. Stainless steel 316 leads the basket materials in the inventory.
 
 **Q: What basket sizes are available, and how do I find the right size?**
-A: IPP's pusher centrifuges range from 281 mm (11.1 in) to 1,050 mm (41.9 in) basket diameter, with maximum speeds of 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP). Share your throughput, feed concentration and number of stages with IPP, and the team will match units in stock to your requirements.
+A: IPP's pusher centrifuges range from 281 mm (11.1 in) to 1,050 mm (41.9 in) basket diameter, with maximum speeds of 1,000 to 2,500 rpm and motors up to 93.2 kW (125 HP). With your throughput, feed concentration and stage count, IPP's team picks the closest units in stock.
 
 **Q: Are gas-tight pusher centrifuges available?**
 A: Yes. IMS lists the Krauss Maffei SB 1000/2 pusher centrifuges as gas tight, with washing and 2.1 m² (23 ft²) of filtration area. Each listing states the features that apply, including washing and controls.
