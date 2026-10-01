@@ -1,10 +1,10 @@
 # Buy Used Plate and Frame Heat Exchangers for Sale
 
-International Process Plants (IPP) sells good used and surplus plate and frame heat exchangers from Alfa Laval, API Schmidt-Bretten, APV, Tranter and other OEMs to engineering and procurement teams at process manufacturers worldwide. IPP has supplied process equipment since 1980.
+Buying used plate and frame heat exchangers through International Process Plants (IPP) gives chemical, pharmaceutical, food and specialty manufacturers access to gasketed plate heat exchangers from Alfa Laval, API Schmidt-Bretten, APV, Tranter, Vicarb, GEA and other OEM manufacturers. Heat transfer surface areas range from 0.2 m² (2.2 ft²) to 938 m² (10,100 ft²), with plates in stainless steel, titanium, Hastelloy and graphite. Buying used saves up to 50% of capital and 90% of lead time versus buying new. IPP has supplied process equipment worldwide since 1980.
 
-A plate and frame heat exchanger is the gasketed plate heat exchanger design: a bolted frame clamps a pack of corrugated plates, and IPP's units carry stainless steel, titanium, Hastelloy or graphite plates.
+IPP stocks good used, unused and new plate and frame heat exchangers, the gasketed design in which a frame clamps a pack of corrugated plates. Plate materials include stainless steel 304, 316, 316L and 321, titanium, Hastelloy C-276 and Hastelloy B, and graphite, and plate packs range from 6 to 588 plates.
 
-Buyers choose a unit from IPP's live inventory, review its data package and arrange an inspection before IPP ships it.
+Each plate and frame heat exchanger is listed on IPP's IMS inventory system with its heat transfer area, plate count, pressure and temperature ratings and condition grade. New custom fabricated stainless steel equipment is available through IPP's Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery.
 
 [Request a Quote](https://internationalprocessplants.com/contact/) | [Search Inventory](https://ims.internationalprocessplants.com/inventory/search/equipment/heat-exchanger/plate-and-frame)
 
@@ -28,14 +28,14 @@ Trusted around the world by
 
 ## Browse Used Plate and Frame Heat Exchangers by Material
 
-Each card opens IPP's live IMS listings for one plate-material family, from stainless steel plate packs to titanium.
+IPP lists plate and frame heat exchangers by plate material, following the four material groups on its IMS inventory system: stainless steel, nickel alloys, titanium and graphite.
 
 
 ---
 
 ## Buy Used Plate and Frame Heat Exchangers by Heat Transfer Area
 
-Heat transfer surface area is the capacity figure IMS records for each plate and frame heat exchanger, and IPP's inventory runs from 0.2 m² (2.2 ft²) to 938 m² (10,100 ft²). Each tab shows featured units in one area band, with a link to every matching unit on IMS.
+Heat transfer surface area is the capacity figure IMS records for each plate and frame heat exchanger, and IPP's inventory runs from 0.2 m² (2.2 ft²) to 938 m² (10,100 ft²). Each tab shows featured units in that size range, with a link to every matching unit on IMS.
 
 ### Buy Used Plate and Frame Heat Exchangers up to 10 m² (108 ft²)
 
@@ -133,7 +133,7 @@ Good used Stemmed Sigma G37 plate and frame heat exchanger with stainless steel 
 
 ### Buy Used Plate and Frame Heat Exchangers over 50 m² (538 ft²)
 
-Above 50 m² (538 ft²), IPP's plate packs reach 938 m² (10,100 ft²) in stainless steel and titanium from Alfa Laval, APV, API Schmidt-Bretten, Tranter and Graham.
+Units over 50 m² (538 ft²) reach 938 m² (10,100 ft²) and include stainless steel and titanium plate packs from Alfa Laval, APV, API Schmidt-Bretten, Tranter and Graham.
 
 #### Alfa Laval P31-HX SS 316, 108.8 m² (1,150 ft²) ([IPP# 245826](https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/245826))
 
@@ -187,25 +187,25 @@ Plate and frame and shell and tube heat exchangers both transfer heat between tw
 
 | Factor | Plate and Frame | Shell and Tube |
 |-----|-----|-----|
-| Construction | Gasketed plate pack in a bolted frame | Tube bundle inside a cylindrical shell |
+| Construction | Corrugated plates clamped in a frame and sealed by gaskets | Tube bundle inside a cylindrical shell |
 | Heat Transfer | Corrugated plates create turbulent flow and a high heat transfer coefficient | Lower heat transfer coefficient than corrugated plates |
 | Footprint | Compact for a given heat load | Larger and heavier, with clearance needed to withdraw the bundle |
 | Pressure Envelope | Gasketed units typically rated up to about 31 bar (450 psi) | Designs available for much higher pressures |
 | Temperature Envelope | Set by the gasket elastomer | Suited to higher temperatures |
 | Capacity Changes | Plates are added to or removed from the frame | Fixed tube count; more capacity means another unit |
 | Access to Heat Transfer Surface | The frame opens to expose every plate | Bundle withdrawal for shell-side access |
-| In IPP's Inventory | Gasketed units across a wide range of heat transfer areas | [Listed on IPP's shell and tube heat exchanger page](https://internationalprocessplants.com/process-equipment/heat-exchanger/shell-and-tube/) |
+| In IPP's Inventory | Gasketed units from 0.2 m² (2.2 ft²) to 938 m² (10,100 ft²) | [Listed on IPP's shell and tube heat exchanger page](https://internationalprocessplants.com/process-equipment/heat-exchanger/shell-and-tube/) |
 
 
 ---
 
 ## Buy Used Plate and Frame Heat Exchangers for Sale by Manufacturer
 
-Among the manufacturers in IPP's plate heat exchanger inventory, Alfa Laval and API Schmidt-Bretten SIGMA units hold the deepest positions, followed by APV, Tranter and Vicarb, with ITT units also in stock.
+Alfa Laval, API Schmidt-Bretten (SIGMA series), APV, Tranter and Vicarb hold the deepest positions in IPP's plate and frame heat exchanger inventory, alongside GEA, Paul Mueller, Graham, ITT and other OEMs.
 
 ### Buy Used Alfa Laval Plate and Frame Heat Exchangers for Sale
 
-Alfa Laval units in IPP's plate heat exchanger inventory include M10, M15, A10, A15 and M30 series frames with stainless steel 316, stainless steel 304 and titanium plates.
+Each Alfa Laval plate heat exchanger in this tab belongs to IPP's plate and frame inventory, which includes M10, M15, A10, A15 and M30 series units with stainless steel 316, stainless steel 304 and titanium plates.
 
 #### Alfa Laval M10-MFG Hastelloy, 9.2 m² (99 ft²) ([IPP# 248317](https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/248317))
 
@@ -294,7 +294,7 @@ Good used API Schmidt-Bretten Sigma-20 plate and frame heat exchanger with stain
 
 ### Buy Used APV Plate and Frame Heat Exchangers for Sale
 
-APV's Paraflow SR-series, R-series and HX-series units make up IPP's APV plate heat exchanger stock, most with stainless steel 316 plates.
+Each APV plate heat exchanger in IPP's inventory is a plate and frame unit, including Paraflow SR-series, R-series and HX-series units, most with stainless steel 316 plates.
 
 #### APV SR25 SS 316, 4.6 m² (50 ft²) ([IPP# 207660](https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/207660))
 
@@ -434,7 +434,7 @@ Good used Vicarb V13 plate and frame heat exchanger with stainless steel Other p
 
 ### Buy Used GEA Plate and Frame Heat Exchangers for Sale
 
-GEA plate heat exchanger units at IPP come from the VT20, VT40 and N40 lines with stainless steel 316 plates.
+Each GEA plate heat exchanger IPP stocks comes from the VT20, VT40 and N40 lines with stainless steel 316 plates.
 
 #### GEA VT20C-6 Stainless Steel, 5.5 m² (58.8 ft²) ([IPP# 85060](https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/85060))
 
@@ -568,7 +568,7 @@ Unused surplus Alfa Laval M30-FD plate and frame heat exchanger with stainless s
 
 ### Buy New Plate and Frame Heat Exchangers
 
-IPP's new stock includes Schiller stainless steel 316 units of 6.5 m² (70 ft²) and 96 m² (1,050 ft²).
+New plate and frame heat exchangers in IPP's inventory include Schiller stainless steel 316 units of 6.5 m² (70 ft²) and 96 m² (1,050 ft²).
 
 #### [New] Schiller Apparatebau Gmbh SS 316, 6.5 m² (70 ft²) ([IPP# 232794](https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/plate-and-frame/232794))
 
@@ -605,38 +605,38 @@ New Schiller Apparatebau Gmbh plate and frame heat exchanger with stainless stee
 
 ## Advantages of Buying Used Plate and Frame Heat Exchangers from IPP
 
-International Process Plants offers plate and frame heat exchangers from an inventory of 15,000 process systems and major pieces of equipment and 20 complete plant sites, backed by nearly 150 colleagues around the world.
+International Process Plants combines over 46 years of process equipment expertise, nearly 150 colleagues across 15 countries, and an inventory of 15,000 process systems and major equipment pieces to deliver plate and frame heat exchangers ready for your process.
 
 ### Significant Cost Savings
-Buying a used plate and frame heat exchanger from IPP can save up to 50% of capital and 90% of lead time versus buying new. IPP quotes the price of each unit on request, and financing is available.
+Buying used plate and frame heat exchangers from IPP can save up to 50% of capital and 90% of lead time versus buying new. IPP quotes the price of each unit on request and lists units across a wide range of heat transfer areas and plate materials to match your budget and specifications.
 
 ### Immediate Availability
-Plate and frame units listed on IMS are in stock and ready to ship, so a replacement exchanger skips the fabrication queue of a new build.
+In-stock plate and frame heat exchangers from IPP are ready to ship. IPP's GPS subsidiary also provides custom fabricated new stainless steel equipment with 12 to 16 week average delivery.
 
 ### Multiple OEM Manufacturers
-Each IMS listing names the unit's OEM and model where recorded, from Alfa Laval M-series frames to API Schmidt-Bretten SIGMA plate packs.
+IPP stocks plate and frame heat exchangers from Alfa Laval, API Schmidt-Bretten, APV, Tranter, Vicarb, GEA, Paul Mueller and more than 20 other OEM manufacturers. Each unit is listed with its manufacturer and model where IMS records them.
 
 ### Full Range of Materials & Specs
-Plate packs range from 6 to 588 plates across four plate-material groups, and each IMS listing records the unit's plate material.
+Plate materials include stainless steel, titanium, Hastelloy and graphite. Heat transfer areas run from 0.2 m² (2.2 ft²) to 938 m² (10,100 ft²), with plate packs of 6 to 588 plates.
 
 ### Global Presence in 15 Countries
-IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom and United States, and its teams coordinate plate and frame heat exchanger deliveries worldwide.
+IPP operates offices in 15 countries: Brazil, Canada, China, Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, United Kingdom and United States. IPP has served 160,000+ customers worldwide.
 
-### Searchable IMS Listings
-Every plate and frame heat exchanger IPP stocks has a listing on IPP's IMS inventory system with its heat transfer area, plate count, pressure and temperature ratings and, for most units, photographs, so engineers can compare units before requesting a quote.
+### Good Used, Unused & New Options
+IPP lists plate and frame heat exchangers in good used, unused surplus and new condition. Each IMS listing states the condition grade alongside the unit's specifications.
 
 
 ---
 
 ## How Purchasing a Used Plate and Frame Heat Exchanger Works
 
-Buying a used plate and frame heat exchanger from IPP follows five steps, from specification to delivery.
+The process of buying a used plate and frame heat exchanger from IPP follows five steps, from specification to delivery.
 
-1. **Submit Requirements** -- Share the heat transfer area, plate material, plate count, pressure rating and temperature your process needs, or browse IPP's searchable inventory.
-2. **Receive Data Package** -- IPP sends the unit's equipment data sheet with heat transfer area, pressure and temperature ratings, plate count, frame material, nozzle schedule, dimensions and a condition report with photographs.
-3. **Inspect the Equipment** -- IPP arranges an on-site visit or a live video walkthrough of the heat exchanger with a member of its team.
+1. **Submit Requirements** -- Share your plate heat exchanger specifications: heat transfer area, plate material, plate count, pressure rating and temperature. Or browse IPP's searchable inventory.
+2. **Receive Data Package** -- IPP sends a detailed equipment data sheet with heat transfer area, pressure and temperature ratings, plate count, frame material, nozzle schedule, dimensions and a condition report with photographs.
+3. **Inspect the Equipment** -- Contact IPP to arrange an on-site visit or request a live video walkthrough of the heat exchanger with an IPP team member at one of our global locations.
 4. **Refurbishment Options** -- Contact IPP for details on refurbishment services for a specific plate and frame heat exchanger.
-5. **Packaging & Delivery** -- IPP coordinates packaging, crating, freight and delivery of the plate and frame heat exchanger to your plant site.
+5. **Packaging & Delivery** -- IPP coordinates packaging, crating, freight and delivery to your plant site. Worldwide shipping from offices in 15 countries. Contact IPP for shipping details.
 
 
 ---
@@ -652,7 +652,7 @@ Tell us your heat transfer area, plate material, pressure and temperature requir
 
 ## Industries That Buy Used Plate and Frame Heat Exchangers
 
-IPP supplies used plate and frame heat exchangers to manufacturers across 10 process industries, from pharmaceutical and chemical processing to food and beverage and petrochemicals.
+IPP supplies used plate and frame heat exchangers to manufacturers across 10 process industries worldwide, from pharmaceutical and chemical processing to food and beverage and petrochemicals.
 
 - Pharmaceutical
 - Chemical Processing
@@ -673,49 +673,49 @@ IPP supplies used plate and frame heat exchangers to manufacturers across 10 pro
 Plate and frame heat exchangers are specified by plate material, gasket elastomer and frame material, and IPP's inventory covers the plate grades below.
 
 ### Stainless Steel
-Stainless steel is the largest plate-material share of IPP's plate and frame inventory. Grades 316 and 316L contain molybdenum, which improves pitting resistance compared with grade 304.
+Stainless steel plates represent the largest share of IPP's plate and frame inventory, in grades SS 304, SS 316, SS 316L, SS 321 and austenitic stainless steel. Grades 316 and 316L contain molybdenum, which improves pitting resistance compared with grade 304.
 
 ### Titanium
-Titanium is the second most common plate material in IPP's plate and frame inventory. Titanium resists chloride-bearing media through a self-repairing passive oxide film.
+Titanium plate units in stock come from Alfa Laval, APV, Tranter and other OEMs. Titanium resists chloride-bearing media through a self-repairing passive oxide film.
 
 ### Hastelloy & Graphite
-Hastelloy is a nickel alloy with high resistance to strong acids, and graphite plates give buyers a non-metallic option.
+Hastelloy C-276, Hastelloy B and graphite plate units complete the inventory, with graphite plates from SGL Carbon (Sigri). Hastelloy is a nickel alloy with high resistance to strong acids.
 
 
 ---
 
 ## Buying Used Plate and Frame Heat Exchangers vs Buying New
 
-A used plate and frame heat exchanger from IPP and a new OEM build differ in cost, delivery and the range of specifications available at the time of purchase.
+Buying used plate and frame heat exchangers from IPP can save up to 50% of capital and 90% of lead time versus buying new. Here is how a used unit from IPP and a new OEM build compare across key factors.
 
 | Factor | Used from IPP | New (OEM) |
 |-----|-----|-----|
 | Equipment Cost | Significant savings vs new OEM price | Full OEM list price |
 | Delivery Timeline | In-stock units ready to ship | Extended lead times (new fabrication) |
-| Heat Transfer Area | 0.2 to 938 m² (2.2 to 10,100 ft²) in stock | Built to specification |
+| Heat Transfer Area | 0.2 m² (2.2 ft²) to 938 m² (10,100 ft²) in stock | Built to specification |
 | Plate Materials | Stainless steel, titanium, Hastelloy and graphite | Built to specification |
 | Pressure and Temperature Ratings | Listed for each unit on IMS | Built to specification |
 | Condition Options | Good used, unused surplus and new | New only |
-| New-Build Route | New equipment from IPP's GPS subsidiary | OEM fabrication schedule |
+| New-Build Route | Custom fabricated stainless steel equipment via GPS, 12 to 16 week average delivery | OEM fabrication schedule |
 
 
 ---
 
 ## Frequently Asked Questions About Buying Used Plate and Frame Heat Exchangers
 
-Answers to the questions engineering and procurement teams ask about buying used plate and frame heat exchangers from IPP.
+Answers to the most common questions from engineering and procurement teams evaluating used plate and frame heat exchangers from IPP.
 
 **Q: What plate and frame heat exchangers does IPP stock?**
-A: IPP stocks gasketed plate and frame heat exchangers in good used, unused and new condition, with stainless steel, titanium, Hastelloy and graphite plates. Browse the IMS inventory for the units available today.
+A: IPP stocks good used, unused and new plate and frame heat exchangers from Alfa Laval, API Schmidt-Bretten, APV, Tranter, Vicarb, GEA and other OEM manufacturers. Units range from 0.2 m² (2.2 ft²) to 938 m² (10,100 ft²) of heat transfer area, with stainless steel, titanium, Hastelloy and graphite plates. Browse the IMS inventory for current availability.
 
 **Q: How much can I save buying a used plate and frame heat exchanger versus new?**
-A: Savings reach up to 50% of capital and 90% of lead time compared with buying new, depending on the unit's manufacturer, heat transfer area, plate material and condition. IPP quotes the price and total cost of a specific plate heat exchanger on request.
+A: Buying a used plate and frame heat exchanger from IPP can save up to 50% of capital and 90% of lead time versus buying new. The exact savings and price depend on manufacturer, heat transfer area, plate material and condition, so the cost of a specific plate heat exchanger is quoted on request. Contact IPP for pricing on specific units.
 
 **Q: Does IPP sell new plate and frame heat exchangers as well as used?**
-A: Yes. IPP's inventory includes new and unused plate and frame heat exchangers, and IPP's Gale Process Solutions (GPS) subsidiary builds new process equipment, including heat exchangers. Contact IPP for new equipment options.
+A: Yes. IPP's inventory includes new and unused plate and frame heat exchangers, and IPP's Gale Process Solutions (GPS) subsidiary provides custom fabricated stainless steel equipment with 12 to 16 week average delivery. Contact IPP for details on new equipment options.
 
 **Q: How long does it take to receive a plate and frame heat exchanger from IPP?**
-A: In-stock plate and frame heat exchangers are ready to ship, and IPP arranges crating and freight to your plant site. Contact IPP for the shipping timeline of a specific unit.
+A: In-stock plate and frame heat exchangers are ready to ship. IPP coordinates packaging, crating, freight and delivery to your plant site from offices in 15 countries. Contact IPP for shipping details on a specific unit.
 
 **Q: How does a plate and frame heat exchanger work?**
 A: A plate and frame heat exchanger works on the principle of indirect heat transfer between two fluids through thin corrugated metal plates clamped together in a frame. The hot and cold fluids flow in alternate channels between the plates, usually in opposite directions, so heat passes through each plate wall without the fluids mixing. Gaskets seal each channel and direct the fluids, and in this design tightening bolts hold the plate pack between the fixed and movable end plates. Its purpose is to heat or cool one fluid with another without the two coming into contact.
@@ -727,21 +727,21 @@ A: A gasketed plate heat exchanger seals its plates with elastomer gaskets insid
 A: Gaskets seal the channels between the plates of a plate and frame heat exchanger, so the two fluids neither leak out nor mix. They also block selected corner ports to direct each fluid into its own alternating channels, and they hold that seal under system pressure. Common gasket elastomers include NBR (nitrile), EPDM and FKM (Viton).
 
 **Q: Which manufacturers' plate and frame heat exchangers does IPP carry?**
-A: IPP carries plate and frame heat exchangers from more than 25 OEM manufacturers, including GEA, Paul Mueller, Graham, ITT, SGL Carbon, Sondex and SWEP alongside the larger Alfa Laval, API Schmidt-Bretten, APV, Tranter and Vicarb positions.
+A: IPP carries plate and frame heat exchangers from more than 25 OEM manufacturers. The deepest positions are Alfa Laval, API Schmidt-Bretten, APV, Tranter and Vicarb, with GEA, Paul Mueller, Graham, ITT, SGL Carbon, Sondex and SWEP also represented.
 
 **Q: What plate materials are available?**
-A: IPP's plate and frame heat exchangers have plates in stainless steel 304, 316, 316L and 321, titanium, Hastelloy C-276 and Hastelloy B, and graphite.
+A: IPP's plate and frame heat exchangers have plates in stainless steel 304, 316, 316L and 321, titanium, Hastelloy C-276 and Hastelloy B, and graphite. Stainless steel is the most common plate material in the inventory, followed by titanium and nickel alloys.
 
 **Q: What frame materials do IPP's plate and frame heat exchangers have?**
 A: IMS lists carbon steel as the most common frame material on IPP's plate and frame heat exchangers, with stainless steel 316, 316L and 321 and Hastelloy C-276 frames on selected units. Each listing states the frame material where it is recorded.
 
 **Q: What heat transfer areas are available, and how do I find the right size?**
-A: Heat transfer areas run from 0.2 m² (2.2 ft²) to 938 m² (10,100 ft²) on plate packs of 6 to 588 plates. Share your heat duty, flow rates, temperatures and pressures with IPP, and the team will match units in stock to your requirements.
+A: IPP's plate and frame heat exchangers range from 0.2 m² (2.2 ft²) to 938 m² (10,100 ft²) of heat transfer area, with plate packs of 6 to 588 plates. Share your heat duty, flow rates, temperatures and pressures with IPP, and the team will match units in stock to your requirements.
 
 
 ---
 
-IPP's inventory includes new and unused plate and frame heat exchangers. For equipment not in stock, IPP's Gale Process Solutions (GPS) subsidiary builds an inventory of new commonly used process equipment, including heat exchangers, with zero lead time, and delivers custom equipment in an average of 12 to 16 weeks.
+IPP's inventory includes new and unused plate and frame heat exchangers, and IPP Group supplies new custom fabricated stainless steel equipment through its Gale Process Solutions (GPS) subsidiary with 12 to 16 week average delivery. If you cannot find what you need in the used inventory, contact IPP to discuss new equipment options.
 
 [Ask About New Equipment](https://internationalprocessplants.com/contact/)
 
@@ -750,6 +750,6 @@ IPP's inventory includes new and unused plate and frame heat exchangers. For equ
 
 ## Ready to Buy a Used Plate and Frame Heat Exchanger?
 
-IPP has served more than 160,000 customers worldwide. Contact IPP's global headquarters in Princeton Junction, New Jersey, at [+1 609-586-8004](tel:+16095868004) or [sales@internationalprocessplants.com](mailto:sales@internationalprocessplants.com), and the team will respond with matched plate and frame inventory and pricing.
+IPP has supplied quality process equipment worldwide since 1980, serving 160,000+ customers. Tell us what you need, and our team will respond with matched inventory and pricing.
 
-[+1 609-586-8004](tel:+16095868004) | [sales@internationalprocessplants.com](mailto:sales@internationalprocessplants.com) | [Talk to Our Team](https://internationalprocessplants.com/contact/) | [Search Plate and Frame Inventory](https://ims.internationalprocessplants.com/inventory/search/equipment/heat-exchanger/plate-and-frame)
+[Talk to Our Team](https://internationalprocessplants.com/contact/) | [Search Plate and Frame Inventory](https://ims.internationalprocessplants.com/inventory/search/equipment/heat-exchanger/plate-and-frame)
