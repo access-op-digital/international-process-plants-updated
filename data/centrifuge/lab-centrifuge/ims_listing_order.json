@@ -1,0 +1,54 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/lab-centrifuge",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/lab-centrifuge",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used lab centrifuges for sale: compact separation equipment for pilot and small-batch runs",
+ "items_found": 5,
+ "items_this_category": 5,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "239307",
+   1,
+   1,
+   "Lab Centrifuge Stainless Steel 316L Centritec Cell 8"
+  ],
+  [
+   2,
+   "239308",
+   0,
+   1,
+   "Stainless Steel 316L Centrifuge-Lab"
+  ],
+  [
+   3,
+   "239309",
+   0,
+   1,
+   "Stainless Steel 316 Centrifuge-Lab"
+  ],
+  [
+   4,
+   "702583",
+   0,
+   1,
+   "Stainless Steel Other Sharples 1P Centrifuge-Lab"
+  ],
+  [
+   5,
+   "47375",
+   0,
+   1,
+   "Carbon Steel Centrifuge-Lab"
+  ]
+ ]
+}

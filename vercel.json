@@ -6,7 +6,17 @@
     { "source": "/buy-used-shaft-mixer-agitators.html", "destination": "/equipment/agitators/buy-used-shaft-mixer-agitators.html" },
     { "source": "/buy-used-batch-type-agitated-reactors.html", "destination": "/equipment/reactor/batch-type-agitated/buy-used-batch-type-agitated-reactors.html" },
     { "source": "/equipment/heat-exchanger/plate-and-frame", "destination": "/equipment/heat-exchanger/plate-and-frame/INTERNAL-REVIEW-plate-and-frame.html" },
-    { "source": "/equipment/heat-exchanger/plate-and-frame/", "destination": "/equipment/heat-exchanger/plate-and-frame/INTERNAL-REVIEW-plate-and-frame.html" }
+    { "source": "/equipment/heat-exchanger/plate-and-frame/", "destination": "/equipment/heat-exchanger/plate-and-frame/INTERNAL-REVIEW-plate-and-frame.html" },
+    { "source": "/equipment/centrifuge/peeler-centrifuge", "destination": "/equipment/centrifuge/peeler-centrifuge/INTERNAL-REVIEW-peeler-centrifuge.html" },
+    { "source": "/equipment/centrifuge/peeler-centrifuge/", "destination": "/equipment/centrifuge/peeler-centrifuge/INTERNAL-REVIEW-peeler-centrifuge.html" },
+    { "source": "/equipment/centrifuge/pusher-centrifuge", "destination": "/equipment/centrifuge/pusher-centrifuge/INTERNAL-REVIEW-pusher-centrifuge.html" },
+    { "source": "/equipment/centrifuge/pusher-centrifuge/", "destination": "/equipment/centrifuge/pusher-centrifuge/INTERNAL-REVIEW-pusher-centrifuge.html" },
+    { "source": "/equipment/centrifuge/pusher-centrifuge-parts", "destination": "/equipment/centrifuge/pusher-centrifuge-parts/INTERNAL-REVIEW-pusher-centrifuge-parts.html" },
+    { "source": "/equipment/centrifuge/pusher-centrifuge-parts/", "destination": "/equipment/centrifuge/pusher-centrifuge-parts/INTERNAL-REVIEW-pusher-centrifuge-parts.html" },
+    { "source": "/equipment/centrifuge/misc-and-hydraulic-centrifuge", "destination": "/equipment/centrifuge/misc-and-hydraulic-centrifuge/INTERNAL-REVIEW-misc-and-hydraulic-centrifuge.html" },
+    { "source": "/equipment/centrifuge/misc-and-hydraulic-centrifuge/", "destination": "/equipment/centrifuge/misc-and-hydraulic-centrifuge/INTERNAL-REVIEW-misc-and-hydraulic-centrifuge.html" },
+    { "source": "/equipment/centrifuge/lab-centrifuge", "destination": "/equipment/centrifuge/lab-centrifuge/INTERNAL-REVIEW-lab-centrifuge.html" },
+    { "source": "/equipment/centrifuge/lab-centrifuge/", "destination": "/equipment/centrifuge/lab-centrifuge/INTERNAL-REVIEW-lab-centrifuge.html" }
   ],
   "redirects": [
     { "source": "/buy-used", "destination": "https://internationalprocessplants.com/buy-used/", "permanent": false },
@@ -42,7 +52,8 @@
     { "source": "/equipment/agitator/shaft-mixer", "destination": "/equipment/agitators/buy-used-shaft-mixer-agitators.html", "permanent": false },
     { "source": "/equipment/agitator/shaft-mixer/", "destination": "/equipment/agitators/buy-used-shaft-mixer-agitators.html", "permanent": false },
     { "source": "/equipment/agitator/glass-lined", "destination": "/equipment/agitators/buy-used-glass-lined-agitators.html", "permanent": false },
-    { "source": "/equipment/agitator/glass-lined/", "destination": "/equipment/agitators/buy-used-glass-lined-agitators.html", "permanent": false }
+    { "source": "/equipment/agitator/glass-lined/", "destination": "/equipment/agitators/buy-used-glass-lined-agitators.html", "permanent": false },
+    { "source": "/process-equipment/:path*", "destination": "/equipment/:path*", "permanent": false }
   ],
   "headers": [
     {
