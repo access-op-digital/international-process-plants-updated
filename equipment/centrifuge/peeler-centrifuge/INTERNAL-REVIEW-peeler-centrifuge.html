@@ -1511,24 +1511,58 @@
 .rf-wrap { background: var(--bg-alt, #f4f7f9); }
 
 </style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&amp;family=Roboto:wght@400&amp;display=swap" rel="stylesheet">
+<style>
+
+/* ===== Live WordPress header: white bar, IPP logo, Montserrat menu, EN language tab (measured 2026-10-02) ===== */
+.ipp-header { background: #fff; position: relative; z-index: 1000; padding: 0 20px; }
+.ipp-header-inner { max-width: 1400px; margin: 0 auto; padding: 10px 0; min-height: 91px; display: flex; align-items: center; }
+.ipp-logo { display: block; flex: 0 0 auto; line-height: 0; }
+.ipp-logo img { width: 180px; height: auto; display: block; }
+.ipp-nav { margin-left: 65px; }
+.ipp-nav ul { list-style: none; margin: 0; padding: 0; }
+.ipp-nav > ul { display: flex; align-items: center; }
+.ipp-nav li { position: relative; }
+.ipp-nav a { display: flex; align-items: center; font-family: Montserrat, sans-serif; font-size: 14px; font-weight: 600; line-height: 14px; letter-spacing: .24px; text-transform: uppercase; color: #134a62; text-decoration: none; padding: 15px; white-space: nowrap; }
+.ipp-nav a:hover, .ipp-nav a:focus-visible { color: #1a8fc4; }
+.ipp-caret { width: 10px; height: 10px; margin-left: 10px; flex: 0 0 auto; }
+.ipp-sub { position: absolute; top: 44px; left: 0; min-width: 220px; background: #fff; box-shadow: 0 4px 10px -2px rgba(0,0,0,.1); opacity: 0; visibility: hidden; transition: opacity .15s ease, visibility .15s ease; z-index: 1001; }
+.ipp-nav li:hover > .ipp-sub, .ipp-nav li:focus-within > .ipp-sub { opacity: 1; visibility: visible; }
+.ipp-sub a { padding: 11px 25px; line-height: 22px; }
+.ipp-burger { display: none; margin-left: auto; background: none; border: 0; padding: 9px 7px; cursor: pointer; color: #494c4f; }
+.ipp-burger svg { width: 25px; height: 25px; display: block; }
+.ipp-lang { position: fixed; top: 0; right: 0; z-index: 9999; display: flex; align-items: center; gap: 6px; height: 40px; padding: 0 22px; background: #134a62; color: #fff; border-radius: 0 0 10px 10px; box-shadow: 0 0 8px rgba(0,0,0,.25); font: 400 14px/1 Roboto, Arial, Helvetica, sans-serif; letter-spacing: .24px; cursor: default; }
+.ipp-lang img { width: 18px; height: 12px; display: block; }
+@media (max-width: 1024px) {
+  .ipp-header { padding: 0 13px; }
+  .ipp-header-inner { min-height: 90px; padding: 10px 0; }
+  .ipp-logo img { width: 178px; }
+  .ipp-burger { display: block; }
+  .ipp-lang { display: none; }
+  .ipp-nav { display: none; position: absolute; top: 100%; left: 0; right: 0; margin: 0; background: #fff; box-shadow: 0 10px 18px rgba(0,0,0,.08); }
+  .ipp-header.open .ipp-nav { display: block; }
+  .ipp-nav > ul { flex-direction: column; align-items: stretch; }
+  .ipp-nav a { padding: 14px 20px; border-top: 1px solid #eef1f3; }
+  .ipp-caret { display: none; }
+  .ipp-sub { position: static; opacity: 1; visibility: visible; box-shadow: none; min-width: 0; }
+  .ipp-sub a { padding-left: 40px; }
+}
+
+</style>
 </head>
 <body>
 
-<!-- ===== HEADER ===== -->
-<header class="header">
-    <div class="container">
-        <a href="/" class="header-logo">International <span>Process Plants</span></a>
-        <nav class="header-nav">
-            <a href="/buy-used/">Buy Used</a>
-            <a href="/buy-new/">Buy New</a>
-            <a href="/sell-to-ipp/">Sell to IPP</a>
-            <a href="/equipment/">Equipment</a>
-            <a href="/plants/">Plants</a>
-            <a href="/about/">About IPP</a>
-            <a href="https://internationalprocessplants.com/contact/" class="btn-quote">Ask an Expert</a>
-        </nav>
+<!-- ===== HEADER (live WordPress header) ===== -->
+<header class="ipp-header">
+    <div class="ipp-header-inner">
+        <a href="https://internationalprocessplants.com/" class="ipp-logo"><img src="https://internationalprocessplants.com/wp-content/uploads/2023/12/IPP-LOGO_DARKBLUE-FINAL.png" width="180" height="71" alt="International Process Plants (IPP)"></a>
+        <button class="ipp-burger" type="button" aria-label="Menu" aria-expanded="false" onclick="var h=this.closest('.ipp-header');this.setAttribute('aria-expanded',h.classList.toggle('open'))"><svg viewBox="0 0 448 512" aria-hidden="true"><path fill="currentColor" d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"/></svg></button>
+        <nav class="ipp-nav" aria-label="Main menu"><ul><li class="has-sub"><a href="https://internationalprocessplants.com/plants/">Our Plants<svg class="ipp-caret" viewBox="0 0 320 512" aria-hidden="true"><path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z"/></svg></a><ul class="ipp-sub"><li><a href="https://ims.internationalprocessplants.com/search?asset=Plant">Search Plants</a></li></ul></li><li class="has-sub"><a href="https://internationalprocessplants.com/process-equipment/">Our Equipment<svg class="ipp-caret" viewBox="0 0 320 512" aria-hidden="true"><path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z"/></svg></a><ul class="ipp-sub"><li><a href="https://ims.internationalprocessplants.com/search?newsearch&amp;asset=Equipment">Search Equipment</a></li></ul></li><li><a href="https://internationalprocessplants.com/buy-used/">Buy Used</a></li><li><a href="https://internationalprocessplants.com/buy-new/">Buy New</a></li><li class="has-sub"><a href="https://internationalprocessplants.com/sell-to-ipp/">Sell to IPP<svg class="ipp-caret" viewBox="0 0 320 512" aria-hidden="true"><path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z"/></svg></a><ul class="ipp-sub"><li><a href="https://internationalprocessplants.com/sell-equipment/">Sell Us Your Equipment</a></li><li><a href="https://internationalprocessplants.com/sell-plants/">Sell Us Your Plants</a></li></ul></li><li><a href="https://internationalprocessplants.com/about-us/">About Us</a></li><li class="has-sub"><a href="https://internationalprocessplants.com/more/">FAQ &amp; More<svg class="ipp-caret" viewBox="0 0 320 512" aria-hidden="true"><path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z"/></svg></a><ul class="ipp-sub"><li><a href="https://internationalprocessplants.com/white-papers/">White Papers</a></li></ul></li><li><a href="https://internationalprocessplants.com/contact/">Contact</a></li></ul></nav>
     </div>
 </header>
+<div class="ipp-lang" title="English"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMCAIAAADgcHrrAAAAK3RFWHRDcmVhdGlvbiBUaW1lAHphIDMxIGRlYyAyMDA1IDE3OjEzOjE3ICswMTAwcgTDIgAAAAd0SU1FB9UMHxAUEGyS6bUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAEZ0FNQQAAsY8L/GEFAAABTklEQVR42o2SzUrDQBSFZ0pCGq1N2iAUrC6kFFy57gvYvSs37vsohb6Jj6DgQhcFV4JrhYg0pO1kMpO/SWaScVp3GmkPZ3GZc74LAxeORo8QFqvVKopIr2fpekMIefc5G+g++KuqCqUMqkpLkmg4tGzbphR2OmYc55TmJ89P4KJdg5WljVAzCDTPW3a7ZRy7RVFxrkURU57f3ly2UlCnNedI9fp907KgGiAs223TMDTD0I8nE2do12LEdTVCVBsglChnWVFVUgVClOThPn0F9RjGlDFNSuk4rUbjKE254xwmSa4WmeeDgzOjFmv6fjOOten0Ossi3/9ST3CjTXbK3wCo/9uPtKv5DOR5Sumv4D+IYcwYg9LzQByDxQLspw/XXRMC5XhcChEKsSf2QmnAOZSMAUIKjNcY72QQxigMlwjBd8ehUuLt1ezEwm1T+RuJ/sc7wy28LQAAAABJRU5ErkJggg==" width="18" height="12" alt="en_US">EN</div>
 
 <!-- ===== HERO SECTION ===== -->
 <section class="hero">
