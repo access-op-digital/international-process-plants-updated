@@ -1,0 +1,47 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/air-dryer/desiccant",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/air-dryer/desiccant",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used air dryers for sale: moisture control systems for compressed air and process streams",
+ "items_found": 4,
+ "items_this_category": 4,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "213581",
+   0,
+   1,
+   "Arrow RH212A Desiccant Dryer-Air"
+  ],
+  [
+   2,
+   "213833",
+   0,
+   1,
+   "Desiccant Dryer-Air"
+  ],
+  [
+   3,
+   "249225",
+   0,
+   1,
+   "3,100 CFM PneumaTech PE-3100 Desiccant Air Dryer"
+  ],
+  [
+   4,
+   "230342",
+   0,
+   0,
+   "Desiccant Dryer-Air"
+  ]
+ ]
+}

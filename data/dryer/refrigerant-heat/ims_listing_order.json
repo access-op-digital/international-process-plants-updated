@@ -1,0 +1,103 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/air-dryer/refrigerant-heat",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/air-dryer/refrigerant-heat",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used air dryers for sale: moisture control systems for compressed air and process streams",
+ "items_found": 12,
+ "items_this_category": 12,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "246767",
+   1,
+   1,
+   "Dryer - Air Refrigerant / Heat 1000DES/HYD"
+  ],
+  [
+   2,
+   "103369",
+   1,
+   1,
+   "Oriad Type II-dryer Refrigerant/Heat Dryer-Air"
+  ],
+  [
+   3,
+   "246811",
+   1,
+   1,
+   "Dryer-Air Refrigerant / Heat by Atlas Copco CD335+"
+  ],
+  [
+   4,
+   "221295",
+   0,
+   1,
+   "Carbon Steel Refrigerant/Heat Dryer-Air"
+  ],
+  [
+   5,
+   "221294",
+   0,
+   1,
+   "Carbon Steel North American process Refrigerant/Heat Dryer-Air"
+  ],
+  [
+   6,
+   "210342",
+   0,
+   1,
+   "Refrigerant/Heat Dryer-Air"
+  ],
+  [
+   7,
+   "245818",
+   0,
+   1,
+   "Carbon Steel Refrigerant/Heat Dryer-Air"
+  ],
+  [
+   8,
+   "245817",
+   0,
+   1,
+   "Carbon Steel Refrigerant/Heat Dryer-Air"
+  ],
+  [
+   9,
+   "208894",
+   0,
+   1,
+   "Hankinson 801600 Dryer-Air"
+  ],
+  [
+   10,
+   "246766",
+   0,
+   1,
+   "Carbon Steel Atlas Copco FD-20 Refrigerant/Heat Dryer-Air"
+  ],
+  [
+   11,
+   "208891",
+   0,
+   1,
+   "Hankinson 801600 Dryer-Air"
+  ],
+  [
+   12,
+   "210341",
+   0,
+   1,
+   "Dryer-Air"
+  ]
+ ]
+}

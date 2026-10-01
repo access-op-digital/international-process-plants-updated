@@ -36,7 +36,17 @@
     { "source": "/equipment/dryer/thermal-disc-dryer", "destination": "/equipment/dryer/thermal-disc-dryer/INTERNAL-REVIEW-thermal-disc-dryer.html" },
     { "source": "/equipment/dryer/thermal-disc-dryer/", "destination": "/equipment/dryer/thermal-disc-dryer/INTERNAL-REVIEW-thermal-disc-dryer.html" },
     { "source": "/equipment/dryer/spherical-dryer", "destination": "/equipment/dryer/spherical-dryer/INTERNAL-REVIEW-spherical-dryer.html" },
-    { "source": "/equipment/dryer/spherical-dryer/", "destination": "/equipment/dryer/spherical-dryer/INTERNAL-REVIEW-spherical-dryer.html" }
+    { "source": "/equipment/dryer/spherical-dryer/", "destination": "/equipment/dryer/spherical-dryer/INTERNAL-REVIEW-spherical-dryer.html" },
+    { "source": "/equipment/dryer/pan-dryer", "destination": "/equipment/dryer/pan-dryer/INTERNAL-REVIEW-pan-dryer.html" },
+    { "source": "/equipment/dryer/pan-dryer/", "destination": "/equipment/dryer/pan-dryer/INTERNAL-REVIEW-pan-dryer.html" },
+    { "source": "/equipment/dryer/oven-dryer", "destination": "/equipment/dryer/oven-dryer/INTERNAL-REVIEW-oven-dryer.html" },
+    { "source": "/equipment/dryer/oven-dryer/", "destination": "/equipment/dryer/oven-dryer/INTERNAL-REVIEW-oven-dryer.html" },
+    { "source": "/equipment/dryer/flaker-drum-and-belt-dryer", "destination": "/equipment/dryer/flaker-drum-and-belt-dryer/INTERNAL-REVIEW-flaker-drum-and-belt-dryer.html" },
+    { "source": "/equipment/dryer/flaker-drum-and-belt-dryer/", "destination": "/equipment/dryer/flaker-drum-and-belt-dryer/INTERNAL-REVIEW-flaker-drum-and-belt-dryer.html" },
+    { "source": "/equipment/dryer/desiccant", "destination": "/equipment/dryer/desiccant/INTERNAL-REVIEW-desiccant.html" },
+    { "source": "/equipment/dryer/desiccant/", "destination": "/equipment/dryer/desiccant/INTERNAL-REVIEW-desiccant.html" },
+    { "source": "/equipment/dryer/refrigerant-heat", "destination": "/equipment/dryer/refrigerant-heat/INTERNAL-REVIEW-refrigerant-heat.html" },
+    { "source": "/equipment/dryer/refrigerant-heat/", "destination": "/equipment/dryer/refrigerant-heat/INTERNAL-REVIEW-refrigerant-heat.html" }
   ],
   "redirects": [
     { "source": "/buy-used", "destination": "https://internationalprocessplants.com/buy-used/", "permanent": false },

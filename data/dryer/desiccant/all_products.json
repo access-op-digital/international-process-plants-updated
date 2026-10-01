@@ -1,0 +1,114 @@
+[
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/desiccant/213581",
+  "stock_number": "213581",
+  "ims_order": 1,
+  "featured": false,
+  "title": "Arrow RH212A Desiccant Dryer-Air - IPP# 213581",
+  "card_title": "Arrow RH212A Desiccant Dryer-Air",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjEzLzIxMzU4MS5qcGc/1",
+  "image_count": 5,
+  "status": 200,
+  "attribute_count": 7,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Desiccant",
+   "Manufacturer": "Arrow",
+   "Model": "RH212A",
+   "Condition": "Used",
+   "Pressure": "8.3 bar (120 psi)",
+   "Temperature": "65.6 °C (150 °F)"
+  },
+  "card_attributes": {
+   "Pressure": "120 psi",
+   "Temperature": "150 °F"
+  },
+  "subheading": "",
+  "additional_info": "dew point heatless desiccant air dryer. Twin drying tanks rated for 120 psi maximum pressure, 50 psi minimum pressure. Working temperature range is 150 degrees Fmax, 80degrees F min. Each tank holds 200 lbs. of desiccant. Operates on 115 vac, single phase 60 Hz. Working temperature range is 150 degrees Fmax, 80degrees F, min Operates on 115 vac, single phase 60 Hz"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/desiccant/213833",
+  "stock_number": "213833",
+  "ims_order": 2,
+  "featured": false,
+  "title": "Desiccant Dryer-Air - IPP# 213833",
+  "card_title": "Desiccant Dryer-Air",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjEzLzIxMzgzMy5KUEc/1",
+  "image_count": 3,
+  "status": 200,
+  "attribute_count": 5,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Desiccant",
+   "Manufacturer": "Sullair",
+   "Condition": "Used",
+   "Material": "Carbon Steel"
+  },
+  "card_attributes": {},
+  "subheading": "",
+  "additional_info": "compressed air dryer self recharging desicant type with carbon filter designed for filtering breathing air"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/desiccant/249225",
+  "stock_number": "249225",
+  "ims_order": 3,
+  "featured": false,
+  "title": "3,100 CFM PneumaTech PE-3100 Desiccant Air Dryer - IPP# 249225",
+  "card_title": "3,100 CFM PneumaTech PE-3100 Desiccant Air Dryer",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQ5LzI0OTIyNV8zLmpwZw/1",
+  "image_count": 3,
+  "status": 200,
+  "attribute_count": 17,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Desiccant",
+   "Manufacturer": "PneumaTech",
+   "Model": "PE-3100",
+   "Condition": "Used",
+   "Material": "Carbon Steel",
+   "Pressure": "10.3 bar (150 psi)",
+   "Temperature": "232.2 °C (450 °F)",
+   "Operational Mode": "Continuous",
+   "Voltage": "460",
+   "Electrical Phase": "3",
+   "Electrical Hertz": "60",
+   "Air Flow Volume": "5,250 m3/h (3,100 CFM)",
+   "Length": "2,900 mm (113.5 in)",
+   "Width": "1,650 mm (64 in)",
+   "Height": "3,400 mm (133.3 in)",
+   "Orientation": "Vertical"
+  },
+  "card_attributes": {
+   "Pressure": "150 psi",
+   "Air Flow Volume": "3,100 CFM",
+   "Temperature": "450 °F",
+   "Operational Mode": "Continuous",
+   "Orientation": "Vertical",
+   "Voltage": "460",
+   "Electrical Phase": "3",
+   "Electrical Hertz": "60"
+  },
+  "subheading": "",
+  "additional_info": ""
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/desiccant/230342",
+  "stock_number": "230342",
+  "ims_order": 4,
+  "featured": false,
+  "title": "IPP# 230342 - Desiccant Dryer-Air For Sale",
+  "card_title": "Desiccant Dryer-Air",
+  "image": "",
+  "image_count": 8,
+  "status": 200,
+  "attribute_count": 3,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Desiccant",
+   "Condition": "Used"
+  },
+  "card_attributes": {},
+  "subheading": "",
+  "additional_info": "Air dryer"
+ }
+]

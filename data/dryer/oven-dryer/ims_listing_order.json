@@ -1,0 +1,96 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/oven-dryer",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/oven-dryer",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used oven dryers for sale: batch and cabinet systems for thermal processing",
+ "items_found": 11,
+ "items_this_category": 11,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "233218",
+   1,
+   1,
+   "Dryer Oven Lewco NS-HSC1T"
+  ],
+  [
+   2,
+   "245821",
+   1,
+   1,
+   "Dryer-Oven Amarc srl CCE10S-O41P Stainless Steel 304"
+  ],
+  [
+   3,
+   "245820",
+   0,
+   1,
+   "3 m3 (105.9 ft3) Stainless Steel 304 Dryer-Oven"
+  ],
+  [
+   4,
+   "705426",
+   0,
+   1,
+   "0.06 m3 (2 ft3) Stainless Steel 316 Dryer-Oven"
+  ],
+  [
+   5,
+   "242857",
+   0,
+   1,
+   "Drum warming oven"
+  ],
+  [
+   6,
+   "242856",
+   0,
+   1,
+   "Drum Warming Oven"
+  ],
+  [
+   7,
+   "705427",
+   0,
+   1,
+   "0.06 m3 (2 ft3) Carbon Steel Dryer-Oven"
+  ],
+  [
+   8,
+   "705371",
+   0,
+   1,
+   "0.04 m3 (1.3 ft3) Dryer-Oven"
+  ],
+  [
+   9,
+   "74452",
+   0,
+   1,
+   "0.36 m3 (12.6 ft3) Stainless Steel 304 Dryer-Oven"
+  ],
+  [
+   10,
+   "212176",
+   0,
+   1,
+   "Carbon Steel Caltherm Dryer-Oven"
+  ],
+  [
+   11,
+   "800397",
+   0,
+   1,
+   "Stainless Steel 316 Lytzen HI Dryer-Oven"
+  ]
+ ]
+}

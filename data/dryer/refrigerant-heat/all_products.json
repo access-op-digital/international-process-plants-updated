@@ -1,0 +1,346 @@
+[
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/refrigerant-heat/246767",
+  "stock_number": "246767",
+  "ims_order": 1,
+  "featured": true,
+  "title": "Dryer - Air Refrigerant / Heat 1000DES/HYD - IPP# 246767",
+  "card_title": "Dryer - Air Refrigerant / Heat 1000DES/HYD",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQ2LzI0Njc2N181LmpwZw/1",
+  "image_count": 21,
+  "status": 200,
+  "attribute_count": 15,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Refrigerant/Heat",
+   "Model": "1000DES/HYD",
+   "Condition": "Used",
+   "Material": "Carbon Steel",
+   "Air Flow Volume": "1,700 m3/h (1,000 CFM)",
+   "Length": "2,750 mm (108 in)",
+   "Width": "1,600 mm (63 in)",
+   "Height": "1,000 mm (40 in)",
+   "Orientation": "Horizontal",
+   "Operational Mode": "Continuous",
+   "Refrigerant Type": "R-410a",
+   "Voltage": "480",
+   "Electrical Phase": "3",
+   "Electrical Hertz": "60"
+  },
+  "card_attributes": {
+   "Air Flow Volume": "1,000 CFM",
+   "Operational Mode": "Continuous",
+   "Orientation": "Horizontal",
+   "Refrigerant Type": "R-410a",
+   "Voltage": "480",
+   "Electrical Phase": "3",
+   "Electrical Hertz": "60"
+  },
+  "subheading": "",
+  "additional_info": "Compressor tonnage ~2.5 Total capacity BTU 55522. water removed (lbs.hr) 35."
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/refrigerant-heat/103369",
+  "stock_number": "103369",
+  "ims_order": 2,
+  "featured": true,
+  "title": "Oriad Type II-dryer Refrigerant/Heat Dryer-Air - IPP# 103369",
+  "card_title": "Oriad Type II-dryer Refrigerant/Heat Dryer-Air",
+  "image": "https://ims.internationalprocessplants.com/productimage/MTAzLzEwMzM2OS5qcGc/1",
+  "image_count": 2,
+  "status": 200,
+  "attribute_count": 6,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Refrigerant/Heat",
+   "Manufacturer": "Oriad",
+   "Model": "Type II-dryer",
+   "Condition": "Used",
+   "Pressure": "1.72 bar (25 psi)"
+  },
+  "card_attributes": {
+   "Pressure": "25 psi"
+  },
+  "subheading": "",
+  "additional_info": "Electric air dryer 12 hr dryer cycle 3.6 KW W/50 scfm Nash Mdl AL-574 compressor 10 HP, 3480 rpm motor"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/refrigerant-heat/246811",
+  "stock_number": "246811",
+  "ims_order": 3,
+  "featured": true,
+  "title": "Dryer-Air Refrigerant / Heat by Atlas Copco CD335+ - IPP# 246811",
+  "card_title": "Dryer-Air Refrigerant / Heat by Atlas Copco CD335+",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQ2LzI0NjgxMV82LmpwZw/1",
+  "image_count": 19,
+  "status": 200,
+  "attribute_count": 13,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Refrigerant/Heat",
+   "Manufacturer": "Atlas Copco",
+   "Model": "CD335+",
+   "Condition": "Used",
+   "Material": "Carbon Steel",
+   "Pressure": "14 bar (203.1 psi)",
+   "Operational Mode": "Continuous",
+   "Air Flow Volume": "1,200 m3/h (699 CFM)",
+   "Length": "914 mm (36 in)",
+   "Width": "304.8 mm (12 in)",
+   "Height": "1,700 mm (67 in)",
+   "Orientation": "Vertical"
+  },
+  "card_attributes": {
+   "Pressure": "203.1 psi",
+   "Air Flow Volume": "699 CFM",
+   "Operational Mode": "Continuous",
+   "Orientation": "Vertical"
+  },
+  "subheading": "",
+  "additional_info": ""
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/refrigerant-heat/221295",
+  "stock_number": "221295",
+  "ims_order": 4,
+  "featured": false,
+  "title": "Carbon Steel Refrigerant/Heat Dryer-Air - IPP# 221295",
+  "card_title": "Carbon Steel Refrigerant/Heat Dryer-Air",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjIxLzIyMTI5NS5KUEc/1",
+  "image_count": 20,
+  "status": 200,
+  "attribute_count": 4,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Refrigerant/Heat",
+   "Condition": "Used",
+   "Material": "Carbon Steel"
+  },
+  "card_attributes": {},
+  "subheading": "",
+  "additional_info": "6 mm BTU, air heater powered by natural gas. With Blower, Gas train and heater installed on skid. Skid dimensions are 193\" long x 61\" wide x 74\" high. Air inlet is rectangular flange 15\" x 11\". Air Outlet is round 19\" diameter. Complete automated fuel train by, with series 2300 turbo blower. Originally used in line with a Williams pulverizer - see IPP Stock number 221292."
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/refrigerant-heat/221294",
+  "stock_number": "221294",
+  "ims_order": 5,
+  "featured": false,
+  "title": "Carbon Steel North American process Refrigerant/Heat Dryer-Air - IPP# 221294",
+  "card_title": "Carbon Steel North American process Refrigerant/Heat Dryer-Air",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjIxLzIyMTI5NC5KUEc/1",
+  "image_count": 20,
+  "status": 200,
+  "attribute_count": 5,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Refrigerant/Heat",
+   "Manufacturer": "North American process",
+   "Condition": "Used",
+   "Material": "Carbon Steel"
+  },
+  "card_attributes": {},
+  "subheading": "",
+  "additional_info": "6 mm BTU air heater powered by natural gas With Blower, Gas train and heater installed on skid. Skid dimensions are 193\" long x 61\" wide x 74\" high. Air inlet is rectangular flange 15\" x 11\" Air Outlet is round 19\" diameter Complete automated fuel train by, with series 2300 turbo blower. Originally used in line with a Williams pulverizer - see IPP Stock number 221293."
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/refrigerant-heat/210342",
+  "stock_number": "210342",
+  "ims_order": 6,
+  "featured": false,
+  "title": "IPP# 210342 - Refrigerant/Heat Dryer-Air For Sale",
+  "card_title": "Refrigerant/Heat Dryer-Air",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjEwLzIxMDM0Mi5KUEc/1",
+  "image_count": 6,
+  "status": 200,
+  "attribute_count": 5,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Refrigerant/Heat",
+   "Manufacturer": "Ingersol Rand",
+   "Model": "DXR 2000W",
+   "Condition": "Used"
+  },
+  "card_attributes": {},
+  "subheading": "",
+  "additional_info": "water cooled air dryer"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/refrigerant-heat/245818",
+  "stock_number": "245818",
+  "ims_order": 7,
+  "featured": false,
+  "title": "IPP# 245818 - Refrigerant/Heat Dryer-Air Carbon Steel For Sale",
+  "card_title": "Carbon Steel Refrigerant/Heat Dryer-Air",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQ1LzI0NTgxOF8xLmpwZw/1",
+  "image_count": 19,
+  "status": 200,
+  "attribute_count": 7,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Refrigerant/Heat",
+   "Manufacturer": "Atlas Copco",
+   "Model": "FD 1400 W VSD IEC",
+   "Condition": "Used",
+   "Material": "Carbon Steel",
+   "Temperature": "55 °C (131 °F)"
+  },
+  "card_attributes": {
+   "Temperature": "55 °C"
+  },
+  "subheading": "",
+  "additional_info": "8.5kW, 3/50/400 volt, air pressure max 13 bar @ 55 degrees C, built in an acoustic cabinet"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/refrigerant-heat/245817",
+  "stock_number": "245817",
+  "ims_order": 8,
+  "featured": false,
+  "title": "IPP# 245817 - Refrigerant/Heat Dryer-Air Carbon Steel For Sale",
+  "card_title": "Carbon Steel Refrigerant/Heat Dryer-Air",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQ1LzI0NTgxN18xLmpwZw/1",
+  "image_count": 20,
+  "status": 200,
+  "attribute_count": 7,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Refrigerant/Heat",
+   "Manufacturer": "M.T.A spa",
+   "Model": "DE235 HP",
+   "Condition": "Used",
+   "Material": "Carbon Steel",
+   "Temperature": "70 °C (158 °F)"
+  },
+  "card_attributes": {
+   "Temperature": "70 °C"
+  },
+  "subheading": "",
+  "additional_info": "3/50/400 volt, IP22, refrigerant max pressure 22.6 bar LP side, 26 bar HP side,"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/refrigerant-heat/208894",
+  "stock_number": "208894",
+  "ims_order": 9,
+  "featured": false,
+  "title": "Hankinson 801600 Dryer-Air - IPP# 208894",
+  "card_title": "Hankinson 801600 Dryer-Air",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjA4LzIwODg5NC5qcGc/1",
+  "image_count": 5,
+  "status": 200,
+  "attribute_count": 8,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Refrigerant/Heat",
+   "Manufacturer": "Hankinson",
+   "Model": "801600",
+   "Condition": "Used",
+   "Pressure": "13.8 bar (200 psi)",
+   "Refrigerant Type": "R-22",
+   "Air Flow Volume": "2,700 m3/h (1,600 CFM)"
+  },
+  "card_attributes": {
+   "Pressure": "200 psi",
+   "Air Flow Volume": "1,600 CFM",
+   "Refrigerant Type": "R-22"
+  },
+  "subheading": "",
+  "additional_info": "Compressed air dryer 200 PSIG maximum With 7.5HP compressor, R22 refrigerant, 30 Lb charge."
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/refrigerant-heat/246766",
+  "stock_number": "246766",
+  "ims_order": 10,
+  "featured": false,
+  "title": "Carbon Steel Atlas Copco FD-20 Refrigerant/Heat Dryer-Air - IPP# 246766",
+  "card_title": "Carbon Steel Atlas Copco FD-20 Refrigerant/Heat Dryer-Air",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQ2LzI0Njc2Nl8yLmpwZw/1",
+  "image_count": 19,
+  "status": 200,
+  "attribute_count": 13,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Refrigerant/Heat",
+   "Manufacturer": "Atlas Copco",
+   "Model": "FD-20",
+   "Condition": "Used",
+   "Material": "Carbon Steel",
+   "Pressure": "16 bar (232 psi)",
+   "Operational Mode": "Continuous",
+   "Voltage": "115",
+   "Electrical Phase": "3",
+   "Electrical Hertz": "60",
+   "Air Flow Volume": "71.4 m3/h (42 CFM)",
+   "Orientation": "Vertical"
+  },
+  "card_attributes": {
+   "Pressure": "232 psi",
+   "Air Flow Volume": "42 CFM",
+   "Operational Mode": "Continuous",
+   "Orientation": "Vertical",
+   "Voltage": "115",
+   "Electrical Phase": "3",
+   "Electrical Hertz": "60"
+  },
+  "subheading": "",
+  "additional_info": "Can be used with Schenk system."
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/refrigerant-heat/208891",
+  "stock_number": "208891",
+  "ims_order": 11,
+  "featured": false,
+  "title": "Hankinson 801600 Dryer-Air - IPP# 208891",
+  "card_title": "Hankinson 801600 Dryer-Air",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjA4LzIwODg5MS5qcGc/1",
+  "image_count": 5,
+  "status": 200,
+  "attribute_count": 8,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Refrigerant/Heat",
+   "Manufacturer": "Hankinson",
+   "Model": "801600",
+   "Condition": "Used",
+   "Pressure": "13.8 bar (200 psi)",
+   "Refrigerant Type": "R-22",
+   "Air Flow Volume": "2,700 m3/h (1,600 CFM)"
+  },
+  "card_attributes": {
+   "Pressure": "200 psi",
+   "Air Flow Volume": "1,600 CFM",
+   "Refrigerant Type": "R-22"
+  },
+  "subheading": "",
+  "additional_info": "compressed air dryer 200 PSIG maximum With 7.5HP compressor 30 Lb charge"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/air-dryer/refrigerant-heat/210341",
+  "stock_number": "210341",
+  "ims_order": 12,
+  "featured": false,
+  "title": "Dryer-Air - IPP# 210341",
+  "card_title": "Dryer-Air",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjEwLzIxMDM0MS5KUEc/1",
+  "image_count": 6,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Dryer-Air",
+   "Subtype": "Refrigerant/Heat",
+   "Manufacturer": "Ingersol Rand",
+   "Model": "TS 2000",
+   "Condition": "Used",
+   "Pressure": "12.1 bar (175 psi)",
+   "Operational Mode": "Continuous",
+   "Refrigerant Type": "R-407c",
+   "Orientation": "Horizontal"
+  },
+  "card_attributes": {
+   "Pressure": "175 psi",
+   "Operational Mode": "Continuous",
+   "Orientation": "Horizontal",
+   "Refrigerant Type": "R-407c"
+  },
+  "subheading": "",
+  "additional_info": "Air cooled design13.9 KW"
+ }
+]
