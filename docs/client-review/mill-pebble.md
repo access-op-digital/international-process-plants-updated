@@ -12,7 +12,7 @@ IPP's data sheet for each sourced mill states shell size, lining, media, drive a
 
 **Featured Equipment:**
 - [Source a Pebble Mill -- Send shell size, lining and media](https://internationalprocessplants.com/contact/)
-- [IPP's Ball Mills -- Cylindrical, conical and vibratory mills](https://internationalprocessplants.com/process-equipment/mill/ball/)
+- [IPP's Ball Mills -- Cylindrical, conical and vibratory mills](/process-equipment/mill/ball/)
 - [All Mills on IMS -- IPP's full mill inventory](https://ims.internationalprocessplants.com/inventory/search/equipment/mill)
 
 
