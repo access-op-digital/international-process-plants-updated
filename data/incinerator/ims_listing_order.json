@@ -1,0 +1,26 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/incinerator",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/incinerator",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used incinerators for sale: thermal destruction systems for waste reduction and emissions control",
+ "items_found": 1,
+ "items_this_category": 1,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "220624",
+   0,
+   1,
+   "Carbon Steel ES-100 Incinerator"
+  ]
+ ]
+}

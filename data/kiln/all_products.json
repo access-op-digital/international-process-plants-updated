@@ -1,0 +1,63 @@
+[
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/kiln/86379",
+  "stock_number": "86379",
+  "ims_order": 1,
+  "featured": false,
+  "title": "Inconel Bethlehem Corp Kiln - IPP# 86379",
+  "card_title": "Inconel Bethlehem Corp Kiln",
+  "image": "https://ims.internationalprocessplants.com/productimage/ODYvODYzNzkuanBn/1",
+  "image_count": 12,
+  "status": 200,
+  "attribute_count": 8,
+  "attributes": {
+   "Type": "Kiln",
+   "Manufacturer": "Bethlehem Corp",
+   "Condition": "Used",
+   "Material": "Inconel",
+   "Diameter": "0.61 m (2 ft)",
+   "Length": "5.9 m (19.5 ft)",
+   "Temperature": "1,100 °C (2,000 °F)",
+   "Firing Type": "Indirect"
+  },
+  "card_attributes": {
+   "Diameter": "2 ft",
+   "Length": "19.5 ft",
+   "Temperature": "2,000 °F"
+  },
+  "subheading": "",
+  "additional_info": ""
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/kiln/73480",
+  "stock_number": "73480",
+  "ims_order": 2,
+  "featured": false,
+  "title": "Nickel Kiln - IPP# 73480",
+  "card_title": "Nickel Kiln",
+  "image": "https://ims.internationalprocessplants.com/productimage/NzMvNzM0ODBfMy5qcGc/1",
+  "image_count": 6,
+  "status": 200,
+  "attribute_count": 11,
+  "attributes": {
+   "Type": "Kiln",
+   "Model": "AG22/11/DK94-241",
+   "Condition": "Used",
+   "Material": "Nickel",
+   "Diameter": "0.46 m (1.51 ft)",
+   "Length": "8 m (26.2 ft)",
+   "Temperature": "900 °C (1,650 °F)",
+   "Speed": "1-5 RPM",
+   "Motor Power": "1.5 kW (2 HP)",
+   "Motor Hertz": "50",
+   "Motor Voltage": "380"
+  },
+  "card_attributes": {
+   "Diameter": "1.51 ft",
+   "Length": "26.2 ft",
+   "Temperature": "1,650 °F"
+  },
+  "subheading": "",
+  "additional_info": ""
+ }
+]

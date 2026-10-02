@@ -1,0 +1,235 @@
+{
+ "group_code": "KT",
+ "subgroup_code": null,
+ "attributes": [
+  {
+   "name": "Capacity",
+   "group": "Capacity",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "gal",
+   "unit_metric": "L"
+  },
+  {
+   "name": "Diameter",
+   "group": "Dimensions",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "in",
+   "unit_metric": "mm"
+  },
+  {
+   "name": "Straight Side",
+   "group": null,
+   "type": "Measure",
+   "primary": false,
+   "filterable": true,
+   "unit_us": "in",
+   "unit_metric": "mm"
+  },
+  {
+   "name": "Vessel Pressure",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "psi",
+   "unit_metric": "bar"
+  },
+  {
+   "name": "Vessel Temperature",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "°F",
+   "unit_metric": "°C"
+  },
+  {
+   "name": "Vacuum",
+   "group": null,
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Agitation",
+   "group": "Agitation",
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Dual Motion Agitation",
+   "group": null,
+   "type": "Text",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Agitation Seal Type",
+   "group": "Agitation",
+   "type": "Dropdown",
+   "primary": false,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Impeller Type",
+   "group": null,
+   "type": "Dropdown",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Jacket Type",
+   "group": "Jacket",
+   "type": "Dropdown",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Jacket Pressure",
+   "group": "Jacket",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "psi",
+   "unit_metric": "bar"
+  },
+  {
+   "name": "Jacket Temperature",
+   "group": "Jacket",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "°F",
+   "unit_metric": "°C"
+  },
+  {
+   "name": "Jacket MOC",
+   "group": "Jacket",
+   "type": "Dropdown",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Bottom Head MOC",
+   "group": "Bottom Head",
+   "type": "Dropdown",
+   "primary": false,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Bottom Head Fastening",
+   "group": "Bottom Head",
+   "type": "Dropdown",
+   "primary": false,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Bottom Head Type",
+   "group": "Bottom Head",
+   "type": "Dropdown",
+   "primary": false,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Top Head MOC",
+   "group": "Top Head",
+   "type": "Dropdown",
+   "primary": false,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Top Head Type",
+   "group": "Top Head",
+   "type": "Dropdown",
+   "primary": false,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Top Head Fastening",
+   "group": "Top Head",
+   "type": "Dropdown",
+   "primary": false,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Drive Type",
+   "group": "Drive",
+   "type": "Dropdown",
+   "primary": false,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Drive Manufacturer",
+   "group": "Drive",
+   "type": "Text",
+   "primary": false,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Model/Serial",
+   "group": null,
+   "type": "Text",
+   "primary": false,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Nozzle Schedule",
+   "group": null,
+   "type": "Text",
+   "primary": false,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Support Type",
+   "group": null,
+   "type": "Dropdown",
+   "primary": false,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  }
+ ],
+ "seo": {
+  "windowTitle": null,
+  "metaDescription": null
+ }
+}

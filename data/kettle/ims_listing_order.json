@@ -1,0 +1,33 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/kettle",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/kettle",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used kettles for sale: efficient heating, mixing and batch processing solutions for industrial production",
+ "items_found": 2,
+ "items_this_category": 2,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "95920",
+   0,
+   1,
+   "Stainless Steel 304 Groen TA25SP Kettle"
+  ],
+  [
+   2,
+   "100445",
+   0,
+   1,
+   "Stainless Steel 304 Kettle"
+  ]
+ ]
+}

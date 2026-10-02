@@ -1,0 +1,75 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/mill/ball",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/mill/ball",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used mills for sale: particle size reduction equipment for powders, slurries and solids",
+ "items_found": 8,
+ "items_this_category": 8,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "212441",
+   1,
+   1,
+   "Ball Mill TEMA Siebtechnik ESM 234-1 BS Stainless Steel 316"
+  ],
+  [
+   2,
+   "218254",
+   0,
+   1,
+   "Stainless Steel 304 Ball Mill"
+  ],
+  [
+   3,
+   "79104",
+   0,
+   1,
+   "Carbon Steel Blaw Knox Ball Mill"
+  ],
+  [
+   4,
+   "97153",
+   0,
+   1,
+   "Carbon Steel Ball Mill"
+  ],
+  [
+   5,
+   "79105",
+   0,
+   1,
+   "Carbon Steel Blaw Knox Ball Mill"
+  ],
+  [
+   6,
+   "97154",
+   0,
+   1,
+   "Carbon Steel Ball Mill"
+  ],
+  [
+   7,
+   "209723",
+   0,
+   1,
+   "Stainless Steel 304 Engineering Plastics EPJ-100 Ball Mill"
+  ],
+  [
+   8,
+   "97152",
+   0,
+   1,
+   "Carbon Steel Ball Mill"
+  ]
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/kiln",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/kiln",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used kilns for sale: high-temperature solutions for calcining, sintering and material transformation",
+ "items_found": 2,
+ "items_this_category": 2,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "86379",
+   0,
+   1,
+   "Inconel Bethlehem Corp Kiln"
+  ],
+  [
+   2,
+   "73480",
+   0,
+   1,
+   "Nickel Kiln"
+  ]
+ ]
+}

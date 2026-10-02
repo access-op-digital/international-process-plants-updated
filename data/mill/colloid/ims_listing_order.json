@@ -1,0 +1,117 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/mill/colloid",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/mill/colloid",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used mills for sale: particle size reduction equipment for powders, slurries and solids",
+ "items_found": 14,
+ "items_this_category": 14,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "212896",
+   1,
+   1,
+   "Colloid Mill Peters & Smith Stainless Steel 304"
+  ],
+  [
+   2,
+   "220804",
+   1,
+   1,
+   "Colloid Mill Reitz RD-18-H32"
+  ],
+  [
+   3,
+   "216274",
+   0,
+   1,
+   "New Stainless Steel 316 Colloid Mill"
+  ],
+  [
+   4,
+   "220802",
+   0,
+   1,
+   "Stainless Steel 304 Williams GP-1512 Colloid Mill"
+  ],
+  [
+   5,
+   "220748",
+   0,
+   1,
+   "Stainless Steel 304 Bepex RP-6K115 Colloid Mill"
+  ],
+  [
+   6,
+   "212900",
+   0,
+   1,
+   "Stainless Steel 304 Alpine (Hosokawa) 1 SH Colloid Mill"
+  ],
+  [
+   7,
+   "212897",
+   0,
+   1,
+   "1.14 m3 (40.1 ft3) Stainless Steel 304 Colloid Mill"
+  ],
+  [
+   8,
+   "208150",
+   0,
+   1,
+   "Stainless Steel 316 IKA-Werk W32KAAABAA6660 Colloid Mill"
+  ],
+  [
+   9,
+   "220809",
+   0,
+   1,
+   "Carbon Steel Colloid Mill"
+  ],
+  [
+   10,
+   "212898",
+   0,
+   1,
+   "Stainless Steel 304 Alpine (Hosokawa) W Colloid Mill"
+  ],
+  [
+   11,
+   "239475",
+   0,
+   1,
+   "Alpine (Hosokawa) B160 UPZ Colloid Mill"
+  ],
+  [
+   12,
+   "241097",
+   0,
+   1,
+   "Colloid Mill"
+  ],
+  [
+   13,
+   "238452",
+   0,
+   0,
+   "Stainless Steel 316 Colloid Mill"
+  ],
+  [
+   14,
+   "706279",
+   0,
+   0,
+   "Stainless Steel 316 Colloid Mill"
+  ]
+ ]
+}

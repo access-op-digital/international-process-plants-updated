@@ -1,0 +1,46 @@
+[
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/incinerator/220624",
+  "stock_number": "220624",
+  "ims_order": 1,
+  "featured": false,
+  "title": "Carbon Steel ES-100 Incinerator - IPP# 220624",
+  "card_title": "Carbon Steel ES-100 Incinerator",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjIwLzIyMDYyNC5KUEc/1",
+  "image_count": 21,
+  "status": 200,
+  "attribute_count": 20,
+  "attributes": {
+   "Type": "Incinerator",
+   "Manufacturer": "Thermatrix",
+   "Model": "ES-100",
+   "Condition": "Used",
+   "Material": "Carbon Steel",
+   "Capacity": "252,000 BTU/h (99 HP)",
+   "Combustion Chamber Area": "3.9 m² (42 ft²)",
+   "Gas Flow Rate": "237.9 m3/h (140 CFM)",
+   "Pressure": "0.07 bar (1 psi)",
+   "Temperature": "204.4 °C (400 °F)",
+   "Powered By": "Electric",
+   "Burner Information": "Electric Heating Elements",
+   "Controls": "Yes",
+   "Detonation Arrestors": "Yes",
+   "Material Phase": "Liquid",
+   "Stack Height": "10.7 m (35 ft)",
+   "Waste Heat Boiler Details": "None",
+   "Height": "47.2 m (155 ft)",
+   "Length": "21.9 m (72 ft)",
+   "Width": "14.6 m (48 ft)"
+  },
+  "card_attributes": {
+   "Capacity": "252,000 BTU/h",
+   "Combustion Chamber Area": "42 ft²",
+   "Gas Flow Rate": "140 CFM",
+   "Pressure": "1 psi",
+   "Temperature": "400 °F",
+   "Powered By": "Electric"
+  },
+  "subheading": "",
+  "additional_info": "This is a flameless oxidizer, there is no burner and it only accepts a gas flow."
+ }
+]

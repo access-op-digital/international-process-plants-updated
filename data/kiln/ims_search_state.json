@@ -1,0 +1,46 @@
+{
+ "group_code": "KL",
+ "subgroup_code": null,
+ "attributes": [
+  {
+   "name": "Air Flow Direction",
+   "group": null,
+   "type": "Dropdown",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Diameter",
+   "group": "Capacity",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "ft",
+   "unit_metric": "m"
+  },
+  {
+   "name": "Length",
+   "group": "Dimensions",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "ft",
+   "unit_metric": "m"
+  },
+  {
+   "name": "Temperature",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "°F",
+   "unit_metric": "°C"
+  }
+ ],
+ "seo": {
+  "windowTitle": null,
+  "metaDescription": null
+ }
+}

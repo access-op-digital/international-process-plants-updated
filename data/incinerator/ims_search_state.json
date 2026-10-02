@@ -1,0 +1,73 @@
+{
+ "group_code": "IN",
+ "subgroup_code": null,
+ "attributes": [
+  {
+   "name": "Capacity",
+   "group": "Capacity",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "HP",
+   "unit_metric": "BTU/h"
+  },
+  {
+   "name": "Gas Flow Rate",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "CFM",
+   "unit_metric": "m3/h"
+  },
+  {
+   "name": "Pressure",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "psi",
+   "unit_metric": "bar"
+  },
+  {
+   "name": "Temperature",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "°F",
+   "unit_metric": "°C"
+  },
+  {
+   "name": "Burner Manufacturer",
+   "group": null,
+   "type": "Text",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Burner Type",
+   "group": null,
+   "type": "Dropdown",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Liquid Flow Rate",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "GPM",
+   "unit_metric": "m3/h"
+  }
+ ],
+ "seo": {
+  "windowTitle": null,
+  "metaDescription": null
+ }
+}

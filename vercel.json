@@ -56,7 +56,17 @@
     { "source": "/equipment/heat-exchanger/welded-plate", "destination": "/equipment/heat-exchanger/welded-plate/INTERNAL-REVIEW-welded-plate.html" },
     { "source": "/equipment/heat-exchanger/welded-plate/", "destination": "/equipment/heat-exchanger/welded-plate/INTERNAL-REVIEW-welded-plate.html" },
     { "source": "/equipment/homogenizer", "destination": "/equipment/homogenizer/INTERNAL-REVIEW-homogenizer.html" },
-    { "source": "/equipment/homogenizer/", "destination": "/equipment/homogenizer/INTERNAL-REVIEW-homogenizer.html" }
+    { "source": "/equipment/homogenizer/", "destination": "/equipment/homogenizer/INTERNAL-REVIEW-homogenizer.html" },
+    { "source": "/equipment/incinerator", "destination": "/equipment/incinerator/INTERNAL-REVIEW-incinerator.html" },
+    { "source": "/equipment/incinerator/", "destination": "/equipment/incinerator/INTERNAL-REVIEW-incinerator.html" },
+    { "source": "/equipment/kettle", "destination": "/equipment/kettle/INTERNAL-REVIEW-kettle.html" },
+    { "source": "/equipment/kettle/", "destination": "/equipment/kettle/INTERNAL-REVIEW-kettle.html" },
+    { "source": "/equipment/kiln", "destination": "/equipment/kiln/INTERNAL-REVIEW-kiln.html" },
+    { "source": "/equipment/kiln/", "destination": "/equipment/kiln/INTERNAL-REVIEW-kiln.html" },
+    { "source": "/equipment/mill/ball", "destination": "/equipment/mill/ball/INTERNAL-REVIEW-ball.html" },
+    { "source": "/equipment/mill/ball/", "destination": "/equipment/mill/ball/INTERNAL-REVIEW-ball.html" },
+    { "source": "/equipment/mill/colloid", "destination": "/equipment/mill/colloid/INTERNAL-REVIEW-colloid.html" },
+    { "source": "/equipment/mill/colloid/", "destination": "/equipment/mill/colloid/INTERNAL-REVIEW-colloid.html" }
   ],
   "redirects": [
     { "source": "/buy-used", "destination": "https://internationalprocessplants.com/buy-used/", "permanent": false },
