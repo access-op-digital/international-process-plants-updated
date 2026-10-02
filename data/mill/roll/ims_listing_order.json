@@ -1,0 +1,61 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/mill/roll",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/mill/roll",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used mills for sale: particle size reduction equipment for powders, slurries and solids",
+ "items_found": 6,
+ "items_this_category": 6,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "71978",
+   1,
+   1,
+   "Mill Reliable lab 2-roll mill"
+  ],
+  [
+   2,
+   "212899",
+   0,
+   1,
+   "Chrome Roll Mill"
+  ],
+  [
+   3,
+   "104128",
+   0,
+   1,
+   "Unused Roll Mill"
+  ],
+  [
+   4,
+   "71979",
+   0,
+   1,
+   "Chrome Farrell Roll Mill"
+  ],
+  [
+   5,
+   "112079",
+   0,
+   0,
+   "Carbon Steel Roll Mill"
+  ],
+  [
+   6,
+   "221186",
+   0,
+   1,
+   "Gundlach Stainless Steel Model 4080S Roll Mill"
+  ]
+ ]
+}

@@ -66,7 +66,17 @@
     { "source": "/equipment/mill/ball", "destination": "/equipment/mill/ball/INTERNAL-REVIEW-ball.html" },
     { "source": "/equipment/mill/ball/", "destination": "/equipment/mill/ball/INTERNAL-REVIEW-ball.html" },
     { "source": "/equipment/mill/colloid", "destination": "/equipment/mill/colloid/INTERNAL-REVIEW-colloid.html" },
-    { "source": "/equipment/mill/colloid/", "destination": "/equipment/mill/colloid/INTERNAL-REVIEW-colloid.html" }
+    { "source": "/equipment/mill/colloid/", "destination": "/equipment/mill/colloid/INTERNAL-REVIEW-colloid.html" },
+    { "source": "/equipment/mill/kady", "destination": "/equipment/mill/kady/INTERNAL-REVIEW-kady.html" },
+    { "source": "/equipment/mill/kady/", "destination": "/equipment/mill/kady/INTERNAL-REVIEW-kady.html" },
+    { "source": "/equipment/mill/pebble", "destination": "/equipment/mill/pebble/INTERNAL-REVIEW-pebble.html" },
+    { "source": "/equipment/mill/pebble/", "destination": "/equipment/mill/pebble/INTERNAL-REVIEW-pebble.html" },
+    { "source": "/equipment/mill/pellet", "destination": "/equipment/mill/pellet/INTERNAL-REVIEW-pellet.html" },
+    { "source": "/equipment/mill/pellet/", "destination": "/equipment/mill/pellet/INTERNAL-REVIEW-pellet.html" },
+    { "source": "/equipment/mill/roll", "destination": "/equipment/mill/roll/INTERNAL-REVIEW-roll.html" },
+    { "source": "/equipment/mill/roll/", "destination": "/equipment/mill/roll/INTERNAL-REVIEW-roll.html" },
+    { "source": "/equipment/mill/shot-and-sand", "destination": "/equipment/mill/shot-and-sand/INTERNAL-REVIEW-shot-and-sand.html" },
+    { "source": "/equipment/mill/shot-and-sand/", "destination": "/equipment/mill/shot-and-sand/INTERNAL-REVIEW-shot-and-sand.html" }
   ],
   "redirects": [
     { "source": "/buy-used", "destination": "https://internationalprocessplants.com/buy-used/", "permanent": false },

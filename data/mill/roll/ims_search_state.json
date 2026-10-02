@@ -1,0 +1,82 @@
+{
+ "group_code": "ML",
+ "subgroup_code": "RL",
+ "attributes": [
+  {
+   "name": "Temperature",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "°F",
+   "unit_metric": "°C"
+  },
+  {
+   "name": "Roll Diameter",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "in",
+   "unit_metric": "mm"
+  },
+  {
+   "name": "Roll Length",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "in",
+   "unit_metric": "mm"
+  },
+  {
+   "name": "Number of Rolls",
+   "group": null,
+   "type": "Number",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Roll RPM",
+   "group": null,
+   "type": "Number",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Roll Heating/Cooling",
+   "group": null,
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Classifier Drive",
+   "group": null,
+   "type": "Text",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Classifier Speed",
+   "group": null,
+   "type": "Text",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  }
+ ],
+ "seo": {
+  "windowTitle": null,
+  "metaDescription": null
+ }
+}

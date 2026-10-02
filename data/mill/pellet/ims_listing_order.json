@@ -1,0 +1,33 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/mill/pellet",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/mill/pellet",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used mills for sale: particle size reduction equipment for powders, slurries and solids",
+ "items_found": 2,
+ "items_this_category": 2,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "706653",
+   1,
+   1,
+   "Stainless Steel 316 Pellet Mill"
+  ],
+  [
+   2,
+   "32601",
+   0,
+   1,
+   "Stainless Steel 304 Baker Perkins Pellet Mill"
+  ]
+ ]
+}

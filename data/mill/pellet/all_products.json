@@ -1,0 +1,74 @@
+[
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/mill/pellet/706653",
+  "stock_number": "706653",
+  "ims_order": 1,
+  "featured": true,
+  "title": "Stainless Steel 316 Pellet Mill - IPP# 706653",
+  "card_title": "Stainless Steel 316 Pellet Mill",
+  "image": "https://ims.internationalprocessplants.com/productimage/NzA2LzcwNjY1My5qcGc/1",
+  "image_count": 6,
+  "status": 200,
+  "attribute_count": 13,
+  "attributes": {
+   "Type": "Mill",
+   "Subtype": "Pellet",
+   "Manufacturer": "Black Clawson",
+   "Model": "114012320",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316",
+   "Drive Power": "22 kW (29.5 HP)",
+   "Drive RPM": "1,470",
+   "Temperature": "230 °C (446 °F)",
+   "Controls": "Yes",
+   "Nozzle Schedule": "1.98mm diameter holes,",
+   "Motor Power": "22 kW (29.5 HP)",
+   "Motor Speed (RPM)": "1,470"
+  },
+  "card_attributes": {
+   "Drive Power": "29.5 HP",
+   "Drive RPM": "1,470",
+   "Temperature": "230 °C"
+  },
+  "subheading": "",
+  "additional_info": "Underwater pelletiser system 2727 kg/hr (6000 lbs/hr) product specific gravity 0.96 @ 25 deg C, feed material form molten, pellet surface moisture content nil to 0,10% (1) Trendelkamp diverter valve, type TAV-4, serial #963620, driven by hydraulic power pack (1) 300 sq ft 316/316L s/steel horizontal shell & tube heat exchanger, manufactured by Kenics (Chemineer), model 300-HEX-915, serial # 995893-01-01, design pressure tube side: 100 barg @ 315 deg C, shell 20 barg @ 315 deg C, jacket on heads 20 barg @ 315 deg C, (299) 12.7mm outside diameter x 2346mm long 316L tubes, single pass tube side, 324mm inside diameter 316/316L s/steel shell, tube plates are 316/316L s/steel clad, (2) 316/316L coned heads with c/steel jacket, overall length 3194mm, openings: tube side: 2-75mm, 2-50mm, shell side: 2-75mm, 1-25mm, 1-12mm, head jackets (each with) : 2-32mm, mounted on (2) fixed cradles, fully insulated and clad (1) 3 m3/hr @ 220 deg C 316L s/steel MAAG gear pump, type Therminox TX-70/70, manufactured by MAAG pump systems, serial # 50063746, suction pressure 4 bara, discharge pressure 57-71 bara, differential pressure 57-71 bar, driven by 2-speed motor, 15 kw, 3/50/380/415/660/690 volt, 3830 rpm or 3/60/415/460 volt, 4620 rpm motor, mounted on base plate (1) 304L s/steel Gala centrifugal pellet spin dryer with agglomerate catcher, dryer model 3016-LD, serial #981156, max product 6400 kg/hr, max water 100 kg/hr, max working temperature 80 deg C, rotor speed 780 rpm, 3-rotor screens, 2-dewatering screens, average airflow 2500 NM3/hr, easy access design, rotor is belt driven by a 2-speed motor, 5.5 kw 3/50/380/420/655/725 volt, 1440 rpm or 6.3 kw 3/60/440/480 volt, 1740 rpm, agglomerate catcher is model 9-PSG (1) 1200mm diameter s/steel vibratory screen separator, 2-deck, model ME-48S15-6-6, manufactured by Midwestern industries inc, serial # 0399-4018, electrics 3HP, 220/380/440 volt (1) 3420 ltr s/steel slurry base tank with 450 gpm centrifugal pump (1) Pellet blowing/conveying unit Control panels, pipework, filters and other ancillaries product specific gravity 0.96 @ 25 deg C, feed material form molten, pellet surface moisture content nil to 0,10%, system consists of: (1) 3X 316 s/steel Black Clawson s/steel underwater pelletiser, model # 114012320, serial # 631955, internal rotary knifes, die plate with (360)"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/mill/pellet/32601",
+  "stock_number": "32601",
+  "ims_order": 2,
+  "featured": false,
+  "title": "Stainless Steel 304 Baker Perkins Pellet Mill - IPP# 32601",
+  "card_title": "Stainless Steel 304 Baker Perkins Pellet Mill",
+  "image": "https://ims.internationalprocessplants.com/productimage/MzIvMzI2MDEuanBn/1",
+  "image_count": 1,
+  "status": 200,
+  "attribute_count": 17,
+  "attributes": {
+   "Type": "Mill",
+   "Subtype": "Pellet",
+   "Manufacturer": "Baker Perkins",
+   "Condition": "Used",
+   "Material": "Stainless Steel 304",
+   "Diameter": "177.8 mm (7 in)",
+   "Length": "31.8 mm (1.25 in)",
+   "Drive Power": "3.7 kW (5 HP)",
+   "Powered By": "Electric",
+   "Blade Speed (RPM)": "10,000",
+   "Blade Type": "Adjustable cutting blade.",
+   "Nozzle Schedule": "1-1 1/2\" feed inlet, 200 micron outlets on die.",
+   "Motor Power": "3.7 kW (5 HP)",
+   "Motor Speed (RPM)": "3,500",
+   "Motor Voltage": "230/460",
+   "Motor Hertz": "60",
+   "Motor Cycles": "3"
+  },
+  "card_attributes": {
+   "Diameter": "7 in",
+   "Drive Power": "5 HP",
+   "Powered By": "Electric"
+  },
+  "subheading": "",
+  "additional_info": "centrifugal pelletizer Has infared temp meter Adjustable cutting blade. Max rpm 10,000 Cooling jkt on die housing. 3/60/230/460 volt motor"
+ }
+]

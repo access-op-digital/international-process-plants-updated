@@ -1,0 +1,18 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/mill/pebble",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/mill/pebble",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used mills for sale: particle size reduction equipment for powders, slurries and solids",
+ "items_found": 0,
+ "items_this_category": 0,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": []
+}

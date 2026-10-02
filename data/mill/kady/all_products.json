@@ -1,0 +1,38 @@
+[
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/mill/kady/220286",
+  "stock_number": "220286",
+  "ims_order": 1,
+  "featured": false,
+  "title": "IPP# 220286 - Kady Mill Stainless Steel 304 For Sale",
+  "card_title": "Stainless Steel 304 Kady Mill",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjIwLzIyMDI4Ni5qcGc/1",
+  "image_count": 7,
+  "status": 200,
+  "attribute_count": 16,
+  "attributes": {
+   "Type": "Mill",
+   "Subtype": "Kady",
+   "Manufacturer": "Powtec",
+   "Model": "RTS 350 x 300,",
+   "Condition": "Used",
+   "Material": "Stainless Steel 304",
+   "Diameter": "350 mm (13.8 in)",
+   "Length": "300 mm (11.8 in)",
+   "Drive Power": "3 kW (4 HP)",
+   "Motor Serial": "Ex II 2GD",
+   "Motor Power": "3 kW (4 HP)",
+   "Motor Speed (RPM)": "1,400",
+   "Motor Voltage": "400",
+   "Motor Hertz": "50",
+   "Motor Cycles": "3",
+   "Sieve Surface Area": "0.16 m² (1.72 ft²)"
+  },
+  "card_attributes": {
+   "Diameter": "350 mm",
+   "Drive Power": "3 kW"
+  },
+  "subheading": "",
+  "additional_info": "Powtec rotor sieving mill ATEX & EX, throughput 350 kg/hr rotor with 8-blades via a reduction gearbox flush volume 400-800 ltr/hr, 304 stainless steel sieve screen, 304 stainless steel hinged front inspection door, (1) stainless steel motorised rotary lock valve, manufactured by Waeschle, type ZGB200.1/2,5C, fabrik #27133/05, 60 degrees C, driven by 0.75kw, 3/50/230/400 volt, 1400 rpm EEx-e II T3 motor via a reduction gearbox"
+ }
+]
