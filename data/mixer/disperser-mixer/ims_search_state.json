@@ -1,0 +1,91 @@
+{
+ "group_code": "MXDS",
+ "subgroup_code": null,
+ "attributes": [
+  {
+   "name": "Motor Power",
+   "group": "Capacity",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "HP",
+   "unit_metric": "kW"
+  },
+  {
+   "name": "Bowl Capacity",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "ft3",
+   "unit_metric": "L"
+  },
+  {
+   "name": "Pressure",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "psi",
+   "unit_metric": "bar"
+  },
+  {
+   "name": "Temperature",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "°F",
+   "unit_metric": "°C"
+  },
+  {
+   "name": "Jacketed",
+   "group": "Jacket",
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Jacket Pressure",
+   "group": "Jacket",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "psi",
+   "unit_metric": "bar"
+  },
+  {
+   "name": "Jacket Temperature",
+   "group": "Jacket",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "°F",
+   "unit_metric": "°C"
+  },
+  {
+   "name": "Hydraulics",
+   "group": null,
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Vacuum",
+   "group": null,
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  }
+ ],
+ "seo": {
+  "windowTitle": null,
+  "metaDescription": null
+ }
+}

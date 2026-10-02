@@ -76,7 +76,15 @@
     { "source": "/equipment/mill/roll", "destination": "/equipment/mill/roll/INTERNAL-REVIEW-roll.html" },
     { "source": "/equipment/mill/roll/", "destination": "/equipment/mill/roll/INTERNAL-REVIEW-roll.html" },
     { "source": "/equipment/mill/shot-and-sand", "destination": "/equipment/mill/shot-and-sand/INTERNAL-REVIEW-shot-and-sand.html" },
-    { "source": "/equipment/mill/shot-and-sand/", "destination": "/equipment/mill/shot-and-sand/INTERNAL-REVIEW-shot-and-sand.html" }
+    { "source": "/equipment/mill/shot-and-sand/", "destination": "/equipment/mill/shot-and-sand/INTERNAL-REVIEW-shot-and-sand.html" },
+    { "source": "/equipment/mixer/banbury-mixer", "destination": "/equipment/mixer/banbury-mixer/INTERNAL-REVIEW-banbury-mixer.html" },
+    { "source": "/equipment/mixer/banbury-mixer/", "destination": "/equipment/mixer/banbury-mixer/INTERNAL-REVIEW-banbury-mixer.html" },
+    { "source": "/equipment/mixer/charge-can-and-pony-mixer", "destination": "/equipment/mixer/charge-can-and-pony-mixer/INTERNAL-REVIEW-charge-can-and-pony-mixer.html" },
+    { "source": "/equipment/mixer/charge-can-and-pony-mixer/", "destination": "/equipment/mixer/charge-can-and-pony-mixer/INTERNAL-REVIEW-charge-can-and-pony-mixer.html" },
+    { "source": "/equipment/mixer/disperser-mixer", "destination": "/equipment/mixer/disperser-mixer/INTERNAL-REVIEW-disperser-mixer.html" },
+    { "source": "/equipment/mixer/disperser-mixer/", "destination": "/equipment/mixer/disperser-mixer/INTERNAL-REVIEW-disperser-mixer.html" },
+    { "source": "/equipment/mixer/munson-rotary-mixer", "destination": "/equipment/mixer/munson-rotary-mixer/INTERNAL-REVIEW-munson-rotary-mixer.html" },
+    { "source": "/equipment/mixer/munson-rotary-mixer/", "destination": "/equipment/mixer/munson-rotary-mixer/INTERNAL-REVIEW-munson-rotary-mixer.html" }
   ],
   "redirects": [
     { "source": "/buy-used", "destination": "https://internationalprocessplants.com/buy-used/", "permanent": false },

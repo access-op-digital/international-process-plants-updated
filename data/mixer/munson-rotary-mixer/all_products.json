@@ -1,0 +1,72 @@
+[
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/munson-rotary-mixer/248034",
+  "stock_number": "248034",
+  "ims_order": 1,
+  "featured": false,
+  "title": "Mixer-Munson and Rotating - IPP# 248034",
+  "card_title": "Mixer-Munson and Rotating",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQ4LzI0ODAzNF84LmpwZw/1",
+  "image_count": 7,
+  "status": 200,
+  "attribute_count": 13,
+  "attributes": {
+   "Type": "Mixer-Munson and Rotating",
+   "Manufacturer": "Munson",
+   "Model": "VIM368SS",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Capacity (Design)": "1.56 m3 (55 ft3)",
+   "Batch Size": "1.04 m3 (36.7 ft3)",
+   "Drum Length": "2,400 mm (95.3 in)",
+   "Drum Width": "914 mm (36 in)",
+   "Drum Height": "914 mm (36 in)",
+   "Blade Type": "adjustable paddles or screw",
+   "Blade RPM": "240",
+   "Motor Power": "44.7 kW (60 HP)"
+  },
+  "card_attributes": {
+   "Capacity (Design)": "55 ft3",
+   "Batch Size": "36.7 ft3",
+   "Motor Power": "60 HP",
+   "Drum Length": "95.3 in",
+   "Drum Width": "36 in",
+   "Drum Height": "36 in",
+   "Blade Type": "adjustable paddles or screw",
+   "Blade RPM": "240"
+  },
+  "subheading": "",
+  "additional_info": "Design is for paddle shaft, currently has the screw with inserts installed. Currently missing drive gears on motor and shaft. Batch size is estimated to be 2/3ds of full capacity. Throughput is rated for 18 tons Hour. 0.5 NPT pipe nipple for liquid addition, 2x (1) with threaded cap. 304L Stainless steel removeable end panel. 304L Stainless steel discharge . 304L Stainless Steel intake, 316L Removeable end panel. Four lifting eyes on corner of frame."
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/munson-rotary-mixer/706277",
+  "stock_number": "706277",
+  "ims_order": 2,
+  "featured": false,
+  "title": "IPP# 706277 - Mixer-Munson and Rotating 0.5 m3 (17.7 ft3) Stainless Steel 316 For Sale",
+  "card_title": "0.5 m3 (17.7 ft3) Stainless Steel 316 Mixer-Munson and Rotating",
+  "image": "https://ims.internationalprocessplants.com/productimage/NzA2LzcwNjI3Ny5qcGc/1",
+  "image_count": 6,
+  "status": 200,
+  "attribute_count": 8,
+  "attributes": {
+   "Type": "Mixer-Munson and Rotating",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316",
+   "Capacity (Design)": "0.5 m3 (17.7 ft3)",
+   "Motor Power": "0.75 kW (1.01 HP)",
+   "Drum Width": "914 mm (36 in)",
+   "Drum Height": "76.2 mm (3 in)",
+   "Blade Type": "(2x) stainless steel baffles"
+  },
+  "card_attributes": {
+   "Capacity (Design)": "17.7 ft3",
+   "Motor Power": "1.01 HP",
+   "Drum Width": "36 in",
+   "Drum Height": "3 in",
+   "Blade Type": "(2x) stainless steel baffles"
+  },
+  "subheading": "",
+  "additional_info": "blender bowl 3' diameter x 3\" deep bowl direct driven by 0.75 kw, 3/50/220/240/380/415 volt 22-1400 rpm motor via gearbox 2-s/steel internal baffles in bowl manual geared bowl tipping mechanism"
+ }
+]

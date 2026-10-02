@@ -1,0 +1,47 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/charge-can-and-pony-mixer",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/charge-can-and-pony-mixer",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used charge cans and pony mixers for sale: portable blending and material handling for flexible batch operations",
+ "items_found": 4,
+ "items_this_category": 4,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "208856",
+   0,
+   1,
+   "Titanium Ross HDM 150 Mixer-Charge Can and Pony"
+  ],
+  [
+   2,
+   "220911",
+   0,
+   1,
+   "Stainless Steel 304 Ross PD-2 PowerMix Mixer-Charge Can and Pony"
+  ],
+  [
+   3,
+   "85397",
+   0,
+   1,
+   "5.1 kW (6.8 HP) Stainless Steel 316 Mixer-Charge Can and Pony"
+  ],
+  [
+   4,
+   "93028",
+   0,
+   1,
+   "5.5 kW (7.4 HP) Stainless Steel Austenitic Mixer-Charge Can and Pony"
+  ]
+ ]
+}

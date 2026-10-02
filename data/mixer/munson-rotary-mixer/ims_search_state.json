@@ -1,0 +1,109 @@
+{
+ "group_code": "MXMN",
+ "subgroup_code": null,
+ "attributes": [
+  {
+   "name": "Capacity (Design)",
+   "group": "Capacity",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "ft3",
+   "unit_metric": "m3"
+  },
+  {
+   "name": "Batch Size",
+   "group": null,
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "ft3",
+   "unit_metric": "m3"
+  },
+  {
+   "name": "Motor Power",
+   "group": "Motor",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "HP",
+   "unit_metric": "kW"
+  },
+  {
+   "name": "Drum RPM",
+   "group": null,
+   "type": "Number",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Blade RPM",
+   "group": null,
+   "type": "Number",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Jacketed",
+   "group": "Jacket",
+   "type": "Checkbox",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Jacket Pressure",
+   "group": "Jacket",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "psi",
+   "unit_metric": "bar"
+  },
+  {
+   "name": "Jacket Temperature",
+   "group": "Jacket",
+   "type": "Measure",
+   "primary": true,
+   "filterable": true,
+   "unit_us": "°F",
+   "unit_metric": "°C"
+  },
+  {
+   "name": "Jacket Material",
+   "group": "Jacket",
+   "type": "Dropdown",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "Jacket Type",
+   "group": "Jacket",
+   "type": "Dropdown",
+   "primary": true,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  },
+  {
+   "name": "CIP",
+   "group": null,
+   "type": "Checkbox",
+   "primary": false,
+   "filterable": true,
+   "unit_us": null,
+   "unit_metric": null
+  }
+ ],
+ "seo": {
+  "windowTitle": null,
+  "metaDescription": null
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/banbury-mixer",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/banbury-mixer",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used Banbury mixers for sale: heavy-duty compounders for rubber, plastics and high-viscosity materials",
+ "items_found": 9,
+ "items_this_category": 9,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "237070",
+   0,
+   0,
+   "Mazzoni MSB-1600 Mixer"
+  ],
+  [
+   2,
+   "237061",
+   0,
+   0,
+   "Mazzoni TDS-150-N Mixer"
+  ],
+  [
+   3,
+   "237056",
+   0,
+   0,
+   "Stainless Steel 317 Fabricated Products AC05M Mixer"
+  ],
+  [
+   4,
+   "237055",
+   0,
+   0,
+   "Mazzoni TDS-150-N. Mixer"
+  ],
+  [
+   5,
+   "237050",
+   0,
+   0,
+   "Stainless Steel 317 Fabricated Products AC05M Mixer"
+  ],
+  [
+   6,
+   "237049",
+   0,
+   0,
+   "Mazzoni TDS-150-N Mixer"
+  ],
+  [
+   7,
+   "237044",
+   0,
+   0,
+   "Stainless Steel 317 Fabricated Products AC05M Mixer"
+  ],
+  [
+   8,
+   "237043",
+   0,
+   0,
+   "Mazzoni TDS-150-N Mixer"
+  ],
+  [
+   9,
+   "237062",
+   0,
+   0,
+   "Fabricated Products AC05M Mixer"
+  ]
+ ]
+}

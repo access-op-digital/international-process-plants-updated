@@ -1,0 +1,98 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/disperser-mixer",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/disperser-mixer",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used disperser mixers for sale: high-speed blending for pigments, emulsions and viscous liquids",
+ "items_found": 12,
+ "items_this_category": 10,
+ "excluded_other_types": [
+  [
+   "248482",
+   "/inventory/equipment/detail/reactor/batch-type-agitated/248482"
+  ],
+  [
+   "248481",
+   "/inventory/equipment/detail/reactor/batch-type-agitated/248481"
+  ]
+ ],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "238392",
+   1,
+   1,
+   "Stainless Steel 304 Mixer-Disperser"
+  ],
+  [
+   2,
+   "706087",
+   1,
+   1,
+   "Stainless Steel 316 Joshua Greaves & Son Co. LTD. Mixer-Disperser"
+  ],
+  [
+   3,
+   "212576",
+   0,
+   1,
+   "14.7 kW (19.7 HP) Stainless Steel 316 Mixer-Disperser"
+  ],
+  [
+   4,
+   "219063",
+   0,
+   1,
+   "17.5 kW (23.5 HP) Stainless Steel Austenitic Mixer-Disperser"
+  ],
+  [
+   5,
+   "214311",
+   0,
+   1,
+   "Stainless Steel 304 Bowers 5VSM18 Mixer-Disperser"
+  ],
+  [
+   6,
+   "214764",
+   0,
+   1,
+   "11.2 kW (15 HP) Carbon Steel Mixer-Disperser"
+  ],
+  [
+   7,
+   "219081",
+   0,
+   1,
+   "2.6 kW (3.5 HP) Mixer-Disperser"
+  ],
+  [
+   8,
+   "230483",
+   0,
+   1,
+   "Stainless Steel 321 Buhler Group SMP-50-TS-S/V Mixer-Disperser"
+  ],
+  [
+   9,
+   "706214",
+   0,
+   0,
+   "18.5 kW (24.8 HP) Mixer-Disperser"
+  ],
+  [
+   10,
+   "706213",
+   0,
+   0,
+   "18.5 kW (24.8 HP) Mixer-Disperser"
+  ]
+ ]
+}
