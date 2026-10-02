@@ -46,7 +46,17 @@
     { "source": "/equipment/dryer/desiccant", "destination": "/equipment/dryer/desiccant/INTERNAL-REVIEW-desiccant.html" },
     { "source": "/equipment/dryer/desiccant/", "destination": "/equipment/dryer/desiccant/INTERNAL-REVIEW-desiccant.html" },
     { "source": "/equipment/dryer/refrigerant-heat", "destination": "/equipment/dryer/refrigerant-heat/INTERNAL-REVIEW-refrigerant-heat.html" },
-    { "source": "/equipment/dryer/refrigerant-heat/", "destination": "/equipment/dryer/refrigerant-heat/INTERNAL-REVIEW-refrigerant-heat.html" }
+    { "source": "/equipment/dryer/refrigerant-heat/", "destination": "/equipment/dryer/refrigerant-heat/INTERNAL-REVIEW-refrigerant-heat.html" },
+    { "source": "/equipment/heat-exchanger/air-fin", "destination": "/equipment/heat-exchanger/air-fin/INTERNAL-REVIEW-air-fin.html" },
+    { "source": "/equipment/heat-exchanger/air-fin/", "destination": "/equipment/heat-exchanger/air-fin/INTERNAL-REVIEW-air-fin.html" },
+    { "source": "/equipment/heat-exchanger/block", "destination": "/equipment/heat-exchanger/block/INTERNAL-REVIEW-block.html" },
+    { "source": "/equipment/heat-exchanger/block/", "destination": "/equipment/heat-exchanger/block/INTERNAL-REVIEW-block.html" },
+    { "source": "/equipment/heat-exchanger/spiral", "destination": "/equipment/heat-exchanger/spiral/INTERNAL-REVIEW-spiral.html" },
+    { "source": "/equipment/heat-exchanger/spiral/", "destination": "/equipment/heat-exchanger/spiral/INTERNAL-REVIEW-spiral.html" },
+    { "source": "/equipment/heat-exchanger/welded-plate", "destination": "/equipment/heat-exchanger/welded-plate/INTERNAL-REVIEW-welded-plate.html" },
+    { "source": "/equipment/heat-exchanger/welded-plate/", "destination": "/equipment/heat-exchanger/welded-plate/INTERNAL-REVIEW-welded-plate.html" },
+    { "source": "/equipment/homogenizer", "destination": "/equipment/homogenizer/INTERNAL-REVIEW-homogenizer.html" },
+    { "source": "/equipment/homogenizer/", "destination": "/equipment/homogenizer/INTERNAL-REVIEW-homogenizer.html" }
   ],
   "redirects": [
     { "source": "/buy-used", "destination": "https://internationalprocessplants.com/buy-used/", "permanent": false },

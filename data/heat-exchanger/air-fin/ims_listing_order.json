@@ -1,0 +1,54 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/heat-exchanger/air-fin",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/heat-exchanger/air-fin",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used heat exchangers for sale: efficient thermal transfer systems for heating, cooling and energy recovery",
+ "items_found": 5,
+ "items_this_category": 5,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "213974",
+   1,
+   1,
+   "20,000 SCFH Aluminum Finnco Cryogenic Ambient Air Vaporizer"
+  ],
+  [
+   2,
+   "222357",
+   0,
+   1,
+   "Stainless Steel Austenitic Air Fin Heat Exchanger"
+  ],
+  [
+   3,
+   "211989",
+   0,
+   1,
+   "2.4 m² (25.8 ft²) Copper Air Fin Heat Exchanger"
+  ],
+  [
+   4,
+   "211990",
+   0,
+   1,
+   "2.4 m² (26 ft²) Copper Air Fin Heat Exchanger"
+  ],
+  [
+   5,
+   "222358",
+   0,
+   0,
+   "Stainless Steel Austenitic Air Fin Heat Exchanger"
+  ]
+ ]
+}

@@ -1,0 +1,926 @@
+[
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242635",
+  "stock_number": "242635",
+  "ims_order": 1,
+  "featured": true,
+  "title": "Heat Exchanger Alfa Laval CP30-C-80PLs Welded Plate Hastelloy - C22 - IPP# 242635",
+  "card_title": "Heat Exchanger Alfa Laval CP30-C-80PLs Welded Plate Hastelloy - C22",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjYzNV8yLmpwZw/1",
+  "image_count": 12,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-80PLs",
+   "Condition": "Used",
+   "Material": "Hastelloy - C22",
+   "Heat Transfer Surface Area": "8.6 m² (92.6 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "8.6 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate heat exchanger design pressure process side: 6 barg + full vacuum @ 0/185 degrees C (34.6 liter), service side: 8 barg + full vacuum @ 0/185 degrees C (33.6 liter), 1+1-pass process side, 4-pass service side (80) Hastelloy C22 welded plates openings process side: 1-150mm, 1-80mm, 1-50mm, service side: 2-80mm mounted on lugs design code: AD-Merkblatt Ed.2000"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/248316",
+  "stock_number": "248316",
+  "ims_order": 2,
+  "featured": false,
+  "title": "Stainless Steel 316L Alfa Laval CPK40-C-160Pls Compabloc Welded Plate Heat Exchanger - IPP# 248316",
+  "card_title": "Stainless Steel 316L Alfa Laval CPK40-C-160Pls Compabloc Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQ4LzI0ODMxNl8xLmpwZw/1",
+  "image_count": 27,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CPK40-C-160Pls",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "26.2 m² (282 ft²)",
+   "Process Pressure": "10 bar (145 psi)",
+   "Process Temperature": "100 °C (212 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "282 ft²",
+   "Process Pressure": "145 psi",
+   "Process Temperature": "212 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc heat exchanger, design pressure side A: 10 bar + full vacuum @ 0/100 degrees C, side B: 10 bar + full vacuum @ 0/100 degrees C, volume side A: 113.6 liter, side B: 105.9 liter, carbon steel outer plates, mounted on lugs, CE0038"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/248315",
+  "stock_number": "248315",
+  "ims_order": 3,
+  "featured": false,
+  "title": "Stainless Steel 316L Alfa Laval CPK40-H-160Pls Compabloc Welded Plate Heat Exchanger - IPP# 248315",
+  "card_title": "Stainless Steel 316L Alfa Laval CPK40-H-160Pls Compabloc Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQ4LzI0ODMxNV8xLmpwZw/1",
+  "image_count": 27,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CPK40-H-160Pls",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "26.2 m² (282 ft²)",
+   "Process Pressure": "10 bar (145 psi)",
+   "Process Temperature": "100 °C (212 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "282 ft²",
+   "Process Pressure": "145 psi",
+   "Process Temperature": "212 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc heat exchanger, design pressure side A: 10 bar + full vacuum @ 0/100 degrees C, side B: 10 bar + full vacuum @ 0/100 degrees C, volume side A: 113.6 liter, side B: 105.9 liter, carbon steel outer plates, mounted on lugs, CE0038"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242487",
+  "stock_number": "242487",
+  "ims_order": 4,
+  "featured": false,
+  "title": "Stainless Steel 316 Alfa Laval CP30-C-60 PLs Compabloc Welded Plate Heat Exchanger - IPP# 242487",
+  "card_title": "Stainless Steel 316 Alfa Laval CP30-C-60 PLs Compabloc Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjQ4N18xLmpwZw/1",
+  "image_count": 12,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-60 PLs",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316",
+   "Heat Transfer Surface Area": "6.5 m² (70 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "6.5 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate heat exchanger, design pressure process side: 6 barg + full vacuum @ -29/185 degrees C (26.1 liter), service side: 8 barg + full vacuum @ -29/185 degrees C (24.6 liter), 1+1 pass process side, 4-pass service side, 316L stainless steel welded plates, openings process side: 1-100mm, 2-50mm, service side: 2-50mm mounted on lugs, design code: AD-Merkblatt Ed.2000"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242620",
+  "stock_number": "242620",
+  "ims_order": 5,
+  "featured": false,
+  "title": "Hastelloy - C22 Alfa Laval CPL30-H-60PLS Compabloc Welded Plate Heat Exchanger - IPP# 242620",
+  "card_title": "Hastelloy - C22 Alfa Laval CPL30-H-60PLS Compabloc Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjYyMF80LmpwZw/1",
+  "image_count": 13,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CPL30-H-60PLS",
+   "Condition": "Used",
+   "Material": "Hastelloy - C22",
+   "Heat Transfer Surface Area": "2.6 m² (28 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "2.6 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate heat exchanger, design pressure on process side 6 barg + full vacuum @ -29/185 degrees C, design pressure on Service side 6 barg + full vacuum @ -29/185 degrees C, mounted on a carbon steel frame"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242640",
+  "stock_number": "242640",
+  "ims_order": 6,
+  "featured": false,
+  "title": "Hastelloy - C22 Alfa Laval CP30-C-80PLs Welded Plate Heat Exchanger - IPP# 242640",
+  "card_title": "Hastelloy - C22 Alfa Laval CP30-C-80PLs Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjY0MF8yLmpwZw/1",
+  "image_count": 12,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-80PLs",
+   "Condition": "Used",
+   "Material": "Hastelloy - C22",
+   "Heat Transfer Surface Area": "8.6 m² (92.6 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "8.6 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate heat exchanger process side Hastelloy C22, service side 316L (1.4404) stainless steel design pressure process side: 6 barg + full vacuum @ 0/185 degrees C (34.6 liter), service side: 8 barg + full vacuum @ 0/185 degrees C (33.6 liter) 1+1-pass process side, 4-pass service side (80) Hastelloy C22 welded plates openings process side: 1-150mm, 1-80mm, 1-50mm, service side: 2-80mm mounted on lugs design code: AD-Merkblatt Ed.2000"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242641",
+  "stock_number": "242641",
+  "ims_order": 7,
+  "featured": false,
+  "title": "Hastelloy - C22 Alfa Laval CP30-H-60PLs Welded Plate Heat Exchanger - IPP# 242641",
+  "card_title": "Hastelloy - C22 Alfa Laval CP30-H-60PLs Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjY0MV8yLmpwZw/1",
+  "image_count": 9,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-H-60PLs",
+   "Condition": "Used",
+   "Material": "Hastelloy - C22",
+   "Heat Transfer Surface Area": "6.5 m² (70 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "6.5 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate heat exchanger design pressure side A: -1/6 barg @ -29/185 degrees C (26.2 liter), side B: -1/8 barg @ -29/185 degrees C (24.6 liter)"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242636",
+  "stock_number": "242636",
+  "ims_order": 8,
+  "featured": false,
+  "title": "Hastelloy - C22 Alfa Laval CP30-C-60PLs Welded Plate Heat Exchanger - IPP# 242636",
+  "card_title": "Hastelloy - C22 Alfa Laval CP30-C-60PLs Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjYzNl8yLmpwZw/1",
+  "image_count": 8,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-60PLs",
+   "Condition": "Used",
+   "Material": "Hastelloy - C22",
+   "Heat Transfer Surface Area": "6.5 m² (70 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "6.5 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc heat exchanger process side Hastelloy, service side 316L (1.4404) stainless steel, design pressure pressure side A: -1/6 barg @ -29/185 degrees C (26.3 liter), side B: -1/8 barg @ -29/185 degrees C (24.6 liter), 1 pass process side 6 pass service side (60) Hastelloy plates openings side A: 1-100mm, 1-80mm, side B: 2-50mm, mounted on lugs design code: AD-Merkblatt Ed.2000, CE0038"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/246638",
+  "stock_number": "246638",
+  "ims_order": 9,
+  "featured": false,
+  "title": "Unused Stainless Steel 316L Alfa Laval CPX75-V-500 Pls Welded Plate Heat Exchanger - IPP# 246638",
+  "card_title": "Unused Stainless Steel 316L Alfa Laval CPX75-V-500 Pls Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQ2LzI0NjYzOF8xLmpwZw/1",
+  "image_count": 27,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CPX75-V-500 Pls",
+   "Condition": "Unused",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "319.5 m² (3,450 ft²)",
+   "Process Pressure": "15.5 bar (224.8 psi)",
+   "Process Temperature": "168.9 °C (336 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "319.5 m²",
+   "Process Pressure": "15.5 bar",
+   "Process Temperature": "168.9 °C"
+  },
+  "subheading": "",
+  "additional_info": "319.5m² compabloc 1.4404 stainless stell plate and carbon steel frame Compabloc heat exchanger, manufactured by Alfa Laval, serial number CP75-5479, Side A pressure rated by -1/15bar @ -10/250 degrees C (volume 1180 liter), Side B pressure rated by -1/15bar @ -10/250 degrees C (volume 1185 liter), (500) 1.4404 stainless steel plates, openings: Side A (2)DN200, (1)DN25 drain, (1)DN25 vent; Side B (2)DN200, (1)DN25 drain, (1)DN25 vent."
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/246637",
+  "stock_number": "246637",
+  "ims_order": 10,
+  "featured": false,
+  "title": "Unused Stainless Steel 316L Alfa Laval CPX50-V-150 Pls Welded Plate Heat Exchanger - IPP# 246637",
+  "card_title": "Unused Stainless Steel 316L Alfa Laval CPX50-V-150 Pls Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQ2LzI0NjYzN18xLmpwZw/1",
+  "image_count": 27,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CPX50-V-150 Pls",
+   "Condition": "Unused",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "41.9 m² (451 ft²)",
+   "Process Pressure": "16 bar (232.1 psi)",
+   "Process Temperature": "180 °C (356 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "41.9 m²",
+   "Process Pressure": "16 bar",
+   "Process Temperature": "180 °C"
+  },
+  "subheading": "",
+  "additional_info": "41.9m² 1.4547 stainless steel plate and carbon steel frame Compabloc heat exchanger, CE confirm, manufactured by Alfa Laval, serial number CP50-2776, Side A pressure rated by -1/16bar @ -40/180 degrees C (volume 151.2 liter), Side B pressure rated by -1/16bar @ -40/180 degrees C (volume 165.5 liter) (150) 1.4547 stainless steel plates, openings: Hot side (2)DN25, (2)DN100; Cold side (2)DN25, (2)DN200. as per drawing * new plate pack in SMO * new baffle system in SMO * new gaskets * design temp. increase from 150 to 180 degrees C"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/246426",
+  "stock_number": "246426",
+  "ims_order": 11,
+  "featured": false,
+  "title": "Kapp stainless steel 316 studded welded plate Heat Exchanger - IPP# 246426",
+  "card_title": "Kapp stainless steel 316 studded welded plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQ2LzI0NjQyNl8xLmpwZw/1",
+  "image_count": 9,
+  "status": 200,
+  "attribute_count": 8,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Kapp",
+   "Model": "HX2125-20x3/20x3-187.5m2",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316",
+   "Heat Transfer Surface Area": "187.5 m² (2,000 ft²)",
+   "Process Pressure": "8 bar (116 psi)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "187.5 m²",
+   "Process Pressure": "116 psi"
+  },
+  "subheading": "",
+  "additional_info": "Design pressure hot side 0/8 bar @ 70 degrees C (1433 liter), cold side 0/8 bar @ 50 degrees C (1154 liter), hot side with 10 studs, cold side with 7 studs, carbon steel outside heads with 316 stainless steel lining, Category C-0,7, design code: CODAP 2000 + AD2000,"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242497",
+  "stock_number": "242497",
+  "ims_order": 12,
+  "featured": false,
+  "title": "Hastelloy - C22 Alfa Laval CP30-C-80PLs Welded Plate Compabloc Heat Exchanger - IPP# 242497",
+  "card_title": "Hastelloy - C22 Alfa Laval CP30-C-80PLs Welded Plate Compabloc Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjQ5N18xLmpwZw/1",
+  "image_count": 12,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-80PLs",
+   "Condition": "Used",
+   "Material": "Hastelloy - C22",
+   "Heat Transfer Surface Area": "9 m² (96.9 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "9 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate heat, design pressure process side 6 barg + full vacuum @ -29/185 degrees C (36.6 liter), service side 8 barg + full vacuum @ -29/185 degrees C (33.6 liter), 2 pass process side, 4 pass service side, (80) Hastelloy C22 welded plates, openings process side: 1-150mm, 1-75mm, 1-50mm, service side: 2-75mm, mounted on lugs, design code: ADM 2000 (PED) CAT III, CE0038,"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242482",
+  "stock_number": "242482",
+  "ims_order": 13,
+  "featured": false,
+  "title": "Stainless Steel 316L Welded Plate Compabloc Heat Exchanger - IPP# 242482",
+  "card_title": "Stainless Steel 316L Welded Plate Compabloc Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjQ4Ml8zLmpwZw/1",
+  "image_count": 12,
+  "status": 200,
+  "attribute_count": 7,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-60 PLs",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "6.5 m² (70 ft²)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "6.5 m²"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate heat exchanger process side: 6 barg + full vacuum @ -29/185 degrees C (26.1 liter), service side: 8 barg + full vacuum @ -29/185 degrees C (24.6 liter) 1+1 pass process side, 4-pass service side openings process side: 1-100mm, 2-50mm, service side: 2-50mm design code: AD-Merkblatt Ed.2000 mounted on lugs"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242684",
+  "stock_number": "242684",
+  "ims_order": 14,
+  "featured": false,
+  "title": "Hastelloy - C22 Alfa Laval CP30-C-60PLs Welded Plate Heat Exchanger - IPP# 242684",
+  "card_title": "Hastelloy - C22 Alfa Laval CP30-C-60PLs Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjY4NF8yLmpwZw/1",
+  "image_count": 8,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-60PLs",
+   "Condition": "Used",
+   "Material": "Hastelloy - C22",
+   "Heat Transfer Surface Area": "6.5 m² (70 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "6.5 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate design pressure: process side: 6 barg + full vacuum @ -29/185 degrees C (26.3 liter) design pressure: service side: 8 barg + full vacuum @ -29/185 degrees C (24.6 liter), single pass process side, 6-pass service side, (60) Hastelloy C22 (2.4602) welded plate pack, openings process side: 1-100mm, 1-80mm, service side: 2-50mm, mounted on lugs design code: AD Merkblatt Ed 2000, CAT 2, CE"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242663",
+  "stock_number": "242663",
+  "ims_order": 15,
+  "featured": false,
+  "title": "Stainless Steel 316L Alfa Laval CPL30-H-60 PLS Compabloc Welded Plate Heat Exchanger - IPP# 242663",
+  "card_title": "Stainless Steel 316L Alfa Laval CPL30-H-60 PLS Compabloc Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjY2M18xLmpwZw/1",
+  "image_count": 9,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CPL30-H-60 PLS",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "6.7 m² (72.1 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "6.7 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "design pressure process side 6 bar + full vacuum @ -29/185 degrees C (26.2 liter), service side 8 bar + full vacuum @ -29/185 degrees C (24.6 liter), passes process side 1, service 6 pass, (60) 316L stainless steel welded plates, openings process side: 1-100mm, 1-75mm, service: 2-50mm, design code: AD-Merkblatt Ed.2000, CAT 2, CE0038,"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242662",
+  "stock_number": "242662",
+  "ims_order": 16,
+  "featured": false,
+  "title": "Stainless Steel 316L Alfa Laval CP30-C-160 PLS Compabloc Welded Plate Heat Exchanger - IPP# 242662",
+  "card_title": "Stainless Steel 316L Alfa Laval CP30-C-160 PLS Compabloc Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjY2Ml80LmpwZw/1",
+  "image_count": 9,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-160 PLS",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "17.3 m² (186.2 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "17.3 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "design pressure process side 6 bar + full vacuum @ -29/185 degrees C (82 liter), service side 8 bar + full vacuum @ -29/185 degrees C (67 liter), passes process side 1+1, service 4 pass, (160) 316L stainless steel welded plates, openings process side: 1-250mm, 1-100mm, 1-50mm, service: 2-100mm, design code: AD-Merkblatt Ed.2000, CAT 2,"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242483",
+  "stock_number": "242483",
+  "ims_order": 17,
+  "featured": false,
+  "title": "Stainless Steel 316L Welded Plate Compabloc Heat Exchanger - IPP# 242483",
+  "card_title": "Stainless Steel 316L Welded Plate Compabloc Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjQ4M18xLmpwZw/1",
+  "image_count": 8,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-60PLs",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "6.5 m² (70 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "6.5 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate, process side: 6 barg + full vacuum @ -29/185 degrees C (26.1 liter), service side: 8 barg + full vacuum @ -29/185 degrees C (24.6 liter), 1-pass process side, 6-pass service side, (60) 316L stainless steel welded plates, openings process side: 1-100mm, 1-80mm, service side: 2-50mm, design code: AD-Merkblatt Ed.2000, Mounted on lugs"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242493",
+  "stock_number": "242493",
+  "ims_order": 18,
+  "featured": false,
+  "title": "Stainless Steel 316L Alfa Laval CP30-C-80PLs Welded Plate Compabloc Heat Exchanger - IPP# 242493",
+  "card_title": "Stainless Steel 316L Alfa Laval CP30-C-80PLs Welded Plate Compabloc Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjQ5M18xLmpwZw/1",
+  "image_count": 12,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-80PLs",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "9 m² (96.9 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "9 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "design pressure side A: -1/6 barg @ -29/185 degrees C (32 liter), side B: -1/8 barg @ -29/185 degrees C (32 liter), 316L stainless steel welded plates, 2-pass side A, 4-pass side B, openings side A 1-150mm, 1-75mm, 1-50mm, side B 2-75mm, Mounted on lugs, design code: ADM 2000 (PED), CAT III, fluid group 1, CE0038,"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242678",
+  "stock_number": "242678",
+  "ims_order": 19,
+  "featured": false,
+  "title": "Hastelloy C2000 Kapp HXEU 37.5-6x6/1x35 Welded Plate Heat Exchanger - IPP# 242678",
+  "card_title": "Hastelloy C2000 Kapp HXEU 37.5-6x6/1x35 Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjY3OF8xLmpwZw/1",
+  "image_count": 6,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Kapp",
+   "Model": "HXEU 37.5-6x6/1x35.S=10.1 m2",
+   "Condition": "Used",
+   "Material": "Hastelloy C2000",
+   "Heat Transfer Surface Area": "10.1 m² (108.7 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "10.1 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "design pressure process side (frames): -1/6 barg @ -29/185 degrees C (53 liter), service side (plates) -1/8 barg @ -29/185 degrees C (37 liter, CE0034, Cat III Mod H, mounted on lugs"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242693",
+  "stock_number": "242693",
+  "ims_order": 20,
+  "featured": false,
+  "title": "2.1 m² Hastelloy C-22 Welded Plate Heat Exchanger | Alfa Laval CPF15-H-90Pls Compabloc - IPP# 242693",
+  "card_title": "2.1 m² Hastelloy C-22 Welded Plate Heat Exchanger | Alfa Laval CPF15-H-90Pls Compabloc",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjY5M18xLmpwZw/1",
+  "image_count": 12,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CPF15-H-90Pls",
+   "Condition": "Used",
+   "Material": "Hastelloy - C22",
+   "Heat Transfer Surface Area": "2.1 m² (22.6 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "2.1 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate heat exchanger, design pressure side A: 6 barg + full vacuum @ -29/185 degrees C (10.3 liter), side B: 8 barg + full vacuum @ -29/185 degrees C (8.9 liter), design code: PED II module D1,"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242715",
+  "stock_number": "242715",
+  "ims_order": 21,
+  "featured": false,
+  "title": "Stainless Steel 316L Alfa Laval CP30-C-60PLs Welded Plate Heat Exchanger - IPP# 242715",
+  "card_title": "Stainless Steel 316L Alfa Laval CP30-C-60PLs Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjcxNV8xLmpwZw/1",
+  "image_count": 8,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-60PLs",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "6.5 m² (70 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "6.5 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate design pressure: process side: 6 barg + full vacuum @ -29/185 degrees C (26.1 liter), design pressure: service side: 8 barg + full vacuum @ -29/185 degrees C (24.6 liter) 1-pass process side, 6-pass service side (60) 316L stainless steel welded plates openings process side: 1-100mm, 1-80mm, service side: 2-50mm mounted on lugs design code: AD-Merkblatt Ed.2000, CE0038"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242714",
+  "stock_number": "242714",
+  "ims_order": 22,
+  "featured": false,
+  "title": "Stainless Steel 316L Alfa Laval CP30-C-160PLs Welded Plate Heat Exchanger - IPP# 242714",
+  "card_title": "Stainless Steel 316L Alfa Laval CP30-C-160PLs Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjcxNF8xLmpwZw/1",
+  "image_count": 9,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-160PLs",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "17.3 m² (186.2 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "17.3 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate heat exchanger, design pressure: process side: 6 barg + full vacuum @ 0/185 degrees C (82 liter) design pressure: service side: 8 barg + full vacuum @ 0/185 degrees C (67 liter) 1+1-pass process side, 4-pass service side (160) 316L stainless steel welded plates openings process side: 1-250mm, 1-100mm, 1-50mm, service side: 2-100mm mounted on lugs design code: AD-Merkblatt Ed.2000"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242537",
+  "stock_number": "242537",
+  "ims_order": 23,
+  "featured": false,
+  "title": "Stainless Steel 316L Alfa Laval CPL30-H-80 Welded Plate Compabloc Heat Exchanger - IPP# 242537",
+  "card_title": "Stainless Steel 316L Alfa Laval CPL30-H-80 Welded Plate Compabloc Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjUzN18xLmpwZw/1",
+  "image_count": 9,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CPL30-H-80",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "9 m² (96.9 ft²)",
+   "Process Pressure": "10 bar (145 psi)",
+   "Process Temperature": "165 °C (329 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "9 m²",
+   "Process Pressure": "145 psi",
+   "Process Temperature": "329 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate heat exchanger, design pressure process side: 10 barg + full vacuum @ -25/165 degrees C (34.4 liter), service side: 10 barg + full vacuum @ -29/185 degrees C (33.5 liter), 1-pass process side, 6-pass service side, (80) 316L (1.4404) stainless steel welded plates, openings process side 1-100mm, 1-50mm, service side: 2-50mm, design code: ADM (PED CAT 3)"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242538",
+  "stock_number": "242538",
+  "ims_order": 24,
+  "featured": false,
+  "title": "Stainless Steel 316L Alfa Laval CP20-H-60 Welded Plate Compabloc Heat Exchanger - IPP# 242538",
+  "card_title": "Stainless Steel 316L Alfa Laval CP20-H-60 Welded Plate Compabloc Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjUzOF8xLmpwZw/1",
+  "image_count": 9,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CPL20-H-60",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "3.8 m² (40.7 ft²)",
+   "Process Pressure": "10 bar (145 psi)",
+   "Process Temperature": "165 °C (329 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "3.8 m²",
+   "Process Pressure": "145 psi",
+   "Process Temperature": "329 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate heat exchanger, design pressure process side: 10 barg + full vacuum @ -25/165 degrees C (17.3 liter), service side: 10 barg + full vacuum @ -29/185 degrees C (16.9 liter), 2-pass process side, 6-pass service side, (60) 316L (1.4404) stainless steel welded plates, openings process side 3-50mm, service side: 2-50mm, design code: ADM (PED CAT 3)"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242494",
+  "stock_number": "242494",
+  "ims_order": 25,
+  "featured": false,
+  "title": "Stainless Steel 316L Alfa Laval CP30-H-60PLs Welded Plate Compabloc Heat Exchanger - IPP# 242494",
+  "card_title": "Stainless Steel 316L Alfa Laval CP30-H-60PLs Welded Plate Compabloc Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjQ5NF8yLmpwZw/1",
+  "image_count": 9,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-H-60PLs",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "6.5 m² (70 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "6.5 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "design pressure side A: -1/6 barg @ -29/185 degrees C (24 liter), side B: -1/8 barg @ -29/185 degrees C (24 liter), (60) 316L stainless steel welded plates, single pass side A, 6-pass side B, openings side A 1-100mm, 1-75mm, side B 2-50mm, mounted on lugs, design code: ADM 2000 (PED), CAT II, fluid group 1, CE0038"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242692",
+  "stock_number": "242692",
+  "ims_order": 26,
+  "featured": false,
+  "title": "Hastelloy - C22 Alfa Laval CP30-H-80Pls Welded plate Heat Exchanger - IPP# 242692",
+  "card_title": "Hastelloy - C22 Alfa Laval CP30-H-80Pls Welded plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjY5Ml8xLmpwZw/1",
+  "image_count": 12,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CPF30-H-80Pls",
+   "Condition": "Used",
+   "Material": "Hastelloy - C22",
+   "Heat Transfer Surface Area": "9 m² (96.9 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "9 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "pressure side A: 6 barg + full vacuum @ -29/185 degrees C (39.7 liter),side B: 8 barg + full vacuum @ -29/185 degrees C (31.4 liter), design code: PED III module B,"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242718",
+  "stock_number": "242718",
+  "ims_order": 27,
+  "featured": false,
+  "title": "Hastelloy - C276 Alfa Laval CPL30-C-60Pls Compabloc Welded Plate Heat Exchanger - IPP# 242718",
+  "card_title": "Hastelloy - C276 Alfa Laval CPL30-C-60Pls Compabloc Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjcxOF8xLmpwZw/1",
+  "image_count": 8,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CPL30-C-60Pls",
+   "Condition": "Used",
+   "Material": "Hastelloy - C276",
+   "Heat Transfer Surface Area": "9 m² (96.9 ft²)",
+   "Process Pressure": "6.1 bar (88.8 psi)",
+   "Process Temperature": "18 °C (64.4 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "9 m²",
+   "Process Pressure": "88.8 psi",
+   "Process Temperature": "64.4 °F"
+  },
+  "subheading": "",
+  "additional_info": "design pressure process side: -1/6.12 barg @ -29/185 degrees C (32 liter), service side: -1/8.16 barg @ -29/185 degrees C (32 liter), 2-pass process side, 4-pass service side, (80) Hastelloy C276 welded plates, CE0038, openings process side: 1-150mm, 1-75mm, 1-50mm, service side: 2-75mm, mounted on lugs, design code: AD-2000 (PED), CAT 11,"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242719",
+  "stock_number": "242719",
+  "ims_order": 28,
+  "featured": false,
+  "title": "Hastelloy - C276 Alfa Laval CPL30-C-60Pls Compabloc Welded Plate Heat Exchanger - IPP# 242719",
+  "card_title": "Hastelloy - C276 Alfa Laval CPL30-C-60Pls Compabloc Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjcxOV8xLmpwZw/1",
+  "image_count": 8,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CPL30-C-60Pls",
+   "Condition": "Used",
+   "Material": "Hastelloy - C276",
+   "Heat Transfer Surface Area": "6.7 m² (72.1 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "6.7 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "design pressure process side: -1/6.12 barg @ -29/185 degrees C (24 liter), service side: -1/8.16 barg @ -29/185 degrees C (24 liter), single pass process side, 6-pass service side, (60) Hastelloy C276 welded plates, CE0038, openings process side: 1-100mm, 1-75mm, service side: 2-50mm, mounted on lugs, design code: AD-2000 (PED), CAT 11,"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242688",
+  "stock_number": "242688",
+  "ims_order": 29,
+  "featured": false,
+  "title": "Stainless Steel 316L Alfa Laval CP30-C-60PLs Welded Plate Heat Exchanger - IPP# 242688",
+  "card_title": "Stainless Steel 316L Alfa Laval CP30-C-60PLs Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjY4OF8xLmpwZw/1",
+  "image_count": 8,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-60PLs",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "6.5 m² (70 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "6.5 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate heat exchanger, process side: 6 barg + full vacuum @ -29/185 degrees C (26.1 liter), service side: 8 barg + full vacuum @ -29/185 degrees C (24.6 liter), 1-pass process side, 6-pass service side, (60) 316L stainless steel welded plates, openings process side: 1-100mm, 1-80mm, service side: 2-50mm, mounted on lugs design code: AD-Merkblatt Ed.2000"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242687",
+  "stock_number": "242687",
+  "ims_order": 30,
+  "featured": false,
+  "title": "Stainless Steel 316L Alfa Laval CP30-C-80 Welded Plate Heat Exchanger - IPP# 242687",
+  "card_title": "Stainless Steel 316L Alfa Laval CP30-C-80 Welded Plate Heat Exchanger",
+  "image": "https://ims.internationalprocessplants.com/productimage/MjQyLzI0MjY4N18xLmpwZw/1",
+  "image_count": 9,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-80",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "8.6 m² (92.6 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "8.6 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate, process side: 6 barg + full vacuum @ 0/185 degrees C (34.6 liter), service side: 8 barg + full vacuum @ 0/185 degrees C (33.6 liter), 1+1-pass process side, 4-pass service side, (80) 316L stainless steel welded plates, openings process side: 1-150mm, 1-80mm, 150mm service side: 2-80mm, mounted on lugs, design code: AD-Merkblatt Ed.2000"
+ },
+ {
+  "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/welded-plate/242488",
+  "stock_number": "242488",
+  "ims_order": 31,
+  "featured": false,
+  "title": "Stainless Steel 316L Alfa Laval CP30-C-60PLs Compabloc Welded Plate Heat Exchanger - IPP# 242488",
+  "card_title": "Stainless Steel 316L Alfa Laval CP30-C-60PLs Compabloc Welded Plate Heat Exchanger",
+  "image": "",
+  "image_count": 8,
+  "status": 200,
+  "attribute_count": 9,
+  "attributes": {
+   "Type": "Heat Exchanger",
+   "Subtype": "Welded Plate",
+   "Manufacturer": "Alfa Laval",
+   "Model": "CP30-C-60PLs",
+   "Condition": "Used",
+   "Material": "Stainless Steel 316L",
+   "Heat Transfer Surface Area": "6.5 m² (70 ft²)",
+   "Process Pressure": "6 bar (87 psi)",
+   "Process Temperature": "185 °C (365 °F)"
+  },
+  "card_attributes": {
+   "Heat Transfer Surface Area": "6.5 m²",
+   "Process Pressure": "87 psi",
+   "Process Temperature": "365 °F"
+  },
+  "subheading": "",
+  "additional_info": "Compabloc welded plate, design pressure process side: 6 barg + full vacuum @ -29/185 degrees C (26.1 liter) service side: 8 barg + full vacuum @ -29/185 degrees C (24.6 liter), 1-pass process side, 6-pass service side, (60) 316L stainless steel welded plates, openings process side: 1-100mm, 1-80mm, service side: 2-50mm, mounted on lugs, design code: AD-Merkblatt Ed.2000"
+ }
+]

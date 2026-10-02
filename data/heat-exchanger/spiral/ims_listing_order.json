@@ -1,0 +1,488 @@
+{
+ "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/heat-exchanger/spiral",
+ "final_url": "https://ims.internationalprocessplants.com/inventory/search/equipment/heat-exchanger/spiral",
+ "captured": "2026-10-02",
+ "sort": "Featured (IMS default)",
+ "ims_h1": "Used heat exchangers for sale: efficient thermal transfer systems for heating, cooling and energy recovery",
+ "items_found": 67,
+ "items_this_category": 67,
+ "excluded_other_types": [],
+ "columns": [
+  "ims_order",
+  "stock_number",
+  "featured",
+  "has_image",
+  "ims_card_title"
+ ],
+ "rows": [
+  [
+   1,
+   "220226",
+   1,
+   1,
+   "Spiral Heat Exchanger Kapp Stainless Steel 904"
+  ],
+  [
+   2,
+   "214330",
+   1,
+   1,
+   "Spiral Heat Exchanger Alpha Laval 3-6 Stainless Steel 316"
+  ],
+  [
+   3,
+   "706770",
+   1,
+   1,
+   "Stainless Steel 316L Alfa Laval Spiral Heat Exchanger"
+  ],
+  [
+   4,
+   "246877",
+   1,
+   1,
+   "Alfa Laval Spiral Spiral Heat Exchanger Stainless Steel 316"
+  ],
+  [
+   5,
+   "221741",
+   0,
+   1,
+   "Glasss Schott Spiral Heat Exchanger"
+  ],
+  [
+   6,
+   "211734",
+   0,
+   1,
+   "Stainless Steel Other Sulzer Spiral Heat Exchanger"
+  ],
+  [
+   7,
+   "229078",
+   0,
+   1,
+   "Glass QVF Corning HE-4 Spiral Heat Exchanger"
+  ],
+  [
+   8,
+   "211585",
+   0,
+   1,
+   "Stainless Steel Other Zurcher AG Spiral Heat Exchanger"
+  ],
+  [
+   9,
+   "229093",
+   0,
+   1,
+   "Glass QVF CORNING HE 4 Spiral Heat Exchanger"
+  ],
+  [
+   10,
+   "248321",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval AI.SHE LTL. 13S Spiral Heat Exchanger"
+  ],
+  [
+   11,
+   "248320",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval AI.SHE LTL. 13S Spiral Heat Exchanger"
+  ],
+  [
+   12,
+   "248322",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval AI.SHE LTL. 13S Spiral Heat Exchanger"
+  ],
+  [
+   13,
+   "221735",
+   0,
+   1,
+   "New Glasslined Spiral Heat Exchanger"
+  ],
+  [
+   14,
+   "204174",
+   0,
+   1,
+   "1.4 m² (15.1 ft²) Graphite Spiral Heat Exchanger"
+  ],
+  [
+   15,
+   "221734",
+   0,
+   1,
+   "Unused Glasslined Spiral Heat Exchanger"
+  ],
+  [
+   16,
+   "214022",
+   0,
+   1,
+   "GAB Neumann GmbH N-B-1 Spiral Heat Exchanger"
+  ],
+  [
+   17,
+   "204176",
+   0,
+   1,
+   "2 m² (21.5 ft²) Stainless Steel 317 Spiral Heat Exchanger"
+  ],
+  [
+   18,
+   "229053",
+   0,
+   1,
+   "0.5 m² (5.4 ft²) Glasslined Spiral Heat Exchanger"
+  ],
+  [
+   19,
+   "207262",
+   0,
+   1,
+   "2 m² (21.5 ft²) Stainless Steel 321 Spiral Heat Exchanger"
+  ],
+  [
+   20,
+   "207241",
+   0,
+   1,
+   "33 m² (355.2 ft²) Stainless Steel 321 Spiral Heat Exchanger"
+  ],
+  [
+   21,
+   "215336",
+   0,
+   1,
+   "Duplex Alfa Laval SHE, 1-V Spiral Heat Exchanger"
+  ],
+  [
+   22,
+   "211702",
+   0,
+   1,
+   "4.2 m² (45.2 ft²) Graphite Spiral Heat Exchanger"
+  ],
+  [
+   23,
+   "81953",
+   0,
+   1,
+   "QVF/Nowak clear glass with copper coil Heat Exchanger"
+  ],
+  [
+   24,
+   "215334",
+   0,
+   1,
+   "Stainless Steel 316 Alfa Laval 1-V Spiral Heat Exchanger"
+  ],
+  [
+   25,
+   "211706",
+   0,
+   1,
+   "4.2 m² (45.2 ft²) Graphite Spiral Heat Exchanger"
+  ],
+  [
+   26,
+   "211566",
+   0,
+   1,
+   "16 m² (172.2 ft²) Stainless Steel Other Spiral Heat Exchanger"
+  ],
+  [
+   27,
+   "246876",
+   0,
+   1,
+   "Stainless Steel 316 Alfa Laval Spiral Spiral Heat Exchanger"
+  ],
+  [
+   28,
+   "90801",
+   0,
+   1,
+   "5.7 m² (61 ft²) Graphite Spiral Heat Exchanger"
+  ],
+  [
+   29,
+   "233192",
+   0,
+   1,
+   "Hastelloy - C276 Alfa Laval Spiral Heat Exchanger"
+  ],
+  [
+   30,
+   "706516",
+   0,
+   1,
+   "8 m² (86.1 ft²) Stainless Steel 316 Spiral Heat Exchanger"
+  ],
+  [
+   31,
+   "211536",
+   0,
+   1,
+   "10 m² (107.6 ft²) Stainless Steel Other Spiral Heat Exchanger"
+  ],
+  [
+   32,
+   "242609",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval Spiral Heat Exchanger"
+  ],
+  [
+   33,
+   "242612",
+   0,
+   1,
+   "Stainless Steel 316L Kuhni Spiral Coil Tube Heat Exchanger"
+  ],
+  [
+   34,
+   "242468",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval Spiral Heat Exchanger"
+  ],
+  [
+   35,
+   "86884",
+   0,
+   1,
+   "Stainless Steel 304 Spiral Heat Exchanger"
+  ],
+  [
+   36,
+   "78204",
+   0,
+   1,
+   "Stainless Steel 316 Spiral Heat Exchanger"
+  ],
+  [
+   37,
+   "229453",
+   0,
+   1,
+   "Stainless Steel 316 Spiral Heat Exchanger"
+  ],
+  [
+   38,
+   "206766",
+   0,
+   1,
+   "Carbon Steel American Heat Reclaiming Spiral Heat Exchanger"
+  ],
+  [
+   39,
+   "242610",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval IV Spiral Heat Exchanger"
+  ],
+  [
+   40,
+   "242478",
+   0,
+   1,
+   "Stainless Steel 316L Kuhni Spiral Heat Exchanger"
+  ],
+  [
+   41,
+   "242709",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval SHE 111.V Spiral Heat Exchanger"
+  ],
+  [
+   42,
+   "242604",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval IIIV Spiral Heat Exchanger"
+  ],
+  [
+   43,
+   "242605",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval IV Spiral Heat Exchanger"
+  ],
+  [
+   44,
+   "28086",
+   0,
+   1,
+   "Stainless Steel 316 Spiral Heat Exchanger"
+  ],
+  [
+   45,
+   "221135",
+   0,
+   1,
+   "Carbon Steel Spiral Heat Exchanger"
+  ],
+  [
+   46,
+   "236048",
+   0,
+   1,
+   "4 m² (43.1 ft²) Stainless Steel Other Spiral Heat Exchanger"
+  ],
+  [
+   47,
+   "242519",
+   0,
+   1,
+   "Stainless steel 316L GEA Canzler Spiral Heat Exchanger"
+  ],
+  [
+   48,
+   "242710",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval SHE 1.V Spiral Heat Exchanger"
+  ],
+  [
+   49,
+   "242611",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval IV Spiral Heat Exchanger"
+  ],
+  [
+   50,
+   "242502",
+   0,
+   1,
+   "Stainless steel 316L spiral Heat Exchanger"
+  ],
+  [
+   51,
+   "242472",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval Spiral Heat Exchanger"
+  ],
+  [
+   52,
+   "242471",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval III V Spiral Heat Exchanger"
+  ],
+  [
+   53,
+   "242699",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval SHE IV Spiral Heat Exchanger"
+  ],
+  [
+   54,
+   "242698",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval SHE 111.V Spiral Heat Exchanger"
+  ],
+  [
+   55,
+   "242673",
+   0,
+   1,
+   "Stainless Steel 316L Alfa Laval SHE IV Spiral Heat Exchanger"
+  ],
+  [
+   56,
+   "242556",
+   0,
+   1,
+   "Stainless Steel 316L Kuhni Spiral Coil Heat Exchanger"
+  ],
+  [
+   57,
+   "202253",
+   0,
+   1,
+   "Stainless Steel 316 Alfa Laval/ American Heat Exchanger Corp. Type 2-VH Spiral Heat Exchanger"
+  ],
+  [
+   58,
+   "202532",
+   0,
+   1,
+   "1.4 m² (15.1 ft²) Stainless Steel 316 Spiral Heat Exchanger"
+  ],
+  [
+   59,
+   "70293",
+   0,
+   1,
+   "Stainless Steel 316 Spiral Heat Exchanger"
+  ],
+  [
+   60,
+   "211211",
+   0,
+   1,
+   "Stainless Steel Other GEA Spiral Heat Exchanger"
+  ],
+  [
+   61,
+   "201666",
+   0,
+   1,
+   "Carbon Steel Alfa Laval Spiral Heat Exchanger"
+  ],
+  [
+   62,
+   "203782",
+   0,
+   1,
+   "Ettore Zanon SpA Spiral Heat Exchanger"
+  ],
+  [
+   63,
+   "201674",
+   0,
+   1,
+   "Carbon Steel Alfa Laval Spiral Heat Exchanger"
+  ],
+  [
+   64,
+   "214014",
+   0,
+   0,
+   "Stainless Steel 316 Spiral Heat Exchanger"
+  ],
+  [
+   65,
+   "238453",
+   0,
+   0,
+   "Alloy 20 Spiral Heat Exchanger"
+  ],
+  [
+   66,
+   "242672",
+   0,
+   0,
+   "Stainless Steel 316L Alfa Laval SHE 111.V Spiral Heat Exchanger"
+  ],
+  [
+   67,
+   "236173",
+   0,
+   0,
+   "Stainless Steel 316 Spiral Heat Exchanger"
+  ]
+ ]
+}
