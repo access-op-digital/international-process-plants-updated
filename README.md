@@ -2,6 +2,8 @@
 
 Static HTML review site for the IPP equipment landing pages. There is no build step.
 
+The homepage is a searchable page hub for chemical process plants and the equipment review pages. It links to existing routes, groups equipment types by category, and works as a browsable directory without JavaScript. Rebuild its page list after adding equipment pages with `python tools/build_page_hub.py`; see [hub documentation](docs/hub/README.md).
+
 ## Deploy on Vercel
 
 Import this repository in Vercel with these settings:

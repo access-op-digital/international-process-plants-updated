@@ -1,0 +1,716 @@
+[
+  {
+    "category": "chemical-plants",
+    "title": "Chemical process plants",
+    "url": "/chemical-process-plant-equipment-used-systems-for-sale/",
+    "file": "chemical-process-plant-equipment-used-systems-for-sale/index.html",
+    "overview": true
+  },
+  {
+    "category": "reactor",
+    "title": "Batch-Type Agitated Reactors",
+    "url": "/buy-used-batch-type-agitated-reactors.html",
+    "file": "equipment/reactor/batch-type-agitated/buy-used-batch-type-agitated-reactors.html",
+    "overview": false
+  },
+  {
+    "category": "reactor",
+    "title": "Batch-Type Body-Only Reactors",
+    "url": "/equipment/reactor/batch-type-body-only/",
+    "file": "equipment/reactor/batch-type-body-only/index.html",
+    "overview": false
+  },
+  {
+    "category": "reactor",
+    "title": "Fixed Bed Reactors",
+    "url": "/equipment/reactor/fixed-bed/",
+    "file": "equipment/reactor/fixed-bed/index.html",
+    "overview": false
+  },
+  {
+    "category": "reactor",
+    "title": "Fluid Bed Reactors",
+    "url": "/equipment/reactor/fluid-bed/",
+    "file": "equipment/reactor/fluid-bed/index.html",
+    "overview": false
+  },
+  {
+    "category": "reactor",
+    "title": "Hydrogenation Reactors",
+    "url": "/equipment/reactor/hydrogenation/",
+    "file": "equipment/reactor/hydrogenation/index.html",
+    "overview": false
+  },
+  {
+    "category": "reactor",
+    "title": "Reactors",
+    "url": "/equipment/reactor/",
+    "file": "equipment/reactor/index.html",
+    "overview": true
+  },
+  {
+    "category": "reactor",
+    "title": "Polymerization Reactors",
+    "url": "/equipment/reactor/polymerization/",
+    "file": "equipment/reactor/polymerization/index.html",
+    "overview": false
+  },
+  {
+    "category": "reactor",
+    "title": "Tubular Reactors",
+    "url": "/equipment/reactor/tubular/",
+    "file": "equipment/reactor/tubular/index.html",
+    "overview": false
+  },
+  {
+    "category": "heat-exchanger",
+    "title": "Air Cooled Heat Exchangers",
+    "url": "/equipment/heat-exchanger/air-fin/",
+    "file": "equipment/heat-exchanger/air-fin/INTERNAL-REVIEW-air-fin.html",
+    "overview": false
+  },
+  {
+    "category": "heat-exchanger",
+    "title": "Graphite Block Heat Exchangers",
+    "url": "/equipment/heat-exchanger/block/",
+    "file": "equipment/heat-exchanger/block/INTERNAL-REVIEW-block.html",
+    "overview": false
+  },
+  {
+    "category": "heat-exchanger",
+    "title": "Heat Exchangers",
+    "url": "/equipment/heat-exchanger/",
+    "file": "equipment/heat-exchanger/index.html",
+    "overview": true
+  },
+  {
+    "category": "heat-exchanger",
+    "title": "Plate and Frame Heat Exchangers",
+    "url": "/equipment/heat-exchanger/plate-and-frame/",
+    "file": "equipment/heat-exchanger/plate-and-frame/INTERNAL-REVIEW-plate-and-frame.html",
+    "overview": false
+  },
+  {
+    "category": "heat-exchanger",
+    "title": "Shell and Tube Heat Exchangers",
+    "url": "/equipment/heat-exchanger/shell-and-tube/",
+    "file": "equipment/heat-exchanger/shell-and-tube/index.html",
+    "overview": false
+  },
+  {
+    "category": "heat-exchanger",
+    "title": "Spiral Heat Exchangers",
+    "url": "/equipment/heat-exchanger/spiral/",
+    "file": "equipment/heat-exchanger/spiral/INTERNAL-REVIEW-spiral.html",
+    "overview": false
+  },
+  {
+    "category": "heat-exchanger",
+    "title": "Welded Plate Heat Exchangers",
+    "url": "/equipment/heat-exchanger/welded-plate/",
+    "file": "equipment/heat-exchanger/welded-plate/INTERNAL-REVIEW-welded-plate.html",
+    "overview": false
+  },
+  {
+    "category": "centrifuge",
+    "title": "Auto Discharge-Bottom Basket Centrifuges",
+    "url": "/equipment/centrifuge/auto-discharge-bottom/",
+    "file": "equipment/centrifuge/auto-discharge-bottom/index.html",
+    "overview": false
+  },
+  {
+    "category": "centrifuge",
+    "title": "Basket Centrifuge Parts Machines",
+    "url": "/equipment/centrifuge/basket-centrifuge-parts/",
+    "file": "equipment/centrifuge/basket-centrifuge-parts/index.html",
+    "overview": false
+  },
+  {
+    "category": "centrifuge",
+    "title": "Disc Bowl Centrifuges",
+    "url": "/equipment/centrifuge/disc-bowl-centrifuge/",
+    "file": "equipment/centrifuge/disc-bowl-centrifuge/index.html",
+    "overview": false
+  },
+  {
+    "category": "centrifuge",
+    "title": "Centrifuges",
+    "url": "/equipment/centrifuge/",
+    "file": "equipment/centrifuge/index.html",
+    "overview": true
+  },
+  {
+    "category": "centrifuge",
+    "title": "Inverting Filter Centrifuges",
+    "url": "/equipment/centrifuge/inverting-filter-centrifuge/",
+    "file": "equipment/centrifuge/inverting-filter-centrifuge/index.html",
+    "overview": false
+  },
+  {
+    "category": "centrifuge",
+    "title": "Lab Centrifuges",
+    "url": "/equipment/centrifuge/lab-centrifuge/",
+    "file": "equipment/centrifuge/lab-centrifuge/INTERNAL-REVIEW-lab-centrifuge.html",
+    "overview": false
+  },
+  {
+    "category": "centrifuge",
+    "title": "Manual Discharge-Top Basket Centrifuges",
+    "url": "/equipment/centrifuge/manual-discharge-top/",
+    "file": "equipment/centrifuge/manual-discharge-top/index.html",
+    "overview": false
+  },
+  {
+    "category": "centrifuge",
+    "title": "Tubular, Podbielniak & Hydraulic Centrifuges",
+    "url": "/equipment/centrifuge/misc-and-hydraulic-centrifuge/",
+    "file": "equipment/centrifuge/misc-and-hydraulic-centrifuge/INTERNAL-REVIEW-misc-and-hydraulic-centrifuge.html",
+    "overview": false
+  },
+  {
+    "category": "centrifuge",
+    "title": "Peeler Centrifuges",
+    "url": "/equipment/centrifuge/peeler-centrifuge/",
+    "file": "equipment/centrifuge/peeler-centrifuge/INTERNAL-REVIEW-peeler-centrifuge.html",
+    "overview": false
+  },
+  {
+    "category": "centrifuge",
+    "title": "Pusher Centrifuges",
+    "url": "/equipment/centrifuge/pusher-centrifuge/",
+    "file": "equipment/centrifuge/pusher-centrifuge/INTERNAL-REVIEW-pusher-centrifuge.html",
+    "overview": false
+  },
+  {
+    "category": "centrifuge",
+    "title": "Pusher Centrifuge Parts",
+    "url": "/equipment/centrifuge/pusher-centrifuge-parts/",
+    "file": "equipment/centrifuge/pusher-centrifuge-parts/INTERNAL-REVIEW-pusher-centrifuge-parts.html",
+    "overview": false
+  },
+  {
+    "category": "centrifuge",
+    "title": "Solid Bowl-Decanter Centrifuges",
+    "url": "/equipment/centrifuge/solid-bowl-decanter-centrifuge/",
+    "file": "equipment/centrifuge/solid-bowl-decanter-centrifuge/index.html",
+    "overview": false
+  },
+  {
+    "category": "centrifuge",
+    "title": "Decanter Centrifuge Parts",
+    "url": "/equipment/centrifuge/solid-bowl-decanter-centrifuge-parts/",
+    "file": "equipment/centrifuge/solid-bowl-decanter-centrifuge-parts/INTERNAL-REVIEW-solid-bowl-decanter-centrifuge-parts.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Desiccant Air Dryers",
+    "url": "/equipment/dryer/desiccant/",
+    "file": "equipment/dryer/desiccant/INTERNAL-REVIEW-desiccant.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Drum Dryers",
+    "url": "/equipment/dryer/drum-dryer/",
+    "file": "equipment/dryer/drum-dryer/INTERNAL-REVIEW-drum-dryer.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Drum & Belt Flakers",
+    "url": "/equipment/dryer/flaker-drum-and-belt-dryer/",
+    "file": "equipment/dryer/flaker-drum-and-belt-dryer/INTERNAL-REVIEW-flaker-drum-and-belt-dryer.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Industrial Flash Dryers",
+    "url": "/equipment/dryer/flash-dryer/",
+    "file": "equipment/dryer/flash-dryer/INTERNAL-REVIEW-flash-dryer.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Fluid Bed Dryers",
+    "url": "/equipment/dryer/fluid-bed-dryer/",
+    "file": "equipment/dryer/fluid-bed-dryer/index.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Freeze Dryers",
+    "url": "/equipment/dryer/freeze-dryer/",
+    "file": "equipment/dryer/freeze-dryer/index.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Holoflite & Screw Dryers",
+    "url": "/equipment/dryer/holoflite-and-screw-dryer/",
+    "file": "equipment/dryer/holoflite-and-screw-dryer/index.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Horizontal Belt & Continuous Dryers",
+    "url": "/equipment/dryer/horizontal-belt-continuous-dryer/",
+    "file": "equipment/dryer/horizontal-belt-continuous-dryer/index.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Industrial / Process Dryers",
+    "url": "/equipment/dryer/",
+    "file": "equipment/dryer/index.html",
+    "overview": true
+  },
+  {
+    "category": "dryer",
+    "title": "Nauta & Conical Vacuum Dryers",
+    "url": "/equipment/dryer/nauta-dryer/",
+    "file": "equipment/dryer/nauta-dryer/INTERNAL-REVIEW-nauta-dryer.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Industrial Drying Ovens",
+    "url": "/equipment/dryer/oven-dryer/",
+    "file": "equipment/dryer/oven-dryer/INTERNAL-REVIEW-oven-dryer.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Vacuum Pan Dryers",
+    "url": "/equipment/dryer/pan-dryer/",
+    "file": "equipment/dryer/pan-dryer/INTERNAL-REVIEW-pan-dryer.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Porcupine Dryers",
+    "url": "/equipment/dryer/porcupine-dryer/",
+    "file": "equipment/dryer/porcupine-dryer/index.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Porcupine Dryer Parts",
+    "url": "/equipment/dryer/porcupine-dryer-parts/",
+    "file": "equipment/dryer/porcupine-dryer-parts/INTERNAL-REVIEW-porcupine-dryer-parts.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Refrigerated Air Dryers",
+    "url": "/equipment/dryer/refrigerant-heat/",
+    "file": "equipment/dryer/refrigerant-heat/INTERNAL-REVIEW-refrigerant-heat.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Ribbon & Paddle Dryers",
+    "url": "/equipment/dryer/ribbon-and-paddle-dryer/",
+    "file": "equipment/dryer/ribbon-and-paddle-dryer/index.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Rotary Hot Air Dryers",
+    "url": "/equipment/dryer/rotary-hot-air-dryer/",
+    "file": "equipment/dryer/rotary-hot-air-dryer/INTERNAL-REVIEW-rotary-hot-air-dryer.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Rotary Steam Tube Dryers",
+    "url": "/equipment/dryer/rotary-steam-tube-dryer/",
+    "file": "equipment/dryer/rotary-steam-tube-dryer/index.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Rotary Vacuum Dryers",
+    "url": "/equipment/dryer/rotary-vacuum-dryer/",
+    "file": "equipment/dryer/rotary-vacuum-dryer/index.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Vacuum Shelf & Tray Dryers",
+    "url": "/equipment/dryer/shelf-dryer/",
+    "file": "equipment/dryer/shelf-dryer/INTERNAL-REVIEW-shelf-dryer.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Spherical Dryers",
+    "url": "/equipment/dryer/spherical-dryer/",
+    "file": "equipment/dryer/spherical-dryer/INTERNAL-REVIEW-spherical-dryer.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Spray Dryers",
+    "url": "/equipment/dryer/spray-dryer/",
+    "file": "equipment/dryer/spray-dryer/index.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Thermal Disc Dryers",
+    "url": "/equipment/dryer/thermal-disc-dryer/",
+    "file": "equipment/dryer/thermal-disc-dryer/INTERNAL-REVIEW-thermal-disc-dryer.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Thin Film Dryers",
+    "url": "/equipment/dryer/thin-film-dryer/",
+    "file": "equipment/dryer/thin-film-dryer/INTERNAL-REVIEW-thin-film-dryer.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Twin Shell & Double Cone Dryers",
+    "url": "/equipment/dryer/twin-shell-and-double-cone-dryer/",
+    "file": "equipment/dryer/twin-shell-and-double-cone-dryer/index.html",
+    "overview": false
+  },
+  {
+    "category": "dryer",
+    "title": "Wyssmont Type Dryers",
+    "url": "/equipment/dryer/wyssmont-dryer/",
+    "file": "equipment/dryer/wyssmont-dryer/index.html",
+    "overview": false
+  },
+  {
+    "category": "filter",
+    "title": "Process & Industrial Filters",
+    "url": "/equipment/filter/",
+    "file": "equipment/filter/index.html",
+    "overview": true
+  },
+  {
+    "category": "filter",
+    "title": "Nutsche Filters",
+    "url": "/equipment/filter/nutsche/",
+    "file": "equipment/filter/nutsche/index.html",
+    "overview": false
+  },
+  {
+    "category": "filter",
+    "title": "Pressure Leaf Filters",
+    "url": "/equipment/filter/pressure-leaf/",
+    "file": "equipment/filter/pressure-leaf/index.html",
+    "overview": false
+  },
+  {
+    "category": "filter",
+    "title": "Rosenmund and Cogeim Filters",
+    "url": "/equipment/filter/rosenmund-and-cogiem/",
+    "file": "equipment/filter/rosenmund-and-cogiem/index.html",
+    "overview": false
+  },
+  {
+    "category": "mixer",
+    "title": "Banbury Mixers & Amalgamators",
+    "url": "/equipment/mixer/banbury-mixer/",
+    "file": "equipment/mixer/banbury-mixer/INTERNAL-REVIEW-banbury-mixer.html",
+    "overview": false
+  },
+  {
+    "category": "mixer",
+    "title": "Planetary & Change Can Mixers",
+    "url": "/equipment/mixer/charge-can-and-pony-mixer/",
+    "file": "equipment/mixer/charge-can-and-pony-mixer/INTERNAL-REVIEW-charge-can-and-pony-mixer.html",
+    "overview": false
+  },
+  {
+    "category": "mixer",
+    "title": "Continuous Mixers",
+    "url": "/equipment/mixer/continuous-mixer/",
+    "file": "equipment/mixer/continuous-mixer/index.html",
+    "overview": false
+  },
+  {
+    "category": "mixer",
+    "title": "Disperser Mixers",
+    "url": "/equipment/mixer/disperser-mixer/",
+    "file": "equipment/mixer/disperser-mixer/INTERNAL-REVIEW-disperser-mixer.html",
+    "overview": false
+  },
+  {
+    "category": "mixer",
+    "title": "Double Arm Mixers",
+    "url": "/equipment/mixer/double-arm-mixer/",
+    "file": "equipment/mixer/double-arm-mixer/index.html",
+    "overview": false
+  },
+  {
+    "category": "mixer",
+    "title": "Industrial and Process Mixers",
+    "url": "/equipment/mixer/",
+    "file": "equipment/mixer/index.html",
+    "overview": true
+  },
+  {
+    "category": "mixer",
+    "title": "Intensive Mixers",
+    "url": "/equipment/mixer/intensive-mixer/",
+    "file": "equipment/mixer/intensive-mixer/index.html",
+    "overview": false
+  },
+  {
+    "category": "mixer",
+    "title": "Muller Mixers",
+    "url": "/equipment/mixer/muller-mixer/",
+    "file": "equipment/mixer/muller-mixer/index.html",
+    "overview": false
+  },
+  {
+    "category": "mixer",
+    "title": "Munson & Rotating Mixers",
+    "url": "/equipment/mixer/munson-rotary-mixer/",
+    "file": "equipment/mixer/munson-rotary-mixer/INTERNAL-REVIEW-munson-rotary-mixer.html",
+    "overview": false
+  },
+  {
+    "category": "mixer",
+    "title": "Nauta Mixers",
+    "url": "/equipment/mixer/nauta-mixer/",
+    "file": "equipment/mixer/nauta-mixer/index.html",
+    "overview": false
+  },
+  {
+    "category": "mixer",
+    "title": "Ribbon & Paddle Mixers",
+    "url": "/equipment/mixer/ribbon-paddle-mixer/",
+    "file": "equipment/mixer/ribbon-paddle-mixer/index.html",
+    "overview": false
+  },
+  {
+    "category": "mixer",
+    "title": "Twin Shell & Double Cone Mixers",
+    "url": "/equipment/mixer/twin-shell-and-double-cone-mixer/",
+    "file": "equipment/mixer/twin-shell-and-double-cone-mixer/index.html",
+    "overview": false
+  },
+  {
+    "category": "agitators",
+    "title": "Agitators",
+    "url": "/buy-used-agitators.html",
+    "file": "equipment/agitators/buy-used-agitators.html",
+    "overview": true
+  },
+  {
+    "category": "agitators",
+    "title": "Drive Agitators",
+    "url": "/buy-used-drive-agitators.html",
+    "file": "equipment/agitators/buy-used-drive-agitators.html",
+    "overview": false
+  },
+  {
+    "category": "agitators",
+    "title": "Glass-Lined Drive Agitators",
+    "url": "/buy-used-glass-lined-agitators.html",
+    "file": "equipment/agitators/buy-used-glass-lined-agitators.html",
+    "overview": false
+  },
+  {
+    "category": "agitators",
+    "title": "Shaft & Mixer Agitators",
+    "url": "/buy-used-shaft-mixer-agitators.html",
+    "file": "equipment/agitators/buy-used-shaft-mixer-agitators.html",
+    "overview": false
+  },
+  {
+    "category": "evaporator",
+    "title": "Crystalizer/Evaporator",
+    "url": "/equipment/evaporator/crystalizer-evaporator/",
+    "file": "equipment/evaporator/crystalizer-evaporator/index.html",
+    "overview": false
+  },
+  {
+    "category": "evaporator",
+    "title": "Flash Evaporators",
+    "url": "/equipment/evaporator/flash/",
+    "file": "equipment/evaporator/flash/index.html",
+    "overview": false
+  },
+  {
+    "category": "evaporator",
+    "title": "Evaporators",
+    "url": "/equipment/evaporator/",
+    "file": "equipment/evaporator/index.html",
+    "overview": true
+  },
+  {
+    "category": "evaporator",
+    "title": "Rising/Falling Film Evaporators",
+    "url": "/equipment/evaporator/rising-falling-film/",
+    "file": "equipment/evaporator/rising-falling-film/index.html",
+    "overview": false
+  },
+  {
+    "category": "evaporator",
+    "title": "Wiped/Thin Film Evaporators",
+    "url": "/equipment/evaporator/wiped-thin-film/",
+    "file": "equipment/evaporator/wiped-thin-film/index.html",
+    "overview": false
+  },
+  {
+    "category": "mill",
+    "title": "Ball Mills",
+    "url": "/equipment/mill/ball/",
+    "file": "equipment/mill/ball/INTERNAL-REVIEW-ball.html",
+    "overview": false
+  },
+  {
+    "category": "mill",
+    "title": "Colloid Mills",
+    "url": "/equipment/mill/colloid/",
+    "file": "equipment/mill/colloid/INTERNAL-REVIEW-colloid.html",
+    "overview": false
+  },
+  {
+    "category": "mill",
+    "title": "Mills",
+    "url": "/equipment/mill/",
+    "file": "equipment/mill/index.html",
+    "overview": true
+  },
+  {
+    "category": "mill",
+    "title": "Kady Mills & Rotor Sieve Mills",
+    "url": "/equipment/mill/kady/",
+    "file": "equipment/mill/kady/INTERNAL-REVIEW-kady.html",
+    "overview": false
+  },
+  {
+    "category": "mill",
+    "title": "Pebble Mills",
+    "url": "/equipment/mill/pebble/",
+    "file": "equipment/mill/pebble/INTERNAL-REVIEW-pebble.html",
+    "overview": false
+  },
+  {
+    "category": "mill",
+    "title": "Pelletizers",
+    "url": "/equipment/mill/pellet/",
+    "file": "equipment/mill/pellet/INTERNAL-REVIEW-pellet.html",
+    "overview": false
+  },
+  {
+    "category": "mill",
+    "title": "Roll Mills",
+    "url": "/equipment/mill/roll/",
+    "file": "equipment/mill/roll/INTERNAL-REVIEW-roll.html",
+    "overview": false
+  },
+  {
+    "category": "mill",
+    "title": "Bead Mills & Sand Mills",
+    "url": "/equipment/mill/shot-and-sand/",
+    "file": "equipment/mill/shot-and-sand/INTERNAL-REVIEW-shot-and-sand.html",
+    "overview": false
+  },
+  {
+    "category": "tank",
+    "title": "Tanks",
+    "url": "/equipment/tank/",
+    "file": "equipment/tank/index.html",
+    "overview": true
+  },
+  {
+    "category": "glass-lined-parts",
+    "title": "Glass-Lined Agitators",
+    "url": "/equipment/glass-lined-parts/agitator/",
+    "file": "equipment/glass-lined-parts/agitator/index.html",
+    "overview": false
+  },
+  {
+    "category": "glass-lined-parts",
+    "title": "Glass-Lined Baffles",
+    "url": "/equipment/glass-lined-parts/baffle/",
+    "file": "equipment/glass-lined-parts/baffle/index.html",
+    "overview": false
+  },
+  {
+    "category": "glass-lined-parts",
+    "title": "Glass-Lined Cryo-Lock Blades",
+    "url": "/equipment/glass-lined-parts/cryo-lock-blades/",
+    "file": "equipment/glass-lined-parts/cryo-lock-blades/index.html",
+    "overview": false
+  },
+  {
+    "category": "glass-lined-parts",
+    "title": "Glass-Lined Parts and Accessories",
+    "url": "/equipment/glass-lined-parts/",
+    "file": "equipment/glass-lined-parts/index.html",
+    "overview": true
+  },
+  {
+    "category": "glass-lined-parts",
+    "title": "Glass-Lined Pro-Ring",
+    "url": "/equipment/glass-lined-parts/pro-ring/",
+    "file": "equipment/glass-lined-parts/pro-ring/index.html",
+    "overview": false
+  },
+  {
+    "category": "boiler",
+    "title": "Boilers",
+    "url": "/equipment/boiler/",
+    "file": "equipment/boiler/index.html",
+    "overview": true
+  },
+  {
+    "category": "chiller",
+    "title": "Chillers",
+    "url": "/equipment/chiller/",
+    "file": "equipment/chiller/index.html",
+    "overview": true
+  },
+  {
+    "category": "fermenter",
+    "title": "Fermenters",
+    "url": "/equipment/fermenter/",
+    "file": "equipment/fermenter/index.html",
+    "overview": true
+  },
+  {
+    "category": "homogenizer",
+    "title": "Industrial Homogenizers",
+    "url": "/equipment/homogenizer/",
+    "file": "equipment/homogenizer/INTERNAL-REVIEW-homogenizer.html",
+    "overview": true
+  },
+  {
+    "category": "incinerator",
+    "title": "Incinerators & Thermal Oxidizers",
+    "url": "/equipment/incinerator/",
+    "file": "equipment/incinerator/INTERNAL-REVIEW-incinerator.html",
+    "overview": true
+  },
+  {
+    "category": "kettle",
+    "title": "Steam Jacketed Kettles",
+    "url": "/equipment/kettle/",
+    "file": "equipment/kettle/INTERNAL-REVIEW-kettle.html",
+    "overview": true
+  },
+  {
+    "category": "kiln",
+    "title": "Rotary Kilns",
+    "url": "/equipment/kiln/",
+    "file": "equipment/kiln/INTERNAL-REVIEW-kiln.html",
+    "overview": true
+  },
+  {
+    "category": "pulverizer",
+    "title": "Pulverizers",
+    "url": "/equipment/pulverizer/",
+    "file": "equipment/pulverizer/index.html",
+    "overview": true
+  }
+]

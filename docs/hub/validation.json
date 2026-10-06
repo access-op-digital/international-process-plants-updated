@@ -1,0 +1,27 @@
+{
+  "directory_pages": 102,
+  "categories": 20,
+  "local_links_and_assets_checked": 111,
+  "all_routes_resolve": true,
+  "noindex": true,
+  "no_meta_redirect": true,
+  "browser": {
+    "desktop_width": 1280,
+    "mobile_width": 390,
+    "horizontal_overflow": false,
+    "broken_loaded_images": 0,
+    "console_errors": 0,
+    "search_spray": [
+      "Spray Dryers"
+    ],
+    "search_glass_lined_categories": [
+      "agitators",
+      "glass-lined-parts"
+    ],
+    "combined_filter_empty_state": true,
+    "clear_restores_categories": 20,
+    "expand_all_disclosures": 10,
+    "reactor_filter_type_links": 7,
+    "chemical_page_navigation": true
+  }
+}
