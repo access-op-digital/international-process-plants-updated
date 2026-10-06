@@ -1,0 +1,17 @@
+{
+  "macro_context": "Purchase and sale of chemical manufacturing assets",
+  "primary_entity": "Used chemical process plants",
+  "primary_intent": "Find available plants and equipment; inspect specifications and contact IPP",
+  "business_entity": "International Process Plants (IPP)",
+  "content_type": "Commercial collection page",
+  "audience_type": "Chemical plant owners, procurement teams, engineering and operations managers",
+  "commercial_orientation": "Buyer first, seller support",
+  "generation_route": "in-session",
+  "template": "Updated user workbook: Suggested Outline plus Task Tracker. Relative section order preserved; category, seller, manufacturer and location sections inserted from tracker.",
+  "constraints": [
+    "No new canonical URL",
+    "No fabricated prices, reviews, warranties or reviewer sign-off",
+    "No live publication or redirects",
+    "Preserve valuable existing category and FAQ copy"
+  ]
+}

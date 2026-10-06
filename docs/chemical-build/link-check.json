@@ -1,0 +1,366 @@
+[
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/column/packed/211545",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/equipment/detail/column/packed/211545"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/filter/plate-and-frame/225365",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/equipment/detail/filter/plate-and-frame/225365"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/shell-and-tube/242533",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/shell-and-tube/242533"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/peeler-centrifuge/235730",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/equipment/detail/peeler-centrifuge/235730"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/reactor/batch-type-agitated/232498",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/equipment/detail/reactor/batch-type-agitated/232498"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/reactor/batch-type-agitated/242492",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/equipment/detail/reactor/batch-type-agitated/242492"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/spray-dryer/238212",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/equipment/detail/spray-dryer/238212"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/tank/242886",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/equipment/detail/tank/242886"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/plant/detail/601610",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/plant/detail/601610"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/plant/detail/601813",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/plant/detail/601813"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/plant/detail/603016",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/plant/detail/603016"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/plant/detail/603031",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/plant/detail/603031"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/plant/detail/603039",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/plant/detail/603039"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/plant/detail/603040",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/plant/detail/603040"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment/centrifuge",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment/centrifuge"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment/column",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment/column"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment/dryer",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment/dryer"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment/filter",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment/filter"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment/heat-exchanger",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment/heat-exchanger"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment/reactor",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment/reactor"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment/tank",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment/tank"
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=APV%20Anhydro",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=APV%20Anhydro",
+    "selected_manufacturer": [
+      "APV Anhydro"
+    ]
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Cookson%20%26%20Zinn%20Ltd",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Cookson%20%26%20Zinn%20Ltd",
+    "selected_manufacturer": [
+      "Cookson & Zinn Ltd"
+    ]
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Estrella",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Estrella",
+    "selected_manufacturer": [
+      "Estrella"
+    ]
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Gale%20Process%20Solutions",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Gale%20Process%20Solutions",
+    "selected_manufacturer": [
+      "Gale Process Solutions"
+    ]
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Graham%20Hart%20Ltd",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Graham%20Hart%20Ltd",
+    "selected_manufacturer": [
+      "Graham Hart Ltd"
+    ]
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Krauss%20Maffei",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Krauss%20Maffei",
+    "selected_manufacturer": [
+      "Krauss Maffei"
+    ]
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Perrin",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Perrin",
+    "selected_manufacturer": [
+      "Perrin"
+    ]
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Sinclair%20Stainless%20Fabrications%20LTD.",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/equipment?manufacturer=Sinclair%20Stainless%20Fabrications%20LTD.",
+    "selected_manufacturer": [
+      "Sinclair Stainless Fabrications LTD."
+    ]
+  },
+  {
+    "url": "https://ims.internationalprocessplants.com/inventory/search/plants",
+    "status": 200,
+    "final": "https://ims.internationalprocessplants.com/inventory/search/plants"
+  },
+  {
+    "url": "https://internationalprocessplants.com/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/5-reasons-ipp-is-your-best-choice-for-plant-decommissioning/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/5-reasons-ipp-is-your-best-choice-for-plant-decommissioning/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/about-us/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/about-us/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/articles/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/articles/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/basf-and-ipp-partner-to-market-ammonia-methanol-and-melamine-plants/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/basf-and-ipp-partner-to-market-ammonia-methanol-and-melamine-plants/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/buy-new/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/buy-new/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/buy-used/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/buy-used/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/contact/",
+    "error": "HTTP Error 403: Forbidden",
+    "browser_verified": true,
+    "resolution": "Contact IPP form renders; automated request alone was blocked"
+  },
+  {
+    "url": "https://internationalprocessplants.com/equipment/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/equipment/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/ipp-acquires-novartis-uks-grimsby-api-manufacturing-plant-boosting-onshoring-efforts/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/ipp-acquires-novartis-uks-grimsby-api-manufacturing-plant-boosting-onshoring-efforts/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/ipp-completes-acquisition-of-cdmos-api-process-plant-equipment/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/ipp-completes-acquisition-of-cdmos-api-process-plant-equipment/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/ipp-earns-isn-ravs-plus-designation-highlighting-its-excellence-in-safe-and-sustainable-plants-and-equipment-decommissioning/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/ipp-earns-isn-ravs-plus-designation-highlighting-its-excellence-in-safe-and-sustainable-plants-and-equipment-decommissioning/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/ipp-featured-in-chemical-processing-for-its-chemical-plant-work/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/ipp-featured-in-chemical-processing-for-its-chemical-plant-work/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/more/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/more/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/plants/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/plants/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/privacy-statement/",
+    "error": "HTTP Error 404: Not Found",
+    "resolution": "Replaced with /privacy-policy/; verified HTTP200 on Oct 7, 2026"
+  },
+  {
+    "url": "https://internationalprocessplants.com/process-equipment/centrifuge/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/process-equipment/centrifuge/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/process-equipment/dryer/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/process-equipment/dryer/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/process-equipment/filter/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/process-equipment/filter/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/process-equipment/heat-exchanger/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/process-equipment/heat-exchanger/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/process-equipment/reactor/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/process-equipment/reactor/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/process-equipment/tank/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/process-equipment/tank/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/sell-equipment/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/sell-equipment/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/sell-plants/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/sell-plants/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/sell-to-ipp/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/sell-to-ipp/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/what-is-a-chemical-reactor/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/what-is-a-chemical-reactor/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/what-is-a-glass-lined-reactor-corrosion-resistant-technology-for-chemical-and-pharma-production/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/what-is-a-glass-lined-reactor-corrosion-resistant-technology-for-chemical-and-pharma-production/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/what-is-an-industrial-plant-types-of-process-plants/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/what-is-an-industrial-plant-types-of-process-plants/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/what-is-chemical-process-plant-equipment/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/what-is-chemical-process-plant-equipment/"
+  },
+  {
+    "url": "https://internationalprocessplants.com/what-is-petro-chemical-process-equipment/",
+    "status": 200,
+    "final": "https://internationalprocessplants.com/what-is-petro-chemical-process-equipment/"
+  },
+  {
+    "url": "https://www.chemengonline.com/cost-engineering-with-previously-owned-process-equipment/",
+    "status": 200,
+    "final": "https://www.chemengonline.com/cost-engineering-with-previously-owned-process-equipment/"
+  },
+  {
+    "url": "https://www.galeprocesssolutions.com/",
+    "status": 200,
+    "final": "https://galeprocesssolutions.com/"
+  },
+  {
+    "url": "https://www.socma.org/international-process-plants-and-equipment-corp-ipp-affiliate-acquires-geo-specialty-chemicals-manufacturing-site-in-allentown-pa-expanding-industrial-site-repurposing-efforts/",
+    "status": 200,
+    "final": "https://www.socma.org/international-process-plants-and-equipment-corp-ipp-affiliate-acquires-geo-specialty-chemicals-manufacturing-site-in-allentown-pa-expanding-industrial-site-repurposing-efforts/"
+  },
+  {
+    "url": "https://www.uge-inc.com/",
+    "status": 200,
+    "final": "https://uge-inc.com/"
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLRlhdb05DXKSO3XMiN2gd5-DduvcVPWHx",
+    "status": 200,
+    "final": "https://www.youtube.com/playlist?list=PLRlhdb05DXKSO3XMiN2gd5-DduvcVPWHx"
+  },
+  {
+    "url": "https://internationalprocessplants.com/privacy-policy/",
+    "status": 200
+  }
+]

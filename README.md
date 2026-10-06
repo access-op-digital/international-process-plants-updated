@@ -2,6 +2,8 @@
 
 Static HTML review site for the IPP equipment landing pages. There is no build step.
 
+The homepage is a searchable page hub for chemical process plants and the equipment review pages. It links to existing routes, groups equipment types by category, and works as a browsable directory without JavaScript. Rebuild its page list after adding equipment pages with `python tools/build_page_hub.py`; see [hub documentation](docs/hub/README.md).
+
 ## Deploy on Vercel
 
 Import this repository in Vercel with these settings:
@@ -31,3 +33,7 @@ What the config files do:
 ## Naming rule
 
 Every file and folder name is lowercase and hyphen-separated, with no spaces or `&`. Vercel URLs are case-sensitive, and spaces or special characters make links fragile.
+
+## Chemical process plants optimization
+
+The chemical plants review is available at `/chemical-process-plant-equipment-used-systems-for-sale/`. Its self-hosted assets are in `assets/chemical/`, and the editable template is `src/chemical-page.html`. See [the implementation and validation notes](docs/chemical-build/README.md) for the source records, issue tracker, content deliverables, and rebuild instructions.

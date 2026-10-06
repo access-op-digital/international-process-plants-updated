@@ -1,0 +1,264 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://internationalprocessplants.com/#organization",
+      "name": "International Process Plants",
+      "alternateName": "IPP",
+      "url": "https://internationalprocessplants.com/",
+      "logo": "https://internationalprocessplants.com/wp-content/uploads/2023/12/IPP-LOGO_DARKBLUE-FINAL.png",
+      "telephone": "+1-609-586-8004",
+      "email": "sales@internationalprocessplants.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "410 Princeton Hightstown Road",
+        "addressLocality": "Princeton Junction",
+        "addressRegion": "NJ",
+        "postalCode": "08550",
+        "addressCountry": "US"
+      }
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://internationalprocessplants.com/chemical-process-plant-equipment-used-systems-for-sale/#webpage",
+      "url": "https://internationalprocessplants.com/chemical-process-plant-equipment-used-systems-for-sale/",
+      "name": "Used Chemical Process Plants for Sale",
+      "description": "Used chemical plants, process lines and individual equipment for sale from International Process Plants.",
+      "inLanguage": "en",
+      "publisher": {
+        "@id": "https://internationalprocessplants.com/#organization"
+      },
+      "about": {
+        "@type": "Thing",
+        "name": "Used chemical process plants"
+      },
+      "mainEntity": {
+        "@id": "https://internationalprocessplants.com/chemical-process-plant-equipment-used-systems-for-sale/#inventory"
+      },
+      "breadcrumb": {
+        "@id": "https://internationalprocessplants.com/chemical-process-plant-equipment-used-systems-for-sale/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://internationalprocessplants.com/chemical-process-plant-equipment-used-systems-for-sale/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://internationalprocessplants.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Process plants",
+          "item": "https://internationalprocessplants.com/plants/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chemical plants and equipment",
+          "item": "https://internationalprocessplants.com/chemical-process-plant-equipment-used-systems-for-sale/"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://internationalprocessplants.com/chemical-process-plant-equipment-used-systems-for-sale/#inventory",
+      "name": "Selected chemical plant and process equipment listings",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Formaldehyde production plant",
+          "url": "https://ims.internationalprocessplants.com/inventory/plant/detail/603031"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Nitric acid plant",
+          "url": "https://ims.internationalprocessplants.com/inventory/plant/detail/603039"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ammonium nitrate plant",
+          "url": "https://ims.internationalprocessplants.com/inventory/plant/detail/603040"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Methanol production plant",
+          "url": "https://ims.internationalprocessplants.com/inventory/plant/detail/601610"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "API manufacturing site",
+          "url": "https://ims.internationalprocessplants.com/inventory/plant/detail/601813"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Sodium metabisulfite plant",
+          "url": "https://ims.internationalprocessplants.com/inventory/plant/detail/603016"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Sinclair stainless steel reactor",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/reactor/batch-type-agitated/242492"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Gale Process Solutions new reactor",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/reactor/batch-type-agitated/232498"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Graham Hart shell-and-tube heat exchanger",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/shell-and-tube/242533"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Krauss Maffei peeler centrifuge",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/peeler-centrifuge/235730"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "APV Anhydro spray dryer",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/spray-dryer/238212"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Perrin filter press",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/filter/plate-and-frame/225365"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Estrella glass-lined packed column",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/column/packed/211545"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Cookson & Zinn stainless steel tank",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/tank/242886"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://internationalprocessplants.com/chemical-process-plant-equipment-used-systems-for-sale/#faqs",
+      "isPartOf": {
+        "@id": "https://internationalprocessplants.com/chemical-process-plant-equipment-used-systems-for-sale/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Does IPP offer full chemical plants for sale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. In addition to individual equipment, we sell complete chemical process plants, including teardown and relocation services."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I inspect the equipment before buying?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. IPP offers on-site and video inspections for most equipment. Contact us to schedule one."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does IPP source its chemical equipment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "From multinational chemical producers, toll manufacturers and decommissioned or restructured facilities worldwide."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is chemical process plant equipment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This refers to the machines and systems used in chemical manufacturing, including reactors, exchangers, centrifuges, dryers, and more. Read our chemical process plant equipment guide."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I get a price for a chemical plant or equipment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Contact IPP with the stock number or your process requirements. The quotation needs to define the assets included and any dismantling, loading, shipping or other services requested."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can IPP help with international shipping?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. IPP offers international shipping options, or buyers can arrange their own shipping. Confirm the asset’s location, loading requirements and delivery destination when discussing the purchase."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documentation is available for a used plant?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Available documentation varies by asset. Ask IPP for equipment lists, drawings, process descriptions and inspection records for the plant or stock number you are considering."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is financing available?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. IPP advertises financing for its plants and equipment. Contact IPP to discuss availability and terms for your proposed purchase."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does IPP buy shutdown chemical plants and surplus equipment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. IPP buys complete plants, process lines and individual equipment. Use the sell a plant or sell equipment form to start an assessment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What information should I provide when selling?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Share an asset list, photographs, the plant location, available technical documents and your removal timeline. IPP’s team can then discuss the assessment and next steps."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How quickly can IPP assess assets for sale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Send IPP your asset information and removal deadline to request a project-specific schedule. The team will need to establish the asset scope, available documentation and site access."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens to a chemical plant site after a sale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A transaction may cover equipment for removal or an entire site. IPP’s published projects include equipment relocation and site repurposing. The purchase agreement defines which assets or property are included and who is responsible for the work."
+          }
+        }
+      ]
+    }
+  ]
+}

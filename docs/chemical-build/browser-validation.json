@@ -1,0 +1,73 @@
+{
+  "checked": "2026-10-07",
+  "desktop_viewport": "1280 x 738 (default host viewport)",
+  "mobile_viewport": "390 x 844",
+  "tests": [
+    {
+      "name": "Desktop menu hidden; mobile toggle opens and Escape closes",
+      "result": "pass"
+    },
+    {
+      "name": "No horizontal overflow at desktop and 390px mobile",
+      "result": "pass"
+    },
+    {
+      "name": "Initial 6 of 6 plant cards",
+      "result": "pass"
+    },
+    {
+      "name": "Switch to equipment yields 8 of 8 cards",
+      "result": "pass"
+    },
+    {
+      "name": "Hastelloy C22 filter yields one equipment record",
+      "result": "pass"
+    },
+    {
+      "name": "Stock number 242492 yields one equipment record",
+      "result": "pass"
+    },
+    {
+      "name": "Nonmatching search displays empty-state message",
+      "result": "pass"
+    },
+    {
+      "name": "Clear filters restores all eight equipment records",
+      "result": "pass"
+    },
+    {
+      "name": "Native FAQ expands preserved full-plant answer",
+      "result": "pass"
+    },
+    {
+      "name": "All loaded images resolve",
+      "result": "pass"
+    },
+    {
+      "name": "Browser console has no errors/warnings",
+      "result": "pass"
+    },
+    {
+      "name": "Final desktop reload confirms 12 FAQ items and 6 initial plant cards",
+      "result": "pass"
+    },
+    {
+      "name": "All six customer logos readable on navy background",
+      "result": "pass"
+    },
+    {
+      "name": "Formatted Word content: 262 paragraphs, 63 headings, 14 specification tables",
+      "result": "pass"
+    }
+  ],
+  "external_checks": [
+    {
+      "url": "https://internationalprocessplants.com/contact/",
+      "result": "Actual Contact IPP page and Ask An Expert form visible; no submission made"
+    },
+    {
+      "url": "https://www.aiche.org/resources/publications/cep/2020/october/selecting-equipment-chemical-processes",
+      "result": "Redirected to /publications/...; rendered Oh oh! 404; omitted from draft"
+    }
+  ]
+}
