@@ -31,3 +31,7 @@ What the config files do:
 ## Naming rule
 
 Every file and folder name is lowercase and hyphen-separated, with no spaces or `&`. Vercel URLs are case-sensitive, and spaces or special characters make links fragile.
+
+## Chemical process plants optimization
+
+The chemical plants review is available at `/chemical-process-plant-equipment-used-systems-for-sale/`. Its self-hosted assets are in `assets/chemical/`, and the editable template is `src/chemical-page.html`. See [the implementation and validation notes](docs/chemical-build/README.md) for the source records, issue tracker, content deliverables, and rebuild instructions.

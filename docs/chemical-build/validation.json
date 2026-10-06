@@ -1,0 +1,340 @@
+{
+  "page": "chemical-process-plant-equipment-used-systems-for-sale\\index.html",
+  "checks": [
+    {
+      "check": "One H1 with the approved broader plant topic",
+      "pass": true
+    },
+    {
+      "check": "Existing canonical preserved",
+      "pass": true
+    },
+    {
+      "check": "Draft remains noindex",
+      "pass": true
+    },
+    {
+      "check": "Website social type",
+      "pass": true
+    },
+    {
+      "check": "No article metadata",
+      "pass": true
+    },
+    {
+      "check": "CollectionPage schema without Article/Person",
+      "pass": true
+    },
+    {
+      "check": "No unconfirmed reviewer claim",
+      "pass": true
+    },
+    {
+      "check": "No fabricated ratings or offers",
+      "pass": true
+    },
+    {
+      "check": "Seven original categories in original order",
+      "pass": true
+    },
+    {
+      "check": "Preserved: Precision-controlled systems for chemical synthesis, availab",
+      "pass": true
+    },
+    {
+      "check": "Preserved: Shell-and-tube and plate exchangers for thermal control and ",
+      "pass": true
+    },
+    {
+      "check": "Preserved: Used for purification, separation and crystallization. Baske",
+      "pass": true
+    },
+    {
+      "check": "Preserved: Moisture removal solutions including rotary, vacuum and disc",
+      "pass": true
+    },
+    {
+      "check": "Preserved: Pressure and vacuum systems to remove particulates or recove",
+      "pass": true
+    },
+    {
+      "check": "Preserved: For purification, solvent recovery and fractional separation",
+      "pass": true
+    },
+    {
+      "check": "Preserved: For storage, blending and transfer. Jacketed and non-jackete",
+      "pass": true
+    },
+    {
+      "check": "Preserved: Yes. In addition to individual equipment, we sell complete c",
+      "pass": true
+    },
+    {
+      "check": "Preserved: Yes. IPP offers on-site and video inspections for most equip",
+      "pass": true
+    },
+    {
+      "check": "Preserved: From multinational chemical producers, toll manufacturers an",
+      "pass": true
+    },
+    {
+      "check": "14 crawlable inventory cards",
+      "pass": true
+    },
+    {
+      "check": "Six plants and eight equipment cards",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-603031",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-603039",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-603040",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-601610",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-601813",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-603016",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-242492",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-232498",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-242533",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-235730",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-238212",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-225365",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-211545",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-242886",
+      "pass": true
+    },
+    {
+      "check": "Twelve visible FAQ answers with matching schema",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: Does IPP offer full chemical plants for sale?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: Can I inspect the equipment before buying?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: Where does IPP source its chemical equipment?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: What is chemical process plant equipment?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: How do I get a price for a chemical plant or equipment?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: Can IPP help with international shipping?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: What documentation is available for a used plant?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: Is financing available?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: Does IPP buy shutdown chemical plants and surplus equipment?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: What information should I provide when selling?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: How quickly can IPP assess assets for sale?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: What happens to a chemical plant site after a sale?",
+      "pass": true
+    },
+    {
+      "check": "No em dashes or CMS author debris",
+      "pass": true
+    },
+    {
+      "check": "No old contact-us links",
+      "pass": true
+    },
+    {
+      "check": "No location filter",
+      "pass": true
+    },
+    {
+      "check": "No inert forms",
+      "pass": true
+    },
+    {
+      "check": "Unique HTML ids",
+      "pass": true
+    },
+    {
+      "check": "Anchor exists #main",
+      "pass": true
+    },
+    {
+      "check": "Anchor exists #inventory",
+      "pass": true
+    },
+    {
+      "check": "Anchor exists #inventory",
+      "pass": true
+    },
+    {
+      "check": "Anchor exists #equipment-types",
+      "pass": true
+    },
+    {
+      "check": "Anchor exists #sell",
+      "pass": true
+    },
+    {
+      "check": "Anchor exists #main",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/IPP-LOGO_DARKBLUE-FINAL-300x118.png",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/shell.png",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/sanofi.png",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/lilly.png",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/DOW.png",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/lonza.png",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/air-products.png",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/603031.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/603039.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/603040.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/601610.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/601813.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/242492.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/232498.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/242533.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/235730.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/238212.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/225365.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/211545.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/242886.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/601813.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/IPP-LOGO_DARKBLUE-FINAL-300x118.png",
+      "pass": true
+    },
+    {
+      "check": "Self-hosted assets exist",
+      "pass": true
+    },
+    {
+      "check": "All equipment photographs under 200 KB",
+      "pass": true
+    }
+  ],
+  "passed": 83,
+  "photograph_total_bytes": 237748,
+  "max_photograph_bytes": 36056
+}

@@ -12,3 +12,7 @@ node_modules/
 **/__pycache__/
 *.pyc
 .DS_Store
+
+# Editable chemical page source and local dependencies
+src/
+.build-deps/

@@ -1,0 +1,208 @@
+{
+  "context_segments": [
+    {
+      "context": "Used Chemical Process Plants for Sale",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "1",
+      "bucket": "",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "Trusted around the world by",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "1",
+      "bucket": "business_weighted",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "Buy used chemical plants and equipment from International Process Plants (IPP)",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "6",
+      "bucket": "business_weighted",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "Chemical plants and equipment for sale",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "1",
+      "bucket": "",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "Available chemical plant equipment types",
+      "representative_query": "used chemical plant equipment",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "2",
+      "bucket": "",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": [
+        "used chemical plant equipment"
+      ]
+    },
+    {
+      "context": "Equipment manufacturers in our inventory",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "2",
+      "bucket": "",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "Why chemical manufacturers choose IPP for chemical process plants",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "1",
+      "bucket": "business_weighted",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "What do chemical manufacturers say about IPP? Reviews",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "1",
+      "bucket": "business_weighted",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "How buying from IPP works",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "1",
+      "bucket": "business_weighted",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "Industries we serve",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "3",
+      "bucket": "",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "Sell chemical plants and surplus equipment to IPP",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "3",
+      "bucket": "",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "Global inventory. Local support.",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "3",
+      "bucket": "",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "Chemical plant projects and industry recognition",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "3",
+      "bucket": "",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "FAQs",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "7",
+      "bucket": "service_weighted",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "Chemical Process Plants Resources",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "7",
+      "bucket": "service_weighted",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    },
+    {
+      "context": "Find the right plant or equipment for your project",
+      "representative_query": "",
+      "intent": "Commercial",
+      "commercial_layer": "Buyer-led collection; supporting seller intent",
+      "search_journey_position": "4",
+      "bucket": "",
+      "total_sv": "",
+      "kw_count": "",
+      "queries": []
+    }
+  ],
+  "query_dimensions": {
+    "dimensions": []
+  },
+  "vector_contexts": [],
+  "page_signals": [],
+  "optimized_query_network": [
+    {
+      "keyword": "used chemical process plants for sale",
+      "search_volume": "",
+      "source": "User request / original page",
+      "intent_segment": "Commercial"
+    },
+    {
+      "keyword": "used chemical plant equipment",
+      "search_volume": "",
+      "source": "User request / original page",
+      "intent_segment": "Commercial"
+    },
+    {
+      "keyword": "chemical process equipment for sale",
+      "search_volume": "",
+      "source": "User request / original page",
+      "intent_segment": "Commercial"
+    }
+  ],
+  "excluded_keywords": []
+}

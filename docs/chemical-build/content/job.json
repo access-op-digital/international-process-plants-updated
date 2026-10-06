@@ -1,0 +1,252 @@
+{
+  "job_id": "used-chemical-process-plants-for-sale",
+  "input": {
+    "entity": "Used chemical process plants",
+    "primary_keyword": "used chemical process plants for sale",
+    "title": "Used Chemical Process Plants for Sale",
+    "business_context": "International Process Plants (IPP) buys and sells complete used process plants, process lines and individual equipment worldwide. Preserve valuable existing copy and brand. User supplied a revised outline and tracker.",
+    "page_macro_context": "Optimize the existing chemical page for buyers first, with a supporting seller section. Preserve existing URL and seven categories.",
+    "market_country": "us",
+    "market_location": "",
+    "page_sub_type_override": "collection",
+    "verify_stats": false,
+    "direct_query_network": [
+      "used chemical process plants for sale",
+      "used chemical plant equipment",
+      "chemical process equipment for sale"
+    ],
+    "authority_query_network": [],
+    "competitor_urls": [],
+    "tf_idf_values": {},
+    "n_grams": [],
+    "page_type": "Money Page"
+  },
+  "page_sub_type": "collection",
+  "verified_facts": {
+    "Brand": {
+      "values": [
+        "International Process Plants (IPP)"
+      ],
+      "source": "https://internationalprocessplants.com/"
+    },
+    "Headquarters": {
+      "values": [
+        "410 Princeton Hightstown Road, Princeton Junction, NJ 08550, USA",
+        "+1 609-586-8004"
+      ],
+      "source": "https://internationalprocessplants.com/contact/"
+    },
+    "Company-wide footprint": {
+      "values": [
+        "15,000+ pieces of inventory",
+        "20 complete process plant sites",
+        "15 countries",
+        "Checked October 7, 2026; retained existing company description"
+      ],
+      "source": "https://internationalprocessplants.com/"
+    },
+    "Financing": {
+      "values": [
+        "Financing Available; terms subject to discussion with IPP"
+      ],
+      "source": "https://internationalprocessplants.com/"
+    },
+    "Industries we serve": {
+      "values": [
+        "Petrochemicals",
+        "Fertilizers",
+        "Polymers and plastics",
+        "Solvents, resins and adhesives",
+        "Acids, amines and surfactants",
+        "Agrochemicals and specialty chemicals"
+      ],
+      "source": "https://internationalprocessplants.com/chemical-process-plant-equipment-used-systems-for-sale/"
+    },
+    "Warehouses": {
+      "values": [
+        "Eastover, SC, USA",
+        "Billingham, UK",
+        "Bitterfeld-Wolfen, Germany"
+      ],
+      "source": "https://internationalprocessplants.com/buy-used/"
+    },
+    "IPP stock 235730": {
+      "values": [
+        "Basket diameter: 630 mm (24.8 in)",
+        "Material: Hastelloy C22",
+        "Filtration area: 0.6 m² (6.5 ft²)",
+        "Motor power: 18 kW (24.1 hp)",
+        "manufacturer: Krauss Maffei",
+        "condition: Used",
+        "material: Hastelloy C22"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/peeler-centrifuge/235730"
+    },
+    "IPP stock 211545": {
+      "values": [
+        "Diameter: 800 mm (31.5 in)",
+        "Material: Glass-lined",
+        "Pressure: 2 bar (29 psi)",
+        "Temperature: 200 °C (392 °F)",
+        "manufacturer: Estrella",
+        "condition: Re-glassed",
+        "material: Glass-lined"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/column/packed/211545"
+    },
+    "IPP stock 232498": {
+      "values": [
+        "Capacity: 15,150 L (4,000 US gal)",
+        "Material: Stainless steel 316L",
+        "Pressure: 10 bar (145 psi)",
+        "Temperature: 150 °C (302 °F)",
+        "manufacturer: Gale Process Solutions",
+        "condition: New",
+        "material: Stainless steel 316L"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/reactor/batch-type-agitated/232498"
+    },
+    "IPP stock 242533": {
+      "values": [
+        "Surface area: 14.6 m² (approx. 157 ft²)",
+        "Material: Stainless steel 316L",
+        "Shell pressure: 10 bar (145 psi)",
+        "Shell temp.: 185 °C (365 °F)",
+        "manufacturer: Graham Hart Ltd",
+        "condition: Used",
+        "material: Stainless steel 316L"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/shell-and-tube/242533"
+    },
+    "IPP stock 242886": {
+      "values": [
+        "Capacity: 34,000 L (9,000 US gal)",
+        "Material: Stainless steel 316L",
+        "Pressure: 3.5 bar (50.8 psi)",
+        "Temperature: 100 °C (212 °F)",
+        "manufacturer: Cookson & Zinn Ltd",
+        "condition: Used",
+        "material: Stainless steel 316L"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/tank/242886"
+    },
+    "IPP stock 242492": {
+      "values": [
+        "Capacity: 12,300 L (3,250 US gal)",
+        "Material: Stainless steel 316L",
+        "Pressure: 6 bar (87 psi)",
+        "Temperature: 185 °C (365 °F)",
+        "manufacturer: Sinclair Stainless Fabrications LTD.",
+        "condition: Used",
+        "material: Stainless steel 316L"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/reactor/batch-type-agitated/242492"
+    },
+    "IPP stock 238212": {
+      "values": [
+        "Diameter: 1,250 mm (49 in)",
+        "Material: Stainless steel 316",
+        "Evaporation: 31.8 kg/h (70 lb/h)",
+        "Inlet temp.: 354.4 °C (670 °F)",
+        "manufacturer: APV Anhydro",
+        "condition: Used",
+        "material: Stainless steel 316"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/spray-dryer/238212"
+    },
+    "IPP stock 225365": {
+      "values": [
+        "Filtration area: 37 m² (398.3 ft²)",
+        "Material: Polypropylene",
+        "Pressure: 6.9 bar (100 psi)",
+        "Temperature: 21.1 °C (70 °F)",
+        "manufacturer: Perrin",
+        "condition: Used",
+        "material: Polypropylene"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/filter/plate-and-frame/225365"
+    },
+    "IPP stock 603040": {
+      "values": [
+        "Capacity: 1,120 tpd",
+        "Feedstocks: Nitric acid, ammonia",
+        "Location: Montoir-de-Bretagne, France"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/plant/detail/603040"
+    },
+    "IPP stock 603039": {
+      "values": [
+        "Capacity: 1,030 tpd",
+        "Technology: Grand-Paroisse / Uhde",
+        "Feedstock: Ammonia",
+        "Location: Montoir-de-Bretagne, France"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/plant/detail/603039"
+    },
+    "IPP stock 603031": {
+      "values": [
+        "Capacity: 105 million lb/year at 40–45% concentration",
+        "Technology: Metal oxide",
+        "Feedstocks: Methanol, oxygen",
+        "Location: Allentown, Pennsylvania, USA"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/plant/detail/603031"
+    },
+    "IPP stock 603016": {
+      "values": [
+        "Capacity: 15,000 metric tonnes/year",
+        "Feedstocks: Sulfur, soda ash"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/plant/detail/603016"
+    },
+    "IPP stock 601813": {
+      "values": [
+        "Reactor volume: Approx. 1,200 m³ total",
+        "Location: Grimsby, England, UK"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/plant/detail/601813"
+    },
+    "IPP stock 601610": {
+      "values": [
+        "Capacity: 275 TPD (82,500 TPY)",
+        "Technology: ICI / Johnson Matthey",
+        "Feedstocks: Natural gas, CO₂",
+        "Location: Camaçari, Bahia, Brazil"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/plant/detail/601610"
+    }
+  },
+  "unverified_slots": [],
+  "paa_questions": [],
+  "input_warnings": [],
+  "final_review_notes": [],
+  "outline": [],
+  "final_content": "",
+  "seo_meta": {
+    "seo_title": "Used Chemical Process Plants for Sale | IPP",
+    "meta_description": "Explore used chemical process plants, complete lines and equipment from IPP. View specifications, arrange inspections, or sell your surplus chemical assets.",
+    "h1": "Used Chemical Process Plants for Sale"
+  },
+  "section_reports": [],
+  "signal_elements": [],
+  "optimized_query_network": [],
+  "excluded_keywords": [],
+  "context_segments": [],
+  "query_dimensions": [],
+  "vector_contexts": [],
+  "page_signals": [],
+  "api_usage": [],
+  "fact_records": [],
+  "ai_overviews": [],
+  "slot_fills": {},
+  "errors": [],
+  "search_volumes": {},
+  "sub_type_source": "override",
+  "topical_map": [
+    {
+      "keyword": "used chemical process plants for sale",
+      "title": "Used Chemical Process Plants for Sale",
+      "slug": "/chemical-process-plant-equipment-used-systems-for-sale/"
+    }
+  ]
+}
