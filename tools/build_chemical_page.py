@@ -174,13 +174,13 @@ resources=''.join(f'<a class="blog-card" href="{SITE}/{path}/"><span class="blog
 # listings: Pfaudler 349 reactors, DeDietrich 129, Alfa Laval 95 heat exchangers, Krauss Maffei 62
 # and Westfalia 57 centrifuges, Gale Process Solutions 38 and UGE 42 reactors. Counts stay out of the copy.
 leading_makers=[
- ('Pfaudler','reactor','Pfaudler','Glass-lined reactors, tanks and agitators'),
- ('De Dietrich','reactor','DeDietrich','Glass-lined reactors and tanks'),
+ ('Pfaudler','reactor','Pfaudler','Glass-lined reactors (RA, E, BE and ELL models), tanks, agitators and columns'),
+ ('De Dietrich','reactor','DeDietrich','Glass-lined reactors (SA, CTJ, STA and CSA models), tanks and columns'),
  ('Alfa Laval','heat-exchanger','Alfa Laval','Heat exchangers and centrifuges'),
- ('Krauss Maffei','centrifuge','Krauss Maffei','Centrifuges'),
+ ('Krauss Maffei','centrifuge','Krauss Maffei','Centrifuges, including Hastelloy C22 peeler units'),
  ('Westfalia','centrifuge','Westfalia','Centrifuges'),
- ('Gale Process Solutions','reactor','Gale Process Solutions','New stainless steel equipment from the IPP group'),
- ('Universal Glasteel Equipment','reactor','UGE','New and re-glassed glass-lined equipment from the IPP group'),
+ ('Gale Process Solutions','reactor','Gale Process Solutions','New 316L stainless steel and Hastelloy reactors from the IPP group, 12 to 16 week average delivery'),
+ ('Universal Glasteel Equipment','reactor','UGE','New, used, rebuilt and re-glassed glass-lined equipment, including UA-300 and UA-500 reactors'),
 ]
 mfr_links=[f'<li><a href="{E(IMS+"/inventory/search/equipment/"+path+"?manufacturer="+quote(ims_name))}" target="_blank" rel="noopener noreferrer">{E(name)} <span aria-hidden="true">↗</span></a><span>{E(families)}</span></li>' for name,path,ims_name,families in leading_makers]
 logos=''.join(f'<img src="/assets/chemical/{filename}" alt="{name}" width="104" height="48" loading="lazy">' for filename,name in [('shell.png','Shell'),('sanofi.png','Sanofi'),('lilly.png','Lilly'),('DOW.png','Dow'),('lonza.png','Lonza'),('air-products.png','Air Products')])
@@ -242,7 +242,7 @@ for idx,row in enumerate(outline):
    if box is not el and box.getparent() is not None: box.getparent().remove(box)
   for empty in el.xpath('.//ol[not(li)]|.//ul[not(li)]'): empty.getparent().remove(empty)
   # Labels, captions, buttons, citation lines and badge rows are page furniture, not section prose.
-  for deco in el.xpath('.//*[contains(@class,"eyebrow") or contains(@class,"seller-visual") or contains(@class,"button-row") or contains(@class,"source-note") or contains(@class,"recognition-badges")]'):
+  for deco in el.xpath('.//*[contains(@class,"eyebrow") or contains(@class,"seller-visual") or contains(@class,"button-row") or contains(@class,"source-note") or contains(@class,"recognition-badges") or contains(@class,"vtab-list") or contains(@class,"type-tab-list")]'):
    if deco.getparent() is not None: deco.getparent().remove(deco)
  else:
   scope=section_el.get(top_parent(idx))

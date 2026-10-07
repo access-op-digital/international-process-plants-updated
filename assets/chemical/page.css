@@ -129,4 +129,24 @@
 .type-panel .material-note{font-size:13px;color:#576f7d}
 @media(max-width:860px){.type-tabs.is-tabbed{grid-template-columns:1fr;gap:22px}.type-tab-list{flex-direction:row;overflow-x:auto;gap:8px;padding-bottom:6px;scrollbar-width:thin}.type-tab-list [role=tab]{flex:0 0 auto;white-space:nowrap;padding:12px 16px;font-size:14px}.types-heading{text-align:left;margin-bottom:26px}.types-heading p{margin:0}}
 @media(max-width:560px){.type-panel h3{font-size:22px}.type-panel p,.type-panel .type-list,.type-panel .type-lead{font-size:15px}}
-
+/* Why IPP and seller steps: vertical tabs with one full panel each, after the reference service section */
+.vtabs{display:block;margin-top:8px}
+.vtabs.is-tabbed{display:grid;grid-template-columns:290px minmax(0,1fr);gap:44px;align-items:start}
+.vtab-list{display:flex;flex-direction:column;gap:10px}
+.vtab-list[hidden],.vtab-panel[hidden]{display:none!important}
+.vtab-list [role=tab]{display:flex;align-items:center;gap:12px;border:0;border-radius:6px;padding:15px 18px;background:#eef1f4;color:#28414c;font:600 15px/1.35 var(--heading);text-align:left;cursor:pointer}
+.vtab-list [role=tab]:hover{background:#e2e9ee}
+.vtab-list [role=tab][aria-selected=true]{background:#147eac;color:#fff}
+.vtab-list [role=tab]:focus-visible{outline:3px solid #9fd3ea;outline-offset:2px}
+.vtab-num{font-size:12px;opacity:.75}
+.vtab-panel h3{color:var(--link);font-size:26px;margin:0 0 12px}
+.vtab-panel p{font-size:16px;line-height:1.75;margin:0 0 14px}
+.vtab-panel .vtab-lead{margin-bottom:10px}
+.vtab-items{font-size:16px;line-height:1.8;padding-left:22px;margin:0 0 16px;color:var(--body)}
+.vtab-items li::marker{color:var(--ink)}
+.vtabs:not(.is-tabbed) .vtab-panel{padding:24px 0;border-top:1px solid var(--line)}
+.seller-tabs{margin-top:48px}
+.why-tabs{margin-top:30px;margin-bottom:34px}
+@media(max-width:860px){.vtabs.is-tabbed{grid-template-columns:1fr;gap:22px}.vtab-list{flex-direction:row;overflow-x:auto;gap:8px;padding-bottom:6px;scrollbar-width:thin}.vtab-list [role=tab]{flex:0 0 auto;white-space:nowrap;padding:12px 16px;font-size:14px}}
+@media(max-width:560px){.vtab-panel h3{font-size:22px}.vtab-panel p,.vtab-items{font-size:15px}}
+.industries-section .industry-close{margin-top:22px}

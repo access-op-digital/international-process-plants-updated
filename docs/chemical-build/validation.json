@@ -398,6 +398,18 @@
       "pass": true
     },
     {
+      "check": "Why IPP keeps the five benefit labels as panels",
+      "pass": true
+    },
+    {
+      "check": "Why IPP and seller panels follow the reference section shape",
+      "pass": true
+    },
+    {
+      "check": "Each vertical tab list controls its panels",
+      "pass": true
+    },
+    {
       "check": "Seller section follows the buying steps",
       "pass": true
     },
@@ -482,7 +494,7 @@
       "pass": true
     }
   ],
-  "passed": 120,
+  "passed": 123,
   "photograph_total_bytes": 237748,
   "max_photograph_bytes": 36056
 }

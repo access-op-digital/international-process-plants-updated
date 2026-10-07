@@ -4,6 +4,14 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision 6, October 8, 2026: Why IPP, seller steps and makers in the reference format
+
+- **Why IPP** keeps its opener and five benefit labels, now as vertical tabs with one panel each: a two-sentence opener, a lead-in, descriptive items and a closing paragraph (91 to 117 words per panel). The GPS and UGE note stays below.
+- **Seller steps** become four numbered vertical tabs with the same panel shape: the information that starts a sale, what IPP values, the sale structures it offers, and the decommissioning and removal work (87 to 103 words per panel).
+- **Manufacturers** keep their opener, lead-in and links; list items now carry verified models (Pfaudler RA, E, BE, ELL; De Dietrich SA, CTJ, STA, CSA; UGE UA-300 and UA-500; GPS 316L and Hastelloy reactors), and the close adds the pricing factors and the quote.
+- **Industries** regroups as opener on the left and lead-in, list and close on the right.
+- The tab script drives all four tab groups independently. Validator 123; IPP page checker 0 issues; section checks leave the two accepted exceptions.
+
 ## Revision 5, October 8, 2026: equipment types in the reference service format
 
 The equipment types section follows the reference service section the user supplied: a centered question heading ("What used chemical process equipment do we supply?"), vertical tabs for the seven types and one full panel per type. Each panel carries the preserved original sentence, a two-sentence context opener (what IPP supplies, to which plants, from which makers), a lead-in, descriptive items, and a closing paragraph with the listing fields, leading materials, IMS range and the pricing factors with the quote and inspection offer. IPP publishes no prices, so the reference page's price ranges become the factors each quote depends on. Panels run 148 to 206 words. Without JavaScript all seven panels render in sequence; the tab script drives both tab groups with arrow, Home and End keys. Validator 120; IPP page checker 0 issues.

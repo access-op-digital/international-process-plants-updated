@@ -64,7 +64,15 @@ faq_q=[' '.join(s.text_content().split()) for s in doc.xpath('//*[@id="faqs"]//s
 check('Nine buyer FAQs, then five seller FAQs',faq_q[8]=='Does IPP sell new chemical process equipment?' and faq_q[9]=='Does IPP buy shutdown chemical plants and surplus equipment?' and len(faq_q)==14)
 check('Hero states both sides',any(p.text_content().startswith('Buying used chemical process plants') for p in doc.xpath('//section[@data-section="0"]//p')) and any(p.text_content().startswith('Selling shutdown chemical plants') for p in doc.xpath('//section[@data-section="0"]//p')))
 check('Hero stat strip carries four dated company figures',[' '.join(x.strip() for x in li.itertext() if x.strip()) for li in doc.xpath('//ul[@class="hero-stats"]/li')]==['15,000+ Pieces of inventory','20 Complete plant sites','15 Countries with offices','Since 1980 Supplying process equipment'])
-check('Seller path has four steps',doc.xpath('//ol[contains(@class,"seller-steps")]/li/h3/text()')==['Send your asset information','IPP values the assets','Agree the sale structure','Decommissioning, dismantling and removal'])
+check('Seller path has four steps',doc.xpath('//div[contains(@class,"seller-tabs")]//div[contains(concat(" ",@class," ")," vtab-panel ")]/h3/text()')==['Send your asset information','IPP values the assets','Agree the sale structure','Decommissioning, dismantling and removal'])
+check('Why IPP keeps the five benefit labels as panels',doc.xpath('//div[contains(@class,"why-tabs")]//div[contains(concat(" ",@class," ")," vtab-panel ")]/h3/text()')==['Immediate availability','Massive selection','Global access','Validation-ready','Cost efficiency'])
+def vtab_ok(c):
+ ps=c.xpath('./p'); opener=ps[0].text_content() if ps else ''
+ return (any(x in opener for x in ('IPP','We ','Our ')) and c.xpath('./p[@class="vtab-lead"]') and c.xpath('./p[@class="vtab-lead"]')[0].text_content().endswith(':')
+  and len(c.xpath('./ul[@class="vtab-items"]/li'))>=4 and c.xpath('./p[@class="vtab-close"]'))
+vpanels=doc.xpath('//div[contains(concat(" ",@class," ")," vtab-panel ")]')
+check('Why IPP and seller panels follow the reference section shape',len(vpanels)==9 and all(vtab_ok(c) for c in vpanels))
+check('Each vertical tab list controls its panels',all([b.get('aria-controls') for b in l.xpath('./button')]==[p.get('id') for p in l.getparent().xpath('.//div[contains(concat(" ",@class," ")," vtab-panel ")]')] for l in doc.xpath('//div[@class="vtab-list"]')))
 check('Seller section follows the buying steps',[s.get('id') for s in doc.xpath('//section[@id="buying" or @id="sell"]')]==['buying','sell'])
 makers=doc.xpath('//ul[@class="maker-list"]/li/a')
 check('Seven leading makers link to type-scoped IMS searches',len(makers)==7 and all('/inventory/search/equipment/' in a.get('href') and 'manufacturer=' in a.get('href') for a in makers))

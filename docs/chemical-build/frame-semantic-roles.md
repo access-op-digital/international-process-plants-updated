@@ -172,3 +172,21 @@ Each equipment type, the manufacturers section, the industries section and the a
 | Commercial · seller | The emptied building now serves as a warehouse. | Function (serves) | Entity: emptied building · Activity: warehouse |
 | Commercial · seller | We have completed full-scale decommissions in Ohio, Alabama, Louisiana, the United Kingdom and Germany. | Activity_finish (completed) | Agent: IPP (we) · Activity: full-scale decommissions · Place: five locations |
 | Commercial · seller | Our team helped transfer a shuttered biobased chemicals plant in Minnesota to Nuol Green Chemistry, a deal SOCMA highlighted. | Assistance (helped); Transfer (transfer) | Helper: IPP’s team · Theme: shuttered biobased chemicals plant · Recipient: Nuol Green Chemistry · Evaluator: SOCMA |
+
+## Why IPP and seller panels (reference service-section format)
+
+Each panel opens with a context sentence (Sending, Supply, Commerce_buy or Commerce_sell with IPP or "we" in the Supplier, Seller or Buyer role), follows with a second binding sentence, then a lead-in (Inclusion), descriptive items and a closing paragraph. Openers per panel:
+
+| Intent | Sentence | Frame (predicate) | Roles |
+|---|---|---|---|
+| Commercial · buyer | We ship in-stock chemical process equipment from company-owned warehouses and workshops in Eastover (South Carolina), Billingham (England) and Bitterfeld-Wolfen (Germany). | Sending (ship) | Sender: IPP (we) · Theme: in-stock chemical process equipment · Source: three company-owned warehouses |
+| Commercial · buyer | As a supplier chemical producers rely on for short project schedules, IPP confirms the release date for each stock number before purchase. | Verification (confirms) | Agent: IPP · Theme: release date · Item: each stock number · Time: before purchase |
+| Commercial · buyer | Our inventory holds 15,000+ pieces of equipment and 20 complete process plant sites, so chemical buyers compare reactors, heat exchangers, centrifuges, dryers, filters, columns and tanks in one place. | Containing (holds); Evaluative_comparison (compare) | Container: IPP inventory · Contents: 15,000+ pieces, 20 plant sites · Cognizer: chemical buyers |
+| Commercial · buyer | IPP has served 160,000+ customers worldwide and supports each buyer from inspection through delivery at the destination site. | Assistance (has served, supports) | Helper: IPP · Benefited_party: 160,000+ customers, each buyer · Span: inspection to delivery |
+| Commercial · buyer | We supply the records available for each stock number, so engineering and quality teams review an asset before purchase. | Supply (supply); Scrutiny (review) | Supplier: IPP (we) · Theme: available records · Recipient: engineering and quality teams |
+| Transactional · buyer | We provide a detailed quote for each stock number on request. | Commerce_scenario (provide a quote) | Seller: IPP (we) · Goods: each stock number · Condition: on request |
+| Transactional · seller | Plant owners, asset managers and corporate teams start a sale by sending their asset information to IPP. | Activity_start (start); Sending (sending); embedded Commerce_sell | Seller / Sender: plant owners, asset managers, corporate teams · Theme: asset information · Recipient: IPP |
+| Commercial · seller | IPP then values the assets for an outright purchase or for marketing to its global buyer network. | Assessing (values) | Assessor: IPP · Phenomenon: the assets · Purpose: outright purchase or marketing |
+| Transactional · seller | IPP buys equipment as-is, where-is, as a principal buyer rather than a broker. | Commerce_buy (buys) | Buyer: IPP · Goods: equipment · Manner: as-is, where-is, principal buyer |
+| Commercial · seller | The purchase agreement defines the assets included, the outcome for the site and the removal schedule. | Defining (defines) | Definer: purchase agreement · Definiendum: assets, site outcome, removal schedule |
+| Commercial · seller | IPP’s decommissioning work carries ISN RAVS Plus verification. | Possession (carries) | Owner: IPP’s decommissioning work · Possession: ISN RAVS Plus verification |
