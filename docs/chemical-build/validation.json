@@ -330,6 +330,22 @@
       "pass": true
     },
     {
+      "check": "Meaningful image alt /assets/chemical/reviews/1Qhma3r0Cas.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/reviews/WlsjZMptSZg.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/reviews/BWWcZNOchrY.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/reviews/Kz6N9uacqkY.webp",
+      "pass": true
+    },
+    {
       "check": "Meaningful image alt /assets/chemical/601813.webp",
       "pass": true
     },
@@ -426,6 +442,14 @@
       "pass": true
     },
     {
+      "check": "Four customer testimonial videos from IPP playlist with self-hosted thumbnails",
+      "pass": true
+    },
+    {
+      "check": "VideoObject markup for each testimonial, no rating markup",
+      "pass": true
+    },
+    {
       "check": "No eyebrow labels or note lines",
       "pass": true
     },
@@ -450,7 +474,7 @@
       "pass": true
     }
   ],
-  "passed": 112,
+  "passed": 118,
   "photograph_total_bytes": 237748,
   "max_photograph_bytes": 36056
 }

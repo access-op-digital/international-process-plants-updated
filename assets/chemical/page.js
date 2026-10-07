@@ -106,3 +106,23 @@
   fromHash();
   window.addEventListener('hashchange', fromHash);
 })();
+
+// Customer testimonial videos: play inline on click, keep the YouTube link as the no-script fallback.
+(() => {
+  'use strict';
+  document.querySelectorAll('.video-thumb[data-video]').forEach(link => {
+    link.addEventListener('click', event => {
+      if (event.metaKey || event.ctrlKey || event.shiftKey || event.button !== 0) return;
+      event.preventDefault();
+      const frame = document.createElement('iframe');
+      frame.src = 'https://www.youtube-nocookie.com/embed/' + link.dataset.video + '?autoplay=1&rel=0';
+      frame.title = link.dataset.title || 'Customer testimonial video';
+      frame.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+      frame.allowFullscreen = true;
+      const box = document.createElement('div');
+      box.className = 'video-frame';
+      box.appendChild(frame);
+      link.replaceWith(box);
+    });
+  });
+})();

@@ -410,9 +410,12 @@
     },
     "Customer video playlist": {
       "values": [
-        "IPP publishes customer video interviews on its YouTube channel"
+        "Chuck Castley, Commercial vice president, Chemicals Incorporated, Baytown, Texas: The International Process Plants team is outstanding! They understand my business (YouTube 1Qhma3r0Cas, 2024-03-12)",
+        "Joel Salzman, VP of Operations, ChemDesign Products, Inc., Marinette, Wisconsin: If somebody asked me to rate IPP 1-10, I’d give them a 10 every time! (YouTube WlsjZMptSZg, 2024-03-12)",
+        "Clay Pace, President of Commercial & Technology, Seatex, LLC, Houston: The power of partnership: A testimonial to International Process Plants’ customer commitment (YouTube BWWcZNOchrY, 2024-03-05)",
+        "Anna Nguyen, Commercial Sales & Operations Manager, Hoyer Global: Communication and quick customer response are what sets IPP apart (YouTube Kz6N9uacqkY, 2024-03-10)"
       ],
-      "source": "IPP YouTube playlist linked on the review page"
+      "source": "https://www.youtube.com/playlist?list=PLRlhdb05DXKSO3XMiN2gd5-DduvcVPWHx"
     }
   },
   "unverified_slots": [],

@@ -10,6 +10,7 @@ This is a complete **optimization draft for the existing URL**. It is not a publ
 - **Recognition badges.** The SOCMA, ISN RAVS Plus, Chemical Processing and Chemical Engineering links show as badges under the project cards, and the projects section opens with a two-sentence framing line.
 - **Removed.** The "Global inventory. Local support." section (its warehouse fact now sits in the Immediate availability card) and the "... guide" links on the type cards.
 - **Headings.** Section headings sit at the top with the supporting line directly under them.
+- **Reviews.** The reviews section shows the four customer testimonial videos from IPP's YouTube "Customer Testimonials" playlist (Chemicals Incorporated, ChemDesign Products, Seatex, Hoyer Global; SOCMA 2024). Titles that are the customer's own words show as quotes; the other two show as headlines. Thumbnails are self-hosted, the videos play inline (youtube-nocookie) and fall back to YouTube without JavaScript, and each video has VideoObject markup with no rating. IPP's website carries no written customer reviews; its quoted text comes from IPP executives.
 - **Photo.** IPP's own photograph of a crew rigging a used reactor out of a plant fills the column under the company intro heading.
 
 ## Revision 3, October 8, 2026: company intro and labels

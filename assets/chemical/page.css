@@ -93,3 +93,17 @@
 .projects-lead{max-width:760px;font-size:16px;margin:14px 0 0}
 .industries-section .type-lead{color:#a5d9ef;font-weight:600;margin-top:18px}
 .industries-section .industry-close{color:#d6e5ec}
+/* Customer testimonial videos */
+.video-reviews{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:22px}
+.video-card{display:flex;flex-direction:column;background:white;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.video-thumb,.video-frame{position:relative;display:block;aspect-ratio:16/9;background:var(--navy)}
+.video-thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.video-thumb .play-icon{position:absolute;inset:0;margin:auto;width:54px;height:54px;border-radius:50%;background:rgba(24,57,71,.82);color:white;display:grid;place-items:center;font-size:18px;padding-left:3px}
+.video-thumb:hover .play-icon{background:var(--blue)}
+.video-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.video-card blockquote,.video-card .video-title{margin:18px 20px 10px;font:600 15px/1.45 var(--heading);color:var(--ink)}
+.video-card .video-title{font-weight:500}
+.video-who{margin:auto 20px 20px;font-size:13px;line-height:1.5;color:var(--body)}
+.video-who strong{display:block;color:var(--deep);font-size:14px}
+@media(max-width:1100px){.video-reviews{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.video-reviews{grid-template-columns:1fr}}

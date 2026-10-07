@@ -156,6 +156,54 @@
       ]
     },
     {
+      "@type": "VideoObject",
+      "name": "The International Process Plants team is outstanding! They understand my business",
+      "description": "Chuck Castley, commercial vice president at Chemicals Incorporated in Baytown, Texas, checks in with International Process Plants at the SOCMA 2024 trade show in Nashville, Tuesday, Feb. 20, 2024.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1Qhma3r0Cas/hqdefault.jpg",
+      "uploadDate": "2024-03-12",
+      "embedUrl": "https://www.youtube.com/embed/1Qhma3r0Cas",
+      "url": "https://www.youtube.com/watch?v=1Qhma3r0Cas",
+      "publisher": {
+        "@id": "https://internationalprocessplants.com/#organization"
+      }
+    },
+    {
+      "@type": "VideoObject",
+      "name": "If somebody asked me to rate IPP 1-10, I’d give them a 10 every time!",
+      "description": "Joel Salzman, VP of Operations for ChemDesign Products, Inc., in Marinette, Wisconsin, takes a minute at SOCMA 2024 in Nashville to explain why he values his decades-long business relationship with International Process Plants.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WlsjZMptSZg/hqdefault.jpg",
+      "uploadDate": "2024-03-12",
+      "embedUrl": "https://www.youtube.com/embed/WlsjZMptSZg",
+      "url": "https://www.youtube.com/watch?v=WlsjZMptSZg",
+      "publisher": {
+        "@id": "https://internationalprocessplants.com/#organization"
+      }
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The power of partnership: A testimonial to International Process Plants’ customer commitment",
+      "description": "Clay Pace, President of Commercial & Technology at Seatex, LLC in Houston shares how International Process Plants puts the needs of its customers first and share an example of the company’s commitment to customer satisfaction. Pace spoke at SOCMA 2024 in Nashville on February 20, 2024.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BWWcZNOchrY/hqdefault.jpg",
+      "uploadDate": "2024-03-05",
+      "embedUrl": "https://www.youtube.com/embed/BWWcZNOchrY",
+      "url": "https://www.youtube.com/watch?v=BWWcZNOchrY",
+      "publisher": {
+        "@id": "https://internationalprocessplants.com/#organization"
+      }
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Communication and quick customer response are what sets IPP apart",
+      "description": "Keith West, International Process Plants’ Director of Global Equipment Sales, catches up with Anna Nguyen, Hoyer Global’s Commercial Sales & Operations Manager, at SOCMA 2024 in Nashville on February 20, 2024.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Kz6N9uacqkY/hqdefault.jpg",
+      "uploadDate": "2024-03-10",
+      "embedUrl": "https://www.youtube.com/embed/Kz6N9uacqkY",
+      "url": "https://www.youtube.com/watch?v=Kz6N9uacqkY",
+      "publisher": {
+        "@id": "https://internationalprocessplants.com/#organization"
+      }
+    },
+    {
       "@type": "FAQPage",
       "@id": "https://internationalprocessplants.com/chemical-process-plant-equipment-used-systems-for-sale/#faqs",
       "isPartOf": {
