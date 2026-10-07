@@ -69,5 +69,60 @@
       "url": "https://www.aiche.org/resources/publications/cep/2020/october/selecting-equipment-chemical-processes",
       "result": "Redirected to /publications/...; rendered Oh oh! 404; omitted from draft"
     }
-  ]
+  ],
+  "revision_2026_10_08": {
+    "scope": "Tightened copy; FAQs and resources merged into the tabbed Chemical Process Plants Resources section (About Us, FAQs, Blog)",
+    "desktop_viewport": "1280 x 800 to 1060 (headless Chrome, same-origin iframe)",
+    "mobile_viewport": "375 x 812",
+    "tests": [
+      {
+        "name": "Resources tabs render About Us, FAQs and Blog; About Us is selected on load",
+        "result": "pass"
+      },
+      {
+        "name": "Clicking a tab shows only its panel",
+        "result": "pass"
+      },
+      {
+        "name": "Keyboard: ArrowRight and ArrowLeft wrap, Home and End jump, roving tabindex",
+        "result": "pass"
+      },
+      {
+        "name": "Loading #faqs at desktop and #blog at 375px selects the tab and scrolls to the section",
+        "result": "pass"
+      },
+      {
+        "name": "Changing the hash to a panel selects its tab and scrolls to the section",
+        "result": "pass"
+      },
+      {
+        "name": "Loading without a hash keeps the page at the top",
+        "result": "pass"
+      },
+      {
+        "name": "Static HTML: the tab list carries hidden and no panel does, so all three panels render without JavaScript",
+        "result": "pass"
+      },
+      {
+        "name": "No horizontal overflow at 375px on all three tabs",
+        "result": "pass"
+      },
+      {
+        "name": "About panel: copy scrolls beside the photo on desktop; photo first and no scroll box at 375px",
+        "result": "pass"
+      },
+      {
+        "name": "FAQs tab holds all 12 native FAQ items; Blog tab lists six article cards",
+        "result": "pass"
+      },
+      {
+        "name": "Browser console has no errors",
+        "result": "pass"
+      },
+      {
+        "name": "Resources-section links: 12 return 200; /contact/ returns 200 to a browser user agent and 403 to scripts",
+        "result": "pass"
+      }
+    ]
+  }
 }

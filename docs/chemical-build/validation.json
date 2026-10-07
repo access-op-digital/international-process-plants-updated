@@ -322,6 +322,10 @@
       "pass": true
     },
     {
+      "check": "Meaningful image alt /assets/chemical/about/ipp-team.webp",
+      "pass": true
+    },
+    {
       "check": "Meaningful image alt /assets/chemical/IPP-LOGO_DARKBLUE-FINAL-300x118.png",
       "pass": true
     },
@@ -330,11 +334,47 @@
       "pass": true
     },
     {
+      "check": "Resources tabs are About Us, FAQs and Blog only",
+      "pass": true
+    },
+    {
+      "check": "Tab panel exists: about-ipp",
+      "pass": true
+    },
+    {
+      "check": "Tab panel exists: faqs",
+      "pass": true
+    },
+    {
+      "check": "Tab panel exists: blog",
+      "pass": true
+    },
+    {
+      "check": "All FAQs sit in the FAQs tab panel",
+      "pass": true
+    },
+    {
+      "check": "Blog tab lists six articles",
+      "pass": true
+    },
+    {
+      "check": "Reviews heading follows the outline",
+      "pass": true
+    },
+    {
+      "check": "Buying process unchanged",
+      "pass": true
+    },
+    {
+      "check": "About photo under 200 KB",
+      "pass": true
+    },
+    {
       "check": "All equipment photographs under 200 KB",
       "pass": true
     }
   ],
-  "passed": 83,
+  "passed": 93,
   "photograph_total_bytes": 237748,
   "max_photograph_bytes": 36056
 }

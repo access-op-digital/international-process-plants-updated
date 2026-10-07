@@ -4,6 +4,20 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision, October 8, 2026
+
+Copy was tightened section by section to the reactor page standard: IPP as the explicit subject, one fact per sentence, answer-first FAQs and stated attribute values. The heading outline, the preserved original sentences and the "How buying from IPP works" steps are unchanged.
+
+- Hero: "Buying used chemical process plants and equipment from IPP establishes reaction, separation, and heat transfer capacity while sidelining issues like OEM lead times and new-build capital costs."
+- Each category card names makers from IPP's inventory, taken from the IMS manufacturer filters on October 6, 2026.
+- Benefit, partner, review, industry, seller and closing copy uses first-party IPP and IMS sources. The savings line uses the approved wording: up to 50% of capital and 90% of lead time.
+- FAQs and resources are now one "Chemical Process Plants Resources" section with About Us, FAQs and Blog tabs, following the tabbed resources design the user supplied. The About Us panel adds a company profile beside the team photo from IPP's About page (`assets/chemical/about/ipp-team.webp`, 99 KB). The three preserved FAQ answers are verbatim; the other nine were tightened.
+- The tabs are progressive enhancement: without JavaScript all three panels render. `#about-ipp`, `#faqs` and `#blog` open the matching tab.
+- Outline node 13 (FAQs) is merged into node 14, so `sections/H013.html` is no longer generated.
+- The validator adds tab, FAQ placement, blog card, reviews heading, unchanged buying steps and About photo checks (93 in total). Browser checks are recorded under `revision_2026_10_08` in `browser-validation.json`.
+- The Word copy, standalone preview and preview images were regenerated. The preview inlines the current CSS and JavaScript and points at `../../../assets/`; the earlier copy referenced a `public/` folder that no longer exists.
+- The manufacturers section still lists the makers of the 14 featured listings. Switching it to the leading inventory makers (Pfaudler, De Dietrich, Alfa Laval) awaits approval.
+
 ## Review
 
 - Page: `chemical-process-plant-equipment-used-systems-for-sale/index.html`

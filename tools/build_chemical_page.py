@@ -26,7 +26,7 @@ records = {r['id']:r for r in json.loads((DOCS/'inventory.json').read_text(encod
 # All values below are transcribed from individual IMS detail pages. Metric/imperial
 # pairs use the published detail values, except formaldehyde mass conversion noted in QA.
 facts = {
- '603031': [('Capacity','105 million lb/year at 40–45% concentration'),('Technology','Metal oxide'),('Feedstocks','Methanol, oxygen'),('Location','Allentown, Pennsylvania, USA')],
+ '603031': [('Capacity','105 million lb/year at 40 to 45% concentration'),('Technology','Metal oxide'),('Feedstocks','Methanol, oxygen'),('Location','Allentown, Pennsylvania, USA')],
  '603039': [('Capacity','1,030 tpd'),('Technology','Grand-Paroisse / Uhde'),('Feedstock','Ammonia'),('Location','Montoir-de-Bretagne, France')],
  '603040': [('Capacity','1,120 tpd'),('Feedstocks','Nitric acid, ammonia'),('Location','Montoir-de-Bretagne, France')],
  '601610': [('Capacity','275 TPD (82,500 TPY)'),('Technology','ICI / Johnson Matthey'),('Feedstocks','Natural gas, CO₂'),('Location','Camaçari, Bahia, Brazil')],
@@ -71,35 +71,46 @@ category_data = [
  ('Distillation columns','column','For purification, solvent recovery and fractional separation.','Featured listing: glass-lined packed column with ceramic packing.'),
  ('Tanks','tank','For storage, blending and transfer. Jacketed and non-jacketed tanks available.','Featured listing: stainless steel 316L vertical tank.'),
 ]
+# Leading makers per type, ranked by item count in IMS manufacturer filters (read-only, 6 Oct 2026).
+# Duplicate IMS spellings (DeDietrich / DeDietrich (France)) were merged; proper brand spellings shown.
+makers_by_type = {
+ 'reactor':'Pfaudler, De Dietrich, UGE and Gale Process Solutions',
+ 'heat-exchanger':'Alfa Laval, Vicarb, Ralph Coidan and Graham',
+ 'centrifuge':'Krauss Maffei, Alfa Laval, Westfalia and Sharples',
+ 'dryer':'Gale Process Solutions, Glatt, Niro and Pfaudler',
+ 'filter':'Schenk, Cogeim, Chemap and Rosenmund',
+ 'column':'Pfaudler, De Dietrich, Kühni and Schott',
+ 'tank':'Pfaudler, De Dietrich, Grundy and Sinclair Stainless Fabrications',
+}
 categories=[]
 for name,path,desc,mat in category_data:
  hub=f'<a href="{SITE}/process-equipment/{path}/">{E(name)} guide</a>' if path!='column' else ''
- categories.append(f'<div class="category-card"><div class="category-heading"><span class="line-icon">{icons["VESSEL"]}</span><h3>{name}</h3></div><p>{desc}</p><p class="material-note">{mat}</p><div class="category-links">{hub}<a href="{IMS}/inventory/search/equipment/{path}">Browse {name.lower()} ↗</a></div></div>')
+ categories.append(f'<div class="category-card"><div class="category-heading"><span class="line-icon">{icons["VESSEL"]}</span><h3>{name}</h3></div><p>{desc}</p><p class="maker-note">Makers in IPP’s inventory include {E(makers_by_type[path])}.</p><p class="material-note">{mat}</p><div class="category-links">{hub}<a href="{IMS}/inventory/search/equipment/{path}">Browse {name.lower()} ↗</a></div></div>')
 
 faq_data=[
  ('Does IPP offer full chemical plants for sale?',f'Yes. In addition to individual equipment, we sell <a href="{IMS}/inventory/search/plants">complete chemical process plants</a>, including teardown and relocation services.'),
  ('Can I inspect the equipment before buying?',f'Yes. IPP offers on-site and video inspections for most equipment. <a href="{SITE}/contact/">Contact us</a> to schedule one.'),
  ('Where does IPP source its chemical equipment?','From multinational chemical producers, toll manufacturers and decommissioned or restructured facilities worldwide.'),
- ('What is chemical process plant equipment?',f'This refers to the machines and systems used in chemical manufacturing, including reactors, exchangers, centrifuges, dryers, and more. Read our <a href="{SITE}/what-is-chemical-process-plant-equipment/">chemical process plant equipment guide</a>.'),
- ('How do I get a price for a chemical plant or equipment?',f'<a href="{SITE}/contact/">Contact IPP</a> with the stock number or your process requirements. The quotation needs to define the assets included and any dismantling, loading, shipping or other services requested.'),
- ('Can IPP help with international shipping?','Yes. IPP offers international shipping options, or buyers can arrange their own shipping. Confirm the asset’s location, loading requirements and delivery destination when discussing the purchase.'),
- ('What documentation is available for a used plant?',f'Available documentation varies by asset. Ask IPP for equipment lists, drawings, process descriptions and inspection records for the plant or stock number you are considering.'),
- ('Is financing available?',f'Yes. IPP advertises financing for its plants and equipment. <a href="{SITE}/contact/">Contact IPP</a> to discuss availability and terms for your proposed purchase.'),
- ('Does IPP buy shutdown chemical plants and surplus equipment?',f'Yes. IPP buys complete plants, process lines and individual equipment. Use the <a href="{SITE}/sell-plants/">sell a plant</a> or <a href="{SITE}/sell-equipment/">sell equipment</a> form to start an assessment.'),
- ('What information should I provide when selling?',f'Share an asset list, photographs, the plant location, available technical documents and your removal timeline. <a href="{SITE}/contact/">IPP’s team</a> can then discuss the assessment and next steps.'),
- ('How quickly can IPP assess assets for sale?',f'<a href="{SITE}/sell-plants/">Send IPP your asset information</a> and removal deadline to request a project-specific schedule. The team will need to establish the asset scope, available documentation and site access.'),
- ('What happens to a chemical plant site after a sale?','A transaction may cover equipment for removal or an entire site. IPP’s published projects include equipment relocation and site repurposing. The purchase agreement defines which assets or property are included and who is responsible for the work.'),
+ ('What is chemical process plant equipment?',f'Chemical process plant equipment is the set of reactors, heat exchangers, centrifuges, dryers, filters, columns and tanks that converts raw materials into chemical products. Read IPP’s <a href="{SITE}/what-is-chemical-process-plant-equipment/">chemical process plant equipment guide</a>.'),
+ ('How do I get a price for a chemical plant or equipment?',f'<a href="{SITE}/contact/">Contact IPP</a> with the stock number or your process requirements. The quotation defines the assets included and any dismantling, loading, shipping or start-up services.'),
+ ('Can IPP help with international shipping?','Yes. IPP coordinates packaging, crating, freight and delivery, or buyers can arrange their own shipping. Confirm the asset location, loading requirements and destination when you request a quotation.'),
+ ('What documentation is available for a used plant?','Documentation varies by asset. IPP shares the equipment lists, drawings, process descriptions and inspection records available for each plant or stock number.'),
+ ('Is financing available?',f'Yes. IPP advertises financing for its plants and equipment. <a href="{SITE}/contact/">Contact IPP</a> to discuss terms for your purchase.'),
+ ('Does IPP buy shutdown chemical plants and surplus equipment?',f'Yes. IPP buys complete plants, process lines and individual equipment from shutdown, idled and restructured sites. Start with the <a href="{SITE}/sell-plants/">sell a plant</a> or <a href="{SITE}/sell-equipment/">sell equipment</a> form.'),
+ ('What information should I provide when selling?',f'Provide an asset list, photographs, the plant location, available technical documents and your removal deadline. <a href="{SITE}/contact/">IPP’s team</a> reviews the information and confirms the next steps.'),
+ ('How quickly can IPP assess assets for sale?',f'IPP sets the assessment schedule for each project. <a href="{SITE}/sell-plants/">Send your asset information</a> and removal deadline; the schedule depends on the asset scope, available documentation and site access.'),
+ ('What happens to a chemical plant site after a sale?','The purchase agreement defines the outcome. A sale can cover equipment for removal or the entire site, and IPP’s published projects include equipment relocation and site repurposing.'),
 ]
 faqs=''.join(f'<details><summary>{E(q)}</summary><p>{a}</p></details>' for q,a in faq_data)
 resource_data=[
- ('What is chemical process plant equipment?','what-is-chemical-process-plant-equipment'),
- ('What is an industrial plant? Types of process plants','what-is-an-industrial-plant-types-of-process-plants'),
- ('What is a glass-lined reactor?','what-is-a-glass-lined-reactor-corrosion-resistant-technology-for-chemical-and-pharma-production'),
- ('What is a chemical reactor?','what-is-a-chemical-reactor'),
- ('What is petrochemical process equipment?','what-is-petro-chemical-process-equipment'),
- ('Plant decommissioning with IPP','5-reasons-ipp-is-your-best-choice-for-plant-decommissioning'),
+ ('Guide','What is chemical process plant equipment?','what-is-chemical-process-plant-equipment','The reactors, heat exchangers, separators and dryers inside a chemical process plant.'),
+ ('Guide','What is an industrial plant? Types of process plants','what-is-an-industrial-plant-types-of-process-plants','How industrial and process plants are classified by product and process.'),
+ ('Guide','What is a glass-lined reactor?','what-is-a-glass-lined-reactor-corrosion-resistant-technology-for-chemical-and-pharma-production','How a glass lining protects reactors in corrosive chemical and pharmaceutical service.'),
+ ('Guide','What is a chemical reactor?','what-is-a-chemical-reactor','How chemical reactors work, with the main reactor types.'),
+ ('Guide','What is petrochemical process equipment?','what-is-petro-chemical-process-equipment','The equipment that converts oil and gas feedstocks into petrochemicals.'),
+ ('For sellers','Plant decommissioning with IPP','5-reasons-ipp-is-your-best-choice-for-plant-decommissioning','Why plant owners choose IPP for decommissioning and dismantling.'),
 ]
-resources=''.join(f'<a href="{SITE}/{path}/">{E(label)}<span aria-hidden="true">↗</span></a>' for label,path in resource_data)
+resources=''.join(f'<a class="blog-card" href="{SITE}/{path}/"><span class="blog-label">{E(kind)}</span><h4>{E(label)}</h4><p>{E(desc)}</p><span class="text-link" aria-hidden="true">Read article ↗</span></a>' for kind,label,path,desc in resource_data)
 verified_mfr = json.loads((DOCS/'manufacturer-verification.json').read_text(encoding='utf-8')) if (DOCS/'manufacturer-verification.json').exists() else {}
 mfr_links=[]
 for key,(name,condition,material) in makers.items():
@@ -140,6 +151,13 @@ for section in sections:
  node=outline[idx];node.update({'written_html':section_text,'written_ok':True,'written_summary':node['assigned_facts']})
  (WORK/'sections'/f'H{idx:03}.html').write_text(section_text,encoding='utf-8')
  plain_sections.append(section_text)
+# FAQs are the second tab of the Resources section, so H013 has no section of its own.
+merged={13:14}
+built={int(s.get('data-section')) for s in sections}
+assert built|set(merged)==set(range(len(outline))),'Outline node without a built section'
+for idx,target in merged.items():
+ outline[idx].update({'written_html':'','written_ok':False,'merged_into':target})
+ (WORK/'sections'/f'H{idx:03}.html').unlink(missing_ok=True)
 (WORK/'outline.json').write_text(json.dumps(outline,indent=2,ensure_ascii=False),encoding='utf-8')
 (WORK/'content.html').write_text('\n'.join(plain_sections),encoding='utf-8')
 print('Built',OUT.relative_to(ROOT), 'with',len(cards),'sourced listings and',len(faq_data),'FAQs.')

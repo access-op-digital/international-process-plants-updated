@@ -16,3 +16,38 @@
 
 /* Original client marks include white lettering, as on the live IPP site. */
 .trust-band{background:#163442;border-color:#3c5b69}.trust-band h2{color:#fff}.trust-band .source-note,.trust-band .source-note a{color:#b8d4e1}
+
+/* Resources tabs (About Us, FAQs, Blog) */
+.maker-note{font-size:13px;color:#3f5966;margin:-6px 0 8px}
+.resources-tabs{background:#fff}
+.tabs-heading{text-align:center;margin-bottom:30px}
+.tabs-heading h2{margin-bottom:18px}
+.tabs-rule{display:block;width:136px;height:3px;margin:0 auto;border-radius:2px;background:var(--blue)}
+.tab-list{display:flex;justify-content:center;flex-wrap:wrap;gap:12px;margin:0 0 44px}
+.tab-list[hidden],.tab-panel[hidden]{display:none!important}
+.tab-list [role=tab]{min-width:132px;padding:14px 32px;border:0;border-radius:8px;background:#eef1f4;color:#4b5a63;font:600 15px/1.4 var(--button);transition:background .15s,color .15s}
+.tab-list [role=tab]:hover{background:#e1e8ed;color:var(--ink)}
+.tab-list [role=tab][aria-selected=true]{background:#147eac;color:#fff}
+.tab-list [role=tab][aria-selected=true]:hover{background:#0f6f99}
+.tab-panel+.tab-panel{margin-top:56px}
+.js .tab-panel+.tab-panel{margin-top:0}
+.about-panel{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.08fr);gap:64px;align-items:center}
+.about-copy h3{color:var(--link);font-size:22px;margin-bottom:22px}
+.about-scroll{max-height:300px;overflow-y:auto;padding-right:20px;margin-bottom:18px;scrollbar-width:thin;scrollbar-color:#8a9aa3 #eef1f4}
+.about-scroll p{font-size:16px;line-height:1.8}
+.about-scroll::-webkit-scrollbar{width:6px}.about-scroll::-webkit-scrollbar-track{background:#eef1f4;border-radius:3px}.about-scroll::-webkit-scrollbar-thumb{background:#8a9aa3;border-radius:3px}
+.about-scroll:focus-visible{outline:3px solid #1a8fc4;outline-offset:6px}
+.about-photo{margin:0}.about-photo img{width:100%;border-radius:4px}
+.resources-tabs .faq-grid h3{color:var(--link);font-size:22px;margin-bottom:16px}
+.blog-head{display:flex;justify-content:space-between;align-items:baseline;gap:24px;margin-bottom:26px}
+.blog-head h3{color:var(--link);font-size:22px;margin:0}
+.blog-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+.blog-card{display:flex;flex-direction:column;gap:10px;padding:26px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--body);text-decoration:none;transition:border-color .15s,box-shadow .15s}
+.blog-card:hover{border-color:#9fc3d6;color:var(--body);text-decoration:none;box-shadow:0 10px 26px rgba(24,57,71,.08)}
+.blog-card h4{margin:0;font:600 17px/1.35 var(--heading);color:var(--ink)}
+.blog-card p{margin:0;font-size:15px}
+.blog-card .text-link{margin-top:auto;color:var(--link)}
+.blog-label{font:600 11px/1.4 var(--heading);text-transform:uppercase;letter-spacing:1.4px;color:var(--link)}
+@media(max-width:1100px){.about-panel{gap:40px}.blog-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:860px){.about-panel{grid-template-columns:1fr;gap:28px}.about-photo{order:-1}.resources-tabs .faq-grid{grid-template-columns:1fr;gap:24px}}
+@media(max-width:560px){.tab-list{gap:8px}.tab-list [role=tab]{flex:1 1 0;min-width:0;padding:12px 10px;font-size:14px}.about-scroll{max-height:none;overflow:visible;padding-right:0}.blog-grid{grid-template-columns:1fr}.blog-head{flex-direction:column;gap:8px}}

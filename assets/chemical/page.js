@@ -64,3 +64,45 @@
   document.getElementById('inventory-filters').hidden = false;
   chooseGroup('plants');
 })();
+
+// Resources tabs: About Us, FAQs, Blog. Without JavaScript every panel stays visible.
+(() => {
+  'use strict';
+  const list = document.querySelector('.tab-list');
+  if (!list) return;
+  const tabs = [...list.querySelectorAll('[role="tab"]')];
+  const panels = tabs.map(tab => document.getElementById(tab.getAttribute('aria-controls')));
+  function select(tab, focus) {
+    tabs.forEach((item, index) => {
+      const active = item === tab;
+      item.setAttribute('aria-selected', String(active));
+      item.tabIndex = active ? 0 : -1;
+      panels[index].hidden = !active;
+    });
+    if (focus) tab.focus();
+  }
+  tabs.forEach((tab, index) => {
+    tab.addEventListener('click', () => select(tab, false));
+    tab.addEventListener('keydown', event => {
+      const keys = { ArrowRight: index + 1, ArrowLeft: index - 1, Home: 0, End: tabs.length - 1 };
+      if (!(event.key in keys)) return;
+      event.preventDefault();
+      select(tabs[(keys[event.key] + tabs.length) % tabs.length], true);
+    });
+  });
+  const fromHash = event => {
+    const match = tabs.find(tab => '#' + tab.getAttribute('aria-controls') === window.location.hash);
+    if (!match) return;
+    select(match, false);
+    // The browser may already have failed to scroll to the still-hidden panel. Jump on load, glide on hash change.
+    const root = document.documentElement;
+    const behavior = root.style.scrollBehavior;
+    if (!event) root.style.scrollBehavior = 'auto';
+    list.closest('section').scrollIntoView();
+    root.style.scrollBehavior = behavior;
+  };
+  list.hidden = false;
+  select(tabs[0], false);
+  fromHash();
+  window.addEventListener('hashchange', fromHash);
+})();

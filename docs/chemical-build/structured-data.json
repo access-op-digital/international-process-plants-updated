@@ -191,7 +191,7 @@
           "name": "What is chemical process plant equipment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "This refers to the machines and systems used in chemical manufacturing, including reactors, exchangers, centrifuges, dryers, and more. Read our chemical process plant equipment guide."
+            "text": "Chemical process plant equipment is the set of reactors, heat exchangers, centrifuges, dryers, filters, columns and tanks that converts raw materials into chemical products. Read IPP’s chemical process plant equipment guide."
           }
         },
         {
@@ -199,7 +199,7 @@
           "name": "How do I get a price for a chemical plant or equipment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Contact IPP with the stock number or your process requirements. The quotation needs to define the assets included and any dismantling, loading, shipping or other services requested."
+            "text": "Contact IPP with the stock number or your process requirements. The quotation defines the assets included and any dismantling, loading, shipping or start-up services."
           }
         },
         {
@@ -207,7 +207,7 @@
           "name": "Can IPP help with international shipping?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. IPP offers international shipping options, or buyers can arrange their own shipping. Confirm the asset’s location, loading requirements and delivery destination when discussing the purchase."
+            "text": "Yes. IPP coordinates packaging, crating, freight and delivery, or buyers can arrange their own shipping. Confirm the asset location, loading requirements and destination when you request a quotation."
           }
         },
         {
@@ -215,7 +215,7 @@
           "name": "What documentation is available for a used plant?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Available documentation varies by asset. Ask IPP for equipment lists, drawings, process descriptions and inspection records for the plant or stock number you are considering."
+            "text": "Documentation varies by asset. IPP shares the equipment lists, drawings, process descriptions and inspection records available for each plant or stock number."
           }
         },
         {
@@ -223,7 +223,7 @@
           "name": "Is financing available?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. IPP advertises financing for its plants and equipment. Contact IPP to discuss availability and terms for your proposed purchase."
+            "text": "Yes. IPP advertises financing for its plants and equipment. Contact IPP to discuss terms for your purchase."
           }
         },
         {
@@ -231,7 +231,7 @@
           "name": "Does IPP buy shutdown chemical plants and surplus equipment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. IPP buys complete plants, process lines and individual equipment. Use the sell a plant or sell equipment form to start an assessment."
+            "text": "Yes. IPP buys complete plants, process lines and individual equipment from shutdown, idled and restructured sites. Start with the sell a plant or sell equipment form."
           }
         },
         {
@@ -239,7 +239,7 @@
           "name": "What information should I provide when selling?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Share an asset list, photographs, the plant location, available technical documents and your removal timeline. IPP’s team can then discuss the assessment and next steps."
+            "text": "Provide an asset list, photographs, the plant location, available technical documents and your removal deadline. IPP’s team reviews the information and confirms the next steps."
           }
         },
         {
@@ -247,7 +247,7 @@
           "name": "How quickly can IPP assess assets for sale?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Send IPP your asset information and removal deadline to request a project-specific schedule. The team will need to establish the asset scope, available documentation and site access."
+            "text": "IPP sets the assessment schedule for each project. Send your asset information and removal deadline; the schedule depends on the asset scope, available documentation and site access."
           }
         },
         {
@@ -255,7 +255,7 @@
           "name": "What happens to a chemical plant site after a sale?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A transaction may cover equipment for removal or an entire site. IPP’s published projects include equipment relocation and site repurposing. The purchase agreement defines which assets or property are included and who is responsible for the work."
+            "text": "The purchase agreement defines the outcome. A sale can cover equipment for removal or the entire site, and IPP’s published projects include equipment relocation and site repurposing."
           }
         }
       ]

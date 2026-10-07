@@ -54,6 +54,17 @@ for href in doc.xpath('//a[starts-with(@href,"#")]/@href'):check('Anchor exists 
 for img in doc.xpath('//img'):
  check('Meaningful image alt '+img.get('src'),bool(img.get('alt','').strip()))
 check('Self-hosted assets exist',all((ROOT/u.lstrip('/')).is_file() for u in doc.xpath('//img/@src|//script[@src]/@src|//link[@rel="stylesheet"]/@href')))
+tabs=doc.xpath('//*[@role="tablist"]//*[@role="tab"]')
+check('Resources tabs are About Us, FAQs and Blog only',[' '.join(t.text_content().split()) for t in tabs]==['About Us','FAQs','Blog'])
+for t in tabs:
+ panel=doc.xpath(f'//*[@id="{t.get("aria-controls")}"]')
+ check('Tab panel exists: '+t.get('aria-controls'),len(panel)==1 and panel[0].get('role')=='tabpanel' and panel[0].get('aria-labelledby')==t.get('id'))
+check('All FAQs sit in the FAQs tab panel',len(doc.xpath('//*[@id="faqs"]//details'))==12)
+check('Blog tab lists six articles',len(doc.xpath('//*[@id="blog"]//a[contains(@class,"blog-card")]'))==6)
+check('Reviews heading follows the outline',doc.xpath('//section[contains(@class,"reviews-section")]//h2/text()')==['What do chemical manufacturers say about IPP?'])
+check('Buying process unchanged',doc.xpath('//ol[@class="buying-steps"]/li/h3/text()')==['Share your requirements','Review specifications and inspect','Agree the purchase scope','Plan dismantling and relocation','Arrange shipping and start-up support'])
+about=ROOT/'assets/chemical/about/ipp-team.webp'
+check('About photo under 200 KB',about.is_file() and about.stat().st_size<200000)
 photos=list((ROOT/'assets/chemical').glob('*.webp'))
 check('All equipment photographs under 200 KB',len(photos)==13 and all(p.stat().st_size<200000 for p in photos))
 report={'page':str(PAGE.relative_to(ROOT)),'checks':checks,'passed':len(checks),'photograph_total_bytes':sum(p.stat().st_size for p in photos),'max_photograph_bytes':max(p.stat().st_size for p in photos)}
