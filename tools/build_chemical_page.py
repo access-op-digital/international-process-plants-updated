@@ -45,7 +45,6 @@ facts = {
  '238212': [('Diameter','1,250 mm (49 in)'),('Material','Stainless steel 316'),('Evaporation','31.8 kg/h (70 lb/h)'),('Inlet temp.','354.4 °C (670 °F)')],
  '242886': [('Capacity','34,000 L (9,000 US gal)'),('Material','Stainless steel 316L'),('Pressure','3.5 bar (50.8 psi)'),('Temperature','100 °C (212 °F)')],
  '239007': [('Vessel size', '1,150 L (300 US gal)'), ('Material', 'Glass-lined, re-glassed'), ('Agitator type', '3-blade retreat curve'), ('Span', '914 mm (36 in)')],
- '249252': [('Part', 'Seal and seal plan'), ('Material', 'Hastelloy C22'), ('Service', 'Exotic alloy reactors')],
 }
 makers = {
  '242492':('Sinclair Stainless Fabrications LTD.','Used','Stainless steel 316L'),
@@ -61,17 +60,18 @@ makers = {
  '238212':('APV Anhydro','Used','Stainless steel 316'),
  '242886':('Cookson & Zinn Ltd','Used','Stainless steel 316L'),
  '239007':('Pfaudler', 'Re-glassed', 'Glass-lined'),
- '249252':('', 'New', 'Hastelloy C22'),
 }
 # IMS search path per equipment category; drives the type link under the listing grid.
 ims_type = {'Reactors':'reactor','Agitators':'agitator','Fermenters':'fermenter','Heat exchangers':'heat-exchanger','Evaporators':'evaporator','Distillation columns':'column','Stills':'still','Centrifuges':'centrifuge','Filters':'filter','Dryers':'dryer','Tanks':'tank','Glass-lined parts':'glass-lined-parts','Reactor parts':'reactor-parts'}
+# IMS plant type slug per plant category; drives the plant link under the listing grid.
+plant_type = {'Chemical & specialty':'chemical-and-specialty-chemical','Fertilizer & agrochemical':'fertilizer-and-agrochemical','Petrochemical':'petrochemical','Pharmaceutical':'pharmaceutical'}
 cards=[]
 for key in facts:
  r=records[key]; maker,condition,material=makers.get(key,('','',''))
  r.update({'manufacturer':maker,'condition':condition,'material':material,'display_specs':dict(facts[key])})
  image = f'<img src="{r["local_image"]}" alt="{E(r["display_title"])}; IPP stock {key}" width="{r["image_width"]}" height="{r["image_height"]}" loading="lazy" decoding="async">' if r.get('local_image') else '<span class="no-photo"><span class="line-icon">'+icons['PLANT']+'</span>Request plant photographs</span>'
  tag = condition if r['group']=='equipment' else r['category']
- attrs = ' '.join(f'data-{k}="{E(v)}"' for k,v in {'group':r['group'],'category':r['category'],'manufacturer':maker,'condition':condition,'material':material,'ims':ims_type.get(r['category'],'') if r['group']=='equipment' else ''}.items())
+ attrs = ' '.join(f'data-{k}="{E(v)}"' for k,v in {'group':r['group'],'category':r['category'],'manufacturer':maker,'condition':condition,'material':material,'ims':ims_type.get(r['category'],'') if r['group']=='equipment' else plant_type.get(r['category'],'')}.items())
  specs=''.join(f'<div><dt>{E(k)}</dt><dd>{E(v)}</dd></div>' for k,v in facts[key])
  stock=('P' if r['group']=='plants' else '#')+key
  cards.append(f'''<article class="stock-card" {attrs} id="stock-{key}"><div class="stock-image">{image}<span class="stock-tag">{E(tag)}</span></div><div class="stock-content"><p class="stock-number">IPP STOCK {stock}</p><h3>{E(r['display_title'])}</h3><dl>{specs}</dl><div class="card-actions"><a class="button button-dark" href="{r['url']}" target="_blank" rel="noopener noreferrer" aria-label="View Specs for {E(r['display_title'])}, stock {stock}, opens in a new tab">View Specs <span aria-hidden="true">↗</span></a><a href="{SITE}/contact/" aria-label="Enquire about stock {stock}">Enquire ↗</a></div></div></article>''')
@@ -274,7 +274,7 @@ type_panels = [
    'Pfaudler and De Dietrich parts lead our glass-lined parts inventory, alongside 3V Tech, Schott and UGE, for vessels from 8 L to 37,850 L (2 to 10,000 gal).',
    'Pricing depends on manufacturer, vessel size, glass condition and re-glassing, and IPP quotes each stock number individually with a video or on-site '
    'inspection on request.'],
-  'Featured listings: re-glassed Pfaudler retreat curve agitator for a 1,150 L (300 gal) vessel and a new Hastelloy C-22 reactor seal.',
+  'Featured listing: re-glassed Pfaudler retreat curve agitator for a 1,150 L (300 gal) vessel.',
   [('Browse used glass-lined parts', 'glass-lined-parts'), ('Browse reactor parts', 'reactor-parts')])
 ]
 

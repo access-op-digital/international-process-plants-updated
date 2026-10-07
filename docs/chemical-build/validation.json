@@ -78,15 +78,15 @@
       "pass": true
     },
     {
-      "check": "20 crawlable inventory cards",
+      "check": "19 crawlable inventory cards",
       "pass": true
     },
     {
-      "check": "Six plants and 14 equipment cards in one list with one type filter",
+      "check": "Six plants and 13 equipment cards in one list with one type filter",
       "pass": true
     },
     {
-      "check": "A featured listing for each IMS chemical processing family type and for reactor parts",
+      "check": "A featured listing for each IMS chemical processing family type",
       "pass": true
     },
     {
@@ -163,10 +163,6 @@
     },
     {
       "check": "Direct secure IMS specs link: stock-239007",
-      "pass": true
-    },
-    {
-      "check": "Direct secure IMS specs link: stock-249252",
       "pass": true
     },
     {
@@ -398,10 +394,6 @@
       "pass": true
     },
     {
-      "check": "Meaningful image alt /assets/chemical/249252.webp",
-      "pass": true
-    },
-    {
       "check": "Meaningful image alt /assets/chemical/reviews/1Qhma3r0Cas.webp",
       "pass": true
     },
@@ -538,6 +530,10 @@
       "pass": true
     },
     {
+      "check": "Every plant card links its IMS plant type",
+      "pass": true
+    },
+    {
       "check": "Types section links every IMS chemical processing family type and reactor parts",
       "pass": true
     },
@@ -586,7 +582,7 @@
       "pass": true
     }
   ],
-  "passed": 146,
-  "photograph_total_bytes": 310258,
+  "passed": 145,
+  "photograph_total_bytes": 304604,
   "max_photograph_bytes": 36056
 }

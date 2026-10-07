@@ -488,7 +488,8 @@
         "Material: Hastelloy C22",
         "Service: Exotic alloy reactors",
         "condition: New",
-        "Size not shown: IMS title says 80 mm while the attribute reads 2,050 mm (80 in)"
+        "Size not shown: IMS title says 80 mm while the attribute reads 2,050 mm (80 in)",
+        "Not featured from 2026-10-08: outside the IMS chemical family and the size data conflicts"
       ],
       "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/reactor-parts/seals-and-seal-plans/249252"
     },

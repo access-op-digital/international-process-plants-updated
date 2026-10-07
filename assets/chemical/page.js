@@ -21,6 +21,8 @@
   const maker = document.getElementById('manufacturer-filter');
   const status = document.getElementById('result-count');
   const equipmentLink = document.getElementById('equipment-inventory-link');
+  const plantsLink = document.getElementById('plants-inventory-link');
+  const plantSearch = 'https://ims.internationalprocessplants.com/inventory/search/plants';
   const equipmentSearch = 'https://ims.internationalprocessplants.com/inventory/search/equipment/';
   const unique = (list, attribute) => [...new Set(list.map(card => card.dataset[attribute]).filter(Boolean))];
   const equipment = cards.filter(card => card.dataset.group === 'equipment');
@@ -52,6 +54,9 @@
     const typed = equipment.find(card => card.dataset.ims && card.dataset.category === category.value);
     equipmentLink.href = equipmentSearch + (typed ? typed.dataset.ims : 'chemical-process-family');
     equipmentLink.firstChild.textContent = typed ? `View all used ${category.value.toLocaleLowerCase()} ` : 'View all chemical processing equipment ';
+    const plant = cards.find(card => card.dataset.group === 'plants' && card.dataset.ims && card.dataset.category === category.value);
+    plantsLink.href = plant ? `${plantSearch}/${plant.dataset.ims}?sort=best-match&planttype=${plant.dataset.ims}` : plantSearch;
+    plantsLink.firstChild.textContent = plant ? `View all ${category.value.toLocaleLowerCase()} plants ` : 'View all plant listings ';
   }
   function reset() { search.value = ''; [category, material, condition, maker].forEach(select => { select.value = ''; }); filter(); }
   typeOptions();

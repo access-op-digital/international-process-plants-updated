@@ -37,10 +37,10 @@ original=[
 ]
 for text in original:check('Preserved: '+text[:60],text in visible)
 cards=doc.xpath('//*[contains(concat(" ",@class," ")," stock-card ")]')
-check('20 crawlable inventory cards',len(cards)==20)
-check('Six plants and 14 equipment cards in one list with one type filter',len([c for c in cards if c.get('data-group')=='plants'])==6 and len([c for c in cards if c.get('data-group')=='equipment'])==14 and not doc.xpath('//*[contains(@class,"inventory-switch")]') and doc.xpath('//select[@id="category-filter"]') and not doc.xpath('//div[@id="equipment-filters"][@hidden]'))
-ims_family={'Reactors','Reactor parts','Agitators','Distillation columns','Evaporators','Fermenters','Glass-lined parts','Heat exchangers','Stills','Tanks'}
-check('A featured listing for each IMS chemical processing family type and for reactor parts',ims_family<= {c.get('data-category') for c in cards})
+check('19 crawlable inventory cards',len(cards)==19)
+check('Six plants and 13 equipment cards in one list with one type filter',len([c for c in cards if c.get('data-group')=='plants'])==6 and len([c for c in cards if c.get('data-group')=='equipment'])==13 and not doc.xpath('//*[contains(@class,"inventory-switch")]') and doc.xpath('//select[@id="category-filter"]') and not doc.xpath('//div[@id="equipment-filters"][@hidden]'))
+ims_family={'Reactors','Agitators','Distillation columns','Evaporators','Fermenters','Glass-lined parts','Heat exchangers','Stills','Tanks'}
+check('A featured listing for each IMS chemical processing family type',ims_family<= {c.get('data-category') for c in cards})
 for c in cards:
  a=c.xpath('.//a[contains(@aria-label,"View Specs")]')[0]
  check('Direct secure IMS specs link: '+c.get('id'),a.get('href').startswith('https://ims.internationalprocessplants.com/inventory/') and '/detail/' in a.get('href') and a.get('target')=='_blank' and 'noopener' in a.get('rel',''))
@@ -101,6 +101,7 @@ check('Each equipment type follows the reference section shape: summary, context
 type_tabs=doc.xpath('//div[@class="type-tab-list"]/button[@role="tab"]')
 check('Eleven vertical type tabs control the eleven panels',len(type_tabs)==11 and [t.get('aria-controls') for t in type_tabs]==[c.get('id') for c in panels] and doc.xpath('//div[@class="type-tab-list"]/@aria-orientation')==['vertical'])
 type_links={h.rsplit('/',1)[-1] for h in doc.xpath('//section[@id="equipment-types"]//div[@class="category-links"]/a/@href')}
+check('Every plant card links its IMS plant type',all(c.get('data-ims') for c in cards if c.get('data-group')=='plants'))
 check('Types section links every IMS chemical processing family type and reactor parts',{'reactor','reactor-parts','agitator','column','evaporator','fermenter','glass-lined-parts','heat-exchanger','still','tank'}<=type_links)
 check('Types heading follows the reference question form',doc.xpath('//section[@id="equipment-types"]//h2/text()')==['What used chemical process equipment do we supply?'])
 check('Recognition shown as four badges',len(doc.xpath('//ul[@class="recognition-badges"]/li/a'))==4 and not doc.xpath('//*[contains(@class,"evidence-links")]'))
@@ -115,7 +116,7 @@ check('Buying process unchanged',doc.xpath('//ol[@class="buying-steps"]/li/h3/te
 about=ROOT/'assets/chemical/about/ipp-team.webp'
 check('About photo under 200 KB',about.is_file() and about.stat().st_size<200000)
 photos=list((ROOT/'assets/chemical').glob('*.webp'))
-check('All equipment photographs under 200 KB',len(photos)==19 and all(p.stat().st_size<200000 for p in photos))
+check('All equipment photographs under 200 KB',len(photos)==18 and all(p.stat().st_size<200000 for p in photos))
 report={'page':str(PAGE.relative_to(ROOT)),'checks':checks,'passed':len(checks),'photograph_total_bytes':sum(p.stat().st_size for p in photos),'max_photograph_bytes':max(p.stat().st_size for p in photos)}
 (ROOT/'docs/chemical-build/validation.json').write_text(json.dumps(report,indent=2),encoding='utf-8')
 print(len(checks),'preservation, schema, content and asset checks passed.')

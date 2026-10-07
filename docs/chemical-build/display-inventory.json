@@ -315,7 +315,7 @@
     "source": "https://ims.internationalprocessplants.com/inventory/search/plants",
     "group": "plants",
     "display_title": "Ammonium nitrate plant",
-    "category": "Fertilizer",
+    "category": "Fertilizer & agrochemical",
     "id": "603040",
     "checked": "2026-10-07",
     "original_asset": "docs/chemical-build/sources/image-603040.jpg",
@@ -346,7 +346,7 @@
     "source": "https://ims.internationalprocessplants.com/inventory/search/plants",
     "group": "plants",
     "display_title": "Nitric acid plant",
-    "category": "Fertilizer",
+    "category": "Fertilizer & agrochemical",
     "id": "603039",
     "checked": "2026-10-07",
     "original_asset": "docs/chemical-build/sources/image-603039.jpg",
@@ -701,36 +701,6 @@
       "Material": "Glass-lined, re-glassed",
       "Agitator type": "3-blade retreat curve",
       "Span": "914 mm (36 in)"
-    }
-  },
-  {
-    "title": "New Seals and seal plans for exotic Alloy Reactors in 80 mm size",
-    "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/reactor-parts/seals-and-seal-plans/249252",
-    "image": "https://ims.internationalprocessplants.com/productimage/MjQ5LzI0OTI1Ml8xLmpwZw/1",
-    "attributes": {
-      "Stock Number": "#249252",
-      "Subtype": "Seals and seal plans",
-      "Condition": "New",
-      "Material": "Hastelloy - C22",
-      "Seal Size in mm": "2,050 mm (80 in)"
-    },
-    "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/reactor-parts",
-    "group": "equipment",
-    "display_title": "Hastelloy C22 reactor seal",
-    "category": "Reactor parts",
-    "id": "249252",
-    "local_image": "/assets/chemical/249252.webp",
-    "image_width": 320,
-    "image_height": 321,
-    "image_bytes": 5654,
-    "original_asset": "docs/chemical-build/sources/image-249252.jpg",
-    "manufacturer": "",
-    "condition": "New",
-    "material": "Hastelloy C22",
-    "display_specs": {
-      "Part": "Seal and seal plan",
-      "Material": "Hastelloy C22",
-      "Service": "Exotic alloy reactors"
     }
   }
 ]

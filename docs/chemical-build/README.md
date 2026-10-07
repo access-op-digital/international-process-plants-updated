@@ -4,6 +4,12 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision 11, October 8, 2026: listings that read clearly
+
+- The user asked for whatever is easiest for buyers to understand and use. Fertilizer, petrochemical and pharmaceutical plants and the centrifuge, filter and dryer listings stay: buyers read them as chemical plants and chemical process equipment, and the Industries section names those sectors.
+- The reactor seal card (#249252) is gone: it sits outside the IMS chemical family, its size data conflicts, and a lone seal reads oddly among plants and reactors. The parts tab still names the seals and links IMS reactor parts. 19 listings: six plants, 13 units.
+- Plant cards use the IMS plant type names ("Fertilizer & agrochemical"), and choosing a plant type points the plant button at that IMS plant type ("View all fertilizer & agrochemical plants"), the same way the equipment button follows an equipment type.
+
 ## Revision 10, October 8, 2026: no links in the company intro
 
 - The company intro’s closing paragraph keeps both actions and the phone number as plain text (IPP’s team, the Sell Plants or Sell Equipment form, +1 609-586-8004). Intro content carries no links, per the user’s rule; the hero buttons, seller section and closing call to action carry the links. The validator now fails on any link in the company intro.
