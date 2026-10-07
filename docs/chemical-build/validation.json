@@ -86,7 +86,7 @@
       "pass": true
     },
     {
-      "check": "A featured listing for each IMS chemical processing type",
+      "check": "A featured listing for each IMS chemical processing family type and for reactor parts",
       "pass": true
     },
     {
@@ -538,7 +538,7 @@
       "pass": true
     },
     {
-      "check": "Types section links every IMS chemical processing family type",
+      "check": "Types section links every IMS chemical processing family type and reactor parts",
       "pass": true
     },
     {

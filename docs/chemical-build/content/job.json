@@ -494,14 +494,16 @@
     },
     "IMS Chemical Processing Equipment family (Oct 8, 2026)": {
       "values": [
-        "Family page lists 6,894 items in 10 types: reactor, reactor parts, agitator, column, evaporator, fermenter, glass-lined parts, heat exchanger, still, tank",
+        "Family page lists 6,894 items in 9 types: reactor, agitator, column, evaporator, fermenter, glass-lined parts, heat exchanger, still, tank",
         "Glass-lined parts form the largest type in the family; counts stay out of the copy",
         "Agitators: Pfaudler, Lightnin, De Dietrich, Philadelphia and Chemineer lead; glass-lined and carbon steel lead materials; vessel size 20 to 2,650 gal; drive power up to 135 HP; subtypes drive, glass drives, shaft mixers",
         "Fermenters: ThermoFisher, B. Braun Diessel Biotech, Bujalski, Biolafitte, Chemap, Sartorius; stainless steel 316, 304, 316L; capacity 5 to 17,250 gal",
         "Evaporators: Luwa SMS, Buss-SMS-Canzler, Buflovak/Blaw Knox, Pfaudler; stainless steel 316 leads; evaporation 10 to 80,000 lb/h; heat transfer area 2 to 15,850 ft²; subtypes rising/falling film, wiped thin film, flash, crystallizer",
         "Stills: Santasalo-Sohlberg, Steris Finn-Aqua, Kühni, Paul Mueller; stainless steel 316, 316L, 321; diameter 9 to 87 in; column, pot and multi-effect stills",
         "Glass-lined parts: Pfaudler and De Dietrich lead, then 3V Tech, Schott, UGE; vessel size 2 to 10,000 gal; agitators, Cryo-Lock blades, main and manway covers, baffles, thermowells, adapter plates, pro-rings, split flanges, clamps",
-        "Reactor parts: Hastelloy C-22 seals and seal plans for exotic alloy reactors"
+        "Reactor parts (Hastelloy C-22 seals and seal plans for exotic alloy reactors) form a separate IMS equipment group outside the family; the family search returns 0 items for stocks 249251 and 249252",
+        "Family membership checked by stock search (chemical-process-family?q=<stock>): 10 of the 14 featured equipment units are in the family; the centrifuge, filter press, spray dryer and reactor seal are not",
+        "IMS plant type \"Chemical and Specialty Chemical\" lists 23 plants and includes P603031, P603016 and P601813; P603039 and P603040 are Fertilizer and Agrochemical, P601610 is Petrochemical"
       ],
       "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/chemical-process-family and each type page (manufacturer, material and measure filters, read-only)"
     }

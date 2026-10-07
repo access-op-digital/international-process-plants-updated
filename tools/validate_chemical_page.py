@@ -40,7 +40,7 @@ cards=doc.xpath('//*[contains(concat(" ",@class," ")," stock-card ")]')
 check('20 crawlable inventory cards',len(cards)==20)
 check('Six plants and 14 equipment cards in one list with one type filter',len([c for c in cards if c.get('data-group')=='plants'])==6 and len([c for c in cards if c.get('data-group')=='equipment'])==14 and not doc.xpath('//*[contains(@class,"inventory-switch")]') and doc.xpath('//select[@id="category-filter"]') and not doc.xpath('//div[@id="equipment-filters"][@hidden]'))
 ims_family={'Reactors','Reactor parts','Agitators','Distillation columns','Evaporators','Fermenters','Glass-lined parts','Heat exchangers','Stills','Tanks'}
-check('A featured listing for each IMS chemical processing type',ims_family<= {c.get('data-category') for c in cards})
+check('A featured listing for each IMS chemical processing family type and for reactor parts',ims_family<= {c.get('data-category') for c in cards})
 for c in cards:
  a=c.xpath('.//a[contains(@aria-label,"View Specs")]')[0]
  check('Direct secure IMS specs link: '+c.get('id'),a.get('href').startswith('https://ims.internationalprocessplants.com/inventory/') and '/detail/' in a.get('href') and a.get('target')=='_blank' and 'noopener' in a.get('rel',''))
@@ -101,7 +101,7 @@ check('Each equipment type follows the reference section shape: summary, context
 type_tabs=doc.xpath('//div[@class="type-tab-list"]/button[@role="tab"]')
 check('Eleven vertical type tabs control the eleven panels',len(type_tabs)==11 and [t.get('aria-controls') for t in type_tabs]==[c.get('id') for c in panels] and doc.xpath('//div[@class="type-tab-list"]/@aria-orientation')==['vertical'])
 type_links={h.rsplit('/',1)[-1] for h in doc.xpath('//section[@id="equipment-types"]//div[@class="category-links"]/a/@href')}
-check('Types section links every IMS chemical processing family type',{'reactor','reactor-parts','agitator','column','evaporator','fermenter','glass-lined-parts','heat-exchanger','still','tank'}<=type_links)
+check('Types section links every IMS chemical processing family type and reactor parts',{'reactor','reactor-parts','agitator','column','evaporator','fermenter','glass-lined-parts','heat-exchanger','still','tank'}<=type_links)
 check('Types heading follows the reference question form',doc.xpath('//section[@id="equipment-types"]//h2/text()')==['What used chemical process equipment do we supply?'])
 check('Recognition shown as four badges',len(doc.xpath('//ul[@class="recognition-badges"]/li/a'))==4 and not doc.xpath('//*[contains(@class,"evidence-links")]'))
 check('Global inventory section removed',not doc.xpath('//section[contains(@class,"locations-section")]'))

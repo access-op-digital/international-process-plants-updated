@@ -213,7 +213,7 @@ Why IPP now carries a "For buyers" and a "For sellers" tab with five advantages 
 
 ## IMS family coverage and one inventory list (revision 8)
 
-The types section now carries every type in IMS Chemical Processing Equipment (reactors, reactor parts, agitators, columns, evaporators, fermenters, glass-lined parts, heat exchangers, stills, tanks) plus the original centrifuges, filters and dryers, in process order. The listing grid drops the plant / equipment switch: one list, one plant-or-equipment type filter. New openers:
+The types section now carries every type in IMS Chemical Processing Equipment (reactors, agitators, columns, evaporators, fermenters, glass-lined parts, heat exchangers, stills, tanks), reactor parts from the separate IMS group, and the original centrifuges, filters and dryers, in process order. The listing grid drops the plant / equipment switch: one list, one plant-or-equipment type filter. New openers:
 
 | Intent | Sentence | Frame (predicate) | Roles |
 |---|---|---|---|
