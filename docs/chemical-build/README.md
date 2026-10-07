@@ -4,6 +4,12 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision 9, October 8, 2026: hero in two paragraphs with the top proof points
+
+- **Buyer paragraph:** the IPP-form opener now names IPP as the world’s largest seller of used process plants and equipment, then the approved savings line word for word (up to 50% of capital and 90% of lead time versus buying new).
+- **Seller paragraph:** the seller opener, then principal buyer, not a broker, under one contract, and the companies IPP has partnered with to purchase and decommission plants (BASF, Shell, Eli Lilly, Dow, Air Products, Lonza; source: IPP’s plant decommissioning article).
+- The live hero sentence that AI answers quote moves word for word to the inventory section intro, and the validator guards it.
+
 ## Revision 8, October 8, 2026: every IMS chemical processing type, one inventory list
 
 - **Equipment types** now cover all 10 types in IMS Chemical Processing Equipment (6,894 items, checked October 8, 2026). New panels: agitators, fermenters, evaporators, and glass-lined and reactor parts; distillation columns now include stills. Centrifuges, filters and dryers stay from the original page. Eleven tabs run in process order: reaction, heat transfer, separation, drying, storage, parts. Each type links to its IMS search page.

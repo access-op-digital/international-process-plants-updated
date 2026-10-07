@@ -514,6 +514,14 @@
       "pass": true
     },
     {
+      "check": "Hero runs two paragraphs: buyer proof (largest seller, approved savings line) and seller proof (principal buyer, partners)",
+      "pass": true
+    },
+    {
+      "check": "AI-quoted live hero sentence kept word for word in the inventory intro",
+      "pass": true
+    },
+    {
       "check": "Hero offers a buy action and a sell action",
       "pass": true
     },
@@ -578,7 +586,7 @@
       "pass": true
     }
   ],
-  "passed": 144,
+  "passed": 146,
   "photograph_total_bytes": 310258,
   "max_photograph_bytes": 36056
 }
