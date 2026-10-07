@@ -12,13 +12,29 @@ Preserved original sentences (hero sentence 1, the seven category descriptions, 
 | Transactional · seller | Selling shutdown chemical plants and surplus equipment to IPP converts idle assets into capital while shedding storage, carrying and closure costs. | Cause_change (converts); Removing (shedding); embedded Commerce_sell (selling) | Seller: implied plant owner · Goods: shutdown chemical plants and surplus equipment · Buyer: IPP · Entity: idle assets · Final_category: capital · Theme: storage, carrying and closure costs |
 | Commercial · both | 15,000+ pieces of inventory · 20 complete plant sites · 15 countries with offices · Since 1980, supplying process equipment | Quantity / Supply (stat strip) | Supplier: IPP · Quantity: 15,000+, 20, 15 · Time: since 1980 |
 
-## Company intro
+## Company intro (reactor hub format, both sides)
+
+Query semantics come first: for "used chemical process plants for sale" the Commerce_sell frame puts **Seller = IPP** in subject position and **Goods = used chemical process plants and equipment** directly after the predicate, then **Buyer = producers**. For seller queries ("sell chemical plant") the Commerce_buy frame keeps **Buyer = IPP** as subject, **Goods = shutdown chemical plants** next, then **Seller = plant owners**. Each paragraph closes on an action role (Sender, Means) for conversion.
 
 | Intent | Sentence | Frame (predicate) | Roles |
 |---|---|---|---|
-| Commercial · seller | IPP acquires complete plants, process lines and surplus equipment from producers that restructure their operations. | Getting (acquires) | Recipient: IPP · Theme: complete plants, process lines, surplus equipment · Source: restructuring producers |
-| Commercial · buyer | IPP redeploys those assets to manufacturers worldwide. | Placing (redeploys) | Agent: IPP · Theme: those assets · Goal: manufacturers worldwide |
-| Commercial · both | IPP has served 160,000+ customers. | Assistance (has served) | Helper: IPP · Benefited_party: 160,000+ customers |
+| Transactional · buyer | International Process Plants (IPP) sells used chemical process plants and equipment to chemical, petrochemical, fertilizer, polymer, agrochemical and specialty chemical producers worldwide. | Commerce_sell (sells) | Seller: IPP · Goods: used chemical process plants and equipment · Buyer: chemical, petrochemical, fertilizer, polymer, agrochemical and specialty chemical producers · Place: worldwide |
+| Commercial · buyer | IPP stocks complete plants, process lines and individual reactors, heat exchangers, centrifuges, dryers, filters, distillation columns and tanks from Pfaudler, De Dietrich, Alfa Laval, Krauss Maffei, Westfalia and other OEM manufacturers. | Storing (stocks) | Agent: IPP · Theme: complete plants, process lines, seven equipment families · Source: OEM manufacturers |
+| Commercial · buyer | Purchasing used from IPP can save up to 50% of capital and 90% of lead time versus buying new. | Frugality (save); embedded Commerce_buy | Buyer: implied reader · Seller: IPP · Resource: capital, lead time · Amount: up to 50%, 90% |
+| Commercial · both | IPP has supplied process equipment worldwide since 1980. | Supply (has supplied) | Supplier: IPP · Theme: process equipment · Place: worldwide · Time: since 1980 |
+| Commercial · both | International Process Plants (IPP) is the world’s largest seller of used process plants and equipment, with 15,000+ pieces of inventory and nearly five decades of experience. (preserved, AI-quoted) | Commerce_sell, nominal (seller) | Seller: IPP · Goods: used process plants and equipment · Degree: world’s largest · Quantity: 15,000+ pieces · Duration: nearly five decades |
+| Commercial · both | IPP owns 20 complete process plant sites. | Possession (owns) | Owner: IPP · Possession: 20 complete process plant sites |
+| Commercial · buyer | Materials of construction include glass-lined, stainless steel 316, 316L, 304 and 321, Hastelloy C-22 and C-276, titanium, graphite and polypropylene. | Inclusion (include) | Total: materials of construction · Part: the listed materials |
+| Commercial · buyer | Capacities range from 2 L (0.5 gal) reactors to 565,000 L (149,258 gal) tanks. | Dimension (range) | Dimension: capacity · Measurement: 2 L to 565,000 L · Object: reactors to tanks |
+| Commercial · buyer | Reactor pressure ratings reach 358.7 bar (5,203 psi). | Dimension (reach) | Object: reactors · Dimension: pressure rating · Measurement: up to 358.7 bar |
+| Commercial · buyer | Condition options include used, unused, refurbished, re-glassed and new. | Inclusion (include) | Total: condition options · Part: used, unused, refurbished, re-glassed, new |
+| Commercial · buyer | IPP offers re-glassed glass-lined equipment through Universal Glasteel Equipment (UGE) and new stainless steel equipment through Gale Process Solutions (GPS). | Offering (offers) | Offerer: IPP · Theme: re-glassed glass-lined and new stainless steel equipment · Means: UGE, GPS |
+| Commercial · buyer | IPP’s reactor inventory includes ASME, National Board, CRN, CE and PED coded vessels. | Inclusion (includes) | Total: IPP’s reactor inventory · Part: coded vessels |
+| Transactional · seller | IPP buys shutdown chemical plants, idle process lines and surplus equipment from plant owners and asset managers. | Commerce_buy (buys) | Buyer: IPP · Goods: shutdown chemical plants, idle process lines, surplus equipment · Seller: plant owners and asset managers |
+| Commercial · seller | IPP values each asset at the seller’s site. | Assessing (values) | Assessor: IPP · Phenomenon: each asset · Place: seller’s site |
+| Commercial · seller | IPP handles decommissioning, dismantling and removal. | Taking_care_of (handles) | Agent: IPP · Task: decommissioning, dismantling, removal |
+| Transactional · seller | Plant owners start a sale through the sell-a-plant or sell-equipment form. | Activity_start (start); embedded Commerce_sell | Agent / Seller: plant owners · Activity: a sale · Means: seller forms |
+| Transactional · buyer | Buyers request specifications, inspections and quotations from IPP’s team. | Request (request) | Speaker / Buyer: buyers · Message: specifications, inspections, quotations · Addressee: IPP’s team |
 
 ## Equipment types
 

@@ -4,6 +4,11 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision 3, October 8, 2026: company intro and labels
+
+- **Company intro** ("Buy used chemical plants and equipment from International Process Plants (IPP)") follows the reactor hub intro format in four paragraphs, both sides of the market: what IPP sells and to which producers, with makers, the approved capital and lead-time line and since 1980; the preserved AI-quoted company sentence, plant sites, materials, capacity and pressure ranges; condition options, UGE and GPS, vessel coding; what IPP buys from plant owners, valuation and removal, then one action for sellers and one for buyers. Every sentence keeps brand, predicate, object. Semantic role labels for the query frames lead the order (Seller IPP, Goods, Buyer; Buyer IPP, Goods, Seller); see `frame-semantic-roles.md`.
+- **Labels removed** at the user's request: all eyebrow labels, the hero note, the seller image caption, the inventory date stamp and every source or as-of note line. The company figures therefore appear without an as-of date on the page; their sources stay recorded in `content/job.json`.
+
 ## Revision 2, October 8, 2026: two-sided semantic arrangement
 
 Built with the anup-commercial-content skill in Mode B: the user's Suggested Outline plus the tracker sections already on the page, arranged after the live reactor hub (hero triples, listings, browse by type, makers, advantages, process, industries, FAQ, call to action) and adjusted so the seller path mirrors the buyer path. The outline (73 rows), Context JSON, verified facts, evidence and review notes are in `content/`; generation ran in-session.

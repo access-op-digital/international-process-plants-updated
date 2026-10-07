@@ -71,6 +71,10 @@ check('Seven leading makers link to type-scoped IMS searches',len(makers)==7 and
 check('Size ranges on the five types IMS publishes them for',len(doc.xpath('//div[contains(@class,"category-card")][.//p[@class="range-note"]]'))==5)
 check('Closing CTA serves buyers and sellers',doc.xpath('//section[contains(@class,"closing-cta")]//h2/text()')==['Ready to buy or sell chemical plants and equipment?'] and all(doc.xpath(f'//section[contains(@class,"closing-cta")]//a[@href="{u}"]') for u in ['https://internationalprocessplants.com/contact/','https://internationalprocessplants.com/sell-plants/','https://internationalprocessplants.com/sell-equipment/','mailto:sales@internationalprocessplants.com','tel:+16095868004']))
 check('No phrasal take-on predicate','take on' not in visible.lower())
+intro=[' '.join(p.text_content().split()) for p in doc.xpath('//section[@data-section="2"]//p')]
+check('Company intro opens with what IPP sells, to whom',intro and intro[0].startswith('International Process Plants (IPP) sells used chemical process plants and equipment to chemical, petrochemical'))
+check('Company intro covers selling to IPP',any(x.startswith('IPP buys shutdown chemical plants') for x in intro) and doc.xpath('//section[@data-section="2"]//a[@href="https://internationalprocessplants.com/sell-plants/"]'))
+check('No eyebrow labels or note lines',not doc.xpath('//*[contains(@class,"eyebrow") or contains(@class,"source-note") or contains(@class,"hero-note")]'))
 check('Blog tab lists six articles',len(doc.xpath('//*[@id="blog"]//a[contains(@class,"blog-card")]'))==6)
 check('Reviews heading follows the outline',doc.xpath('//section[contains(@class,"reviews-section")]//h2/text()')==['What do chemical manufacturers say about IPP?'])
 check('Buying process unchanged',doc.xpath('//ol[@class="buying-steps"]/li/h3/text()')==['Share your requirements','Review specifications and inspect','Agree the purchase scope','Plan dismantling and relocation','Arrange shipping and start-up support'])

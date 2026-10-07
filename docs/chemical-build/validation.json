@@ -398,6 +398,18 @@
       "pass": true
     },
     {
+      "check": "Company intro opens with what IPP sells, to whom",
+      "pass": true
+    },
+    {
+      "check": "Company intro covers selling to IPP",
+      "pass": true
+    },
+    {
+      "check": "No eyebrow labels or note lines",
+      "pass": true
+    },
+    {
       "check": "Blog tab lists six articles",
       "pass": true
     },
@@ -418,7 +430,7 @@
       "pass": true
     }
   ],
-  "passed": 104,
+  "passed": 107,
   "photograph_total_bytes": 237748,
   "max_photograph_bytes": 36056
 }
