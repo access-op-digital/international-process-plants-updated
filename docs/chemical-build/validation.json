@@ -274,6 +274,10 @@
       "pass": true
     },
     {
+      "check": "Meaningful image alt /assets/chemical/intro/reactor-removal.webp",
+      "pass": true
+    },
+    {
       "check": "Meaningful image alt /assets/chemical/603031.webp",
       "pass": true
     },
@@ -406,6 +410,10 @@
       "pass": true
     },
     {
+      "check": "Company intro photo fills the heading column, under 200 KB",
+      "pass": true
+    },
+    {
       "check": "No eyebrow labels or note lines",
       "pass": true
     },
@@ -430,7 +438,7 @@
       "pass": true
     }
   ],
-  "passed": 107,
+  "passed": 109,
   "photograph_total_bytes": 237748,
   "max_photograph_bytes": 36056
 }

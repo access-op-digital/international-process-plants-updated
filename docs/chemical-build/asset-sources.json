@@ -40,5 +40,12 @@
     "alt": "International Process Plants",
     "source": "https://internationalprocessplants.com/wp-content/uploads/2023/12/IPP-LOGO_DARKBLUE-FINAL-300x118.png",
     "bytes": 4082
+  },
+  {
+    "file": "intro/reactor-removal.webp",
+    "alt": "Rigging crew lifting a used reactor out of a process plant by crane for relocation",
+    "source": "https://internationalprocessplants.com/wp-content/uploads/2024/03/ipp-build-or-buy-1920.jpg",
+    "bytes": 189298,
+    "note": "IPP's own photograph from its Sell plants page, resized to 1000 px and encoded as WebP"
   }
 ]

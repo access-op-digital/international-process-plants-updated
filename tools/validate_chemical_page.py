@@ -74,6 +74,8 @@ check('No phrasal take-on predicate','take on' not in visible.lower())
 intro=[' '.join(p.text_content().split()) for p in doc.xpath('//section[@data-section="2"]//p')]
 check('Company intro opens with what IPP sells, to whom',intro and intro[0].startswith('International Process Plants (IPP) sells used chemical process plants and equipment to chemical, petrochemical'))
 check('Company intro covers selling to IPP',any(x.startswith('IPP buys shutdown chemical plants') for x in intro) and doc.xpath('//section[@data-section="2"]//a[@href="https://internationalprocessplants.com/sell-plants/"]'))
+intro_photo=ROOT/'assets/chemical/intro/reactor-removal.webp'
+check('Company intro photo fills the heading column, under 200 KB',doc.xpath('//section[@data-section="2"]//figure[@class="intro-photo"]/img[@src="/assets/chemical/intro/reactor-removal.webp"]') and intro_photo.is_file() and intro_photo.stat().st_size<200000)
 check('No eyebrow labels or note lines',not doc.xpath('//*[contains(@class,"eyebrow") or contains(@class,"source-note") or contains(@class,"hero-note")]'))
 check('Blog tab lists six articles',len(doc.xpath('//*[@id="blog"]//a[contains(@class,"blog-card")]'))==6)
 check('Reviews heading follows the outline',doc.xpath('//section[contains(@class,"reviews-section")]//h2/text()')==['What do chemical manufacturers say about IPP?'])
