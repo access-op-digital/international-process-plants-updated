@@ -62,14 +62,18 @@ for key in facts:
  stock=('P' if r['group']=='plants' else '#')+key
  cards.append(f'''<article class="stock-card" {attrs} id="stock-{key}"><div class="stock-image">{image}<span class="stock-tag">{E(tag)}</span></div><div class="stock-content"><p class="stock-number">IPP STOCK {stock}</p><h3>{E(r['display_title'])}</h3><dl>{specs}</dl><div class="card-actions"><a class="button button-dark" href="{r['url']}" target="_blank" rel="noopener noreferrer" aria-label="View Specs for {E(r['display_title'])}, stock {stock}, opens in a new tab">View Specs <span aria-hidden="true">↗</span></a><a href="{SITE}/contact/" aria-label="Enquire about stock {stock}">Enquire ↗</a></div></div></article>''')
 
+# (name, IMS path, original description, materials statement, range statement, featured listing).
+# Materials lead by listing count and ranges come from the IMS type filters, read-only, 8 Oct 2026.
+# IMS publishes no type-level material or size filter for centrifuges and dryers, so those cards
+# state the featured unit's size instead of an invented range.
 category_data = [
- ('Reactors','reactor','Precision-controlled systems for chemical synthesis, available in glass-lined, stainless and specialty alloys.','Featured listing: stainless steel 316L batch-type agitated reactor.'),
- ('Heat exchangers','heat-exchanger','Shell-and-tube and plate exchangers for thermal control and energy recovery.','Featured listing: shell, tubes and tubesheet in stainless steel 316L.'),
- ('Centrifuges','centrifuge','Used for purification, separation and crystallization. Basket, inverting and peeler models available.','Featured listing: Hastelloy C22 peeler centrifuge.'),
- ('Dryers','dryer','Moisture removal solutions including rotary, vacuum and disc dryers.','Featured listing: stainless steel 316 spray dryer.'),
- ('Filters','filter','Pressure and vacuum systems to remove particulates or recover solids.','Featured listing: polypropylene plate-and-frame filter press.'),
- ('Distillation columns','column','For purification, solvent recovery and fractional separation.','Featured listing: glass-lined packed column with ceramic packing.'),
- ('Tanks','tank','For storage, blending and transfer. Jacketed and non-jacketed tanks available.','Featured listing: stainless steel 316L vertical tank.'),
+ ('Reactors','reactor','Precision-controlled systems for chemical synthesis, available in glass-lined, stainless and specialty alloys.','Glass-lined units lead the reactor inventory, alongside stainless steel 316, 316L and 304, Hastelloy C-276 and C-22, and titanium.','Reactor capacities range from 2 L to 80,000 L (0.5 to 21,134 gal).','Featured listing: stainless steel 316L batch-type agitated reactor.'),
+ ('Heat exchangers','heat-exchanger','Shell-and-tube and plate exchangers for thermal control and energy recovery.','Stainless steel 316 and graphite lead the heat exchanger inventory, alongside stainless steel 304 and 316L, carbon steel, titanium and Hastelloy C-276.','Heat transfer areas reach 2,124 m² (22,863 ft²).','Featured listing: shell, tubes and tubesheet in stainless steel 316L.'),
+ ('Centrifuges','centrifuge','Used for purification, separation and crystallization. Basket, inverting and peeler models available.','','','Featured listing: Hastelloy C22 peeler centrifuge with a 630 mm (24.8 in) basket.'),
+ ('Dryers','dryer','Moisture removal solutions including rotary, vacuum and disc dryers.','','','Featured listing: stainless steel 316 spray dryer with 31.8 kg/h (70 lb/h) evaporation.'),
+ ('Filters','filter','Pressure and vacuum systems to remove particulates or recover solids.','Stainless steel 316 and polypropylene lead the filter inventory, alongside stainless steel 304, Hastelloy C-22 and C-276, and carbon steel.','Filtration areas reach 330 m² (3,557 ft²).','Featured listing: polypropylene plate-and-frame filter press.'),
+ ('Distillation columns','column','For purification, solvent recovery and fractional separation.','Glass-lined and stainless steel 316 columns lead the inventory, alongside stainless steel 304, Hastelloy C-276 and graphite.','Column diameters range from 76 mm (3 in) to 8,000 mm (315 in).','Featured listing: glass-lined packed column with ceramic packing.'),
+ ('Tanks','tank','For storage, blending and transfer. Jacketed and non-jacketed tanks available.','Stainless steel 304 and glass-lined tanks lead the inventory, alongside stainless steel 316 and 316L, carbon steel and fiberglass.','Tank capacities range from 5 L to 565,000 L (1 to 149,258 gal).','Featured listing: stainless steel 316L vertical tank.'),
 ]
 # Leading makers per type, ranked by item count in IMS manufacturer filters (read-only, 6 Oct 2026).
 # Duplicate IMS spellings (DeDietrich / DeDietrich (France)) were merged; proper brand spellings shown.
@@ -83,22 +87,25 @@ makers_by_type = {
  'tank':'Pfaudler, De Dietrich, Grundy and Sinclair Stainless Fabrications',
 }
 categories=[]
-for name,path,desc,mat in category_data:
+for name,path,desc,materials,size_range,featured in category_data:
  hub=f'<a href="{SITE}/process-equipment/{path}/">{E(name)} guide</a>' if path!='column' else ''
- categories.append(f'<div class="category-card"><div class="category-heading"><span class="line-icon">{icons["VESSEL"]}</span><h3>{name}</h3></div><p>{desc}</p><p class="maker-note">Makers in IPP’s inventory include {E(makers_by_type[path])}.</p><p class="material-note">{mat}</p><div class="category-links">{hub}<a href="{IMS}/inventory/search/equipment/{path}">Browse {name.lower()} ↗</a></div></div>')
+ values=''.join(f'<p class="range-note">{E(s)}</p>' for s in (materials,size_range) if s)
+ categories.append(f'<div class="category-card"><div class="category-heading"><span class="line-icon">{icons["VESSEL"]}</span><h3>{name}</h3></div><p>{desc}</p><p class="maker-note">Makers in IPP’s inventory include {E(makers_by_type[path])}.</p>{values}<p class="material-note">{featured}</p><div class="category-links">{hub}<a href="{IMS}/inventory/search/equipment/{path}">Browse used {name.lower()} ↗</a></div></div>')
 
 faq_data=[
  ('Does IPP offer full chemical plants for sale?',f'Yes. In addition to individual equipment, we sell <a href="{IMS}/inventory/search/plants">complete chemical process plants</a>, including teardown and relocation services.'),
  ('Can I inspect the equipment before buying?',f'Yes. IPP offers on-site and video inspections for most equipment. <a href="{SITE}/contact/">Contact us</a> to schedule one.'),
  ('Where does IPP source its chemical equipment?','From multinational chemical producers, toll manufacturers and decommissioned or restructured facilities worldwide.'),
  ('What is chemical process plant equipment?',f'Chemical process plant equipment is the set of reactors, heat exchangers, centrifuges, dryers, filters, columns and tanks that converts raw materials into chemical products. Read IPP’s <a href="{SITE}/what-is-chemical-process-plant-equipment/">chemical process plant equipment guide</a>.'),
- ('How do I get a price for a chemical plant or equipment?',f'<a href="{SITE}/contact/">Contact IPP</a> with the stock number or your process requirements. The quotation defines the assets included and any dismantling, loading, shipping or start-up services.'),
+ ('How do I get a price for a chemical plant or equipment?',f'IPP quotes each plant and unit individually. <a href="{SITE}/contact/">Contact IPP</a> with the stock number or your process requirements. The quotation defines the assets included and any dismantling, loading, shipping or start-up services.'),
  ('Can IPP help with international shipping?','Yes. IPP coordinates packaging, crating, freight and delivery, or buyers can arrange their own shipping. Confirm the asset location, loading requirements and destination when you request a quotation.'),
  ('What documentation is available for a used plant?','Documentation varies by asset. IPP shares the equipment lists, drawings, process descriptions and inspection records available for each plant or stock number.'),
  ('Is financing available?',f'Yes. IPP advertises financing for its plants and equipment. <a href="{SITE}/contact/">Contact IPP</a> to discuss terms for your purchase.'),
+ ('Does IPP sell new chemical process equipment?',f'Yes. <a href="https://www.galeprocesssolutions.com/">Gale Process Solutions (GPS)</a>, an IPP group company, fabricates new stainless steel process equipment with 12 to 16 week average delivery. <a href="https://www.uge-inc.com/">Universal Glasteel Equipment (UGE)</a> supplies new and re-glassed glass-lined equipment.'),
  ('Does IPP buy shutdown chemical plants and surplus equipment?',f'Yes. IPP buys complete plants, process lines and individual equipment from shutdown, idled and restructured sites. Start with the <a href="{SITE}/sell-plants/">sell a plant</a> or <a href="{SITE}/sell-equipment/">sell equipment</a> form.'),
  ('What information should I provide when selling?',f'Provide an asset list, photographs, the plant location, available technical documents and your removal deadline. <a href="{SITE}/contact/">IPP’s team</a> reviews the information and confirms the next steps.'),
- ('How quickly can IPP assess assets for sale?',f'IPP sets the assessment schedule for each project. <a href="{SITE}/sell-plants/">Send your asset information</a> and removal deadline; the schedule depends on the asset scope, available documentation and site access.'),
+ ('Does IPP buy the land and buildings with a chemical plant?',f'Yes. IPP purchases complete plant sites, including the land, buildings, equipment and intellectual property. IPP also buys individual process units and equipment systems within a site. <a href="{SITE}/sell-to-ipp/">Read how selling to IPP works</a>.'),
+ ('Does IPP assume environmental obligations at a plant site?',f'Yes, in some acquisitions. IPP buys sites with known contamination and assumes site cleanup and regulatory compliance obligations as the buyer. IPP’s remediation partners work with local environmental authorities on each site. <a href="{SITE}/sell-plants/">Discuss a site exit with IPP</a>.'),
  ('What happens to a chemical plant site after a sale?','The purchase agreement defines the outcome. A sale can cover equipment for removal or the entire site, and IPP’s published projects include equipment relocation and site repurposing.'),
 ]
 faqs=''.join(f'<details><summary>{E(q)}</summary><p>{a}</p></details>' for q,a in faq_data)
@@ -111,11 +118,20 @@ resource_data=[
  ('For sellers','Plant decommissioning with IPP','5-reasons-ipp-is-your-best-choice-for-plant-decommissioning','Why plant owners choose IPP for decommissioning and dismantling.'),
 ]
 resources=''.join(f'<a class="blog-card" href="{SITE}/{path}/"><span class="blog-label">{E(kind)}</span><h4>{E(label)}</h4><p>{E(desc)}</p><span class="text-link" aria-hidden="true">Read article ↗</span></a>' for kind,label,path,desc in resource_data)
-verified_mfr = json.loads((DOCS/'manufacturer-verification.json').read_text(encoding='utf-8')) if (DOCS/'manufacturer-verification.json').exists() else {}
-mfr_links=[]
-for key,(name,condition,material) in makers.items():
- href=IMS+'/inventory/search/equipment?manufacturer='+quote(name) if verified_mfr.get('selected') else records[key]['url']
- mfr_links.append(f'<a href="{E(href)}" target="_blank" rel="noopener noreferrer">{E(name)} <span aria-hidden="true">↗</span></a>')
+# Leading manufacturers by listing count in the IMS manufacturer filters (read-only, 8 Oct 2026),
+# then the two IPP group companies. Each link is a type-scoped IMS search that renders that maker's
+# listings: Pfaudler 349 reactors, DeDietrich 129, Alfa Laval 95 heat exchangers, Krauss Maffei 62
+# and Westfalia 57 centrifuges, Gale Process Solutions 38 and UGE 42 reactors. Counts stay out of the copy.
+leading_makers=[
+ ('Pfaudler','reactor','Pfaudler','Glass-lined reactors, tanks and agitators'),
+ ('De Dietrich','reactor','DeDietrich','Glass-lined reactors and tanks'),
+ ('Alfa Laval','heat-exchanger','Alfa Laval','Heat exchangers and centrifuges'),
+ ('Krauss Maffei','centrifuge','Krauss Maffei','Centrifuges'),
+ ('Westfalia','centrifuge','Westfalia','Centrifuges'),
+ ('Gale Process Solutions','reactor','Gale Process Solutions','New stainless steel equipment from the IPP group'),
+ ('Universal Glasteel Equipment','reactor','UGE','New and re-glassed glass-lined equipment from the IPP group'),
+]
+mfr_links=[f'<li><a href="{E(IMS+"/inventory/search/equipment/"+path+"?manufacturer="+quote(ims_name))}" target="_blank" rel="noopener noreferrer">{E(name)} <span aria-hidden="true">↗</span></a><span>{E(families)}</span></li>' for name,path,ims_name,families in leading_makers]
 logos=''.join(f'<img src="/assets/chemical/{filename}" alt="{name}" width="104" height="48" loading="lazy">' for filename,name in [('shell.png','Shell'),('sanofi.png','Sanofi'),('lilly.png','Lilly'),('DOW.png','Dow'),('lonza.png','Lonza'),('air-products.png','Air Products')])
 
 plain=lambda s: html.fromstring('<div>'+s+'</div>').text_content()
@@ -135,29 +151,57 @@ OUT.write_text(template,encoding='utf-8')
 (DOCS/'display-inventory.json').write_text(json.dumps(list(records.values()),indent=2,ensure_ascii=False),encoding='utf-8')
 (DOCS/'structured-data.json').write_text(json.dumps(schema,indent=2,ensure_ascii=False),encoding='utf-8')
 
-# Keep exported copy and the outline aligned with the actual built page.
+# Keep exported copy and the outline aligned with the actual built page. Every H2 section carries
+# data-section = its outline index; H3/H4 rows are found by heading text inside their parent section,
+# so each prose row gets its own sections/H###.html for the commercial-content section checks.
 doc=html.fromstring(template)
-sections=doc.xpath('//section[@data-section]')
 outline=json.loads((WORK/'outline.json').read_text(encoding='utf-8'))
 (WORK/'sections').mkdir(exist_ok=True)
+for stale in (WORK/'sections').glob('H*.html'): stale.unlink()
+norm=lambda s: ' '.join(s.split()).lower()
+def container_of(heading):
+ el=heading.getparent()
+ for _ in range(4):
+  if el.xpath('.//p'): return el
+  el=el.getparent()
+ return heading.getparent()
+section_el={}
 plain_sections=[]
-for section in sections:
- idx=int(section.get('data-section'))
- # Section bodies include all authored subordinate headings and lists.
- snippet=html.tostring(section,encoding='unicode')
+for section in doc.xpath('//section[@data-section]'):
  for node in section.xpath('.//svg|.//aside|.//*[@id="inventory-tools"]|.//*[@id="empty-results"]'):
   node.getparent().remove(node)
- section_text=html.tostring(section,encoding='unicode').strip()+'\n'
- node=outline[idx];node.update({'written_html':section_text,'written_ok':True,'written_summary':node['assigned_facts']})
- (WORK/'sections'/f'H{idx:03}.html').write_text(section_text,encoding='utf-8')
- plain_sections.append(section_text)
-# FAQs are the second tab of the Resources section, so H013 has no section of its own.
-merged={13:14}
-built={int(s.get('data-section')) for s in sections}
-assert built|set(merged)==set(range(len(outline))),'Outline node without a built section'
-for idx,target in merged.items():
- outline[idx].update({'written_html':'','written_ok':False,'merged_into':target})
- (WORK/'sections'/f'H{idx:03}.html').unlink(missing_ok=True)
+ section_el[int(section.get('data-section'))]=section
+ plain_sections.append(html.tostring(section,encoding='unicode').strip()+'\n')
+def top_parent(i):
+ while outline[i].get('parent_index') not in (None,0): i=outline[i]['parent_index']
+ return i
+missing=[]
+for idx,row in enumerate(outline):
+ if row['hv']=='li' or row.get('carries_prose') is False: continue
+ if idx in section_el:
+  # A parent section's own copy excludes the cards and steps its child rows carry.
+  el=html.fromstring(html.tostring(section_el[idx],encoding='unicode'))
+  kids={norm(r['topic']) for r in outline if r.get('parent_index')==idx and r['hv'] in ('H3','H4')}
+  for h in [h for h in el.xpath('.//h3|.//h4') if norm(h.text_content()) in kids]:
+   box=container_of(h)
+   if box is not el and box.getparent() is not None: box.getparent().remove(box)
+  for empty in el.xpath('.//ol[not(li)]|.//ul[not(li)]'): empty.getparent().remove(empty)
+  # Labels, captions, buttons and citation lines are page furniture, not section prose.
+  for deco in el.xpath('.//*[contains(@class,"eyebrow") or contains(@class,"seller-visual") or contains(@class,"button-row") or contains(@class,"source-note")]'):
+   if deco.getparent() is not None: deco.getparent().remove(deco)
+ else:
+  scope=section_el.get(top_parent(idx))
+  hits=[h for h in (scope.xpath('.//h3|.//h4|.//summary') if scope is not None else []) if norm(h.text_content())==norm(row['topic'])]
+  if not hits: missing.append(row['topic']); continue
+  el=container_of(hits[0])
+  if hits[0].tag=='summary':
+   # An FAQ row's copy is its answer; the question is the row heading.
+   el=html.fromstring(html.tostring(el,encoding='unicode'))
+   for q in el.xpath('.//summary'): q.getparent().remove(q)
+ text=html.tostring(el,encoding='unicode').strip()+'\n'
+ row.update({'written_html':text,'written_ok':True})
+ (WORK/'sections'/f'H{idx:03}.html').write_text(text,encoding='utf-8')
+assert not missing,f'Outline rows with no rendered copy: {missing}'
 (WORK/'outline.json').write_text(json.dumps(outline,indent=2,ensure_ascii=False),encoding='utf-8')
 (WORK/'content.html').write_text('\n'.join(plain_sections),encoding='utf-8')
 print('Built',OUT.relative_to(ROOT), 'with',len(cards),'sourced listings and',len(faq_data),'FAQs.')

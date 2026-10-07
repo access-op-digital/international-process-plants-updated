@@ -51,3 +51,21 @@
 @media(max-width:1100px){.about-panel{gap:40px}.blog-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:860px){.about-panel{grid-template-columns:1fr;gap:28px}.about-photo{order:-1}.resources-tabs .faq-grid{grid-template-columns:1fr;gap:24px}}
 @media(max-width:560px){.tab-list{gap:8px}.tab-list [role=tab]{flex:1 1 0;min-width:0;padding:12px 10px;font-size:14px}.about-scroll{max-height:none;overflow:visible;padding-right:0}.blog-grid{grid-template-columns:1fr}.blog-head{flex-direction:column;gap:8px}}
+/* Two-sided arrangement: hero stat strip, leading makers, seller steps, four project cards, CTA contact */
+.hero-stats{list-style:none;margin:46px 0 0;padding:28px 0 0;border-top:1px solid #3c7086;display:grid;grid-template-columns:repeat(4,1fr);gap:24px;text-align:center}
+.hero-stats strong{display:block;color:#fff;font:600 28px/1.2 var(--heading);margin-bottom:6px}
+.hero-stats span{font-size:13px;color:#b9d0db}
+.range-note{font-size:13px;color:#3f5966;margin:0 0 8px}
+.maker-list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.maker-list li{background:white;border:1px solid #d5e0e6;border-radius:6px;padding:14px 16px}
+.maker-list a{display:block;font:600 14px var(--heading);color:var(--deep);text-decoration:none;margin-bottom:4px}
+.maker-list a:hover{color:var(--link)}
+.maker-list li>span{display:block;font-size:13px;line-height:1.5;color:var(--body)}
+.manufacturers .source-note{font-size:11px;margin:16px 0 0}
+.seller-steps{grid-template-columns:repeat(4,1fr);margin-top:48px}
+.project-grid{grid-template-columns:repeat(4,1fr)}
+.cta-contact{font-style:normal;font-size:14px;line-height:1.7;color:#b9d0db;margin-top:18px}
+.cta-contact a{color:#fff}
+@media(max-width:1100px){.maker-list{grid-template-columns:repeat(3,1fr)}.project-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:860px){.hero-stats{grid-template-columns:repeat(2,1fr);gap:20px}.maker-list{grid-template-columns:repeat(2,1fr)}.seller-steps{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.hero-stats{margin-top:32px;padding-top:22px}.hero-stats strong{font-size:22px}.hero-stats span{font-size:12px}.maker-list{grid-template-columns:1fr}.seller-steps{grid-template-columns:1fr}.project-grid{grid-template-columns:1fr}}

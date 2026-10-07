@@ -4,19 +4,41 @@
     "entity": "Used chemical process plants",
     "primary_keyword": "used chemical process plants for sale",
     "title": "Used Chemical Process Plants for Sale",
-    "business_context": "International Process Plants (IPP) buys and sells complete used process plants, process lines and individual equipment worldwide. Preserve valuable existing copy and brand. User supplied a revised outline and tracker.",
-    "page_macro_context": "Optimize the existing chemical page for buyers first, with a supporting seller section. Preserve existing URL and seven categories.",
+    "business_context": "International Process Plants (IPP) buys and sells used process plants and equipment worldwide: complete plant sites, process lines and individual equipment. Headquarters in Princeton Junction, New Jersey; offices in 15 countries; company-owned warehouses in Eastover (South Carolina), Billingham (England) and Bitterfeld-Wolfen (Germany). Group companies: Gale Process Solutions (new stainless steel equipment) and Universal Glasteel Equipment (glass-lined equipment). Inventory is published in IPP's IMS (read-only for this project).",
+    "page_macro_context": "Two-sided commercial collection page on the existing URL. Buyers find, inspect and acquire used chemical plants and equipment; plant owners sell shutdown plants and surplus equipment to IPP. Content arrangement follows the live reactor hub: hero triples, browse by type, listings, makers, advantages, process, industries, FAQ, call to action.",
     "market_country": "us",
     "market_location": "",
     "page_sub_type_override": "collection",
     "verify_stats": false,
     "direct_query_network": [
       "used chemical process plants for sale",
-      "used chemical plant equipment",
-      "chemical process equipment for sale"
+      "used chemical equipment",
+      "used chemical process equipment",
+      "used chemical processing equipment",
+      "second hand chemical equipment",
+      "used chemical plants for sale",
+      "chemical plants for sale",
+      "used chemical plants",
+      "used chemical machinery",
+      "buy chemical processing equipment",
+      "best marketplace for used chemical processing equipment",
+      "how can i find second-hand chemical processing plants for sale"
     ],
-    "authority_query_network": [],
-    "competitor_urls": [],
+    "authority_query_network": [
+      "international process plants",
+      "ipp equipment",
+      "ipp used equipment",
+      "sell chemical plant",
+      "sell used chemical equipment",
+      "sell batch chemical plant",
+      "chemical plant decommissioning"
+    ],
+    "competitor_urls": [
+      "https://www.fedequip.com/chemical-equipment",
+      "https://www.aaronequipment.com",
+      "https://www.lcec.com",
+      "https://www.phxequip.com"
+    ],
     "tf_idf_values": {},
     "n_grams": [],
     "page_type": "Money Page"
@@ -214,6 +236,183 @@
         "Location: Camaçari, Bahia, Brazil"
       ],
       "source": "https://ims.internationalprocessplants.com/inventory/plant/detail/601610"
+    },
+    "Since 1980": {
+      "values": [
+        "IPP has supplied process equipment worldwide since 1980 (approved claim line)"
+      ],
+      "source": "https://internationalprocessplants.com/process-equipment/reactor/"
+    },
+    "Customers served": {
+      "values": [
+        "160,000+ customers worldwide"
+      ],
+      "source": "https://internationalprocessplants.com/sell-to-ipp/"
+    },
+    "Offices": {
+      "values": [
+        "Offices in 15 countries: Brazil, Canada, China, the Czech Republic, France, Germany, India, Italy, Mexico, Pakistan, Portugal, Romania, Turkey, the United Kingdom and the United States"
+      ],
+      "source": "https://internationalprocessplants.com/process-equipment/reactor/"
+    },
+    "Approved savings line": {
+      "values": [
+        "Purchasing used from IPP can save up to 50% of capital and 90% of lead time versus buying new",
+        "The exact savings depend on manufacturer, capacity, material of construction, and condition"
+      ],
+      "source": "Approved claim lines (user, IPP program)"
+    },
+    "Group companies": {
+      "values": [
+        "Gale Process Solutions (GPS) fabricates new stainless steel process equipment with 12 to 16 week average delivery",
+        "Universal Glasteel Equipment (UGE), founded in 1995, supplies new, used, rebuilt and re-glassed glass-lined equipment"
+      ],
+      "source": "https://internationalprocessplants.com/process-equipment/reactor/"
+    },
+    "Seller: what IPP acquires": {
+      "values": [
+        "Complete plant sites, including land, buildings, equipment and intellectual property",
+        "Process units and equipment systems within a site",
+        "Used, surplus and idled equipment, from individual units to complete production lines"
+      ],
+      "source": "https://internationalprocessplants.com/sell-to-ipp/ ; https://internationalprocessplants.com/sell-equipment/"
+    },
+    "Seller: site states": {
+      "values": [
+        "Intact, mothballed and partially dismantled sites",
+        "Idled, retired or shut down sites, including sites with environmental closure obligations; IPP assumes site cleanup and regulatory compliance obligations as the buyer in some acquisitions"
+      ],
+      "source": "https://internationalprocessplants.com/sell-plants/ ; current review page"
+    },
+    "Seller: services": {
+      "values": [
+        "On-site inspections, dismantling coordination, packaging, freight and export",
+        "Purchases on an as-is, where-is basis as a principal buyer, not a broker",
+        "Valuation, decommissioning, dismantling and marketing to a global buyer network"
+      ],
+      "source": "https://internationalprocessplants.com/sell-equipment/ ; current review page"
+    },
+    "Seller: who sells to IPP": {
+      "values": [
+        "Typically 95% of the companies that sell to IPP are Fortune 100 and Fortune 500 companies (IPP FAQ)"
+      ],
+      "source": "https://internationalprocessplants.com/sell-to-ipp/"
+    },
+    "Seller: outcomes": {
+      "values": [
+        "Recover capital from unused or surplus assets",
+        "Remove long-term storage and maintenance costs",
+        "Replace piecemeal selling with one buyer",
+        "Transfer site risk and liability"
+      ],
+      "source": "https://internationalprocessplants.com/sell-equipment/ ; https://internationalprocessplants.com/sell-plants/"
+    },
+    "Decommissioning credentials": {
+      "values": [
+        "ISN RAVS Plus verified (IPP announcement, August 2024)",
+        "IPP works with corporate EHS teams on permit closure, emissions compliance and utility shutoffs",
+        "IPP has partnered with BASF, Shell, Eli Lilly, Dow, Air Products and Lonza to purchase and decommission plants and purchase surplus assets",
+        "Full-scale decommissions in Ohio, Alabama and Louisiana, the United Kingdom and Germany, including the former Novartis site in Grimsby",
+        "IPP helped transfer a shuttered biobased chemicals plant in Minnesota to Nuol Green Chemistry, highlighted by SOCMA"
+      ],
+      "source": "https://internationalprocessplants.com/5-reasons-ipp-is-your-best-choice-for-plant-decommissioning/"
+    },
+    "Leading makers (IMS facets, Oct 6, 2026)": {
+      "values": [
+        "Pfaudler: glass-lined reactors, tanks and agitators",
+        "De Dietrich: glass-lined reactors and tanks",
+        "Alfa Laval: heat exchangers and centrifuges",
+        "Krauss Maffei: centrifuges",
+        "Westfalia: centrifuges"
+      ],
+      "source": "IMS manufacturer filters; ranking verbs only, no counts in copy"
+    },
+    "Contact": {
+      "values": [
+        "Phone +1 609-586-8004",
+        "Email sales@internationalprocessplants.com",
+        "Headquarters 410 Princeton Hightstown Road, Princeton Junction, NJ 08550",
+        "Forms: /contact/, /sell-plants/, /sell-equipment/"
+      ],
+      "source": "https://internationalprocessplants.com/contact/ ; site footer"
+    },
+    "Negative facts": {
+      "values": [
+        "No used-versus-new advice or table",
+        "No exact stock counts",
+        "No defect, fouling or inspection-checklist content",
+        "No closing-speed guarantee",
+        "No 70% savings figure",
+        "No reviewer claim for Ross Gale",
+        "IMS is read-only"
+      ],
+      "source": "User rules and client guidelines"
+    },
+    "Sourcing": {
+      "values": [
+        "From multinational chemical producers, toll manufacturers and decommissioned or restructured facilities worldwide (preserved FAQ answer)"
+      ],
+      "source": "Original page FAQ"
+    },
+    "Preserved FAQ answers": {
+      "values": [
+        "Yes. In addition to individual equipment, we sell complete chemical process plants, including teardown and relocation services.",
+        "Yes. IPP offers on-site and video inspections for most equipment. Contact us to schedule one.",
+        "From multinational chemical producers, toll manufacturers and decommissioned or restructured facilities worldwide."
+      ],
+      "source": "Original page FAQ (AI answers draw on these)"
+    },
+    "Definition": {
+      "values": [
+        "Chemical process plant equipment is the set of reactors, heat exchangers, centrifuges, dryers, filters, columns and tanks that converts raw materials into chemical products"
+      ],
+      "source": "https://internationalprocessplants.com/what-is-chemical-process-plant-equipment/"
+    },
+    "Shipping": {
+      "values": [
+        "IPP coordinates packaging, crating, freight and delivery to the plant site",
+        "Buyers can arrange their own shipping"
+      ],
+      "source": "https://internationalprocessplants.com/process-equipment/reactor/ ; current review page"
+    },
+    "Documentation": {
+      "values": [
+        "Documentation varies by asset: equipment lists, drawings, process descriptions and inspection records where available"
+      ],
+      "source": "Current review page; IMS detail pages"
+    },
+    "Quotation scope": {
+      "values": [
+        "The quotation defines the assets included and any dismantling, loading, shipping or start-up services"
+      ],
+      "source": "Current review page"
+    },
+    "Seller: information to send": {
+      "values": [
+        "Asset list, photographs, plant location, available technical documents and removal deadline"
+      ],
+      "source": "Current review page; https://internationalprocessplants.com/sell-plants/"
+    },
+    "Projects": {
+      "values": [
+        "May 2024: IPP announced an agreement with BASF to market ammonia, methanol and melamine plants at Ludwigshafen, Germany",
+        "IPP affiliate Humber Industrials announced an agreement to acquire Novartis UK Grimsby API manufacturing site and assets",
+        "IPP acquired, dismantled and relocated a CDMO API process plant equipment set to its Eastover facility",
+        "December 2024: Ross Gale, IPP vice president, wrote Cost Engineering with Previously Owned Process Equipment for Chemical Engineering"
+      ],
+      "source": "Linked IPP news posts; chemengonline.com"
+    },
+    "Featured customers": {
+      "values": [
+        "Shell, Sanofi, Lilly, Dow, Lonza, Air Products (IPP homepage)"
+      ],
+      "source": "https://internationalprocessplants.com/"
+    },
+    "Customer video playlist": {
+      "values": [
+        "IPP publishes customer video interviews on its YouTube channel"
+      ],
+      "source": "IPP YouTube playlist linked on the review page"
     }
   },
   "unverified_slots": [],
@@ -222,11 +421,7 @@
   "final_review_notes": [],
   "outline": [],
   "final_content": "",
-  "seo_meta": {
-    "seo_title": "Used Chemical Process Plants for Sale | IPP",
-    "meta_description": "Explore used chemical process plants, complete lines and equipment from IPP. View specifications, arrange inspections, or sell your surplus chemical assets.",
-    "h1": "Used Chemical Process Plants for Sale"
-  },
+  "seo_meta": {},
   "section_reports": [],
   "signal_elements": [],
   "optimized_query_network": [],
@@ -240,13 +435,51 @@
   "ai_overviews": [],
   "slot_fills": {},
   "errors": [],
-  "search_volumes": {},
+  "search_volumes": {
+    "used chemical equipment": 590.0,
+    "used chemical process equipment": 480.0,
+    "chemical plants for sale": 30.0,
+    "used chemical plants": 10.0
+  },
   "sub_type_source": "override",
-  "topical_map": [
-    {
-      "keyword": "used chemical process plants for sale",
-      "title": "Used Chemical Process Plants for Sale",
-      "slug": "/chemical-process-plant-equipment-used-systems-for-sale/"
-    }
-  ]
+  "context": {
+    "macro_context": "Buying and selling used chemical process plants and equipment",
+    "primary_entity": "Used chemical process plants",
+    "supporting_entities": [
+      "used chemical process equipment",
+      "complete chemical plants",
+      "process lines",
+      "surplus equipment",
+      "IMS inventory",
+      "Gale Process Solutions (GPS)",
+      "Universal Glasteel Equipment (UGE)"
+    ],
+    "business_entity": "International Process Plants (IPP)",
+    "primary_keyword": "used chemical process plants for sale",
+    "content_type": "Commercial collection page, two-sided (buyer and seller)",
+    "intent_model": {
+      "transactional": {
+        "buyer": "Acquire a listed plant or unit: open IMS listings, filter, search a stock number, request a quotation or an inspection.",
+        "seller": "Sell a plant or surplus equipment to IPP: send the asset list through the sell-a-plant or sell-equipment form, or contact IPP."
+      },
+      "commercial": {
+        "buyer": "Evaluate before acquiring: equipment types and their values, makers, IPP's advantages, how buying works, customer proof, FAQs.",
+        "seller": "Evaluate IPP as the buyer of a site or surplus asset: what IPP acquires, how selling works, decommissioning credentials, projects, seller FAQs."
+      },
+      "page_primary_intent": "Transactional (buy) led, with a co-equal transactional seller path; commercial sections support both decisions"
+    },
+    "audience_type": "Buyers: procurement, engineering and operations teams at chemical producers. Sellers: plant owners and asset managers with shutdown, idled or surplus assets.",
+    "commercial_orientation": "Buyer-led page with a co-equal seller path",
+    "sentence_form": "Every sentence is a subject-predicate-object triple: a named subject (IPP, the plant, the unit, the seller), one single positive verb, and an object carrying the attribute value. No phrasal predicates, no vague quantifiers, no em dashes.",
+    "template": "Mode B. The user's Suggested Outline (workbook tab) plus the tracker sections already on the review page. Arrangement follows the live reactor hub: hero triples, listings, browse by type, makers, advantages, process, industries, FAQ, call to action; adjusted so the seller path mirrors the buyer path.",
+    "arrangement_reference": "https://internationalprocessplants.com/process-equipment/reactor/",
+    "constraints": [
+      "Existing URL and canonical stay; H1 stays 'Used Chemical Process Plants for Sale'",
+      "'How buying from IPP works' copy stays exactly as published (user lock)",
+      "Preserved original sentences stay word for word (hero sentence 1, seven category descriptions, three FAQ answers, six industries)",
+      "No used-versus-new advice or comparison table, no exact stock counts, no defect or fouling content, no closing-speed guarantee, no '70%' savings figure",
+      "Approved claim lines only: up to 50% of capital and 90% of lead time versus buying new; the exact-savings sentence; GPS 12 to 16 week average delivery; since 1980",
+      "No reviewer claim for Ross Gale; IMS is read-only"
+    ]
+  }
 }

@@ -1,87 +1,21 @@
 [
   {
-    "phase": "editorial_review",
-    "notes": [
-      "Draft optimizes existing canonical; user postponed staged before/after approach."
-    ]
-  },
-  {
-    "phase": "editorial_review",
-    "notes": [
-      "Original category descriptions and three high-value FAQ answers retained."
-    ]
-  },
-  {
-    "phase": "editorial_review",
-    "notes": [
-      "No exact reviewer sign-off supplied: reviewedBy omitted."
-    ]
-  },
-  {
-    "phase": "editorial_review",
-    "notes": [
-      "Founding dates inconsistent across public sources: foundingDate omitted."
-    ]
-  },
-  {
-    "phase": "editorial_review",
-    "notes": [
-      "No competitor URLs supplied; no competitor NLP evidence fabricated."
-    ]
-  },
-  {
-    "phase": "editorial_review",
-    "notes": [
-      "No search-volume estimates supplied; absent values stay empty."
-    ]
-  },
-  {
-    "phase": "editorial_review",
-    "notes": [
-      "Redirect directions conflict between manual inputs and tracker: production redirect decisions remain outside this static page build."
-    ]
-  },
-  {
     "phase": "outline_post_pass",
     "notes": [
-      "[NO_QUESTION_FORMAT] Only 0 of 15 H2-H6 headings (0%) are question-formed — below every reference page (corpus band 19-92%, median 40%). Convert the headings that ASK something (cost, process, comparison); display and brand rows stay statements.",
-      "UNHOSTED_FACT: the workbook supplies 'Industries we serve' and no row on this page carries it — add a section or accept that the fact will not appear."
+      "UNHOSTED_FACT: the workbook supplies 'Customers served', 'Headquarters', 'Industries we serve', 'Preserved FAQ answers' and no row on this page carries it — add a section or accept that the fact will not appear."
     ]
   },
   {
-    "phase": "editorial_review",
+    "phase": "operator review, 2026-10-08",
     "notes": [
-      "RESOLVED UNHOSTED_FACT: Industries we serve is explicitly present as the six original sectors in H009; the post-pass matcher failed to associate it."
-    ]
-  },
-  {
-    "phase": "editorial_review",
-    "notes": [
-      "RESOLVED NO_QUESTION_FORMAT: headings follow the user-authored Suggested Outline; FAQs contain twelve buyer/seller questions. No quota-driven heading changes."
-    ]
-  },
-  {
-    "phase": "editorial_review",
-    "notes": [
-      "SCOPED STYLE EXCEPTION: the only remaining banned word, addition, is in the exact retained FAQ answer “Yes. In addition to individual equipment, we sell ...”. User preservation requirement overrides that lexical ban. No new use of the banned term is accepted."
-    ]
-  },
-  {
-    "phase": "editorial_review",
-    "notes": [
-      "DataForSEO initial location string rejected; corrected request returned Internal SE Server Error (40101). No AI Overview, PAA consensus or search-volume claim used. Public first-party IPP/IMS verification governs all factual copy."
-    ]
-  },
-  {
-    "phase": "editorial_review",
-    "notes": [
-      "Old AIChE URL checked in browser: “Oh oh! 404”; removed. Contact form loads in browser despite automated HTTP403."
-    ]
-  },
-  {
-    "phase": "editorial_review",
-    "notes": [
-      "Hero finalized from completed sections: complete plants, equipment, selling; preserves opening equipment entity and original readiness value."
+      "RESOLVED UNHOSTED_FACT: 'Customers served', 'Headquarters', 'Industries we serve' and 'Preserved FAQ answers' are hosted by operator assignment (company intro, Global access, About tab, CTA, Industries we serve, FAQ rows); the role matcher has no family for them.",
+      "Operator text kept: the post-pass title-cased 7 maker list labels; sentence case restored to match the page.",
+      "ACCEPTED: 'addition' (banned term) appears only in the preserved original FAQ answer 'In addition to individual equipment...', kept word for word because AI answers draw on it.",
+      "OUTLINE: 'buy chemical processing equipment' stays on 'How buying from IPP works' (H2) only; it was removed from the listings row and the five locked step rows, which never owned it.",
+      "OUTLINE: the brand query left the Global access card (the company intro owns it); filler queries left the three project cards, which host dated facts instead.",
+      "COPY: seller rows rewritten in the seller's own terms (sell, selling used chemical equipment, plant) so the transactional seller intent is explicit.",
+      "ACCEPTED: 'How buying from IPP works' is locked by the user, so its H2 lead-in keeps its copy; the Suggested Outline queries stay assigned to it and its five steps carry the buying detail.",
+      "CHECK CALIBRATION: section exports for the deterministic checks exclude eyebrow labels, image captions, button rows and source-note citation lines; the page and the Word copy keep them."
     ]
   }
 ]

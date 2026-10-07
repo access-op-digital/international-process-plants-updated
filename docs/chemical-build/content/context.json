@@ -1,17 +1,32 @@
 {
-  "macro_context": "Purchase and sale of chemical manufacturing assets",
-  "primary_entity": "Used chemical process plants",
-  "primary_intent": "Find available plants and equipment; inspect specifications and contact IPP",
-  "business_entity": "International Process Plants (IPP)",
-  "content_type": "Commercial collection page",
-  "audience_type": "Chemical plant owners, procurement teams, engineering and operations managers",
-  "commercial_orientation": "Buyer first, seller support",
-  "generation_route": "in-session",
-  "template": "Updated user workbook: Suggested Outline plus Task Tracker. Relative section order preserved; category, seller, manufacturer and location sections inserted from tracker.",
-  "constraints": [
-    "No new canonical URL",
-    "No fabricated prices, reviews, warranties or reviewer sign-off",
-    "No live publication or redirects",
-    "Preserve valuable existing category and FAQ copy"
-  ]
+ "macro_context": "Buying and selling used chemical process plants and equipment",
+ "primary_entity": "Used chemical process plants",
+ "supporting_entities": ["used chemical process equipment", "complete chemical plants", "process lines", "surplus equipment", "IMS inventory", "Gale Process Solutions (GPS)", "Universal Glasteel Equipment (UGE)"],
+ "business_entity": "International Process Plants (IPP)",
+ "primary_keyword": "used chemical process plants for sale",
+ "content_type": "Commercial collection page, two-sided (buyer and seller)",
+ "intent_model": {
+  "transactional": {
+   "buyer": "Acquire a listed plant or unit: open IMS listings, filter, search a stock number, request a quotation or an inspection.",
+   "seller": "Sell a plant or surplus equipment to IPP: send the asset list through the sell-a-plant or sell-equipment form, or contact IPP."
+  },
+  "commercial": {
+   "buyer": "Evaluate before acquiring: equipment types and their values, makers, IPP's advantages, how buying works, customer proof, FAQs.",
+   "seller": "Evaluate IPP as the buyer of a site or surplus asset: what IPP acquires, how selling works, decommissioning credentials, projects, seller FAQs."
+  },
+  "page_primary_intent": "Transactional (buy) led, with a co-equal transactional seller path; commercial sections support both decisions"
+ },
+ "audience_type": "Buyers: procurement, engineering and operations teams at chemical producers. Sellers: plant owners and asset managers with shutdown, idled or surplus assets.",
+ "commercial_orientation": "Buyer-led page with a co-equal seller path",
+ "sentence_form": "Every sentence is a subject-predicate-object triple: a named subject (IPP, the plant, the unit, the seller), one single positive verb, and an object carrying the attribute value. No phrasal predicates, no vague quantifiers, no em dashes.",
+ "template": "Mode B. The user's Suggested Outline (workbook tab) plus the tracker sections already on the review page. Arrangement follows the live reactor hub: hero triples, listings, browse by type, makers, advantages, process, industries, FAQ, call to action; adjusted so the seller path mirrors the buyer path.",
+ "arrangement_reference": "https://internationalprocessplants.com/process-equipment/reactor/",
+ "constraints": [
+  "Existing URL and canonical stay; H1 stays 'Used Chemical Process Plants for Sale'",
+  "'How buying from IPP works' copy stays exactly as published (user lock)",
+  "Preserved original sentences stay word for word (hero sentence 1, seven category descriptions, three FAQ answers, six industries)",
+  "No used-versus-new advice or comparison table, no exact stock counts, no defect or fouling content, no closing-speed guarantee, no '70%' savings figure",
+  "Approved claim lines only: up to 50% of capital and 90% of lead time versus buying new; the exact-savings sentence; GPS 12 to 16 week average delivery; since 1980",
+  "No reviewer claim for Ross Gale; IMS is read-only"
+ ]
 }

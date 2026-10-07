@@ -4,14 +4,9 @@
     "index": 0,
     "heading": "Used Chemical Process Plants for Sale",
     "blocking": [],
-    "advisory": []
-  },
-  {
-    "file": "H001",
-    "index": 1,
-    "heading": "Trusted around the world by",
-    "blocking": [],
-    "advisory": []
+    "advisory": [
+      "Section makes a specific numeric claim but no supplied evidence backs it \u2014 review for accuracy."
+    ]
   },
   {
     "file": "H002",
@@ -37,79 +32,364 @@
   {
     "file": "H005",
     "index": 5,
-    "heading": "Equipment manufacturers in our inventory",
+    "heading": "Reactors",
     "blocking": [],
-    "advisory": []
+    "advisory": [
+      "Section makes a specific numeric claim but no supplied evidence backs it \u2014 review for accuracy."
+    ]
   },
   {
     "file": "H006",
     "index": 6,
-    "heading": "Why chemical manufacturers choose IPP for chemical process plants",
+    "heading": "Heat exchangers",
     "blocking": [],
-    "advisory": []
+    "advisory": [
+      "Section makes a specific numeric claim but no supplied evidence backs it \u2014 review for accuracy."
+    ]
   },
   {
     "file": "H007",
     "index": 7,
-    "heading": "What do chemical manufacturers say about IPP? Reviews",
+    "heading": "Centrifuges",
     "blocking": [],
     "advisory": []
   },
   {
     "file": "H008",
     "index": 8,
-    "heading": "How buying from IPP works",
+    "heading": "Dryers",
     "blocking": [],
     "advisory": []
   },
   {
     "file": "H009",
     "index": 9,
-    "heading": "Industries we serve",
+    "heading": "Filters",
     "blocking": [],
-    "advisory": []
+    "advisory": [
+      "Section makes a specific numeric claim but no supplied evidence backs it \u2014 review for accuracy."
+    ]
   },
   {
     "file": "H010",
     "index": 10,
+    "heading": "Distillation columns",
+    "blocking": [],
+    "advisory": [
+      "Section makes a specific numeric claim but no supplied evidence backs it \u2014 review for accuracy."
+    ]
+  },
+  {
+    "file": "H011",
+    "index": 11,
+    "heading": "Tanks",
+    "blocking": [],
+    "advisory": [
+      "Section makes a specific numeric claim but no supplied evidence backs it \u2014 review for accuracy."
+    ]
+  },
+  {
+    "file": "H012",
+    "index": 12,
+    "heading": "Equipment manufacturers in our inventory",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H020",
+    "index": 20,
+    "heading": "Why chemical manufacturers choose IPP for chemical process plants",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H021",
+    "index": 21,
+    "heading": "Immediate availability",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H022",
+    "index": 22,
+    "heading": "Massive selection",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H023",
+    "index": 23,
+    "heading": "Global access",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H024",
+    "index": 24,
+    "heading": "Validation-ready",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H025",
+    "index": 25,
+    "heading": "Cost efficiency",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H026",
+    "index": 26,
+    "heading": "What do chemical manufacturers say about IPP?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H027",
+    "index": 27,
+    "heading": "How buying from IPP works",
+    "blocking": [
+      "3 query the outline assigned to this section is never addressed: buy chemical processing equipment | best marketplace for used chemical processing equipment | how can i find second-hand chemical processing plants for sale"
+    ],
+    "advisory": []
+  },
+  {
+    "file": "H028",
+    "index": 28,
+    "heading": "Share your requirements",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H029",
+    "index": 29,
+    "heading": "Review specifications and inspect",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H030",
+    "index": 30,
+    "heading": "Agree the purchase scope",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H031",
+    "index": 31,
+    "heading": "Plan dismantling and relocation",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H032",
+    "index": 32,
+    "heading": "Arrange shipping and start-up support",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H033",
+    "index": 33,
     "heading": "Sell chemical plants and surplus equipment to IPP",
     "blocking": [],
     "advisory": []
   },
   {
-    "file": "H011",
-    "index": 11,
+    "file": "H034",
+    "index": 34,
+    "heading": "Send your asset information",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H035",
+    "index": 35,
+    "heading": "IPP values the assets",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H036",
+    "index": 36,
+    "heading": "Agree the sale structure",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H037",
+    "index": 37,
+    "heading": "Decommissioning, dismantling and removal",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H038",
+    "index": 38,
+    "heading": "Industries we serve",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H045",
+    "index": 45,
     "heading": "Global inventory. Local support.",
     "blocking": [],
     "advisory": []
   },
   {
-    "file": "H012",
-    "index": 12,
+    "file": "H049",
+    "index": 49,
     "heading": "Chemical plant projects and industry recognition",
     "blocking": [],
     "advisory": []
   },
   {
-    "file": "H013",
-    "index": 13,
-    "heading": "FAQs",
+    "file": "H050",
+    "index": 50,
+    "heading": "Marketing major chemical plants",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H051",
+    "index": 51,
+    "heading": "Repurposing a pharmaceutical site",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H052",
+    "index": 52,
+    "heading": "Moving assets into their next use",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H053",
+    "index": 53,
+    "heading": "Decommissioning and site transfer",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H055",
+    "index": 55,
+    "heading": "Used chemical process plants and equipment from IPP",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H056",
+    "index": 56,
+    "heading": "Used chemical process plant FAQs",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H057",
+    "index": 57,
+    "heading": "Does IPP offer full chemical plants for sale?",
     "blocking": [
       "Banned terms present: addition"
     ],
     "advisory": []
   },
   {
-    "file": "H014",
-    "index": 14,
-    "heading": "Chemical Process Plants Resources",
+    "file": "H058",
+    "index": 58,
+    "heading": "Can I inspect the equipment before buying?",
     "blocking": [],
     "advisory": []
   },
   {
-    "file": "H015",
-    "index": 15,
-    "heading": "Find the right plant or equipment for your project",
+    "file": "H059",
+    "index": 59,
+    "heading": "Where does IPP source its chemical equipment?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H060",
+    "index": 60,
+    "heading": "What is chemical process plant equipment?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H061",
+    "index": 61,
+    "heading": "How do I get a price for a chemical plant or equipment?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H062",
+    "index": 62,
+    "heading": "Can IPP help with international shipping?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H063",
+    "index": 63,
+    "heading": "What documentation is available for a used plant?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H064",
+    "index": 64,
+    "heading": "Is financing available?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H065",
+    "index": 65,
+    "heading": "Does IPP sell new chemical process equipment?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H066",
+    "index": 66,
+    "heading": "Does IPP buy shutdown chemical plants and surplus equipment?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H067",
+    "index": 67,
+    "heading": "What information should I provide when selling?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H068",
+    "index": 68,
+    "heading": "Does IPP buy the land and buildings with a chemical plant?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H069",
+    "index": 69,
+    "heading": "Does IPP assume environmental obligations at a plant site?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H070",
+    "index": 70,
+    "heading": "What happens to a chemical plant site after a sale?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H072",
+    "index": 72,
+    "heading": "Ready to buy or sell chemical plants and equipment?",
     "blocking": [],
     "advisory": []
   }

@@ -124,5 +124,36 @@
         "result": "pass"
       }
     ]
+  },
+  "revision_2026_10_08_two_sided": {
+    "scope": "Two-sided semantic arrangement: hero seller triple and stat strip, type ranges, leading makers, seller steps, fourth project card, 14 FAQs, two-sided CTA",
+    "desktop_viewport": "1280 x 700 to 1100 (headless Chrome, same-origin iframe)",
+    "mobile_viewport": "375 x 812 to 1500",
+    "tests": [
+      {
+        "name": "Section order: hero, trust, intro, listings, types, makers, why, reviews, buying, selling, industries, locations, projects, resources, CTA",
+        "result": "pass"
+      },
+      {
+        "name": "Desktop columns: stat strip 4, makers 4, seller steps 4, projects 4",
+        "result": "pass"
+      },
+      {
+        "name": "Mobile 375px: stat strip 2 columns, makers, seller steps and projects 1 column, no horizontal overflow",
+        "result": "pass"
+      },
+      {
+        "name": "Maker cards keep the link arrow inline with the maker name",
+        "result": "pass"
+      },
+      {
+        "name": "Seven maker links select their maker in type-scoped IMS searches that render listings",
+        "result": "pass"
+      },
+      {
+        "name": "Browser console has no errors",
+        "result": "pass"
+      }
+    ]
   }
 }

@@ -42,7 +42,7 @@ check('Six plants and eight equipment cards',len([c for c in cards if c.get('dat
 for c in cards:
  a=c.xpath('.//a[contains(@aria-label,"View Specs")]')[0]
  check('Direct secure IMS specs link: '+c.get('id'),a.get('href').startswith('https://ims.internationalprocessplants.com/inventory/') and '/detail/' in a.get('href') and a.get('target')=='_blank' and 'noopener' in a.get('rel',''))
-check('Twelve visible FAQ answers with matching schema',len(doc.xpath('//details'))==12 and len(schema['@graph'][-1]['mainEntity'])==12)
+check('Fourteen visible FAQ answers with matching schema',len(doc.xpath('//details'))==14 and len(schema['@graph'][-1]['mainEntity'])==14)
 for detail,q in zip(doc.xpath('//details'),schema['@graph'][-1]['mainEntity']):
  check('FAQ schema matches: '+q['name'],' '.join(detail.xpath('./p')[0].text_content().split())==' '.join(q['acceptedAnswer']['text'].split()))
 check('No em dashes or CMS author debris','—' not in visible and 'access@op.digital' not in raw and 'Latest Posts' not in raw)
@@ -59,7 +59,18 @@ check('Resources tabs are About Us, FAQs and Blog only',[' '.join(t.text_content
 for t in tabs:
  panel=doc.xpath(f'//*[@id="{t.get("aria-controls")}"]')
  check('Tab panel exists: '+t.get('aria-controls'),len(panel)==1 and panel[0].get('role')=='tabpanel' and panel[0].get('aria-labelledby')==t.get('id'))
-check('All FAQs sit in the FAQs tab panel',len(doc.xpath('//*[@id="faqs"]//details'))==12)
+check('All FAQs sit in the FAQs tab panel',len(doc.xpath('//*[@id="faqs"]//details'))==14)
+faq_q=[' '.join(s.text_content().split()) for s in doc.xpath('//*[@id="faqs"]//summary')]
+check('Nine buyer FAQs, then five seller FAQs',faq_q[8]=='Does IPP sell new chemical process equipment?' and faq_q[9]=='Does IPP buy shutdown chemical plants and surplus equipment?' and len(faq_q)==14)
+check('Hero states both sides',any(p.text_content().startswith('Buying used chemical process plants') for p in doc.xpath('//section[@data-section="0"]//p')) and any(p.text_content().startswith('Selling shutdown chemical plants') for p in doc.xpath('//section[@data-section="0"]//p')))
+check('Hero stat strip carries four dated company figures',[' '.join(x.strip() for x in li.itertext() if x.strip()) for li in doc.xpath('//ul[@class="hero-stats"]/li')]==['15,000+ Pieces of inventory','20 Complete plant sites','15 Countries with offices','Since 1980 Supplying process equipment'])
+check('Seller path has four steps',doc.xpath('//ol[contains(@class,"seller-steps")]/li/h3/text()')==['Send your asset information','IPP values the assets','Agree the sale structure','Decommissioning, dismantling and removal'])
+check('Seller section follows the buying steps',[s.get('id') for s in doc.xpath('//section[@id="buying" or @id="sell"]')]==['buying','sell'])
+makers=doc.xpath('//ul[@class="maker-list"]/li/a')
+check('Seven leading makers link to type-scoped IMS searches',len(makers)==7 and all('/inventory/search/equipment/' in a.get('href') and 'manufacturer=' in a.get('href') for a in makers))
+check('Size ranges on the five types IMS publishes them for',len(doc.xpath('//div[contains(@class,"category-card")][.//p[@class="range-note"]]'))==5)
+check('Closing CTA serves buyers and sellers',doc.xpath('//section[contains(@class,"closing-cta")]//h2/text()')==['Ready to buy or sell chemical plants and equipment?'] and all(doc.xpath(f'//section[contains(@class,"closing-cta")]//a[@href="{u}"]') for u in ['https://internationalprocessplants.com/contact/','https://internationalprocessplants.com/sell-plants/','https://internationalprocessplants.com/sell-equipment/','mailto:sales@internationalprocessplants.com','tel:+16095868004']))
+check('No phrasal take-on predicate','take on' not in visible.lower())
 check('Blog tab lists six articles',len(doc.xpath('//*[@id="blog"]//a[contains(@class,"blog-card")]'))==6)
 check('Reviews heading follows the outline',doc.xpath('//section[contains(@class,"reviews-section")]//h2/text()')==['What do chemical manufacturers say about IPP?'])
 check('Buying process unchanged',doc.xpath('//ol[@class="buying-steps"]/li/h3/text()')==['Share your requirements','Review specifications and inspect','Agree the purchase scope','Plan dismantling and relocation','Arrange shipping and start-up support'])

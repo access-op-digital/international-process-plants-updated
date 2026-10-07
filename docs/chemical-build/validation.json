@@ -142,7 +142,7 @@
       "pass": true
     },
     {
-      "check": "Twelve visible FAQ answers with matching schema",
+      "check": "Fourteen visible FAQ answers with matching schema",
       "pass": true
     },
     {
@@ -178,6 +178,10 @@
       "pass": true
     },
     {
+      "check": "FAQ schema matches: Does IPP sell new chemical process equipment?",
+      "pass": true
+    },
+    {
       "check": "FAQ schema matches: Does IPP buy shutdown chemical plants and surplus equipment?",
       "pass": true
     },
@@ -186,7 +190,11 @@
       "pass": true
     },
     {
-      "check": "FAQ schema matches: How quickly can IPP assess assets for sale?",
+      "check": "FAQ schema matches: Does IPP buy the land and buildings with a chemical plant?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: Does IPP assume environmental obligations at a plant site?",
       "pass": true
     },
     {
@@ -354,6 +362,42 @@
       "pass": true
     },
     {
+      "check": "Nine buyer FAQs, then five seller FAQs",
+      "pass": true
+    },
+    {
+      "check": "Hero states both sides",
+      "pass": true
+    },
+    {
+      "check": "Hero stat strip carries four dated company figures",
+      "pass": true
+    },
+    {
+      "check": "Seller path has four steps",
+      "pass": true
+    },
+    {
+      "check": "Seller section follows the buying steps",
+      "pass": true
+    },
+    {
+      "check": "Seven leading makers link to type-scoped IMS searches",
+      "pass": true
+    },
+    {
+      "check": "Size ranges on the five types IMS publishes them for",
+      "pass": true
+    },
+    {
+      "check": "Closing CTA serves buyers and sellers",
+      "pass": true
+    },
+    {
+      "check": "No phrasal take-on predicate",
+      "pass": true
+    },
+    {
       "check": "Blog tab lists six articles",
       "pass": true
     },
@@ -374,7 +418,7 @@
       "pass": true
     }
   ],
-  "passed": 93,
+  "passed": 104,
   "photograph_total_bytes": 237748,
   "max_photograph_bytes": 36056
 }

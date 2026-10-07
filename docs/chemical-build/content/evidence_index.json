@@ -1,4 +1,54 @@
 {
-  "generated_at": "2026-10-07T02:04:22",
-  "rows": []
+  "generated_at": "2026-10-08T00:47:42",
+  "rows": [
+    {
+      "query_id": "11",
+      "query": "used stainless steel tanks for sale",
+      "has_ai_overview": false,
+      "organic": 8,
+      "paa": 4
+    },
+    {
+      "query_id": "5",
+      "query": "used chemical reactors for sale",
+      "has_ai_overview": true,
+      "organic": 8,
+      "paa": 0
+    },
+    {
+      "query_id": "6",
+      "query": "used heat exchangers for sale",
+      "has_ai_overview": false,
+      "organic": 8,
+      "paa": 0
+    },
+    {
+      "query_id": "60",
+      "query": "what is chemical process plant equipment",
+      "has_ai_overview": true,
+      "organic": 8,
+      "paa": 4
+    },
+    {
+      "query_id": "7",
+      "query": "used centrifuges for sale",
+      "has_ai_overview": true,
+      "organic": 8,
+      "paa": 4
+    },
+    {
+      "query_id": "8",
+      "query": "used industrial dryers for sale",
+      "has_ai_overview": true,
+      "organic": 7,
+      "paa": 4
+    },
+    {
+      "query_id": "9",
+      "query": "used industrial filters for sale",
+      "has_ai_overview": false,
+      "organic": 8,
+      "paa": 0
+    }
+  ]
 }

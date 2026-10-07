@@ -4,6 +4,23 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision 2, October 8, 2026: two-sided semantic arrangement
+
+Built with the anup-commercial-content skill in Mode B: the user's Suggested Outline plus the tracker sections already on the page, arranged after the live reactor hub (hero triples, listings, browse by type, makers, advantages, process, industries, FAQ, call to action) and adjusted so the seller path mirrors the buyer path. The outline (73 rows), Context JSON, verified facts, evidence and review notes are in `content/`; generation ran in-session.
+
+- **Intent model.** Every outline row declares its intent: transactional (buy or sell now) or commercial (evaluate first), and buyer, seller or both. See `context.json` and the `intent` field in `outline.json`.
+- **Sentence form.** Every sentence is a subject-predicate-object triple with one single verb. `frame-semantic-roles.md` labels each new or changed sentence with its FrameNet frame and roles.
+- **Hero.** Adds the seller triple ("Selling shutdown chemical plants and surplus equipment to IPP converts idle assets into capital while shedding storage, carrying and closure costs.") and a stat strip: 15,000+ inventory items, 20 plant sites, 15 countries, since 1980.
+- **Equipment types.** Each card adds materials (leading first) and the size range from the IMS type filters, metric with imperial in brackets. IMS publishes no type-level filters for centrifuges and dryers, so those cards state the featured unit's size. Values: `content/ims-facets-2026-10-08.json` and `content/facts.json`.
+- **Manufacturers.** The list now names the leading makers by IMS listings (Pfaudler, De Dietrich, Alfa Laval, Krauss Maffei, Westfalia) plus GPS and UGE, each linked to a type-scoped IMS search that renders its listings.
+- **Seller path.** "Sell chemical plants and surplus equipment to IPP" moves directly after the buying steps and becomes a four-step path: send the asset information, IPP values the assets, agree the sale structure, decommissioning, dismantling and removal. Facts come from IPP's Sell to IPP, Sell plants and Sell equipment pages and its decommissioning article.
+- **Proof.** A fourth project card adds ISN RAVS Plus verification and the Nuol Green Chemistry site transfer.
+- **FAQs.** Fourteen: nine buyer (new: new equipment from GPS and UGE) and five seller (new: land and buildings, environmental obligations). "How quickly can IPP assess assets for sale?" was dropped because no published value supports an answer.
+- **Call to action.** "Ready to buy or sell chemical plants and equipment?" with contact, phone, email, headquarters address and both seller forms.
+- **Unchanged.** H1, URL, canonical, the locked "How buying from IPP works" copy, preserved original sentences and the tabbed resources design.
+- **Evidence.** DataForSEO SERP and AI Overview pulls for the seven type rows and the definition FAQ (`content/evidence/`); the reactor query's AI Overview already cites IPP. One query returned a search-engine error.
+- **Checks.** Validator 104 checks; IPP page checker 0 issues; section checks leave two accepted exceptions (the locked buying section and the preserved "In addition" FAQ answer), recorded in `content/review_notes.json`.
+
 ## Revision, October 8, 2026
 
 Copy was tightened section by section to the reactor page standard: IPP as the explicit subject, one fact per sentence, answer-first FAQs and stated attribute values. The heading outline, the preserved original sentences and the "How buying from IPP works" steps are unchanged.

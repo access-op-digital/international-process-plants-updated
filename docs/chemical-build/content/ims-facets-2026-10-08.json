@@ -1,0 +1,1653 @@
+{
+ "reactor": {
+  "checked": "2026-10-08",
+  "manufacturer": [
+   [
+    "Pfaudler",
+    349
+   ],
+   [
+    "DeDietrich",
+    92
+   ],
+   [
+    "UGE",
+    42
+   ],
+   [
+    "DeDietrich",
+    37
+   ],
+   [
+    "Pfaudler (Germany)",
+    34
+   ],
+   [
+    "Gale Process Solutions",
+    30
+   ],
+   [
+    "EHW Thale",
+    15
+   ],
+   [
+    "Mechanicca Sarda",
+    12
+   ],
+   [
+    "Schwelm",
+    11
+   ],
+   [
+    "Gale Process Solutions",
+    8
+   ],
+   [
+    "Pfaudler-Balfour",
+    8
+   ],
+   [
+    "James Bendall & Sons Ltd",
+    7
+   ]
+  ],
+  "material": [
+   [
+    "Glasslined",
+    662
+   ],
+   [
+    "Stainless Steel 316",
+    100
+   ],
+   [
+    "Stainless Steel 316L",
+    62
+   ],
+   [
+    "Stainless Steel Austenitic",
+    37
+   ],
+   [
+    "Stainless Steel 304",
+    34
+   ],
+   [
+    "Stainless Steel Other",
+    10
+   ],
+   [
+    "Stainless Steel 321",
+    8
+   ],
+   [
+    "Hastelloy - C276",
+    8
+   ],
+   [
+    "Hastelloy - C22",
+    7
+   ],
+   [
+    "Titanium",
+    4
+   ],
+   [
+    "Stainless Steel 304L",
+    3
+   ],
+   [
+    "Stainless Steel 316Ti",
+    3
+   ],
+   [
+    "Alloy 20",
+    2
+   ],
+   [
+    "Hastelloy - Other",
+    2
+   ]
+  ],
+  "condition": [
+   [
+    "Used",
+    null
+   ],
+   [
+    "New",
+    null
+   ],
+   [
+    "Unused",
+    null
+   ],
+   [
+    "Re-glassed",
+    null
+   ],
+   [
+    "Good Used Glass",
+    null
+   ],
+   [
+    "Refurbished/Rebuilt",
+    null
+   ],
+   [
+    "Needs Reglass",
+    null
+   ],
+   [
+    "UNUSED-Reglassed",
+    null
+   ]
+  ],
+  "measures": [
+   {
+    "name": "Capacity (Design)",
+    "meta": [
+     "Range: 0 to 21,150 gallons",
+     "Display: US"
+    ],
+    "units": [
+     "US - gallons",
+     "Metric - L"
+    ]
+   },
+   {
+    "name": "Internal Pressure",
+    "meta": [
+     "Range: 2 to 5,200 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Internal Temperature",
+    "meta": [
+     "Range: -329 to 753 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   },
+   {
+    "name": "Jacket Pressure",
+    "meta": [
+     "Range: 1 to 595 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Jacket Temperature",
+    "meta": [
+     "Range: -329 to 753 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   },
+   {
+    "name": "Diameter",
+    "meta": [
+     "Range: 0 to 3,000 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Tube Surface Area",
+    "meta": [
+     "Range: 15,700 to 15,700 ft²",
+     "Display: US"
+    ],
+    "units": [
+     "US - ft²",
+     "Metric - m²"
+    ]
+   },
+   {
+    "name": "Tube Diameter",
+    "meta": [
+     "Range: 1 to 1 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Tube Length",
+    "meta": [
+     "Range: 0 to 9,600 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Tube Pressure",
+    "meta": [
+     "Range: 40 to 1,250 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Tube Temperature",
+    "meta": [
+     "Range: 400 to 932 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   }
+  ]
+ },
+ "heat-exchanger": {
+  "checked": "2026-10-08",
+  "manufacturer": [
+   [
+    "Alfa Laval",
+    76
+   ],
+   [
+    "VICARB",
+    43
+   ],
+   [
+    "Ralph Coidan LTD.",
+    35
+   ],
+   [
+    "Alfa Laval",
+    19
+   ],
+   [
+    "APV",
+    13
+   ],
+   [
+    "Atlas Industrial",
+    12
+   ],
+   [
+    "Delta Tee International Inc.",
+    12
+   ],
+   [
+    "Graham",
+    12
+   ],
+   [
+    "DeDietrich",
+    10
+   ],
+   [
+    "Graham Hart Ltd",
+    10
+   ],
+   [
+    "Meccanica Sardia",
+    10
+   ],
+   [
+    "Sigri",
+    10
+   ]
+  ],
+  "material": [
+   [
+    "Stainless Steel 316",
+    229
+   ],
+   [
+    "Graphite",
+    196
+   ],
+   [
+    "Stainless Steel 304",
+    106
+   ],
+   [
+    "Stainless Steel 316L",
+    95
+   ],
+   [
+    "Stainless Steel Austenitic",
+    83
+   ],
+   [
+    "Carbon Steel",
+    65
+   ],
+   [
+    "Stainless Steel Other",
+    59
+   ],
+   [
+    "Stainless Steel 321",
+    35
+   ],
+   [
+    "Titanium",
+    34
+   ],
+   [
+    "Hastelloy - C276",
+    24
+   ],
+   [
+    "Tantalum",
+    24
+   ],
+   [
+    "Glasslined",
+    17
+   ],
+   [
+    "Hastelloy - C22",
+    15
+   ],
+   [
+    "Hastelloy - Other",
+    11
+   ]
+  ],
+  "condition": [
+   [
+    "Used",
+    null
+   ],
+   [
+    "New",
+    null
+   ],
+   [
+    "Unused",
+    null
+   ],
+   [
+    "Re-glassed",
+    null
+   ],
+   [
+    "Good Used Glass",
+    null
+   ],
+   [
+    "Refurbished/Rebuilt",
+    null
+   ],
+   [
+    "Needs Reglass",
+    null
+   ],
+   [
+    "UNUSED-Reglassed",
+    null
+   ]
+  ],
+  "measures": [
+   {
+    "name": "Heat Transfer Surface Area",
+    "meta": [
+     "Range: 2 to 22,850 ft²",
+     "Display: US"
+    ],
+    "units": [
+     "US - ft²",
+     "Metric - m²"
+    ]
+   },
+   {
+    "name": "Shell Pressure",
+    "meta": [
+     "Range: 0 to 2,600 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Shell Temperature",
+    "meta": [
+     "Range: -599 to 775 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   },
+   {
+    "name": "Tube Pressure",
+    "meta": [
+     "Range: -14 to 2,600 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Tube Temperature",
+    "meta": [
+     "Range: -65 to 840 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   },
+   {
+    "name": "Shell Diameter",
+    "meta": [
+     "Range: 0 to 350 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Length",
+    "meta": [
+     "Range: 0 to 2,500 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Tube Diameter",
+    "meta": [
+     "Range: 0 to 135 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Tube Length",
+    "meta": [
+     "Range: 0 to 709 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Tube Thickness",
+    "meta": [
+     "Range: 0 to 88 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Cold-side Pressure",
+    "meta": [
+     "Range: 3 to 2,200 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Cold-side Temperature",
+    "meta": [
+     "Range: 32 to 663 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   },
+   {
+    "name": "Hot-side Pressure",
+    "meta": [
+     "Range: 3 to 2,200 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Hot-side Temperature",
+    "meta": [
+     "Range: 30 to 663 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   },
+   {
+    "name": "Process Pressure",
+    "meta": [
+     "Range: 7 to 233 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Cold-side Hole Diameter",
+    "meta": [
+     "Range: 0 to 18 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Diameter",
+    "meta": [
+     "Range: 0 to 68 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Capacity",
+    "meta": [
+     "Range: 3 to 15,000 gallons",
+     "Display: US"
+    ],
+    "units": [
+     "US - gallons",
+     "Metric - L"
+    ]
+   },
+   {
+    "name": "Height",
+    "meta": [
+     "Range: 1 to 1,100 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Width",
+    "meta": [
+     "Range: 0 to 470 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Hot-side Hole Diameter",
+    "meta": [
+     "Range: 0 to 2 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Motor Power",
+    "meta": [
+     "Range: 18 to 19 HP",
+     "Display: US"
+    ],
+    "units": [
+     "US - HP",
+     "Metric - kW"
+    ]
+   },
+   {
+    "name": "Plate Height",
+    "meta": [
+     "Range: 6 to 764 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Plate Thickness",
+    "meta": [
+     "Range: 0 to 15 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Plate Width",
+    "meta": [
+     "Range: 6 to 1,000 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Process Temperature",
+    "meta": [
+     "Range: -320 to 400 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   },
+   {
+    "name": "Temperature",
+    "meta": [
+     "Range: -425 to -425 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   },
+   {
+    "name": "Heat Exchanger Tube Capacity",
+    "meta": [
+     "Range: 1 to 555 gallons",
+     "Display: US"
+    ],
+    "units": [
+     "US - gallons",
+     "Metric - L"
+    ]
+   },
+   {
+    "name": "Service Side Capacity",
+    "meta": [
+     "Range: 3 to 29 gallons",
+     "Display: US"
+    ],
+    "units": [
+     "US - gallons",
+     "Metric - L"
+    ]
+   },
+   {
+    "name": "Process Side Capacity",
+    "meta": [
+     "Range: 1 to 1,250 gallons",
+     "Display: US"
+    ],
+    "units": [
+     "US - gallons",
+     "Metric - L"
+    ]
+   }
+  ]
+ },
+ "centrifuge": {
+  "checked": "2026-10-08",
+  "manufacturer": [
+   [
+    "Used",
+    null
+   ],
+   [
+    "New",
+    null
+   ],
+   [
+    "Unused",
+    null
+   ],
+   [
+    "Re-glassed",
+    null
+   ],
+   [
+    "Good Used Glass",
+    null
+   ],
+   [
+    "Refurbished/Rebuilt",
+    null
+   ],
+   [
+    "Needs Reglass",
+    null
+   ],
+   [
+    "UNUSED-Reglassed",
+    null
+   ]
+  ],
+  "material": [],
+  "condition": [],
+  "measures": []
+ },
+ "dryer": {
+  "checked": "2026-10-08",
+  "manufacturer": [
+   [
+    "Used",
+    null
+   ],
+   [
+    "New",
+    null
+   ],
+   [
+    "Unused",
+    null
+   ],
+   [
+    "Re-glassed",
+    null
+   ],
+   [
+    "Good Used Glass",
+    null
+   ],
+   [
+    "Refurbished/Rebuilt",
+    null
+   ],
+   [
+    "Needs Reglass",
+    null
+   ],
+   [
+    "UNUSED-Reglassed",
+    null
+   ]
+  ],
+  "material": [],
+  "condition": [],
+  "measures": []
+ },
+ "filter": {
+  "checked": "2026-10-08",
+  "manufacturer": [
+   [
+    "Schenk",
+    22
+   ],
+   [
+    "Cogeim",
+    11
+   ],
+   [
+    "Cuno",
+    10
+   ],
+   [
+    "Seitz Enzinger",
+    10
+   ],
+   [
+    "Allegheny Bradford Corp.",
+    9
+   ],
+   [
+    "Rittershaus & Blecher",
+    8
+   ],
+   [
+    "Roberts Co.",
+    8
+   ],
+   [
+    "Sparkler",
+    8
+   ],
+   [
+    "Rosenmund",
+    6
+   ],
+   [
+    "Seitz-Werke",
+    6
+   ],
+   [
+    "Chemap",
+    5
+   ],
+   [
+    "Eimco Shriver",
+    5
+   ]
+  ],
+  "material": [
+   [
+    "Stainless Steel 316",
+    107
+   ],
+   [
+    "Polypropylene",
+    51
+   ],
+   [
+    "Stainless Steel 304",
+    36
+   ],
+   [
+    "Stainless Steel Austenitic",
+    25
+   ],
+   [
+    "Stainless Steel 316L",
+    18
+   ],
+   [
+    "Carbon Steel",
+    13
+   ],
+   [
+    "Hastelloy - C22",
+    12
+   ],
+   [
+    "Stainless Steel Other",
+    9
+   ],
+   [
+    "Hastelloy - C276",
+    9
+   ],
+   [
+    "Stainless Steel 321",
+    8
+   ],
+   [
+    "Glasslined",
+    4
+   ],
+   [
+    "Aluminum",
+    2
+   ],
+   [
+    "Rubberlined",
+    2
+   ],
+   [
+    "Fibre",
+    2
+   ]
+  ],
+  "condition": [
+   [
+    "Used",
+    null
+   ],
+   [
+    "New",
+    null
+   ],
+   [
+    "Unused",
+    null
+   ],
+   [
+    "Re-glassed",
+    null
+   ],
+   [
+    "Good Used Glass",
+    null
+   ],
+   [
+    "Refurbished/Rebuilt",
+    null
+   ],
+   [
+    "Needs Reglass",
+    null
+   ],
+   [
+    "UNUSED-Reglassed",
+    null
+   ]
+  ],
+  "measures": [
+   {
+    "name": "Filtration Area",
+    "meta": [
+     "Range: 0 to 3,550 ft²",
+     "Display: US"
+    ],
+    "units": [
+     "US - ft²",
+     "Metric - m²"
+    ]
+   },
+   {
+    "name": "Air Flow Rate",
+    "meta": [
+     "Range: 5 to 1,000 CFM",
+     "Display: US"
+    ],
+    "units": [
+     "US - CFM",
+     "Metric - m3/h"
+    ]
+   },
+   {
+    "name": "Diameter",
+    "meta": [
+     "Range: 0 to 158 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Inlet Diameter",
+    "meta": [
+     "Range: 2 to 24 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Pressure",
+    "meta": [
+     "Range: 3 to 600 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Temperature",
+    "meta": [
+     "Range: 30 to 663 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   },
+   {
+    "name": "Outlet Discharge Width",
+    "meta": [
+     "Range: 2 to 120 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Overall Length",
+    "meta": [
+     "Range: 0 to 950 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Overall Width",
+    "meta": [
+     "Range: 0 to 120 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Overall Height",
+    "meta": [
+     "Range: 0 to 734 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Jacket Pressure",
+    "meta": [
+     "Range: 7 to 250 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Jacket Temperature",
+    "meta": [
+     "Range: 143 to 600 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   },
+   {
+    "name": "Cake Volume",
+    "meta": [
+     "Range: 0 to 353,150 ft3",
+     "Display: US"
+    ],
+    "units": [
+     "US - ft3",
+     "Metric - m3"
+    ]
+   },
+   {
+    "name": "Hydraulic Closure Pressure",
+    "meta": [
+     "Range: 100 to 12,000 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Plate Diameter or Width",
+    "meta": [
+     "Range: 7 to 60 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Plate Height",
+    "meta": [
+     "Range: 7 to 60 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Plate Thickness",
+    "meta": [
+     "Range: 0 to 4 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Vessel Liquid Capacity",
+    "meta": [
+     "Range: 16 to 5,900 gallons",
+     "Display: US"
+    ],
+    "units": [
+     "US - gallons",
+     "Metric - L"
+    ]
+   }
+  ]
+ },
+ "column": {
+  "checked": "2026-10-08",
+  "manufacturer": [
+   [
+    "Pfaudler",
+    18
+   ],
+   [
+    "Kuhni",
+    8
+   ],
+   [
+    "DeDietrich",
+    7
+   ],
+   [
+    "Sulzer",
+    6
+   ],
+   [
+    "Schott",
+    5
+   ],
+   [
+    "Gaston County",
+    4
+   ],
+   [
+    "Praj Industries",
+    4
+   ],
+   [
+    "QVF",
+    4
+   ],
+   [
+    "Estrella AG",
+    3
+   ],
+   [
+    "Julius Montz",
+    3
+   ],
+   [
+    "Carl Capito",
+    2
+   ],
+   [
+    "Dynamite Nobel",
+    2
+   ]
+  ],
+  "material": [
+   [
+    "Glasslined",
+    39
+   ],
+   [
+    "Stainless Steel 316",
+    27
+   ],
+   [
+    "Stainless Steel 304",
+    17
+   ],
+   [
+    "Stainless Steel Austenitic",
+    14
+   ],
+   [
+    "Hastelloy - C276",
+    6
+   ],
+   [
+    "Stainless Steel Other",
+    5
+   ],
+   [
+    "Carbon Steel",
+    4
+   ],
+   [
+    "Graphite",
+    4
+   ],
+   [
+    "Hastelloy - C22",
+    3
+   ],
+   [
+    "Stainless Steel 316L",
+    2
+   ],
+   [
+    "Stainless Steel 321",
+    2
+   ],
+   [
+    "Stainless Steel 304L",
+    1
+   ],
+   [
+    "Tantalum",
+    1
+   ],
+   [
+    "Zirconium",
+    1
+   ]
+  ],
+  "condition": [
+   [
+    "Used",
+    null
+   ],
+   [
+    "New",
+    null
+   ],
+   [
+    "Unused",
+    null
+   ],
+   [
+    "Re-glassed",
+    null
+   ],
+   [
+    "Good Used Glass",
+    null
+   ],
+   [
+    "Refurbished/Rebuilt",
+    null
+   ],
+   [
+    "Needs Reglass",
+    null
+   ],
+   [
+    "UNUSED-Reglassed",
+    null
+   ]
+  ],
+  "measures": [
+   {
+    "name": "Product Flow Rate",
+    "meta": [
+     "Range: 1 to 5,300 GPM",
+     "Display: US"
+    ],
+    "units": [
+     "US - GPM",
+     "Metric - m3/h"
+    ]
+   },
+   {
+    "name": "Diameter (1)",
+    "meta": [
+     "Range: 3 to 315 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Diameter (2)",
+    "meta": [
+     "Range: 6 to 508 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Length (overall)",
+    "meta": [
+     "Range: 4 to 21,900 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Pressure",
+    "meta": [
+     "Range: 1 to 300 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Temperature",
+    "meta": [
+     "Range: 113 to 650 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   }
+  ]
+ },
+ "tank": {
+  "checked": "2026-10-08",
+  "manufacturer": [
+   [
+    "Pfaudler",
+    154
+   ],
+   [
+    "DeDietrich",
+    94
+   ],
+   [
+    "Grundy (Teddington) Ltd.",
+    42
+   ],
+   [
+    "Sinclair Stainless Fabrications LTD.",
+    25
+   ],
+   [
+    "Cannon",
+    22
+   ],
+   [
+    "Isaac Webster and Sons Ltd",
+    21
+   ],
+   [
+    "Apache Stainless Equipment Corp.",
+    19
+   ],
+   [
+    "QVF",
+    19
+   ],
+   [
+    "Selip",
+    19
+   ],
+   [
+    "DeDietrich",
+    18
+   ],
+   [
+    "James Bendall & Sons Ltd",
+    18
+   ],
+   [
+    "Whiting Metals, Inc.",
+    14
+   ]
+  ],
+  "material": [
+   [
+    "Stainless Steel 304",
+    383
+   ],
+   [
+    "Glasslined",
+    361
+   ],
+   [
+    "Stainless Steel 316",
+    205
+   ],
+   [
+    "Stainless Steel 316L",
+    143
+   ],
+   [
+    "Stainless Steel Austenitic",
+    83
+   ],
+   [
+    "Carbon Steel",
+    51
+   ],
+   [
+    "Fiberglass",
+    48
+   ],
+   [
+    "Glass",
+    47
+   ],
+   [
+    "Stainless Steel 304L",
+    46
+   ],
+   [
+    "Stainless Steel Other",
+    30
+   ],
+   [
+    "Stainless Steel 321",
+    24
+   ],
+   [
+    "Stainless Steel 317",
+    16
+   ],
+   [
+    "Titanium",
+    12
+   ],
+   [
+    "Lined",
+    5
+   ]
+  ],
+  "condition": [
+   [
+    "Used",
+    null
+   ],
+   [
+    "New",
+    null
+   ],
+   [
+    "Unused",
+    null
+   ],
+   [
+    "Re-glassed",
+    null
+   ],
+   [
+    "Good Used Glass",
+    null
+   ],
+   [
+    "Refurbished/Rebuilt",
+    null
+   ],
+   [
+    "Needs Reglass",
+    null
+   ],
+   [
+    "UNUSED-Reglassed",
+    null
+   ]
+  ],
+  "measures": [
+   {
+    "name": "Capacity (Design)",
+    "meta": [
+     "Range: 1 to 149,250 gallons",
+     "Display: US"
+    ],
+    "units": [
+     "US - gallons",
+     "Metric - L"
+    ]
+   },
+   {
+    "name": "Diameter",
+    "meta": [
+     "Range: 0 to 237 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Straight-side Length",
+    "meta": [
+     "Range: 0 to 900 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Internal Pressure",
+    "meta": [
+     "Range: -15 to 2,600 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Internal Temperature",
+    "meta": [
+     "Range: -321 to 1,100 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   },
+   {
+    "name": "Jacket Pressure",
+    "meta": [
+     "Range: -15 to 349 psi",
+     "Display: US"
+    ],
+    "units": [
+     "US - psi",
+     "Metric - bar"
+    ]
+   },
+   {
+    "name": "Jacket Temperature",
+    "meta": [
+     "Range: -321 to 600 °F",
+     "Display: US"
+    ],
+    "units": [
+     "US - °F",
+     "Metric - °C"
+    ]
+   },
+   {
+    "name": "Bottom Outlet Diameter",
+    "meta": [
+     "Range: 0 to 32 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Cone Length",
+    "meta": [
+     "Range: 3 to 164 in",
+     "Display: US"
+    ],
+    "units": [
+     "US - in",
+     "Metric - mm"
+    ]
+   },
+   {
+    "name": "Jacket Heat Transfer Surface Area",
+    "meta": [
+     "Range: 3 to 199 ft²",
+     "Display: US"
+    ],
+    "units": [
+     "US - ft²",
+     "Metric - m²"
+    ]
+   },
+   {
+    "name": "Motor Power",
+    "meta": [
+     "Range: 0 to 148 HP",
+     "Display: US"
+    ],
+    "units": [
+     "US - HP",
+     "Metric - kW"
+    ]
+   }
+  ]
+ }
+}
