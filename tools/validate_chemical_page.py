@@ -42,7 +42,7 @@ check('Six plants and eight equipment cards',len([c for c in cards if c.get('dat
 for c in cards:
  a=c.xpath('.//a[contains(@aria-label,"View Specs")]')[0]
  check('Direct secure IMS specs link: '+c.get('id'),a.get('href').startswith('https://ims.internationalprocessplants.com/inventory/') and '/detail/' in a.get('href') and a.get('target')=='_blank' and 'noopener' in a.get('rel',''))
-check('Fourteen visible FAQ answers with matching schema',len(doc.xpath('//details'))==14 and len(schema['@graph'][-1]['mainEntity'])==14)
+check('Eighteen visible FAQ answers with matching schema',len(doc.xpath('//details'))==18 and len(schema['@graph'][-1]['mainEntity'])==18)
 for detail,q in zip(doc.xpath('//details'),schema['@graph'][-1]['mainEntity']):
  check('FAQ schema matches: '+q['name'],' '.join(detail.xpath('./p')[0].text_content().split())==' '.join(q['acceptedAnswer']['text'].split()))
 check('No em dashes or CMS author debris','—' not in visible and 'access@op.digital' not in raw and 'Latest Posts' not in raw)
@@ -59,9 +59,9 @@ check('Resources tabs are About Us, FAQs and Blog only',[' '.join(t.text_content
 for t in tabs:
  panel=doc.xpath(f'//*[@id="{t.get("aria-controls")}"]')
  check('Tab panel exists: '+t.get('aria-controls'),len(panel)==1 and panel[0].get('role')=='tabpanel' and panel[0].get('aria-labelledby')==t.get('id'))
-check('All FAQs sit in the FAQs tab panel',len(doc.xpath('//*[@id="faqs"]//details'))==14)
+check('All FAQs sit in the FAQs tab panel',len(doc.xpath('//*[@id="faqs"]//details'))==18)
 faq_q=[' '.join(s.text_content().split()) for s in doc.xpath('//*[@id="faqs"]//summary')]
-check('Nine buyer FAQs, then five seller FAQs',faq_q[8]=='Does IPP sell new chemical process equipment?' and faq_q[9]=='Does IPP buy shutdown chemical plants and surplus equipment?' and len(faq_q)==14)
+check('Nine buyer FAQs, then nine seller FAQs',faq_q[8]=='Does IPP sell new chemical process equipment?' and faq_q[9]=='Does IPP buy shutdown chemical plants and surplus equipment?' and len(faq_q)==18)
 check('Hero states both sides',any(p.text_content().startswith('Buying used chemical process plants') for p in doc.xpath('//section[@data-section="0"]//p')) and any(p.text_content().startswith('Selling shutdown chemical plants') for p in doc.xpath('//section[@data-section="0"]//p')))
 check('Hero stat strip carries four dated company figures',[' '.join(x.strip() for x in li.itertext() if x.strip()) for li in doc.xpath('//ul[@class="hero-stats"]/li')]==['15,000+ Pieces of inventory','20 Complete plant sites','15 Countries with offices','Since 1980 Supplying process equipment'])
 check('Seller path has four steps',doc.xpath('//div[contains(@class,"seller-tabs")]//div[contains(concat(" ",@class," ")," vtab-panel ")]/h3/text()')==['Send your asset information','IPP values the assets','Agree the sale structure','Decommissioning, dismantling and removal'])
@@ -71,7 +71,8 @@ def vtab_ok(c):
  return (any(x in opener for x in ('IPP','We ','Our ')) and c.xpath('./p[@class="vtab-lead"]') and c.xpath('./p[@class="vtab-lead"]')[0].text_content().endswith(':')
   and len(c.xpath('./ul[@class="vtab-items"]/li'))>=4 and c.xpath('./p[@class="vtab-close"]'))
 vpanels=doc.xpath('//div[contains(concat(" ",@class," ")," vtab-panel ")]')
-check('Why IPP and seller panels follow the reference section shape',len(vpanels)==9 and all(vtab_ok(c) for c in vpanels))
+check('Why IPP and seller panels follow the reference section shape',len(vpanels)==14 and all(vtab_ok(c) for c in vpanels))
+check('Why IPP gives sellers five advantages beside the buyers five',doc.xpath('//div[contains(@class,"sellside-tabs")]//div[contains(concat(" ",@class," ")," vtab-panel ")]/h3/text()')==['One buyer for the whole site','Capital from idle assets','Turnkey removal','Risk and liability transfer','Global buyer network'] and [' '.join(b.text_content().split()) for b in doc.xpath('//div[@class="side-tab-list"]/button')]==['For buyers','For sellers'])
 check('Each vertical tab list controls its panels',all([b.get('aria-controls') for b in l.xpath('./button')]==[p.get('id') for p in l.getparent().xpath('.//div[contains(concat(" ",@class," ")," vtab-panel ")]')] for l in doc.xpath('//div[@class="vtab-list"]')))
 check('Seller section follows the buying steps',[s.get('id') for s in doc.xpath('//section[@id="buying" or @id="sell"]')]==['buying','sell'])
 makers=doc.xpath('//ul[@class="maker-list"]/li/a')
@@ -80,8 +81,9 @@ check('Size ranges on the five types IMS publishes them for',sum(1 for c in doc.
 check('Closing CTA serves buyers and sellers',doc.xpath('//section[contains(@class,"closing-cta")]//h2/text()')==['Ready to buy or sell chemical plants and equipment?'] and all(doc.xpath(f'//section[contains(@class,"closing-cta")]//a[@href="{u}"]') for u in ['https://internationalprocessplants.com/contact/','https://internationalprocessplants.com/sell-plants/','https://internationalprocessplants.com/sell-equipment/','mailto:sales@internationalprocessplants.com','tel:+16095868004']))
 check('No phrasal take-on predicate','take on' not in visible.lower())
 intro=[' '.join(p.text_content().split()) for p in doc.xpath('//section[@data-section="2"]//p')]
-check('Company intro opens with what IPP sells, to whom',intro and intro[0].startswith('International Process Plants (IPP) sells used chemical process plants and equipment to chemical, petrochemical'))
-check('Company intro covers selling to IPP',any(x.startswith('IPP buys shutdown chemical plants') for x in intro) and doc.xpath('//section[@data-section="2"]//a[@href="https://internationalprocessplants.com/sell-plants/"]'))
+check('Company intro states both roles first',intro and intro[0].startswith('International Process Plants (IPP) buys and sells used chemical process plants and equipment.') and doc.xpath('//section[@data-section="2"]//h2/text()')==['Buy and sell used chemical plants and equipment with International Process Plants (IPP)'])
+check('Company intro gives buyers and sellers a paragraph and an action each',any(x.startswith('Plant owners sell shutdown chemical plants') for x in intro) and any(x.startswith('International Process Plants (IPP) is the world’s largest seller') for x in intro) and all(doc.xpath(f'//section[@data-section="2"]//a[@href="{u}"]') for u in ('https://internationalprocessplants.com/sell-plants/','https://internationalprocessplants.com/contact/','tel:+16095868004')))
+check('Hero offers a buy action and a sell action',doc.xpath('//section[@data-section="0"]//div[@class="button-row"]/a/@href')==['#inventory','#sell'])
 intro_photo=ROOT/'assets/chemical/intro/reactor-removal.webp'
 check('Company intro photo fills the heading column, under 200 KB',doc.xpath('//section[@data-section="2"]//figure[@class="intro-photo"]/img[@src="/assets/chemical/intro/reactor-removal.webp"]') and intro_photo.is_file() and intro_photo.stat().st_size<200000)
 panels=doc.xpath('//div[contains(concat(" ",@class," ")," type-panel ")]')

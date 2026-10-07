@@ -316,6 +316,38 @@
         },
         {
           "@type": "Question",
+          "name": "Which companies sell chemical plants to IPP?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fortune 100 and Fortune 500 companies typically represent 95% of the sellers IPP works with, according to IPP. IPP occasionally buys assets from smaller manufacturers in distressed situations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does IPP buy equipment as-is, where-is?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. IPP buys used, surplus and idled equipment as-is, where-is, as a principal buyer rather than a broker. Our team arranges inspection, dismantling, packaging, freight and export."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can IPP market a plant instead of buying it outright?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. IPP proposes either an outright purchase or a marketing arrangement that offers the assets to its global buyer network. IPP markets BASF’s ammonia, methanol and melamine plants at Ludwigshafen under such an agreement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does IPP handle decommissioning and dismantling?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our team decommissions and dismantles the plant, then packs, ships and exports the equipment. IPP holds ISN RAVS Plus verification for plant decommissioning work."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "What happens to a chemical plant site after a sale?",
           "acceptedAnswer": {
             "@type": "Answer",

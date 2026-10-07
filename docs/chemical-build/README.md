@@ -4,6 +4,15 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision 7, October 8, 2026: buy and sell value balanced across the page
+
+- **Company intro** heading now names both roles ("Buy and sell used chemical plants and equipment with International Process Plants (IPP)"). Paragraph 1 states both roles, paragraph 2 serves buyers (92 words), paragraph 3 serves sellers (84 words), and paragraph 4 gives each side an action plus the phone line.
+- **Hero** adds a second button, "Sell your plant or equipment", beside "Browse inventory".
+- **Why IPP** gains "For buyers" and "For sellers" tabs. The five buyer panels are unchanged; five seller panels cover one buyer for the whole site, capital from idle assets, turnkey removal, risk and liability transfer, and the global buyer network.
+- **FAQs** add four seller questions (who sells to IPP, as-is where-is purchases, marketing arrangements, decommissioning and dismantling), for nine buyer and nine seller FAQs.
+- Seller claims are sourced to IPP’s sell-equipment, sell-plants, sell-to-ipp, FAQ and decommissioning pages and recorded in content/job.json. Validator 130; IPP page checker 0 issues; section checks leave the two accepted exceptions.
+- Remaining imbalance outside the copy: the Blog tab lists five buyer guides and one seller article, taken from the Related-articles sheet.
+
 ## Revision 6, October 8, 2026: Why IPP, seller steps and makers in the reference format
 
 - **Why IPP** keeps its opener and five benefit labels, now as vertical tabs with one panel each: a two-sentence opener, a lead-in, descriptive items and a closing paragraph (91 to 117 words per panel). The GPS and UGE note stays below.

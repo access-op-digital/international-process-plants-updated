@@ -142,7 +142,7 @@
       "pass": true
     },
     {
-      "check": "Fourteen visible FAQ answers with matching schema",
+      "check": "Eighteen visible FAQ answers with matching schema",
       "pass": true
     },
     {
@@ -198,6 +198,22 @@
       "pass": true
     },
     {
+      "check": "FAQ schema matches: Which companies sell chemical plants to IPP?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: Does IPP buy equipment as-is, where-is?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: Can IPP market a plant instead of buying it outright?",
+      "pass": true
+    },
+    {
+      "check": "FAQ schema matches: Does IPP handle decommissioning and dismantling?",
+      "pass": true
+    },
+    {
       "check": "FAQ schema matches: What happens to a chemical plant site after a sale?",
       "pass": true
     },
@@ -227,6 +243,10 @@
     },
     {
       "check": "Anchor exists #inventory",
+      "pass": true
+    },
+    {
+      "check": "Anchor exists #sell",
       "pass": true
     },
     {
@@ -382,7 +402,7 @@
       "pass": true
     },
     {
-      "check": "Nine buyer FAQs, then five seller FAQs",
+      "check": "Nine buyer FAQs, then nine seller FAQs",
       "pass": true
     },
     {
@@ -403,6 +423,10 @@
     },
     {
       "check": "Why IPP and seller panels follow the reference section shape",
+      "pass": true
+    },
+    {
+      "check": "Why IPP gives sellers five advantages beside the buyers five",
       "pass": true
     },
     {
@@ -430,11 +454,15 @@
       "pass": true
     },
     {
-      "check": "Company intro opens with what IPP sells, to whom",
+      "check": "Company intro states both roles first",
       "pass": true
     },
     {
-      "check": "Company intro covers selling to IPP",
+      "check": "Company intro gives buyers and sellers a paragraph and an action each",
+      "pass": true
+    },
+    {
+      "check": "Hero offers a buy action and a sell action",
       "pass": true
     },
     {
@@ -494,7 +522,7 @@
       "pass": true
     }
   ],
-  "passed": 123,
+  "passed": 130,
   "photograph_total_bytes": 237748,
   "max_photograph_bytes": 36056
 }

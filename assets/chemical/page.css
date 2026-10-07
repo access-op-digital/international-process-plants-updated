@@ -150,3 +150,15 @@
 @media(max-width:860px){.vtabs.is-tabbed{grid-template-columns:1fr;gap:22px}.vtab-list{flex-direction:row;overflow-x:auto;gap:8px;padding-bottom:6px;scrollbar-width:thin}.vtab-list [role=tab]{flex:0 0 auto;white-space:nowrap;padding:12px 16px;font-size:14px}}
 @media(max-width:560px){.vtab-panel h3{font-size:22px}.vtab-panel p,.vtab-items{font-size:15px}}
 .industries-section .industry-close{margin-top:22px}
+/* Why IPP: For buyers / For sellers tabs above the vertical advantage tabs */
+.side-tab-list{display:flex;gap:12px;margin:4px 0 26px}
+.side-tab-list[hidden],.side-panel[hidden]{display:none!important}
+.side-tab-list [role=tab]{border:0;border-radius:8px;padding:12px 28px;background:#eef1f4;color:#4b5a63;font:600 15px var(--button);cursor:pointer}
+.side-tab-list [role=tab]:hover{background:#e2e9ee}
+.side-tab-list [role=tab][aria-selected=true]{background:#183947;color:#fff}
+.side-tab-list [role=tab]:focus-visible{outline:3px solid #9fd3ea;outline-offset:2px}
+.side-tabs:not(.is-tabbed) .side-panel+.side-panel{margin-top:34px}
+.side-panel .why-tabs,.side-panel .sellside-tabs{margin-top:0}
+.sellside-tabs{margin-bottom:34px}
+@media(max-width:560px){.side-tab-list [role=tab]{flex:1 1 0;padding:12px 10px}}
+@media(max-width:560px){.hero .button-row .button{flex:1 1 100%}}

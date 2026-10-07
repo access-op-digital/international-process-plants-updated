@@ -11,9 +11,11 @@
   {
     "file": "H002",
     "index": 2,
-    "heading": "Buy used chemical plants and equipment from International Process Plants (IPP)",
+    "heading": "Buy and sell used chemical plants and equipment with International Process Plants (IPP)",
     "blocking": [],
-    "advisory": []
+    "advisory": [
+      "Section makes a specific numeric claim but no supplied evidence backs it \u2014 review for accuracy."
+    ]
   },
   {
     "file": "H003",
@@ -383,6 +385,69 @@
     "file": "H072",
     "index": 72,
     "heading": "Ready to buy or sell chemical plants and equipment?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H073",
+    "index": 73,
+    "heading": "One buyer for the whole site",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H074",
+    "index": 74,
+    "heading": "Capital from idle assets",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H075",
+    "index": 75,
+    "heading": "Turnkey removal",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H076",
+    "index": 76,
+    "heading": "Risk and liability transfer",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H077",
+    "index": 77,
+    "heading": "Global buyer network",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H078",
+    "index": 78,
+    "heading": "Which companies sell chemical plants to IPP?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H079",
+    "index": 79,
+    "heading": "Does IPP buy equipment as-is, where-is?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H080",
+    "index": 80,
+    "heading": "Can IPP market a plant instead of buying it outright?",
+    "blocking": [],
+    "advisory": []
+  },
+  {
+    "file": "H081",
+    "index": 81,
+    "heading": "Does IPP handle decommissioning and dismantling?",
     "blocking": [],
     "advisory": []
   }

@@ -294,7 +294,8 @@
     },
     "Seller: who sells to IPP": {
       "values": [
-        "Typically 95% of the companies that sell to IPP are Fortune 100 and Fortune 500 companies (IPP FAQ)"
+        "Typically 95% of the companies that sell to IPP are Fortune 100 and Fortune 500 companies (IPP FAQ)",
+        "IPP occasionally purchases assets in distressed situations from smaller manufacturers (IPP FAQ, Who sells to you?)"
       ],
       "source": "https://internationalprocessplants.com/sell-to-ipp/"
     },
@@ -303,9 +304,14 @@
         "Recover capital from unused or surplus assets",
         "Remove long-term storage and maintenance costs",
         "Replace piecemeal selling with one buyer",
-        "Transfer site risk and liability"
+        "Transfer site risk and liability",
+        "IPP purchases used and surplus equipment that may be too large, too specialized or too site-bound for traditional resellers or auctioneers (sell-equipment)",
+        "Companies often turn cash reserves set aside for decommissioning into positive financial events (5 reasons IPP is your best choice for plant decommissioning)",
+        "IPP resells or redeploys idle assets; unlike consultants or scrap companies, IPP often buys the entire facility (5 reasons article)",
+        "IPP acquires sites with soil and groundwater contamination and handles environmental closure, regulatory permitting, remediation planning and cleanup (sell-plants)",
+        "IPP brings in customers to make different products at a purchased plant or redevelop the site, and sells complete plants for relocation (sell-to-ipp FAQ)"
       ],
-      "source": "https://internationalprocessplants.com/sell-equipment/ ; https://internationalprocessplants.com/sell-plants/"
+      "source": "https://internationalprocessplants.com/sell-equipment/ ; https://internationalprocessplants.com/sell-plants/ ; https://internationalprocessplants.com/sell-to-ipp/ ; https://internationalprocessplants.com/5-reasons-ipp-is-your-best-choice-for-plant-decommissioning/"
     },
     "Decommissioning credentials": {
       "values": [
