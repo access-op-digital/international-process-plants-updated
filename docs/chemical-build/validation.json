@@ -510,7 +510,7 @@
       "pass": true
     },
     {
-      "check": "Company intro gives buyers and sellers a paragraph and an action each",
+      "check": "Company intro gives buyers and sellers a paragraph and an action each, with no links (intro rule)",
       "pass": true
     },
     {

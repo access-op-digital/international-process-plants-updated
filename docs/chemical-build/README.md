@@ -4,6 +4,10 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision 10, October 8, 2026: no links in the company intro
+
+- The company intro’s closing paragraph keeps both actions and the phone number as plain text (IPP’s team, the Sell Plants or Sell Equipment form, +1 609-586-8004). Intro content carries no links, per the user’s rule; the hero buttons, seller section and closing call to action carry the links. The validator now fails on any link in the company intro.
+
 ## Revision 9, October 8, 2026: hero in two paragraphs with the top proof points
 
 - **Buyer paragraph:** the IPP-form opener now names IPP as the world’s largest seller of used process plants and equipment, then the approved savings line word for word (up to 50% of capital and 90% of lead time versus buying new).
