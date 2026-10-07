@@ -140,3 +140,13 @@ Each equipment type, the manufacturers section, the industries section and the a
 | Commercial · buyer | IPP arranges international shipping, or buyers arrange their own. | Arranging (arranges) | Agent: IPP or buyers · Theme: international shipping |
 | Commercial · buyer | Buyers review photographs, drawings and inspection records before purchase. | Scrutiny (review) | Cognizer: buyers · Ground: photographs, drawings, inspection records · Time: before purchase |
 | Transactional · buyer | IPP provides a detailed quote for each stock number on request. | Supply (provides) | Supplier: IPP · Theme: a detailed quote · Recipient: buyer of each stock number · Condition: on request |
+
+## Revision 5: seller steps and listings intro
+
+| Intent | Sentence | Frame (predicate) | Roles |
+|---|---|---|---|
+| Transactional · buyer | IPP features six used chemical plants and eight units of process equipment from its inventory for sale. | Commerce_sell, offering (features) | Seller: IPP · Goods: six used chemical plants, eight equipment units · Source: IPP inventory |
+| Transactional · seller | Plant owners, asset managers and corporate teams use the same forms for a complete site or a single surplus unit. | Using (use) | Agent / Seller: plant owners, asset managers, corporate teams · Instrument: seller forms · Purpose: complete site or single unit |
+| Commercial · seller | IPP evaluates equipment too large, too specialized or too site-bound for traditional resellers, such as specialty alloy reactors and custom drying and distillation systems. | Assessing (evaluates) | Assessor: IPP · Phenomenon: large, specialized, site-bound equipment · Example: specialty alloy reactors, custom drying and distillation systems |
+| Transactional · seller | IPP offers flexible purchase structures for a warehouse clearance, a plant closure or a portfolio sale. | Offering (offers) | Offerer: IPP · Theme: flexible purchase structures · Purpose: warehouse clearance, plant closure, portfolio sale |
+| Commercial · seller | IPP prepares the plant site for its next use, either returning it to the owner or transferring it to a new operator. | Preparing (prepares); Transfer | Agent: IPP · Theme: the plant site · Purpose: next use · Recipient: owner or new operator |

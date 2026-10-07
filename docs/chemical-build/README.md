@@ -7,6 +7,7 @@ This is a complete **optimization draft for the existing URL**. It is not a publ
 ## Revision 4, October 8, 2026: section shape, badges, layout
 
 - **Section shape.** Thin H2 and H3 sections now follow one shape: an opener bound to the page context (what IPP supplies, from which makers, to whom, for what process role), a lead-in and a list, then the values and the fields each listing states. Applied to the seven equipment types (subtypes from IPP's category hubs and the IMS subtype filters), the manufacturers section, the industries section and the five advantage cards. Prices stay out: IPP publishes none.
+- **Seller steps and listings intro.** Each seller step now carries three sentences in the seller's context (who uses the forms; the equipment IPP evaluates; flexible purchase structures; site preparation for its next use), and the listings intro opens with what IPP features from its inventory. Facts from IPP's Sell equipment page and decommissioning article.
 - **Recognition badges.** The SOCMA, ISN RAVS Plus, Chemical Processing and Chemical Engineering links show as badges under the project cards, and the projects section opens with a two-sentence framing line.
 - **Removed.** The "Global inventory. Local support." section (its warehouse fact now sits in the Immediate availability card) and the "... guide" links on the type cards.
 - **Headings.** Section headings sit at the top with the supporting line directly under them.
