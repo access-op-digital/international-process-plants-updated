@@ -34,30 +34,44 @@ facts = {
  '603016': [('Capacity','15,000 metric tonnes/year'),('Feedstocks','Sulfur, soda ash')],
  '242492': [('Capacity','12,300 L (3,250 US gal)'),('Material','Stainless steel 316L'),('Pressure','6 bar (87 psi)'),('Temperature','185 °C (365 °F)')],
  '232498': [('Capacity','15,150 L (4,000 US gal)'),('Material','Stainless steel 316L'),('Pressure','10 bar (145 psi)'),('Temperature','150 °C (302 °F)')],
+ '76524': [('Drive power', '11.6 kW (15.5 hp)'), ('Drive speed', '175 rpm'), ('Ratio', '10:1'), ('Transmission', 'Belt')],
+ '705876': [('Capacity', '12,500 L (3,300 US gal)'), ('Material', 'Stainless steel 316'), ('Pressure', '4 bar (58 psi)'), ('Temperature', '160 °C (320 °F)')],
  '242533': [('Surface area','14.6 m² (approx. 157 ft²)'),('Material','Stainless steel 316L'),('Shell pressure','10 bar (145 psi)'),('Shell temp.','185 °C (365 °F)')],
- '235730': [('Basket diameter','630 mm (24.8 in)'),('Material','Hastelloy C22'),('Filtration area','0.6 m² (6.5 ft²)'),('Motor power','18 kW (24.1 hp)')],
- '238212': [('Diameter','1,250 mm (49 in)'),('Material','Stainless steel 316'),('Evaporation','31.8 kg/h (70 lb/h)'),('Inlet temp.','354.4 °C (670 °F)')],
- '225365': [('Filtration area','37 m² (398.3 ft²)'),('Material','Polypropylene'),('Pressure','6.9 bar (100 psi)'),('Temperature','21.1 °C (70 °F)')],
+ '220954': [('Evaporation', '340.2 kg/h (750 lb/h)'), ('Material', 'Hastelloy C22 clad'), ('Surface area', '14 m² (150.7 ft²)'), ('Temperature', '250 °C (482 °F)')],
  '211545': [('Diameter','800 mm (31.5 in)'),('Material','Glass-lined'),('Pressure','2 bar (29 psi)'),('Temperature','200 °C (392 °F)')],
+ '236163': [('Diameter', '2,200 mm (86.6 in)'), ('Material', 'Stainless steel 321'), ('Pressure', '15 bar (217.6 psi)'), ('Temperature', '300 °C (572 °F)')],
+ '235730': [('Basket diameter','630 mm (24.8 in)'),('Material','Hastelloy C22'),('Filtration area','0.6 m² (6.5 ft²)'),('Motor power','18 kW (24.1 hp)')],
+ '225365': [('Filtration area','37 m² (398.3 ft²)'),('Material','Polypropylene'),('Pressure','6.9 bar (100 psi)'),('Temperature','21.1 °C (70 °F)')],
+ '238212': [('Diameter','1,250 mm (49 in)'),('Material','Stainless steel 316'),('Evaporation','31.8 kg/h (70 lb/h)'),('Inlet temp.','354.4 °C (670 °F)')],
  '242886': [('Capacity','34,000 L (9,000 US gal)'),('Material','Stainless steel 316L'),('Pressure','3.5 bar (50.8 psi)'),('Temperature','100 °C (212 °F)')],
+ '239007': [('Vessel size', '1,150 L (300 US gal)'), ('Material', 'Glass-lined, re-glassed'), ('Agitator type', '3-blade retreat curve'), ('Span', '914 mm (36 in)')],
+ '249252': [('Part', 'Seal and seal plan'), ('Material', 'Hastelloy C22'), ('Service', 'Exotic alloy reactors')],
 }
 makers = {
  '242492':('Sinclair Stainless Fabrications LTD.','Used','Stainless steel 316L'),
  '232498':('Gale Process Solutions','New','Stainless steel 316L'),
+ '76524':('Pfaudler', 'Used', ''),
+ '705876':('Tankki OY', 'Used', 'Stainless steel 316'),
  '242533':('Graham Hart Ltd','Used','Stainless steel 316L'),
- '235730':('Krauss Maffei','Used','Hastelloy C22'),
- '238212':('APV Anhydro','Used','Stainless steel 316'),
- '225365':('Perrin','Used','Polypropylene'),
+ '220954':('SMS Buss', 'Used', 'Hastelloy C22'),
  '211545':('Estrella','Re-glassed','Glass-lined'),
+ '236163':('Doring & Baumer', 'Used', 'Stainless steel 321'),
+ '235730':('Krauss Maffei','Used','Hastelloy C22'),
+ '225365':('Perrin','Used','Polypropylene'),
+ '238212':('APV Anhydro','Used','Stainless steel 316'),
  '242886':('Cookson & Zinn Ltd','Used','Stainless steel 316L'),
+ '239007':('Pfaudler', 'Re-glassed', 'Glass-lined'),
+ '249252':('', 'New', 'Hastelloy C22'),
 }
+# IMS search path per equipment category; drives the type link under the listing grid.
+ims_type = {'Reactors':'reactor','Agitators':'agitator','Fermenters':'fermenter','Heat exchangers':'heat-exchanger','Evaporators':'evaporator','Distillation columns':'column','Stills':'still','Centrifuges':'centrifuge','Filters':'filter','Dryers':'dryer','Tanks':'tank','Glass-lined parts':'glass-lined-parts','Reactor parts':'reactor-parts'}
 cards=[]
 for key in facts:
  r=records[key]; maker,condition,material=makers.get(key,('','',''))
  r.update({'manufacturer':maker,'condition':condition,'material':material,'display_specs':dict(facts[key])})
  image = f'<img src="{r["local_image"]}" alt="{E(r["display_title"])}; IPP stock {key}" width="{r["image_width"]}" height="{r["image_height"]}" loading="lazy" decoding="async">' if r.get('local_image') else '<span class="no-photo"><span class="line-icon">'+icons['PLANT']+'</span>Request plant photographs</span>'
  tag = condition if r['group']=='equipment' else r['category']
- attrs = ' '.join(f'data-{k}="{E(v)}"' for k,v in {'group':r['group'],'category':r['category'],'manufacturer':maker,'condition':condition,'material':material}.items())
+ attrs = ' '.join(f'data-{k}="{E(v)}"' for k,v in {'group':r['group'],'category':r['category'],'manufacturer':maker,'condition':condition,'material':material,'ims':ims_type.get(r['category'],'') if r['group']=='equipment' else ''}.items())
  specs=''.join(f'<div><dt>{E(k)}</dt><dd>{E(v)}</dd></div>' for k,v in facts[key])
  stock=('P' if r['group']=='plants' else '#')+key
  cards.append(f'''<article class="stock-card" {attrs} id="stock-{key}"><div class="stock-image">{image}<span class="stock-tag">{E(tag)}</span></div><div class="stock-content"><p class="stock-number">IPP STOCK {stock}</p><h3>{E(r['display_title'])}</h3><dl>{specs}</dl><div class="card-actions"><a class="button button-dark" href="{r['url']}" target="_blank" rel="noopener noreferrer" aria-label="View Specs for {E(r['display_title'])}, stock {stock}, opens in a new tab">View Specs <span aria-hidden="true">↗</span></a><a href="{SITE}/contact/" aria-label="Enquire about stock {stock}">Enquire ↗</a></div></div></article>''')
@@ -73,75 +87,203 @@ for key in facts:
 # quote and inspection offer. IPP publishes no prices, so the reference page's price ranges become
 # the factors each quote depends on.
 type_panels = [
- ('Reactors','reactor',
+ ('Reactors',
+  'reactor',
   'Precision-controlled systems for chemical synthesis, available in glass-lined, stainless and specialty alloys.',
-  'We supply used reactors to chemical plants that need batch or continuous synthesis capacity for reaction, mixing and heat transfer under controlled pressure and temperature. As a supplier chemical producers trust worldwide, IPP sources reactors from Pfaudler, De Dietrich, UGE and Gale Process Solutions, documents each stock number and coordinates removal, shipping and start-up support through one team.',
+  'We supply used reactors to chemical plants that need batch or continuous synthesis capacity for reaction, mixing and heat transfer under controlled pressure '
+  'and temperature. As a supplier chemical producers trust worldwide, IPP sources reactors from Pfaudler, De Dietrich, UGE and Gale Process Solutions, '
+  'documents each stock number and coordinates removal, shipping and start-up support through one team.',
   'Our used reactor inventory covers:',
-  ['Batch-type agitated reactors with complete agitation systems','Batch type body only reactor shells for buyers with existing drives','Hydrogenation reactors for high-pressure hydrogen service','Fixed bed catalytic and tubular continuous-flow reactors','Glass-lined reactors re-glassed through Universal Glasteel Equipment'],
-  ['Each reactor listing states capacity, internal pressure, temperature, material and condition, so process engineers can match a unit to the reaction before an inspection.',
-   'Glass-lined units lead our reactor inventory, alongside stainless steel 316, 316L and 304, Hastelloy C-276 and C-22 and titanium, with capacities from 2 L to 80,000 L (0.5 to 21,134 gal).',
-   'Pricing depends on manufacturer, capacity, material of construction and condition, and IPP quotes each stock number individually with a video or on-site inspection on request.'],
+  ['Batch-type agitated reactors with complete agitation systems',
+   'Batch type body only reactor shells for buyers with existing drives',
+   'Hydrogenation reactors for high-pressure hydrogen service',
+   'Fixed bed catalytic and tubular continuous-flow reactors',
+   'Glass-lined reactors re-glassed through Universal Glasteel Equipment'],
+  ['Each reactor listing states capacity, internal pressure, temperature, material and condition, so process engineers can match a unit to the reaction before '
+   'an inspection.',
+   'Glass-lined units lead our reactor inventory, alongside stainless steel 316, 316L and 304, Hastelloy C-276 and C-22 and titanium, with capacities from 2 L '
+   'to 80,000 L (0.5 to 21,134 gal).',
+   'Pricing depends on manufacturer, capacity, material of construction and condition, and IPP quotes each stock number individually with a video or on-site '
+   'inspection on request.'],
   'Featured listing: stainless steel 316L batch-type agitated reactor.'),
- ('Heat exchangers','heat-exchanger',
+ ('Agitators',
+  'agitator',
+  'Glass drives, drive units and shaft mixers for reactors, tanks and blending vessels.',
+  'IPP supplies used agitators to chemical plants that mix, suspend and disperse materials in reactors, tanks and blending vessels. With agitators from '
+  'Pfaudler, Lightnin, De Dietrich, Philadelphia and Chemineer in stock, our team matches the drive power, shaft length and impeller to the vessel each buyer '
+  'runs.',
+  'Agitator types in our inventory cover:',
+  ['Glass drives for glass-lined reactors',
+   'Motor and gear drive units for vertical mounting',
+   'Shaft and mixer assemblies with pitch-blade impellers',
+   'Hastelloy C-276 shafts for corrosive service',
+   'Pfaudler DTW and De Dietrich DIN drive models'],
+  ['Each agitator listing states drive power, speed, shaft length and impeller type.',
+   'Glass-lined and carbon steel units lead our agitator inventory, alongside Hastelloy C-276 and stainless steel 316, for vessels from 76 L to 10,031 L (20 to '
+   '2,650 gal) and drives up to 101 kW (135 hp).',
+   'Pricing depends on manufacturer, drive power, material of construction and condition, and our team quotes each stock number individually.'],
+  'Featured listing: Pfaudler 4DTW glass drive with 11.6 kW (15.5 hp) drive power.'),
+ ('Fermenters',
+  'fermenter',
+  'Stainless steel fermenters for biochemical, pharmaceutical and fermentation-based chemical production.',
+  'We supply used fermenters to chemical, pharmaceutical and biotech plants that grow cultures and make fermentation-based products under controlled '
+  'temperature and pressure. As a source process engineers trust for fermentation capacity, IPP stocks units from ThermoFisher, B. Braun Diessel Biotech, '
+  'Bujalski, Biolafitte, Chemap and Sartorius.',
+  'Our used fermenter inventory covers:',
+  ['Agitated stainless steel fermenters',
+   'Fermenters with standard and dimple jackets',
+   'Single-use fermenters from ThermoFisher',
+   'Laboratory and pilot fermenters',
+   'Unused production-scale fermenters'],
+  ['Each fermenter listing states capacity, pressure, temperature, jacket and agitation details.',
+   'Stainless steel 316 and 304 lead our fermenter inventory, alongside stainless steel 316L, with capacities from 19 L to 65,300 L (5 to 17,250 gal).',
+   'Pricing depends on manufacturer, capacity, material of construction and condition, and IPP quotes each stock number individually with a video or on-site '
+   'inspection on request.'],
+  'Featured listing: stainless steel 316 fermenter with 12,500 L (3,300 gal) capacity.'),
+ ('Heat exchangers',
+  'heat-exchanger',
   'Shell-and-tube and plate exchangers for thermal control and energy recovery.',
-  'IPP supplies used heat exchangers to chemical plants for heating, cooling, condensing and heat recovery across process streams. With exchangers from Alfa Laval, Vicarb, Ralph Coidan and Graham in stock, our team matches shell, tube and plate configurations to the thermal duty each buyer specifies.',
+  'IPP supplies used heat exchangers to chemical plants for heating, cooling, condensing and heat recovery across process streams. With exchangers from Alfa '
+  'Laval, Vicarb, Ralph Coidan and Graham in stock, our team matches shell, tube and plate configurations to the thermal duty each buyer specifies.',
   'Our used heat exchanger inventory covers:',
-  ['Shell-and-tube heat exchangers for process heating and cooling','Plate-and-frame heat exchangers for compact thermal duty','Graphite block heat exchangers for corrosive process streams','Spiral and welded plate heat exchangers','Air fin coolers for process stream cooling'],
+  ['Shell-and-tube heat exchangers for process heating and cooling',
+   'Plate-and-frame heat exchangers for compact thermal duty',
+   'Graphite block heat exchangers for corrosive process streams',
+   'Spiral and welded plate heat exchangers',
+   'Air fin coolers for process stream cooling'],
   ['Each heat exchanger listing states heat transfer area, shell and tube pressure, temperature and material.',
-   'Stainless steel 316 and graphite lead our heat exchanger inventory, alongside stainless steel 304 and 316L, carbon steel, titanium and Hastelloy C-276, with heat transfer areas up to 2,124 m² (22,863 ft²).',
+   'Stainless steel 316 and graphite lead our heat exchanger inventory, alongside stainless steel 304 and 316L, carbon steel, titanium and Hastelloy C-276, '
+   'with heat transfer areas up to 2,124 m² (22,863 ft²).',
    'Pricing depends on manufacturer, heat transfer area, material of construction and condition, and our team quotes each stock number individually.'],
   'Featured listing: shell, tubes and tubesheet in stainless steel 316L.'),
- ('Centrifuges','centrifuge',
+ ('Evaporators',
+  'evaporator',
+  'Film, flash and crystallizer evaporators for concentration and solvent removal.',
+  'We supply used evaporators to chemical plants that concentrate solutions, recover solvents and crystallize products. As a supplier chemical producers trust '
+  'for evaporation duty, IPP sources units from Luwa SMS, Buss-SMS-Canzler, Buflovak/Blaw Knox and Pfaudler and records evaporation rate and heat transfer area '
+  'for each stock number.',
+  'Evaporator types in our inventory cover:',
+  ['Rising and falling film evaporators, including multiple-effect systems',
+   'Wiped and thin film evaporators',
+   'Flash evaporators',
+   'Crystallizer evaporators from zero liquid discharge systems',
+   'Hastelloy C-22 clad and titanium units for corrosive service'],
+  ['Each evaporator listing states evaporation rate, heat transfer area, pressure and temperature.',
+   'Stainless steel 316 leads our evaporator inventory, alongside stainless steel 304 and 316L, fiberglass, glass-lined steel and titanium, with evaporation '
+   'rates from 4.5 kg/h to 36,300 kg/h (10 to 80,000 lb/h) and heat transfer areas up to 1,473 m² (15,850 ft²).',
+   'Pricing depends on manufacturer, evaporation rate, material of construction and condition, and our team quotes each stock number individually.'],
+  'Featured listing: Hastelloy C-22 clad wiped film evaporator with 340 kg/h (750 lb/h) evaporation.'),
+ ('Distillation columns and stills',
+  'column',
+  'For purification, solvent recovery and fractional separation.',
+  'IPP supplies used distillation columns and stills to chemical and pharmaceutical plants for solvent recovery, product purification and fractional '
+  'separation. With Pfaudler, De Dietrich, Kühni and Schott columns and Santasalo-Sohlberg, Finn-Aqua and Paul Mueller stills in stock, we supply packed, tray '
+  'and column still designs in glass-lined steel, stainless steel and specialty alloys.',
+  'Column and still types in our inventory cover:',
+  ['Packed columns, including ceramic-packed glass-lined units',
+   'Tray and combination packed and tray columns',
+   'Contactor columns for liquid-liquid extraction',
+   'Column stills and pot stills',
+   'Multiple-effect stills with skid-mounted controls'],
+  ['Each column and still listing states diameter, length, pressure and temperature.',
+   'Glass-lined and stainless steel 316 columns lead our column inventory, alongside stainless steel 304, Hastelloy C-276 and graphite, with diameters from 76 '
+   'mm (3 in) to 8,000 mm (315 in).',
+   'Stainless steel 316, 316L and 321 lead our still inventory, with diameters from 229 mm (9 in) to 2,210 mm (87 in).',
+   'Pricing depends on manufacturer, diameter, material of construction and condition, and our team quotes each stock number individually.'],
+  'Featured listings: glass-lined packed column with ceramic packing and a stainless steel 321 column still.',
+  [('Browse used distillation columns', 'column'), ('Browse used stills', 'still')]),
+ ('Centrifuges',
+  'centrifuge',
   'Used for purification, separation and crystallization. Basket, inverting and peeler models available.',
-  'We supply used centrifuges to chemical and pharmaceutical plants for solid-liquid separation, crystal recovery and product purification. As a source process engineers trust for separation equipment, IPP stocks Krauss Maffei, Alfa Laval, Westfalia and Sharples machines and records the basket or bowl size, material and motor power for each stock number.',
+  'We supply used centrifuges to chemical and pharmaceutical plants for solid-liquid separation, crystal recovery and product purification. As a source process '
+  'engineers trust for separation equipment, IPP stocks Krauss Maffei, Alfa Laval, Westfalia and Sharples machines and records the basket or bowl size, '
+  'material and motor power for each stock number.',
   'Centrifuge types in our inventory cover:',
-  ['Bottom-discharge and top-discharge basket centrifuges','Peeler centrifuges, including Hastelloy units','Inverting filter centrifuges','Disc bowl centrifuges for liquid clarification','Solid bowl decanter centrifuges for continuous separation'],
+  ['Bottom-discharge and top-discharge basket centrifuges',
+   'Peeler centrifuges, including Hastelloy units',
+   'Inverting filter centrifuges',
+   'Disc bowl centrifuges for liquid clarification',
+   'Solid bowl decanter centrifuges for continuous separation'],
   ['Each centrifuge listing states basket or bowl size, material, filtration area and motor power.',
    'Our featured Krauss Maffei peeler centrifuge carries 0.6 m² (6.5 ft²) of filtration area and an 18 kW (24.1 hp) motor.',
-   'Pricing depends on manufacturer, model, material of construction and condition, and IPP quotes each stock number individually with a video or on-site inspection on request.'],
+   'Pricing depends on manufacturer, model, material of construction and condition, and IPP quotes each stock number individually with a video or on-site '
+   'inspection on request.'],
   'Featured listing: Hastelloy C22 peeler centrifuge with a 630 mm (24.8 in) basket.'),
- ('Dryers','dryer',
+ ('Filters',
+  'filter',
+  'Pressure and vacuum systems to remove particulates or recover solids.',
+  'We supply used filters to chemical plants that clarify process liquids, recover solids and wash and dry filter cake. As a supplier chemical producers trust '
+  'for solid-liquid separation, IPP sources filters from Schenk, Cogeim, Chemap and Rosenmund and lists filtration area, pressure and material for each stock '
+  'number.',
+  'Our used filter inventory covers:',
+  ['Filter presses for high-volume solids recovery',
+   'Rosenmund and Cogeim filter dryers',
+   'Nutsche filters for batch filtration',
+   'Pressure leaf filters for liquid clarification'],
+  ['Each filter listing states filtration area, pressure, temperature and material.',
+   'Stainless steel 316 and polypropylene lead our filter inventory, alongside stainless steel 304, Hastelloy C-22 and C-276 and carbon steel, with filtration '
+   'areas up to 330 m² (3,557 ft²).',
+   'Pricing depends on manufacturer, filtration area, material of construction and condition, and IPP quotes each stock number individually with a video or '
+   'on-site inspection on request.'],
+  'Featured listing: polypropylene plate-and-frame filter press.'),
+ ('Dryers',
+  'dryer',
   'Moisture removal solutions including rotary, vacuum and disc dryers.',
-  'IPP supplies used dryers to chemical plants that remove moisture and solvents from powders, pastes, crystals and slurries. With dryers from Gale Process Solutions, Glatt, Niro and Pfaudler in stock, we match the drying principle, chamber size and material to each product.',
+  'IPP supplies used dryers to chemical plants that remove moisture and solvents from powders, pastes, crystals and slurries. With dryers from Gale Process '
+  'Solutions, Glatt, Niro and Pfaudler in stock, we match the drying principle, chamber size and material to each product.',
   'Our used dryer inventory covers:',
-  ['Rotary vacuum dryers','Double cone and twin shell dryers','Fluid bed dryers for granular products','Spray dryers for liquid feeds','Paddle, ribbon, porcupine and screw dryers'],
+  ['Rotary vacuum dryers',
+   'Double cone and twin shell dryers',
+   'Fluid bed dryers for granular products',
+   'Spray dryers for liquid feeds',
+   'Paddle, ribbon, porcupine and screw dryers'],
   ['Each dryer listing states chamber size, evaporation rate, inlet temperature and material.',
    'Our featured APV Anhydro spray dryer evaporates 31.8 kg/h (70 lb/h) at a 354.4 °C (670 °F) inlet temperature in stainless steel 316.',
    'Pricing depends on manufacturer, drying capacity, material of construction and condition, and our team quotes each stock number individually.'],
   'Featured listing: stainless steel 316 spray dryer with 31.8 kg/h (70 lb/h) evaporation.'),
- ('Filters','filter',
-  'Pressure and vacuum systems to remove particulates or recover solids.',
-  'We supply used filters to chemical plants that clarify process liquids, recover solids and wash and dry filter cake. As a supplier chemical producers trust for solid-liquid separation, IPP sources filters from Schenk, Cogeim, Chemap and Rosenmund and lists filtration area, pressure and material for each stock number.',
-  'Our used filter inventory covers:',
-  ['Filter presses for high-volume solids recovery','Rosenmund and Cogeim filter dryers','Nutsche filters for batch filtration','Pressure leaf filters for liquid clarification'],
-  ['Each filter listing states filtration area, pressure, temperature and material.',
-   'Stainless steel 316 and polypropylene lead our filter inventory, alongside stainless steel 304, Hastelloy C-22 and C-276 and carbon steel, with filtration areas up to 330 m² (3,557 ft²).',
-   'Pricing depends on manufacturer, filtration area, material of construction and condition, and IPP quotes each stock number individually with a video or on-site inspection on request.'],
-  'Featured listing: polypropylene plate-and-frame filter press.'),
- ('Distillation columns','column',
-  'For purification, solvent recovery and fractional separation.',
-  'IPP supplies used distillation columns to chemical plants for solvent recovery, product purification and fractional separation. With Pfaudler, De Dietrich, Kühni and Schott columns in stock, we supply packed and tray designs in glass-lined steel, stainless steel and specialty alloys.',
-  'Column types in our inventory cover:',
-  ['Packed columns, including ceramic-packed glass-lined units','Tray columns','Combination packed and tray columns','Contactor columns for liquid-liquid extraction','Glass-lined columns for corrosive service'],
-  ['Each column listing states diameter, length, pressure and temperature.',
-   'Glass-lined and stainless steel 316 columns lead our column inventory, alongside stainless steel 304, Hastelloy C-276 and graphite, with diameters from 76 mm (3 in) to 8,000 mm (315 in).',
-   'Pricing depends on manufacturer, diameter, material of construction and condition, and our team quotes each stock number individually.'],
-  'Featured listing: glass-lined packed column with ceramic packing.'),
- ('Tanks','tank',
+ ('Tanks',
+  'tank',
   'For storage, blending and transfer. Jacketed and non-jacketed tanks available.',
-  'We supply used tanks to chemical plants for raw material storage, blending and product transfer. As a supplier chemical producers trust for vessel capacity, IPP sources tanks from Pfaudler, De Dietrich, Grundy and Sinclair Stainless Fabrications in jacketed and non-jacketed designs.',
+  'We supply used tanks to chemical plants for raw material storage, blending and product transfer. As a supplier chemical producers trust for vessel capacity, '
+  'IPP sources tanks from Pfaudler, De Dietrich, Grundy and Sinclair Stainless Fabrications in jacketed and non-jacketed designs.',
   'Our used tank inventory covers:',
-  ['Glass-lined tanks for corrosive chemicals','Stainless steel 304, 316 and 316L process tanks','Jacketed tanks for heating and cooling','Non-jacketed storage tanks','Carbon steel and fiberglass storage tanks'],
+  ['Glass-lined tanks for corrosive chemicals',
+   'Stainless steel 304, 316 and 316L process tanks',
+   'Jacketed tanks for heating and cooling',
+   'Non-jacketed storage tanks',
+   'Carbon steel and fiberglass storage tanks'],
   ['Each tank listing states capacity, internal pressure, temperature and material.',
-   'Stainless steel 304 and glass-lined tanks lead our tank inventory, alongside stainless steel 316 and 316L, carbon steel and fiberglass, with capacities from 5 L to 565,000 L (1 to 149,258 gal).',
-   'Pricing depends on manufacturer, capacity, material of construction and condition, and IPP quotes each stock number individually with a video or on-site inspection on request.'],
+   'Stainless steel 304 and glass-lined tanks lead our tank inventory, alongside stainless steel 316 and 316L, carbon steel and fiberglass, with capacities '
+   'from 5 L to 565,000 L (1 to 149,258 gal).',
+   'Pricing depends on manufacturer, capacity, material of construction and condition, and IPP quotes each stock number individually with a video or on-site '
+   'inspection on request.'],
   'Featured listing: stainless steel 316L vertical tank.'),
+ ('Glass-lined and reactor parts',
+  'glass-lined-parts',
+  'Spare parts that return glass-lined and alloy reactors to service.',
+  'IPP supplies used, re-glassed and new glass-lined parts to chemical plants that maintain Pfaudler, De Dietrich and other glass-lined reactors and tanks. '
+  'Glass-lined parts form the largest equipment type in our chemical processing inventory, and we also stock new seals and seal plans for exotic alloy '
+  'reactors.',
+  'Glass-lined and reactor parts in our inventory cover:',
+  ['Glass-lined agitators, including retreat curve and Cryo-Lock blades',
+   'Main covers and manway covers',
+   'Baffles, thermowells and adapter plates',
+   'Pro-rings, split flanges and clamps',
+   'Hastelloy C-22 seals and seal plans for exotic alloy reactors'],
+  ['Each part listing states the vessel size it fits, diameter, length and whether the part is re-glassed.',
+   'Pfaudler and De Dietrich parts lead our glass-lined parts inventory, alongside 3V Tech, Schott and UGE, for vessels from 8 L to 37,850 L (2 to 10,000 gal).',
+   'Pricing depends on manufacturer, vessel size, glass condition and re-glassing, and IPP quotes each stock number individually with a video or on-site '
+   'inspection on request.'],
+  'Featured listings: re-glassed Pfaudler retreat curve agitator for a 1,150 L (300 gal) vessel and a new Hastelloy C-22 reactor seal.',
+  [('Browse used glass-lined parts', 'glass-lined-parts'), ('Browse reactor parts', 'reactor-parts')])
 ]
+
 type_tabs=''.join(f'<button type="button" role="tab" id="tab-type-{path}" aria-controls="type-{path}" aria-selected="{"true" if i==0 else "false"}"{"" if i==0 else " tabindex=\"-1\""}>{E(name)}</button>' for i,(name,path,*_) in enumerate(type_panels))
 categories=[]
-for name,path,summary,opener,lead,items,close,featured in type_panels:
+for name,path,summary,opener,lead,items,close,featured,*more in type_panels:
+ links=more[0] if more else [(f'Browse used {name.lower()}',path)]
  subtypes=''.join(f'<li>{E(i)}</li>' for i in items)
- categories.append(f'<div class="category-card type-panel" id="type-{path}" role="tabpanel" aria-labelledby="tab-type-{path}"><div class="category-heading"><h3>{name}</h3></div><p class="type-summary">{summary}</p><p>{E(opener)}</p><p class="type-lead">{E(lead)}</p><ul class="type-list">{subtypes}</ul><p class="type-close">{E(" ".join(close))}</p><p class="material-note">{featured}</p><div class="category-links"><a href="{IMS}/inventory/search/equipment/{path}">Browse used {name.lower()} ↗</a></div></div>')
+ categories.append(f'<div class="category-card type-panel" id="type-{path}" role="tabpanel" aria-labelledby="tab-type-{path}"><div class="category-heading"><h3>{name}</h3></div><p class="type-summary">{summary}</p><p>{E(opener)}</p><p class="type-lead">{E(lead)}</p><ul class="type-list">{subtypes}</ul><p class="type-close">{E(" ".join(close))}</p><p class="material-note">{featured}</p><div class="category-links">{"".join(f'<a href="{IMS}/inventory/search/equipment/{p}">{E(label)} ↗</a>' for label,p in links)}</div></div>')
 
 faq_data=[
  ('Does IPP offer full chemical plants for sale?',f'Yes. In addition to individual equipment, we sell <a href="{IMS}/inventory/search/plants">complete chemical process plants</a>, including teardown and relocation services.'),

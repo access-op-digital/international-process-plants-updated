@@ -20,7 +20,7 @@
   {
     "file": "H003",
     "index": 3,
-    "heading": "Chemical plants and equipment for sale",
+    "heading": "Chemical process plants and equipment for sale",
     "blocking": [],
     "advisory": []
   },
@@ -75,7 +75,7 @@
   {
     "file": "H010",
     "index": 10,
-    "heading": "Distillation columns",
+    "heading": "Distillation columns and stills",
     "blocking": [],
     "advisory": [
       "Section makes a specific numeric claim but no supplied evidence backs it \u2014 review for accuracy."
@@ -450,5 +450,41 @@
     "heading": "Does IPP handle decommissioning and dismantling?",
     "blocking": [],
     "advisory": []
+  },
+  {
+    "file": "H082",
+    "index": 82,
+    "heading": "Agitators",
+    "blocking": [],
+    "advisory": [
+      "Section makes a specific numeric claim but no supplied evidence backs it \u2014 review for accuracy."
+    ]
+  },
+  {
+    "file": "H083",
+    "index": 83,
+    "heading": "Fermenters",
+    "blocking": [],
+    "advisory": [
+      "Section makes a specific numeric claim but no supplied evidence backs it \u2014 review for accuracy."
+    ]
+  },
+  {
+    "file": "H084",
+    "index": 84,
+    "heading": "Evaporators",
+    "blocking": [],
+    "advisory": [
+      "Section makes a specific numeric claim but no supplied evidence backs it \u2014 review for accuracy."
+    ]
+  },
+  {
+    "file": "H085",
+    "index": 85,
+    "heading": "Glass-lined and reactor parts",
+    "blocking": [],
+    "advisory": [
+      "Section makes a specific numeric claim but no supplied evidence backs it \u2014 review for accuracy."
+    ]
   }
 ]

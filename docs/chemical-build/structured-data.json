@@ -120,26 +120,26 @@
         {
           "@type": "ListItem",
           "position": 9,
+          "name": "Pfaudler 4DTW glass drive agitator",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/agitator/glass-drives/76524"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Tankki OY stainless steel fermenter",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/fermenter/705876"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
           "name": "Graham Hart shell-and-tube heat exchanger",
           "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/heat-exchanger/shell-and-tube/242533"
         },
         {
           "@type": "ListItem",
-          "position": 10,
-          "name": "Krauss Maffei peeler centrifuge",
-          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/peeler-centrifuge/235730"
-        },
-        {
-          "@type": "ListItem",
-          "position": 11,
-          "name": "APV Anhydro spray dryer",
-          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/spray-dryer/238212"
-        },
-        {
-          "@type": "ListItem",
           "position": 12,
-          "name": "Perrin filter press",
-          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/filter/plate-and-frame/225365"
+          "name": "SMS Buss wiped film evaporator",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/evaporator/wiped-thin-film/220954"
         },
         {
           "@type": "ListItem",
@@ -150,8 +150,44 @@
         {
           "@type": "ListItem",
           "position": 14,
+          "name": "Doring & Baumer column still",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/still/236163"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Krauss Maffei peeler centrifuge",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/peeler-centrifuge/235730"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "Perrin filter press",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/filter/plate-and-frame/225365"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "APV Anhydro spray dryer",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/spray-dryer/238212"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
           "name": "Cookson & Zinn stainless steel tank",
           "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/tank/242886"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Pfaudler glass-lined agitator",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/glass-lined-parts/agitator/239007"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Hastelloy C22 reactor seal",
+          "url": "https://ims.internationalprocessplants.com/inventory/equipment/detail/reactor-parts/seals-and-seal-plans/249252"
         }
       ]
     },

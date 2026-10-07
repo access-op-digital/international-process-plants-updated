@@ -4,6 +4,13 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision 8, October 8, 2026: every IMS chemical processing type, one inventory list
+
+- **Equipment types** now cover all 10 types in IMS Chemical Processing Equipment (6,894 items, checked October 8, 2026). New panels: agitators, fermenters, evaporators, and glass-lined and reactor parts; distillation columns now include stills. Centrifuges, filters and dryers stay from the original page. Eleven tabs run in process order: reaction, heat transfer, separation, drying, storage, parts. Each type links to its IMS search page.
+- **Inventory** is one list of 20 featured listings with one "Plant or equipment type" filter (complete plants and process equipment as option groups). The Chemical plants / Process equipment switch is gone. Six new listings give each IMS type at least one card: Pfaudler 4DTW glass drive agitator, Tankki OY fermenter, SMS Buss wiped film evaporator, Doring & Baumer column still, Pfaudler re-glassed agitator (glass-lined part) and a Hastelloy C22 reactor seal (size withheld: the IMS title and attribute disagree).
+- Choosing an equipment type points the second button at that type in IMS ("View all used agitators").
+- The inventory H2 is now "Chemical process plants and equipment for sale". Validator 144; IPP page checker 0 issues; section checks leave the two accepted exceptions.
+
 ## Revision 7, October 8, 2026: buy and sell value balanced across the page
 
 - **Company intro** heading now names both roles ("Buy and sell used chemical plants and equipment with International Process Plants (IPP)"). Paragraph 1 states both roles, paragraph 2 serves buyers (92 words), paragraph 3 serves sellers (84 words), and paragraph 4 gives each side an action plus the phone line.

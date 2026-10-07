@@ -206,3 +206,16 @@ Why IPP now carries a "For buyers" and a "For sellers" tab with five advantages 
 | Transactional · seller | IPP buys used, surplus and idled equipment as-is, where-is, as a principal buyer rather than a broker. | Commerce_buy (buys) | Buyer: IPP · Goods: used, surplus, idled equipment · Manner: as-is, where-is, principal buyer |
 | Commercial · seller | IPP proposes either an outright purchase or a marketing arrangement that offers the assets to its global buyer network. | Suggesting (proposes) | Speaker: IPP · Proposal: outright purchase or marketing arrangement · Addressee: plant owner |
 | Commercial · seller | Our team decommissions and dismantles the plant, then packs, ships and exports the equipment. | Dismantling (dismantles); Sending (ships) | Agent: IPP’s team · Theme: the plant, the equipment |
+
+## IMS family coverage and one inventory list (revision 8)
+
+The types section now carries every type in IMS Chemical Processing Equipment (reactors, reactor parts, agitators, columns, evaporators, fermenters, glass-lined parts, heat exchangers, stills, tanks) plus the original centrifuges, filters and dryers, in process order. The listing grid drops the plant / equipment switch: one list, one plant-or-equipment type filter. New openers:
+
+| Intent | Sentence | Frame (predicate) | Roles |
+|---|---|---|---|
+| Commercial · buyer | IPP supplies used agitators to chemical plants that mix, suspend and disperse materials in reactors, tanks and blending vessels. | Supply (supplies) | Supplier: IPP · Theme: used agitators · Recipient: chemical plants · Purpose: mixing, suspending, dispersing |
+| Commercial · buyer | We supply used fermenters to chemical, pharmaceutical and biotech plants that grow cultures and make fermentation-based products under controlled temperature and pressure. | Supply (supply) | Supplier: IPP (we) · Theme: used fermenters · Recipient: chemical, pharmaceutical and biotech plants |
+| Commercial · buyer | We supply used evaporators to chemical plants that concentrate solutions, recover solvents and crystallize products. | Supply (supply) | Supplier: IPP (we) · Theme: used evaporators · Recipient: chemical plants · Purpose: concentration, solvent recovery, crystallization |
+| Commercial · buyer | IPP supplies used distillation columns and stills to chemical and pharmaceutical plants for solvent recovery, product purification and fractional separation. | Supply (supplies) | Supplier: IPP · Theme: used distillation columns and stills · Recipient: chemical and pharmaceutical plants |
+| Commercial · buyer | IPP supplies used, re-glassed and new glass-lined parts to chemical plants that maintain Pfaudler, De Dietrich and other glass-lined reactors and tanks. | Supply (supplies) | Supplier: IPP · Theme: glass-lined parts · Recipient: chemical plants · Purpose: maintaining glass-lined reactors and tanks |
+| Transactional · buyer | IPP features six used chemical plants and 14 units of chemical process equipment from its inventory in one list, with at least one listing for each equipment type we supply. | Display (features) | Agent: IPP · Theme: six plants and 14 equipment units · Manner: one list · Coverage: each equipment type |

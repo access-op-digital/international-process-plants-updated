@@ -162,3 +162,5 @@
 .sellside-tabs{margin-bottom:34px}
 @media(max-width:560px){.side-tab-list [role=tab]{flex:1 1 0;padding:12px 10px}}
 @media(max-width:560px){.hero .button-row .button{flex:1 1 100%}}
+.inventory-bottom-links{display:flex;gap:12px;flex-wrap:wrap;justify-content:flex-end}
+@media(max-width:560px){.inventory-bottom-links{width:100%}}

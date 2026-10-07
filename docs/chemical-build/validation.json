@@ -34,7 +34,7 @@
       "pass": true
     },
     {
-      "check": "Seven original categories in original order",
+      "check": "Seven original categories kept, in process order with the added IMS family types",
       "pass": true
     },
     {
@@ -78,11 +78,15 @@
       "pass": true
     },
     {
-      "check": "14 crawlable inventory cards",
+      "check": "20 crawlable inventory cards",
       "pass": true
     },
     {
-      "check": "Six plants and eight equipment cards",
+      "check": "Six plants and 14 equipment cards in one list with one type filter",
+      "pass": true
+    },
+    {
+      "check": "A featured listing for each IMS chemical processing type",
       "pass": true
     },
     {
@@ -118,19 +122,19 @@
       "pass": true
     },
     {
+      "check": "Direct secure IMS specs link: stock-76524",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-705876",
+      "pass": true
+    },
+    {
       "check": "Direct secure IMS specs link: stock-242533",
       "pass": true
     },
     {
-      "check": "Direct secure IMS specs link: stock-235730",
-      "pass": true
-    },
-    {
-      "check": "Direct secure IMS specs link: stock-238212",
-      "pass": true
-    },
-    {
-      "check": "Direct secure IMS specs link: stock-225365",
+      "check": "Direct secure IMS specs link: stock-220954",
       "pass": true
     },
     {
@@ -138,7 +142,31 @@
       "pass": true
     },
     {
+      "check": "Direct secure IMS specs link: stock-236163",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-235730",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-225365",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-238212",
+      "pass": true
+    },
+    {
       "check": "Direct secure IMS specs link: stock-242886",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-239007",
+      "pass": true
+    },
+    {
+      "check": "Direct secure IMS specs link: stock-249252",
       "pass": true
     },
     {
@@ -326,19 +354,19 @@
       "pass": true
     },
     {
+      "check": "Meaningful image alt /assets/chemical/76524.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/705876.webp",
+      "pass": true
+    },
+    {
       "check": "Meaningful image alt /assets/chemical/242533.webp",
       "pass": true
     },
     {
-      "check": "Meaningful image alt /assets/chemical/235730.webp",
-      "pass": true
-    },
-    {
-      "check": "Meaningful image alt /assets/chemical/238212.webp",
-      "pass": true
-    },
-    {
-      "check": "Meaningful image alt /assets/chemical/225365.webp",
+      "check": "Meaningful image alt /assets/chemical/220954.webp",
       "pass": true
     },
     {
@@ -346,7 +374,31 @@
       "pass": true
     },
     {
+      "check": "Meaningful image alt /assets/chemical/236163.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/235730.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/225365.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/238212.webp",
+      "pass": true
+    },
+    {
       "check": "Meaningful image alt /assets/chemical/242886.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/239007.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/249252.webp",
       "pass": true
     },
     {
@@ -442,7 +494,7 @@
       "pass": true
     },
     {
-      "check": "Size ranges on the five types IMS publishes them for",
+      "check": "Size ranges on the nine types IMS publishes them for",
       "pass": true
     },
     {
@@ -474,7 +526,11 @@
       "pass": true
     },
     {
-      "check": "Seven vertical type tabs control the seven panels",
+      "check": "Eleven vertical type tabs control the eleven panels",
+      "pass": true
+    },
+    {
+      "check": "Types section links every IMS chemical processing family type",
       "pass": true
     },
     {
@@ -522,7 +578,7 @@
       "pass": true
     }
   ],
-  "passed": 130,
-  "photograph_total_bytes": 237748,
+  "passed": 144,
+  "photograph_total_bytes": 310258,
   "max_photograph_bytes": 36056
 }

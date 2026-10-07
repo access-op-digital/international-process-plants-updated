@@ -422,6 +422,88 @@
         "Anna Nguyen, Commercial Sales & Operations Manager, Hoyer Global: Communication and quick customer response are what sets IPP apart (YouTube Kz6N9uacqkY, 2024-03-10)"
       ],
       "source": "https://www.youtube.com/playlist?list=PLRlhdb05DXKSO3XMiN2gd5-DduvcVPWHx"
+    },
+    "IPP stock 76524": {
+      "values": [
+        "Drive power: 11.6 kW (15.5 hp)",
+        "Drive speed: 175 rpm",
+        "Ratio: 10:1",
+        "Transmission: Belt",
+        "manufacturer: Pfaudler",
+        "model: 4DTW",
+        "condition: Used"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/agitator/glass-drives/76524"
+    },
+    "IPP stock 705876": {
+      "values": [
+        "Capacity: 12,500 L (3,300 US gal)",
+        "Material: Stainless steel 316",
+        "Pressure: 4 bar (58 psi)",
+        "Temperature: 160 °C (320 °F)",
+        "manufacturer: Tankki OY",
+        "condition: Used"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/fermenter/705876"
+    },
+    "IPP stock 220954": {
+      "values": [
+        "Evaporation: 340.2 kg/h (750 lb/h)",
+        "Material: Hastelloy C22 clad",
+        "Surface area: 14 m² (150.7 ft²)",
+        "Temperature: 250 °C (482 °F)",
+        "manufacturer: SMS Buss",
+        "model: LN 1400",
+        "condition: Used"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/evaporator/wiped-thin-film/220954"
+    },
+    "IPP stock 236163": {
+      "values": [
+        "Diameter: 2,200 mm (86.6 in)",
+        "Material: Stainless steel 321",
+        "Pressure: 15 bar (217.6 psi)",
+        "Temperature: 300 °C (572 °F)",
+        "still type: Column still",
+        "manufacturer: Doring & Baumer",
+        "condition: Used"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/still/236163"
+    },
+    "IPP stock 239007": {
+      "values": [
+        "Vessel size: 1,150 L (300 US gal)",
+        "Material: Glass-lined, re-glassed",
+        "Agitator type: 3-blade retreat curve",
+        "Span: 914 mm (36 in)",
+        "manufacturer: Pfaudler",
+        "model: RCI",
+        "condition: Re-glassed"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/glass-lined-parts/agitator/239007"
+    },
+    "IPP stock 249252": {
+      "values": [
+        "Part: Seal and seal plan",
+        "Material: Hastelloy C22",
+        "Service: Exotic alloy reactors",
+        "condition: New",
+        "Size not shown: IMS title says 80 mm while the attribute reads 2,050 mm (80 in)"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/equipment/detail/reactor-parts/seals-and-seal-plans/249252"
+    },
+    "IMS Chemical Processing Equipment family (Oct 8, 2026)": {
+      "values": [
+        "Family page lists 6,894 items in 10 types: reactor, reactor parts, agitator, column, evaporator, fermenter, glass-lined parts, heat exchanger, still, tank",
+        "Glass-lined parts form the largest type in the family; counts stay out of the copy",
+        "Agitators: Pfaudler, Lightnin, De Dietrich, Philadelphia and Chemineer lead; glass-lined and carbon steel lead materials; vessel size 20 to 2,650 gal; drive power up to 135 HP; subtypes drive, glass drives, shaft mixers",
+        "Fermenters: ThermoFisher, B. Braun Diessel Biotech, Bujalski, Biolafitte, Chemap, Sartorius; stainless steel 316, 304, 316L; capacity 5 to 17,250 gal",
+        "Evaporators: Luwa SMS, Buss-SMS-Canzler, Buflovak/Blaw Knox, Pfaudler; stainless steel 316 leads; evaporation 10 to 80,000 lb/h; heat transfer area 2 to 15,850 ft²; subtypes rising/falling film, wiped thin film, flash, crystallizer",
+        "Stills: Santasalo-Sohlberg, Steris Finn-Aqua, Kühni, Paul Mueller; stainless steel 316, 316L, 321; diameter 9 to 87 in; column, pot and multi-effect stills",
+        "Glass-lined parts: Pfaudler and De Dietrich lead, then 3V Tech, Schott, UGE; vessel size 2 to 10,000 gal; agitators, Cryo-Lock blades, main and manway covers, baffles, thermowells, adapter plates, pro-rings, split flanges, clamps",
+        "Reactor parts: Hastelloy C-22 seals and seal plans for exotic alloy reactors"
+      ],
+      "source": "https://ims.internationalprocessplants.com/inventory/search/equipment/chemical-process-family and each type page (manufacturer, material and measure filters, read-only)"
     }
   },
   "unverified_slots": [],
