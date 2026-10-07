@@ -4,6 +4,10 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision 5, October 8, 2026: equipment types in the reference service format
+
+The equipment types section follows the reference service section the user supplied: a centered question heading ("What used chemical process equipment do we supply?"), vertical tabs for the seven types and one full panel per type. Each panel carries the preserved original sentence, a two-sentence context opener (what IPP supplies, to which plants, from which makers), a lead-in, descriptive items, and a closing paragraph with the listing fields, leading materials, IMS range and the pricing factors with the quote and inspection offer. IPP publishes no prices, so the reference page's price ranges become the factors each quote depends on. Panels run 148 to 206 words. Without JavaScript all seven panels render in sequence; the tab script drives both tab groups with arrow, Home and End keys. Validator 120; IPP page checker 0 issues.
+
 ## Revision 4, October 8, 2026: brand voice and remaining thin sections
 
 - **Voice.** The brand name opens each section, anchors attributed claims and the validator-checked sentences; follow-up sentences vary to "we" and "our" (35 brand-led and 49 first-person sentences, against 81 and 0 before). Preserved original sentences and the locked buying steps keep their wording. `frame-semantic-roles.md` notes that first-person sentences keep IPP in the same semantic role.

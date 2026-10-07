@@ -54,7 +54,7 @@ for href in doc.xpath('//a[starts-with(@href,"#")]/@href'):check('Anchor exists 
 for img in doc.xpath('//img'):
  check('Meaningful image alt '+img.get('src'),bool(img.get('alt','').strip()))
 check('Self-hosted assets exist',all((ROOT/u.lstrip('/')).is_file() for u in doc.xpath('//img/@src|//script[@src]/@src|//link[@rel="stylesheet"]/@href')))
-tabs=doc.xpath('//*[@role="tablist"]//*[@role="tab"]')
+tabs=doc.xpath('//section[@id="resources"]//*[@role="tablist"]//*[@role="tab"]')
 check('Resources tabs are About Us, FAQs and Blog only',[' '.join(t.text_content().split()) for t in tabs]==['About Us','FAQs','Blog'])
 for t in tabs:
  panel=doc.xpath(f'//*[@id="{t.get("aria-controls")}"]')
@@ -68,7 +68,7 @@ check('Seller path has four steps',doc.xpath('//ol[contains(@class,"seller-steps
 check('Seller section follows the buying steps',[s.get('id') for s in doc.xpath('//section[@id="buying" or @id="sell"]')]==['buying','sell'])
 makers=doc.xpath('//ul[@class="maker-list"]/li/a')
 check('Seven leading makers link to type-scoped IMS searches',len(makers)==7 and all('/inventory/search/equipment/' in a.get('href') and 'manufacturer=' in a.get('href') for a in makers))
-check('Size ranges on the five types IMS publishes them for',len(doc.xpath('//div[contains(@class,"category-card")][.//p[@class="range-note"]]'))==5)
+check('Size ranges on the five types IMS publishes them for',sum(1 for c in doc.xpath('//div[contains(concat(" ",@class," ")," type-panel ")]') if re.search(r'(from|up to) \d[\d,.]* (L|m²|mm)\b', ' '.join(c.xpath('.//p[@class="type-close"]/text()'))))==5)
 check('Closing CTA serves buyers and sellers',doc.xpath('//section[contains(@class,"closing-cta")]//h2/text()')==['Ready to buy or sell chemical plants and equipment?'] and all(doc.xpath(f'//section[contains(@class,"closing-cta")]//a[@href="{u}"]') for u in ['https://internationalprocessplants.com/contact/','https://internationalprocessplants.com/sell-plants/','https://internationalprocessplants.com/sell-equipment/','mailto:sales@internationalprocessplants.com','tel:+16095868004']))
 check('No phrasal take-on predicate','take on' not in visible.lower())
 intro=[' '.join(p.text_content().split()) for p in doc.xpath('//section[@data-section="2"]//p')]
@@ -76,7 +76,17 @@ check('Company intro opens with what IPP sells, to whom',intro and intro[0].star
 check('Company intro covers selling to IPP',any(x.startswith('IPP buys shutdown chemical plants') for x in intro) and doc.xpath('//section[@data-section="2"]//a[@href="https://internationalprocessplants.com/sell-plants/"]'))
 intro_photo=ROOT/'assets/chemical/intro/reactor-removal.webp'
 check('Company intro photo fills the heading column, under 200 KB',doc.xpath('//section[@data-section="2"]//figure[@class="intro-photo"]/img[@src="/assets/chemical/intro/reactor-removal.webp"]') and intro_photo.is_file() and intro_photo.stat().st_size<200000)
-check('Each equipment type opens with IPP context and lists its subtypes',all(c.xpath('.//ul[@class="type-list"]/li') and any(x in c.xpath('./p')[0].text_content() for x in ('IPP ','We ','Our ')) and 'used' in c.xpath('./p')[0].text_content().lower() for c in doc.xpath('//div[contains(@class,"category-card")]')) and len(doc.xpath('//div[contains(@class,"category-card")]'))==7)
+panels=doc.xpath('//div[contains(concat(" ",@class," ")," type-panel ")]')
+def panel_ok(c):
+ ps=c.xpath('./p')
+ opener=ps[1].text_content() if len(ps)>1 else ''
+ return (ps and 'type-summary' in (ps[0].get('class') or '') and ('used' in opener.lower()) and any(x in opener for x in ('IPP ','We ','Our ','our ','we '))
+  and c.xpath('./p[@class="type-lead"]') and c.xpath('./p[@class="type-lead"]')[0].text_content().endswith(':') and len(c.xpath('./ul[@class="type-list"]/li'))>=4
+  and 'quotes each stock number' in ' '.join(c.xpath('./p[@class="type-close"]/text()')))
+check('Each equipment type follows the reference section shape: summary, context opener, lead-in, list, close',len(panels)==7 and all(panel_ok(c) for c in panels))
+type_tabs=doc.xpath('//div[@class="type-tab-list"]/button[@role="tab"]')
+check('Seven vertical type tabs control the seven panels',len(type_tabs)==7 and [t.get('aria-controls') for t in type_tabs]==[c.get('id') for c in panels] and doc.xpath('//div[@class="type-tab-list"]/@aria-orientation')==['vertical'])
+check('Types heading follows the reference question form',doc.xpath('//section[@id="equipment-types"]//h2/text()')==['What used chemical process equipment do we supply?'])
 check('Recognition shown as four badges',len(doc.xpath('//ul[@class="recognition-badges"]/li/a'))==4 and not doc.xpath('//*[contains(@class,"evidence-links")]'))
 check('Global inventory section removed',not doc.xpath('//section[contains(@class,"locations-section")]'))
 vids=doc.xpath('//ul[@class="video-reviews"]/li/a[@data-video]')

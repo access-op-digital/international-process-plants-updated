@@ -38,22 +38,23 @@ Query semantics come first: for "used chemical process plants for sale" the Comm
 | Transactional · seller | Plant owners start a sale through the sell-a-plant or sell-equipment form. | Activity_start (start); embedded Commerce_sell | Agent / Seller: plant owners · Activity: a sale · Means: seller forms |
 | Transactional · buyer | Buyers request specifications, inspections and quotations from IPP’s team. | Request (request) | Speaker / Buyer: buyers · Message: specifications, inspections, quotations · Addressee: IPP’s team |
 
-## Equipment types
+## Equipment types (reference service-section format)
+
+Each panel opens with a supply sentence (Supply: Supplier = IPP or "we", Theme = the used equipment type, Recipient = chemical plants, Purpose = process role), follows with a sourcing sentence (Getting: Recipient = IPP, Source = named makers), then a lead-in (Inclusion), descriptive items and a close (Inclusion for listing fields; First_rank and Dimension for materials and ranges; Commerce_scenario for pricing factors and the quote).
 
 | Intent | Sentence | Frame (predicate) | Roles |
 |---|---|---|---|
-| Commercial · buyer | IPP stocks used chemical process equipment as individual units and connected systems for reaction, heat transfer, separation, drying, filtration, distillation and storage. | Storing (stocks) | Agent: IPP · Theme: used chemical process equipment · Manner: individual units and connected systems · Purpose: reaction … storage |
-| Commercial · buyer | Glass-lined units lead the reactor inventory, alongside stainless steel 316, 316L and 304, Hastelloy C-276 and C-22, and titanium. | First_rank (lead) | Item: glass-lined units · Comparison_set: reactor inventory · Co-members: stainless steel grades, Hastelloy, titanium |
-| Commercial · buyer | Reactor capacities range from 2 L to 80,000 L (0.5 to 21,134 gal). | Dimension (range) | Object: reactors · Dimension: capacity · Measurement: 2 L to 80,000 L |
-| Commercial · buyer | Stainless steel 316 and graphite lead the heat exchanger inventory, alongside stainless steel 304 and 316L, carbon steel, titanium and Hastelloy C-276. | First_rank (lead) | Item: stainless steel 316, graphite · Comparison_set: heat exchanger inventory |
-| Commercial · buyer | Heat transfer areas reach 2,124 m² (22,863 ft²). | Dimension (reach) | Object: heat exchangers · Dimension: heat transfer area · Measurement: up to 2,124 m² |
-| Commercial · buyer | Stainless steel 316 and polypropylene lead the filter inventory, alongside stainless steel 304, Hastelloy C-22 and C-276, and carbon steel. | First_rank (lead) | Item: stainless steel 316, polypropylene · Comparison_set: filter inventory |
-| Commercial · buyer | Filtration areas reach 330 m² (3,557 ft²). | Dimension (reach) | Object: filters · Dimension: filtration area · Measurement: up to 330 m² |
-| Commercial · buyer | Glass-lined and stainless steel 316 columns lead the inventory, alongside stainless steel 304, Hastelloy C-276 and graphite. | First_rank (lead) | Item: glass-lined and stainless steel 316 columns · Comparison_set: column inventory |
-| Commercial · buyer | Column diameters range from 76 mm (3 in) to 8,000 mm (315 in). | Dimension (range) | Object: distillation columns · Dimension: diameter · Measurement: 76 mm to 8,000 mm |
-| Commercial · buyer | Stainless steel 304 and glass-lined tanks lead the inventory, alongside stainless steel 316 and 316L, carbon steel and fiberglass. | First_rank (lead) | Item: stainless steel 304 and glass-lined tanks · Comparison_set: tank inventory |
-| Commercial · buyer | Tank capacities range from 5 L to 565,000 L (1 to 149,258 gal). | Dimension (range) | Object: tanks · Dimension: capacity · Measurement: 5 L to 565,000 L |
-| Transactional · buyer | Browse used reactors (and each type) ↗ | Seeking (browse) | Cognizer_agent: buyer · Sought_entity: used units of the type · Ground: IPP inventory |
+| Commercial · buyer | What used chemical process equipment do we supply? | Supply (supply), question | Supplier: IPP (we) · Theme: used chemical process equipment |
+| Transactional · buyer | We supply used reactors to chemical plants that need batch or continuous synthesis capacity for reaction, mixing and heat transfer under controlled pressure and temperature. | Supply (supply) | Supplier: IPP (we) · Theme: used reactors · Recipient: chemical plants · Purpose: synthesis capacity |
+| Commercial · buyer | As a supplier chemical producers trust worldwide, IPP sources reactors from Pfaudler, De Dietrich, UGE and Gale Process Solutions, documents each stock number and coordinates removal, shipping and start-up support through one team. | Getting (sources); Recording (documents); Arranging (coordinates) | Recipient / Agent: IPP · Theme: reactors · Source: four makers · Task: removal, shipping, start-up support |
+| Transactional · buyer | IPP supplies used heat exchangers to chemical plants for heating, cooling, condensing and heat recovery across process streams. | Supply (supplies) | Supplier: IPP · Theme: used heat exchangers · Recipient: chemical plants · Purpose: thermal duties |
+| Transactional · buyer | We supply used centrifuges to chemical and pharmaceutical plants for solid-liquid separation, crystal recovery and product purification. | Supply (supply) | Supplier: IPP (we) · Theme: used centrifuges · Recipient: chemical and pharmaceutical plants |
+| Transactional · buyer | IPP supplies used dryers to chemical plants that remove moisture and solvents from powders, pastes, crystals and slurries. | Supply (supplies) | Supplier: IPP · Theme: used dryers · Recipient: chemical plants |
+| Transactional · buyer | We supply used filters to chemical plants that clarify process liquids, recover solids and wash and dry filter cake. | Supply (supply) | Supplier: IPP (we) · Theme: used filters · Recipient: chemical plants |
+| Transactional · buyer | IPP supplies used distillation columns to chemical plants for solvent recovery, product purification and fractional separation. | Supply (supplies) | Supplier: IPP · Theme: used distillation columns · Recipient: chemical plants |
+| Transactional · buyer | We supply used tanks to chemical plants for raw material storage, blending and product transfer. | Supply (supply) | Supplier: IPP (we) · Theme: used tanks · Recipient: chemical plants |
+| Commercial · buyer | Glass-lined units lead our reactor inventory, alongside stainless steel 316, 316L and 304, Hastelloy C-276 and C-22 and titanium, with capacities from 2 L to 80,000 L (0.5 to 21,134 gal). | First_rank (lead); Dimension | Item: glass-lined units · Comparison_set: reactor inventory · Measurement: 2 L to 80,000 L |
+| Transactional · buyer | Pricing depends on manufacturer, capacity, material of construction and condition, and IPP quotes each stock number individually with a video or on-site inspection on request. | Contingency (depends on); Commerce_scenario (quotes) | Outcome: pricing · Determinant: manufacturer, capacity, material, condition · Seller: IPP · Goods: each stock number |
 
 ## Manufacturers
 

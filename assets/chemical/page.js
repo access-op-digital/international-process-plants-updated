@@ -65,46 +65,52 @@
   chooseGroup('plants');
 })();
 
-// Resources tabs: About Us, FAQs, Blog. Without JavaScript every panel stays visible.
+// Tab groups: the resources tabs (About Us, FAQs, Blog) and the vertical equipment type tabs.
+// Without JavaScript every tab list stays hidden and every panel stays visible.
 (() => {
   'use strict';
-  const list = document.querySelector('.tab-list');
-  if (!list) return;
-  const tabs = [...list.querySelectorAll('[role="tab"]')];
-  const panels = tabs.map(tab => document.getElementById(tab.getAttribute('aria-controls')));
-  function select(tab, focus) {
-    tabs.forEach((item, index) => {
-      const active = item === tab;
-      item.setAttribute('aria-selected', String(active));
-      item.tabIndex = active ? 0 : -1;
-      panels[index].hidden = !active;
+  document.querySelectorAll('[role="tablist"]').forEach(list => {
+    const tabs = [...list.querySelectorAll('[role="tab"]')];
+    const panels = tabs.map(tab => document.getElementById(tab.getAttribute('aria-controls')));
+    if (!tabs.length || panels.some(panel => !panel)) return;
+    const vertical = list.getAttribute('aria-orientation') === 'vertical';
+    function select(tab, focus) {
+      tabs.forEach((item, index) => {
+        const active = item === tab;
+        item.setAttribute('aria-selected', String(active));
+        item.tabIndex = active ? 0 : -1;
+        panels[index].hidden = !active;
+      });
+      if (focus) tab.focus();
+    }
+    tabs.forEach((tab, index) => {
+      tab.addEventListener('click', () => select(tab, false));
+      tab.addEventListener('keydown', event => {
+        const next = vertical ? 'ArrowDown' : 'ArrowRight';
+        const prev = vertical ? 'ArrowUp' : 'ArrowLeft';
+        const keys = { [next]: index + 1, [prev]: index - 1, Home: 0, End: tabs.length - 1 };
+        if (!(event.key in keys)) return;
+        event.preventDefault();
+        select(tabs[(keys[event.key] + tabs.length) % tabs.length], true);
+      });
     });
-    if (focus) tab.focus();
-  }
-  tabs.forEach((tab, index) => {
-    tab.addEventListener('click', () => select(tab, false));
-    tab.addEventListener('keydown', event => {
-      const keys = { ArrowRight: index + 1, ArrowLeft: index - 1, Home: 0, End: tabs.length - 1 };
-      if (!(event.key in keys)) return;
-      event.preventDefault();
-      select(tabs[(keys[event.key] + tabs.length) % tabs.length], true);
-    });
+    const fromHash = event => {
+      const match = tabs.find(tab => '#' + tab.getAttribute('aria-controls') === window.location.hash);
+      if (!match) return;
+      select(match, false);
+      // The browser may already have failed to scroll to the still-hidden panel. Jump on load, glide on hash change.
+      const root = document.documentElement;
+      const behavior = root.style.scrollBehavior;
+      if (!event) root.style.scrollBehavior = 'auto';
+      list.closest('section').scrollIntoView();
+      root.style.scrollBehavior = behavior;
+    };
+    list.hidden = false;
+    list.parentElement.classList.add('is-tabbed');
+    select(tabs[0], false);
+    fromHash();
+    window.addEventListener('hashchange', fromHash);
   });
-  const fromHash = event => {
-    const match = tabs.find(tab => '#' + tab.getAttribute('aria-controls') === window.location.hash);
-    if (!match) return;
-    select(match, false);
-    // The browser may already have failed to scroll to the still-hidden panel. Jump on load, glide on hash change.
-    const root = document.documentElement;
-    const behavior = root.style.scrollBehavior;
-    if (!event) root.style.scrollBehavior = 'auto';
-    list.closest('section').scrollIntoView();
-    root.style.scrollBehavior = behavior;
-  };
-  list.hidden = false;
-  select(tabs[0], false);
-  fromHash();
-  window.addEventListener('hashchange', fromHash);
 })();
 
 // Customer testimonial videos: play inline on click, keep the YouTube link as the no-script fallback.

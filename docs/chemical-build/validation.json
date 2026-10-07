@@ -430,7 +430,15 @@
       "pass": true
     },
     {
-      "check": "Each equipment type opens with IPP context and lists its subtypes",
+      "check": "Each equipment type follows the reference section shape: summary, context opener, lead-in, list, close",
+      "pass": true
+    },
+    {
+      "check": "Seven vertical type tabs control the seven panels",
+      "pass": true
+    },
+    {
+      "check": "Types heading follows the reference question form",
       "pass": true
     },
     {
@@ -474,7 +482,7 @@
       "pass": true
     }
   ],
-  "passed": 118,
+  "passed": 120,
   "photograph_total_bytes": 237748,
   "max_photograph_bytes": 36056
 }
