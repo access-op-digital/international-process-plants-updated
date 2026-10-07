@@ -88,9 +88,8 @@ makers_by_type = {
 }
 categories=[]
 for name,path,desc,materials,size_range,featured in category_data:
- hub=f'<a href="{SITE}/process-equipment/{path}/">{E(name)} guide</a>' if path!='column' else ''
  values=''.join(f'<p class="range-note">{E(s)}</p>' for s in (materials,size_range) if s)
- categories.append(f'<div class="category-card"><div class="category-heading"><span class="line-icon">{icons["VESSEL"]}</span><h3>{name}</h3></div><p>{desc}</p><p class="maker-note">Makers in IPP’s inventory include {E(makers_by_type[path])}.</p>{values}<p class="material-note">{featured}</p><div class="category-links">{hub}<a href="{IMS}/inventory/search/equipment/{path}">Browse used {name.lower()} ↗</a></div></div>')
+ categories.append(f'<div class="category-card"><div class="category-heading"><span class="line-icon">{icons["VESSEL"]}</span><h3>{name}</h3></div><p>{desc}</p><p class="maker-note">Makers in IPP’s inventory include {E(makers_by_type[path])}.</p>{values}<p class="material-note">{featured}</p><div class="category-links"><a href="{IMS}/inventory/search/equipment/{path}">Browse used {name.lower()} ↗</a></div></div>')
 
 faq_data=[
  ('Does IPP offer full chemical plants for sale?',f'Yes. In addition to individual equipment, we sell <a href="{IMS}/inventory/search/plants">complete chemical process plants</a>, including teardown and relocation services.'),

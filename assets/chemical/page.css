@@ -73,3 +73,9 @@
 .intro-photo{margin:32px 0 0}
 .intro-photo img{display:block;width:100%;height:auto;aspect-ratio:1/0.92;object-fit:cover;object-position:62% center;border-radius:10px}
 @media(max-width:860px){.intro-photo{margin:24px 0 8px}.intro-photo img{aspect-ratio:16/10}}
+/* Section headings: heading at the top, supporting line directly under it, link after */
+.section-heading{display:block;margin-bottom:34px}
+.section-heading h2{margin-bottom:14px}
+.section-heading p,.heading-aside{max-width:760px!important;font-size:16px;margin:0}
+.section-heading>.text-link{display:inline-block;margin-top:14px}
+@media(max-width:560px){.section-heading p,.heading-aside{font-size:14px}}
