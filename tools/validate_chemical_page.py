@@ -76,7 +76,7 @@ check('Company intro opens with what IPP sells, to whom',intro and intro[0].star
 check('Company intro covers selling to IPP',any(x.startswith('IPP buys shutdown chemical plants') for x in intro) and doc.xpath('//section[@data-section="2"]//a[@href="https://internationalprocessplants.com/sell-plants/"]'))
 intro_photo=ROOT/'assets/chemical/intro/reactor-removal.webp'
 check('Company intro photo fills the heading column, under 200 KB',doc.xpath('//section[@data-section="2"]//figure[@class="intro-photo"]/img[@src="/assets/chemical/intro/reactor-removal.webp"]') and intro_photo.is_file() and intro_photo.stat().st_size<200000)
-check('Each equipment type opens with IPP context and lists its subtypes',all(c.xpath('.//ul[@class="type-list"]/li') and 'IPP supplies used' in c.text_content() for c in doc.xpath('//div[contains(@class,"category-card")]')) and len(doc.xpath('//div[contains(@class,"category-card")]'))==7)
+check('Each equipment type opens with IPP context and lists its subtypes',all(c.xpath('.//ul[@class="type-list"]/li') and any(x in c.xpath('./p')[0].text_content() for x in ('IPP ','We ','Our ')) and 'used' in c.xpath('./p')[0].text_content().lower() for c in doc.xpath('//div[contains(@class,"category-card")]')) and len(doc.xpath('//div[contains(@class,"category-card")]'))==7)
 check('Recognition shown as four badges',len(doc.xpath('//ul[@class="recognition-badges"]/li/a'))==4 and not doc.xpath('//*[contains(@class,"evidence-links")]'))
 check('Global inventory section removed',not doc.xpath('//section[contains(@class,"locations-section")]'))
 vids=doc.xpath('//ul[@class="video-reviews"]/li/a[@data-video]')

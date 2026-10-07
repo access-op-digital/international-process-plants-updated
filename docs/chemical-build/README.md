@@ -4,6 +4,13 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision 4, October 8, 2026: brand voice and remaining thin sections
+
+- **Voice.** The brand name opens each section, anchors attributed claims and the validator-checked sentences; follow-up sentences vary to "we" and "our" (35 brand-led and 49 first-person sentences, against 81 and 0 before). Preserved original sentences and the locked buying steps keep their wording. `frame-semantic-roles.md` notes that first-person sentences keep IPP in the same semantic role.
+- **Why IPP** gains a context-bound opener and a lead-in to its five advantage cards.
+- **Projects.** Each card carries three sourced sentences: BASF's Ludwigshafen ammonia, methanol and melamine plants with their annual capacities (May 2024); the Grimsby site with its reaction suites and process equipment (January 2024); the CDMO API plant bought, dismantled and moved to Eastover with its equipment list; full-scale decommissions in five locations and the Nuol Green Chemistry transfer.
+- **Checks.** Validator 118; IPP page checker 0 issues; section checks leave the two accepted exceptions.
+
 ## Revision 4, October 8, 2026: section shape, badges, layout
 
 - **Section shape.** Thin H2 and H3 sections now follow one shape: an opener bound to the page context (what IPP supplies, from which makers, to whom, for what process role), a lead-in and a list, then the values and the fields each listing states. Applied to the seven equipment types (subtypes from IPP's category hubs and the IMS subtype filters), the manufacturers section, the industries section and the five advantage cards. Prices stay out: IPP publishes none.
