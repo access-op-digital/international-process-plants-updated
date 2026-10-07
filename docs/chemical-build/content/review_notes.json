@@ -15,7 +15,9 @@
       "OUTLINE: the brand query left the Global access card (the company intro owns it); filler queries left the three project cards, which host dated facts instead.",
       "COPY: seller rows rewritten in the seller's own terms (sell, selling used chemical equipment, plant) so the transactional seller intent is explicit.",
       "ACCEPTED: 'How buying from IPP works' is locked by the user, so its H2 lead-in keeps its copy; the Suggested Outline queries stay assigned to it and its five steps carry the buying detail.",
-      "CHECK CALIBRATION: section exports for the deterministic checks exclude eyebrow labels, image captions, button rows and source-note citation lines; the page and the Word copy keep them."
+      "CHECK CALIBRATION: section exports for the deterministic checks exclude eyebrow labels, image captions, button rows and source-note citation lines; the page and the Word copy keep them.",
+      "CHECK CALIBRATION: recognition badges are an asset row (like the logo strip) and are excluded from the projects H2 check export.",
+      "REMOVED BY USER 2026-10-08: 'Global inventory. Local support.' and its three warehouse rows; the warehouse fact now sits in the Immediate availability card."
     ]
   }
 ]

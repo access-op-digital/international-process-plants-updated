@@ -87,9 +87,23 @@ makers_by_type = {
  'tank':'Pfaudler, De Dietrich, Grundy and Sinclair Stainless Fabrications',
 }
 categories=[]
+# Section shape per type: context opener (what IPP supplies, from which makers, to whom, for what),
+# a lead-in and the subtypes IPP lists (IPP category hubs and IMS subtype filters, 8 Oct 2026),
+# then the material and range values and the fields every listing states.
+type_detail = {
+ 'reactor':('IPP supplies used reactors from Pfaudler, De Dietrich, UGE and Gale Process Solutions to chemical producers for batch and continuous synthesis.','IPP’s used reactor inventory includes:',['Batch-type agitated reactors with complete agitation','Batch type body only reactor shells','Hydrogenation reactors','Fixed bed catalytic reactors','Tubular continuous-flow reactors'],'Each reactor listing states capacity, internal pressure, temperature, material and condition.'),
+ 'heat-exchanger':('IPP supplies used heat exchangers from Alfa Laval, Vicarb, Ralph Coidan and Graham to chemical plants for heating, cooling and condensing process streams.','IPP’s used heat exchanger inventory includes:',['Shell-and-tube heat exchangers','Plate-and-frame heat exchangers','Spiral heat exchangers','Graphite block heat exchangers','Welded plate heat exchangers','Air fin coolers'],'Each heat exchanger listing states heat transfer area, shell and tube pressure, temperature and material.'),
+ 'centrifuge':('IPP supplies used centrifuges from Krauss Maffei, Alfa Laval, Westfalia and Sharples to chemical and pharmaceutical plants for solid-liquid separation.','IPP’s used centrifuge inventory includes:',['Bottom-discharge basket centrifuges','Top-discharge basket centrifuges','Peeler centrifuges','Inverting filter centrifuges','Disc bowl centrifuges','Solid bowl decanter centrifuges'],'Each centrifuge listing states basket or bowl size, material, filtration area and motor power.'),
+ 'dryer':('IPP supplies used dryers from Gale Process Solutions, Glatt, Niro and Pfaudler to chemical plants for removing moisture and solvents from powders, pastes and slurries.','IPP’s used dryer inventory includes:',['Rotary vacuum dryers','Double cone and twin shell dryers','Fluid bed dryers','Spray dryers','Paddle and ribbon dryers','Porcupine and screw dryers'],'Each dryer listing states chamber size, evaporation rate, inlet temperature and material.'),
+ 'filter':('IPP supplies used filters from Schenk, Cogeim, Chemap and Rosenmund to chemical plants for clarifying liquids and recovering solids.','IPP’s used filter inventory includes:',['Filter presses','Rosenmund and Cogeim filter dryers','Nutsche filters','Pressure leaf filters'],'Each filter listing states filtration area, pressure, temperature and material.'),
+ 'column':('IPP supplies used distillation columns from Pfaudler, De Dietrich, Kühni and Schott to chemical plants for solvent recovery and product purification.','IPP’s used column inventory includes:',['Packed columns','Tray columns','Combination columns','Contactor columns'],'Each column listing states diameter, length, pressure and temperature.'),
+ 'tank':('IPP supplies used tanks from Pfaudler, De Dietrich, Grundy and Sinclair Stainless Fabrications to chemical plants for raw material storage, blending and product transfer.','IPP’s used tank inventory includes:',['Glass-lined tanks','Stainless steel 304, 316 and 316L tanks','Jacketed process tanks','Non-jacketed storage tanks','Carbon steel and fiberglass tanks'],'Each tank listing states capacity, internal pressure, temperature and material.'),
+}
 for name,path,desc,materials,size_range,featured in category_data:
- values=''.join(f'<p class="range-note">{E(s)}</p>' for s in (materials,size_range) if s)
- categories.append(f'<div class="category-card"><div class="category-heading"><span class="line-icon">{icons["VESSEL"]}</span><h3>{name}</h3></div><p>{desc}</p><p class="maker-note">Makers in IPP’s inventory include {E(makers_by_type[path])}.</p>{values}<p class="material-note">{featured}</p><div class="category-links"><a href="{IMS}/inventory/search/equipment/{path}">Browse used {name.lower()} ↗</a></div></div>')
+ context,lead,items,fields=type_detail[path]
+ values=''.join(f'<p class="range-note">{E(x)}</p>' for x in (materials,size_range) if x)
+ subtypes=''.join(f'<li>{E(i)}</li>' for i in items)
+ categories.append(f'<div class="category-card"><div class="category-heading"><span class="line-icon">{icons["VESSEL"]}</span><h3>{name}</h3></div><p>{desc} {E(context)}</p><p class="type-lead">{E(lead)}</p><ul class="type-list">{subtypes}</ul>{values}<p class="type-fields">{E(fields)}</p><p class="material-note">{featured}</p><div class="category-links"><a href="{IMS}/inventory/search/equipment/{path}">Browse used {name.lower()} ↗</a></div></div>')
 
 faq_data=[
  ('Does IPP offer full chemical plants for sale?',f'Yes. In addition to individual equipment, we sell <a href="{IMS}/inventory/search/plants">complete chemical process plants</a>, including teardown and relocation services.'),
@@ -185,8 +199,8 @@ for idx,row in enumerate(outline):
    box=container_of(h)
    if box is not el and box.getparent() is not None: box.getparent().remove(box)
   for empty in el.xpath('.//ol[not(li)]|.//ul[not(li)]'): empty.getparent().remove(empty)
-  # Labels, captions, buttons and citation lines are page furniture, not section prose.
-  for deco in el.xpath('.//*[contains(@class,"eyebrow") or contains(@class,"seller-visual") or contains(@class,"button-row") or contains(@class,"source-note")]'):
+  # Labels, captions, buttons, citation lines and badge rows are page furniture, not section prose.
+  for deco in el.xpath('.//*[contains(@class,"eyebrow") or contains(@class,"seller-visual") or contains(@class,"button-row") or contains(@class,"source-note") or contains(@class,"recognition-badges")]'):
    if deco.getparent() is not None: deco.getparent().remove(deco)
  else:
   scope=section_el.get(top_parent(idx))

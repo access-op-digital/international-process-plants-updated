@@ -414,6 +414,18 @@
       "pass": true
     },
     {
+      "check": "Each equipment type opens with IPP context and lists its subtypes",
+      "pass": true
+    },
+    {
+      "check": "Recognition shown as four badges",
+      "pass": true
+    },
+    {
+      "check": "Global inventory section removed",
+      "pass": true
+    },
+    {
       "check": "No eyebrow labels or note lines",
       "pass": true
     },
@@ -438,7 +450,7 @@
       "pass": true
     }
   ],
-  "passed": 109,
+  "passed": 112,
   "photograph_total_bytes": 237748,
   "max_photograph_bytes": 36056
 }

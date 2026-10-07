@@ -4,6 +4,14 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision 4, October 8, 2026: section shape, badges, layout
+
+- **Section shape.** Thin H2 and H3 sections now follow one shape: an opener bound to the page context (what IPP supplies, from which makers, to whom, for what process role), a lead-in and a list, then the values and the fields each listing states. Applied to the seven equipment types (subtypes from IPP's category hubs and the IMS subtype filters), the manufacturers section, the industries section and the five advantage cards. Prices stay out: IPP publishes none.
+- **Recognition badges.** The SOCMA, ISN RAVS Plus, Chemical Processing and Chemical Engineering links show as badges under the project cards, and the projects section opens with a two-sentence framing line.
+- **Removed.** The "Global inventory. Local support." section (its warehouse fact now sits in the Immediate availability card) and the "... guide" links on the type cards.
+- **Headings.** Section headings sit at the top with the supporting line directly under them.
+- **Photo.** IPP's own photograph of a crew rigging a used reactor out of a plant fills the column under the company intro heading.
+
 ## Revision 3, October 8, 2026: company intro and labels
 
 - **Company intro** ("Buy used chemical plants and equipment from International Process Plants (IPP)") follows the reactor hub intro format in four paragraphs, both sides of the market: what IPP sells and to which producers, with makers, the approved capital and lead-time line and since 1980; the preserved AI-quoted company sentence, plant sites, materials, capacity and pressure ranges; condition options, UGE and GPS, vessel coding; what IPP buys from plant owners, valuation and removal, then one action for sellers and one for buyers. Every sentence keeps brand, predicate, object. Semantic role labels for the query frames lead the order (Seller IPP, Goods, Buyer; Buyer IPP, Goods, Seller); see `frame-semantic-roles.md`.

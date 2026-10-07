@@ -79,3 +79,17 @@
 .section-heading p,.heading-aside{max-width:760px!important;font-size:16px;margin:0}
 .section-heading>.text-link{display:inline-block;margin-top:14px}
 @media(max-width:560px){.section-heading p,.heading-aside{font-size:14px}}
+/* Type sections: lead-in and subtype list; makers and industries close lines; recognition badges */
+.type-lead{font-size:14px;font-weight:500;color:var(--ink);margin:10px 0 6px}
+.type-list{margin:0 0 12px;padding-left:18px;font-size:14px;line-height:1.7;color:var(--body)}
+.type-list li::marker{color:var(--blue)}
+.type-fields{font-size:13px;color:#3f5966;margin:0 0 8px}
+.maker-close,.industry-close{font-size:14px;margin:18px 0 0}
+.recognition-badges{list-style:none;margin:28px 0 0;padding:24px 0 0;border-top:1px solid var(--line);display:flex;flex-wrap:wrap;gap:12px}
+.recognition-badges a{display:inline-flex;flex-direction:column;gap:2px;padding:10px 16px;border:1px solid #cfe0e8;border-radius:999px;background:white;text-decoration:none;color:var(--body);font-size:12px;line-height:1.35}
+.recognition-badges a:hover{border-color:var(--blue)}
+.recognition-badges strong{font:600 13px var(--heading);color:var(--deep)}
+@media(max-width:560px){.recognition-badges a{border-radius:12px}}
+.projects-lead{max-width:760px;font-size:16px;margin:14px 0 0}
+.industries-section .type-lead{color:#a5d9ef;font-weight:600;margin-top:18px}
+.industries-section .industry-close{color:#d6e5ec}
