@@ -388,7 +388,7 @@ for idx,row in enumerate(outline):
    if box is not el and box.getparent() is not None: box.getparent().remove(box)
   for empty in el.xpath('.//ol[not(li)]|.//ul[not(li)]'): empty.getparent().remove(empty)
   # Labels, captions, buttons, citation lines and badge rows are page furniture, not section prose.
-  for deco in el.xpath('.//*[contains(@class,"eyebrow") or contains(@class,"seller-visual") or contains(@class,"button-row") or contains(@class,"source-note") or contains(@class,"recognition-badges") or contains(@class,"vtab-list") or contains(@class,"type-tab-list")]'):
+  for deco in el.xpath('.//*[contains(@class,"eyebrow") or contains(@class,"seller-visual") or contains(@class,"button-row") or contains(@class,"source-note") or contains(@class,"recognition-badges") or contains(@class,"vtab-list") or contains(@class,"type-tab-list") or contains(@class,"hero-more-toggle")]'):
    if deco.getparent() is not None: deco.getparent().remove(deco)
  else:
   scope=section_el.get(top_parent(idx))

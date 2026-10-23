@@ -13,6 +13,16 @@
   document.addEventListener('keydown', event => {
     if (event.key === 'Escape' && menuToggle.getAttribute('aria-expanded') === 'true') { closeMenu(); menuToggle.focus(); }
   });
+  // Phone hero read-more: the savings sentence and the seller paragraph fold behind one toggle at 560px and below.
+  const heroToggle = document.getElementById('hero-more-toggle');
+  if (heroToggle) {
+    const heroCopy = heroToggle.closest('.hero-copy');
+    heroToggle.addEventListener('click', () => {
+      const open = heroCopy.classList.toggle('is-open');
+      heroToggle.setAttribute('aria-expanded', String(open));
+      heroToggle.querySelector('.hero-more-label').textContent = open ? 'Read less' : 'Read more';
+    });
+  }
   const cards = [...document.querySelectorAll('.stock-card')];
   const search = document.getElementById('inventory-search');
   const category = document.getElementById('category-filter');

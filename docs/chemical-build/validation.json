@@ -510,6 +510,10 @@
       "pass": true
     },
     {
+      "check": "Phone hero read-more folds the savings sentence and the seller paragraph behind one toggle",
+      "pass": true
+    },
+    {
       "check": "AI-quoted live hero sentence kept word for word in the inventory intro",
       "pass": true
     },
@@ -582,7 +586,7 @@
       "pass": true
     }
   ],
-  "passed": 145,
+  "passed": 146,
   "photograph_total_bytes": 304604,
   "max_photograph_bytes": 36056
 }
