@@ -318,10 +318,6 @@
       "pass": true
     },
     {
-      "check": "Meaningful image alt /assets/chemical/intro/reactor-removal.webp",
-      "pass": true
-    },
-    {
       "check": "Meaningful image alt /assets/chemical/603031.webp",
       "pass": true
     },
@@ -391,6 +387,10 @@
     },
     {
       "check": "Meaningful image alt /assets/chemical/239007.webp",
+      "pass": true
+    },
+    {
+      "check": "Meaningful image alt /assets/chemical/intro/reactor-removal.webp",
       "pass": true
     },
     {
@@ -518,6 +518,10 @@
       "pass": true
     },
     {
+      "check": "Listings sit in the second fold and the company intro in the third",
+      "pass": true
+    },
+    {
       "check": "Hero offers a buy action and a sell action",
       "pass": true
     },
@@ -586,7 +590,7 @@
       "pass": true
     }
   ],
-  "passed": 146,
+  "passed": 147,
   "photograph_total_bytes": 304604,
   "max_photograph_bytes": 36056
 }
