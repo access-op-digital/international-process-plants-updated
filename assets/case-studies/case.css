@@ -1,0 +1,93 @@
+/* Case-study pages. Header, footer, fonts and tokens come from /assets/chemical/page.css. */
+.cs-page .container{max-width:1200px;margin:0 auto;padding-inline:32px}
+.cs-page h1,.cs-page h2,.cs-page h3{font-family:var(--heading);color:var(--ink);line-height:1.25}
+
+.cs-hero{background:var(--navy);color:#e2ecf0;padding:0 0 40px}
+.cs-hero .breadcrumbs{padding:24px 0 34px}
+.cs-hero .breadcrumbs span[aria-current]{color:#fff}
+.cs-hero-grid{display:grid;grid-template-columns:1.05fr 1fr;gap:56px;align-items:center}
+.cs-hero h1{color:#fff;font-size:38px;margin:0 0 18px}
+.cs-standfirst{font-size:18px;line-height:1.7;color:#d3e2e9;margin:0;max-width:640px}
+.cs-hero-photo{margin:0}
+.cs-hero-photo img{display:block;width:100%;height:340px;object-fit:cover;border-radius:8px}
+.cs-hero-hub{padding-bottom:52px}
+.cs-hero-hub h1{margin-bottom:16px}
+
+.cs-stats{list-style:none;padding:28px 0 0;margin:36px 0 0;border-top:1px solid #3c5b69;display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:24px;text-align:center}
+.cs-stats strong{display:block;font:700 28px/1.2 var(--heading);color:#fff}
+.cs-stats span{display:block;font-size:13px;color:#b8d4e1;margin-top:6px}
+
+.cs-layout{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:56px;align-items:start;padding-top:56px;padding-bottom:56px}
+.cs-summary{position:sticky;top:24px;background:var(--surface);border:1px solid var(--line);border-top:4px solid var(--blue);border-radius:8px;padding:26px 26px 10px;order:2}
+.cs-summary h2{font-size:18px;margin:0 0 14px}
+.cs-summary dl{margin:0}
+.cs-summary dl>div{padding:12px 0;border-top:1px solid var(--line)}
+.cs-summary dt{font:600 12px/1.4 var(--heading);text-transform:uppercase;letter-spacing:.6px;color:var(--link);margin-bottom:4px}
+.cs-summary dd{margin:0;font-size:15px;color:var(--ink)}
+.cs-summary dl>div:last-child dd{font-weight:600}
+
+.cs-block{margin-bottom:38px}
+.cs-block h2{font-size:26px;margin:0 0 14px}
+.cs-block p{margin:0 0 14px;font-size:17px;line-height:1.75}
+.cs-units{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.cs-units li{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:14px 16px;color:var(--ink);font-weight:500}
+.cs-takeaway{background:#edf3f6;border-left:4px solid var(--navy);padding:24px 26px;border-radius:0 8px 8px 0}
+.cs-takeaway h2{font-size:20px}
+.cs-takeaway p{margin:0}
+
+.cs-cta{background:var(--navy);color:#e2ecf0;padding:48px 0}
+.cs-cta-inner{display:flex;justify-content:space-between;align-items:center;gap:40px}
+.cs-cta h2{color:#fff;font-size:26px;margin:0 0 10px}
+.cs-cta p{margin:0;max-width:640px;color:#d3e2e9}
+.cs-cta-buttons{display:flex;gap:14px;flex-shrink:0;flex-wrap:wrap}
+.cs-button{display:inline-block;background:var(--blue);color:#fff;font:600 15px/1 var(--button);padding:16px 24px;border-radius:6px;text-decoration:none;border:2px solid var(--blue)}
+.cs-button:hover{background:#147eac;border-color:#147eac;color:#fff;text-decoration:none}
+.cs-button-outline{background:transparent;border-color:#b8d4e1;color:#fff}
+.cs-button-outline:hover{background:#fff;color:var(--navy);border-color:#fff}
+
+.cs-related{padding:52px 0 64px;background:#fff}
+.cs-related h2{font-size:24px;margin:0 0 22px}
+.cs-related-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:16px}
+.cs-related-card{display:block;border:1px solid var(--line);border-radius:8px;padding:18px;text-decoration:none;color:var(--body);font-size:14px;line-height:1.55}
+.cs-related-card span{display:block;font:600 12px var(--heading);text-transform:uppercase;letter-spacing:.6px;color:var(--link);margin-bottom:8px}
+.cs-related-card strong{font-weight:500;color:var(--ink)}
+.cs-related-card:hover{border-color:var(--blue);text-decoration:none}
+
+.cs-hub{padding:56px 0 64px;background:var(--surface)}
+.cs-card-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:26px}
+.cs-card{display:grid;grid-template-columns:200px 1fr;background:#fff;border:1px solid var(--line);border-radius:8px;overflow:hidden;text-decoration:none;color:var(--body)}
+.cs-card:hover{border-color:var(--blue);text-decoration:none}
+.cs-card img{width:100%;height:100%;object-fit:cover;min-height:220px}
+.cs-card>div{padding:22px}
+.cs-card-label{font:600 11px var(--heading);text-transform:uppercase;letter-spacing:.6px;color:var(--link)}
+.cs-card h2{font-size:18px;margin:8px 0 10px}
+.cs-card p{font-size:14px;margin:0 0 12px;line-height:1.6}
+.cs-card ul{list-style:none;padding:0;margin:0;font-size:13px}
+.cs-card li strong{color:var(--ink)}
+
+.cs-review{padding-top:44px;padding-bottom:60px}
+.cs-review-item{border:1px solid var(--line);border-radius:8px;padding:22px 26px;margin-bottom:18px}
+.cs-review-item h2{font-size:19px;margin:0 0 10px}
+.cs-review-item li{margin-bottom:8px}
+
+@media(max-width:960px){
+  .cs-hero-grid,.cs-layout{grid-template-columns:1fr;gap:30px}
+  .cs-summary{position:static;order:-1}
+  .cs-hero-photo img{height:280px}
+  .cs-cta-inner{flex-direction:column;align-items:flex-start}
+  .cs-card-grid{grid-template-columns:1fr}
+}
+@media(max-width:560px){
+  .cs-page .container{padding-inline:16px}
+  .cs-hero h1{font-size:28px}
+  .cs-standfirst{font-size:16px}
+  .cs-hero-photo img{height:220px}
+  .cs-stats{grid-template-columns:1fr 1fr;gap:18px}
+  .cs-stats strong{font-size:22px}
+  .cs-block h2{font-size:22px}
+  .cs-block p{font-size:16px}
+  .cs-units{grid-template-columns:1fr}
+  .cs-card{grid-template-columns:1fr}
+  .cs-card img{min-height:0;height:190px}
+  .cs-button{width:100%;text-align:center}
+}
