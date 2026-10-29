@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CHEMICAL = '/chemical-process-plant-equipment-used-systems-for-sale/'
 GROUPS = {
     'chemical-plants': ('Chemical process plants', 'Complete plants, process lines and individual chemical equipment.', 'plant'),
+    'case-studies': ('Case studies', 'Idle plants IPP bought, restarted or relocated, with the results of each project.', 'plant'),
     'reactor': ('Reactors', 'Batch-type, fixed bed, fluid bed, hydrogenation and more.', 'vessel'),
     'heat-exchanger': ('Heat exchangers', 'Shell and tube, plate and frame, air cooled and other designs.', 'heat'),
     'centrifuge': ('Centrifuges', 'Basket, disc bowl, decanter and specialty centrifuge pages.', 'cycle'),
@@ -41,6 +42,14 @@ rewrites = {item['destination']: item['source'] for item in config.get('rewrites
 catalog = {key: [] for key in GROUPS}
 catalog['chemical-plants'].append({'title': 'Chemical process plants', 'url': CHEMICAL,
     'file': CHEMICAL.strip('/') + '/index.html', 'overview': True})
+catalog['case-studies'].append({'title': 'IPP case studies', 'url': '/case-studies/',
+    'file': 'case-studies/index.html', 'overview': True})
+for page in sorted((ROOT / 'case-studies').glob('*/index.html')):
+    if page.parent.name == 'review':
+        continue  # Internal fact-check page, not a case study.
+    title = ' '.join(' '.join(html.fromstring(page.read_bytes()).xpath('//h1//text()')).split())
+    catalog['case-studies'].append({'title': title, 'url': f'/case-studies/{page.parent.name}/',
+        'file': page.relative_to(ROOT).as_posix(), 'overview': False})
 
 for page in sorted((ROOT / 'equipment').rglob('*.html')):
     relative = page.relative_to(ROOT).as_posix()
@@ -73,7 +82,7 @@ for key, (name, description, icon) in GROUPS.items():
     types = sorted((page for page in pages if not page['overview']), key=lambda page: page['title'])
     options.append(f'<option value="{key}">{escape(name)}</option>')
     rows = ''.join(f'<li data-page-title="{escape(page["title"].lower(), quote=True)}"><a href="{escape(page["url"], quote=True)}">{escape(page["title"])}<span aria-hidden="true">↗</span></a></li>' for page in types)
-    details = f'<details><summary>Browse {len(types)} equipment types<span class="disclosure" aria-hidden="true">+</span></summary><ul>{rows}</ul></details>' if types else '<p class="single-page">Category overview</p>'
+    details = f'<details><summary>Browse {len(types)} {"case studies" if key == "case-studies" else "equipment types"}<span class="disclosure" aria-hidden="true">+</span></summary><ul>{rows}</ul></details>' if types else '<p class="single-page">Category overview</p>'
     noun = 'page' if len(pages) == 1 else 'pages'
     cards.append(f'''<article class="family" data-category="{key}" data-family-name="{escape(name.lower(), quote=True)}">
       <div class="family-meta"><svg viewBox="0 0 46 46" aria-hidden="true">{ICONS[icon]}</svg><span>{len(pages)} {noun}</span></div>
@@ -84,7 +93,7 @@ for key, (name, description, icon) in GROUPS.items():
 
 page_count = len(manifest)
 values = {'CARDS': '\n'.join(cards), 'OPTIONS': '\n'.join(options), 'PAGE_COUNT': str(page_count),
-          'FAMILY_COUNT': str(len(GROUPS)), 'EQUIPMENT_FAMILIES': str(len(GROUPS) - 1)}
+          'FAMILY_COUNT': str(len(GROUPS)), 'EQUIPMENT_FAMILIES': str(len(GROUPS) - 2)}
 template = (ROOT / 'src/hub-page.html').read_text(encoding='utf-8')
 for key, value in values.items():
     template = template.replace('{{' + key + '}}', value)

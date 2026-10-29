@@ -7,6 +7,55 @@
     "overview": true
   },
   {
+    "category": "case-studies",
+    "title": "IPP case studies",
+    "url": "/case-studies/",
+    "file": "case-studies/index.html",
+    "overview": true
+  },
+  {
+    "category": "case-studies",
+    "title": "Methanol Plant Relocation, Brazil to West Virginia",
+    "url": "/case-studies/methanol-plant-brazil-to-west-virginia/",
+    "file": "case-studies/methanol-plant-brazil-to-west-virginia/index.html",
+    "overview": false
+  },
+  {
+    "category": "case-studies",
+    "title": "MIBK Solvent Plant Relocation, Deer Park, TX to India",
+    "url": "/case-studies/mibk-solvent-plant-deer-park-tx/",
+    "file": "case-studies/mibk-solvent-plant-deer-park-tx/index.html",
+    "overview": false
+  },
+  {
+    "category": "case-studies",
+    "title": "Nitric Acid Plant Relocation, Pasadena, TX to India",
+    "url": "/case-studies/nitric-acid-plant-pasadena-tx/",
+    "file": "case-studies/nitric-acid-plant-pasadena-tx/index.html",
+    "overview": false
+  },
+  {
+    "category": "case-studies",
+    "title": "Oleochemical Plant Relocation and Site Redevelopment, Bromborough, UK",
+    "url": "/case-studies/oleochemical-plant-bromborough-uk/",
+    "file": "case-studies/oleochemical-plant-bromborough-uk/index.html",
+    "overview": false
+  },
+  {
+    "category": "case-studies",
+    "title": "PET Plant Repurposing, Darlington, SC",
+    "url": "/case-studies/pet-plant-darlington-sc/",
+    "file": "case-studies/pet-plant-darlington-sc/index.html",
+    "overview": false
+  },
+  {
+    "category": "case-studies",
+    "title": "Synthetic Chemical Site Repurposing, Kirkby, UK",
+    "url": "/case-studies/synthetic-chemical-site-kirkby-uk/",
+    "file": "case-studies/synthetic-chemical-site-kirkby-uk/index.html",
+    "overview": false
+  },
+  {
     "category": "reactor",
     "title": "Batch-Type Agitated Reactors",
     "url": "/buy-used-batch-type-agitated-reactors.html",
