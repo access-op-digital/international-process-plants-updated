@@ -49,7 +49,7 @@ CASES = [
                     ('Location', 'Darlington, South Carolina, USA'),
                     ('Capacity', '550 million lb PET bottle resin; 250 million lb amorphous PET resin'),
                     ('IPP’s role', 'Bought the site, took over its carrying costs and environmental obligations'),
-                    ('Result', 'Restart announced in 2016, expected to create at least 250 jobs')],
+                    ('Result', 'Restart announced in 2016; it was expected to create at least 250 jobs')],
         'challenge': [
             'The Darlington site combined polyester fiber production with two resin lines: 550 million lb '
             'of capacity for PET bottle resin and 250 million lb for amorphous PET resin. The property covers '
@@ -178,7 +178,7 @@ CASES = [
                     ('Location', 'Rio de Janeiro, Brazil; relocated to West Virginia, USA'),
                     ('Capacity', '750 tons/day'),
                     ('IPP’s role', 'Bought the idle plant, marketed it to US buyers, dismantled and relocated it'),
-                    ('Result', 'Being re-erected in West Virginia to supply methanol over-the-fence to a major consumer')],
+                    ('Result', 'Relocated for re-erection in West Virginia to supply methanol over-the-fence to a major consumer')],
         'challenge': [
             'A methanol plant in Rio de Janeiro, Brazil, had just completed a turnaround that raised its maximum capacity to '
             '750 tons/day. High natural gas costs in Brazil then forced the plant to shut down, leaving the '
@@ -190,9 +190,9 @@ CASES = [
             'The plant was then dismantled in Brazil and relocated to West Virginia for re-erection.',
         ],
         'results': [
-            'The plant is being re-erected in West Virginia, where it will provide methanol over-the-fence to a '
-            'major consumer. The arrangement lets the company produce methanol locally with low-cost gas and '
-            'avoid expensive freight charges.',
+            'The plant was being re-erected in West Virginia to provide methanol over-the-fence to a major '
+            'consumer. The arrangement was set up to let the company produce methanol locally with low-cost gas '
+            'and avoid expensive freight charges.',
         ],
         'units': None,
         'takeaway': 'A plant that cannot compete on feedstock cost in one country can compete in another. '
@@ -224,7 +224,7 @@ CASES = [
             'low as 300 tons/day.',
         ],
         'solution': [
-            'IPP purchased the plant to make room for the new installations at the site. The plant was then offered as a '
+            'IPP purchased the plant, clearing space for the site’s new installations. The plant was then offered as a '
             'complete unit for relocation.',
         ],
         'results': [
@@ -315,8 +315,8 @@ REVIEW = {
         'sources': 'Deck slide 11; live /case-studies/ Methanol tab.',
         'open': [
             'Outcome: the deck says "currently being re-erected"; the live page says it was re-erected and "continues to provide '
-            'methanol". The page follows the deck ("is being re-erected", "will provide"). If IPP confirms it is running, '
-            'switch to past tense.',
+            'methanol". The page keeps the deck’s meaning in past tense ("was being re-erected"). If IPP confirms it '
+            'is running, say so.',
             'City: the deck heading says Rio de Janeiro; the page now uses it. Both texts say only Brazil.',
             'Year, buyer and consumer names: not stated.',
         ],

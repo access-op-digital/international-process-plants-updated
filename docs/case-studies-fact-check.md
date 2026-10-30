@@ -54,7 +54,7 @@ Page: /case-studies/methanol-plant-brazil-to-west-virginia/
 
 Sources: Deck slide 11; live /case-studies/ Methanol tab.
 
-- Outcome: the deck says "currently being re-erected"; the live page says it was re-erected and "continues to provide methanol". The page follows the deck ("is being re-erected", "will provide"). If IPP confirms it is running, switch to past tense.
+- Outcome: the deck says "currently being re-erected"; the live page says it was re-erected and "continues to provide methanol". The page keeps the deck’s meaning in past tense ("was being re-erected"). If IPP confirms it is running, say so.
 - City: the deck heading says Rio de Janeiro; the page now uses it. Both texts say only Brazil.
 - Year, buyer and consumer names: not stated.
 
