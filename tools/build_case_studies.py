@@ -65,7 +65,7 @@ CASES = [
             'to improve efficiency.',
         ],
         'results': [
-            'In 2016, IPP announced that the plant would restart its fiber manufacturing facility to serve '
+            'In 2016, IPP announced that the plant would restart as a fiber manufacturing facility to serve '
             'specialty industrial and healthcare demand for high-quality polyester fiber. The project was '
             'expected to create at least 250 jobs and bring a new, low-cost domestic supplier of polyester '
             'fiber to the market.',
