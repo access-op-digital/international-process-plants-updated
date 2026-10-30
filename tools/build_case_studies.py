@@ -1,8 +1,9 @@
-"""Build the IPP case-study review pages: a hub, six project pages and a fact-check page.
+"""Build the IPP case-study review pages: a hub and six project pages, plus a fact-check list in docs/.
 
 Sources: the IPP corporate overview deck (Presentation2.pdf, slides 7-13) and the live
 https://internationalprocessplants.com/case-studies/ page. Every figure below appears in one
-of the two; anything neither confirms is listed on the review page, not written into a page.
+of the two; where they differ, the pages use the deck's wording. Open questions go to
+docs/case-studies-fact-check.md, which is not deployed.
 """
 from pathlib import Path
 from html import escape
@@ -26,9 +27,8 @@ CTA = {
                   'dismantling and shipping.',
                   ('Browse IPP plants', f'{LIVE}/plants/'), ('Contact IPP', f'{LIVE}/contact/')),
     'clear_site': ('Need to clear a shut-down unit from your site?',
-                   'IPP buys surplus process units and complete plants, so the space is freed without paying for '
-                   'demolition.',
-                   ('Sell to IPP', f'{LIVE}/sell-to-ipp/'), ('Contact IPP', f'{LIVE}/contact/')),
+                   'IPP buys shut-down process units and complete plants, and offers them for relocation.',
+                   ('Sell your plant to IPP', f'{LIVE}/sell-plants/'), ('Contact IPP', f'{LIVE}/contact/')),
 }
 
 CASES = [
@@ -36,20 +36,20 @@ CASES = [
         'slug': 'pet-plant-darlington-sc',
         'card': 'PET plant',
         'h1': 'PET Plant Repurposing, Darlington, SC',
-        'title': 'PET Plant Repurposing in Darlington, SC | IPP Case Study',
-        'desc': 'IPP bought a 760-acre PET plant in Darlington, SC, took over $300,000+ a month in carrying costs and its environmental obligations; it restarted in 2016.',
+        'title': 'PET Plant Repurposing Case Study, Darlington, SC | IPP',
+        'desc': 'IPP bought a 760-acre PET plant in Darlington, SC, took over $300,000+ monthly carrying costs and environmental obligations, and announced a 2016 restart.',
         'standfirst': 'A polyester fiber and PET resin site that cost its owner more than $300,000 a month to '
-                      'hold went back into production after IPP bought it.',
+                      'hold was set for a restart after IPP bought it.',
         'img': 'pet-plant-darlington-sc.jpg',
         'alt': 'PET resin and polyester fiber plant in Darlington, South Carolina',
         'cta': 'sell_plant',
         'stats': [('$300,000+', 'Monthly carrying cost taken over'), ('760 acres', 'Site area'),
-                  ('2016', 'Plant restarted'), ('250+', 'Jobs created')],
+                  ('2016', 'Restart announced'), ('250+', 'Jobs expected')],
         'summary': [('Industry', 'Polyester fiber and PET resin'),
                     ('Location', 'Darlington, South Carolina, USA'),
                     ('Capacity', '550 million lb PET bottle resin; 250 million lb amorphous PET resin'),
                     ('IPP’s role', 'Bought the site, took over its carrying costs and environmental obligations'),
-                    ('Result', 'Restarted in 2016 as a polyester fiber plant, creating at least 250 jobs')],
+                    ('Result', 'Restart announced in 2016, expected to create at least 250 jobs')],
         'challenge': [
             'The Darlington site combined polyester fiber production with two resin lines: 550 million pounds '
             'of capacity for PET bottle resin and 250 million pounds for amorphous PET resin. The property covers '
@@ -65,20 +65,21 @@ CASES = [
             'to improve efficiency.',
         ],
         'results': [
-            'In 2016 the plant restarted as a fiber manufacturing facility, serving specialty industrial and '
-            'healthcare demand for high-quality polyester fiber. IPP reports that the project created at least '
-            '250 jobs and brought a new, low-cost domestic supplier of polyester fiber to the market.',
+            'In 2016, IPP announced that the plant would restart its fiber manufacturing facility to serve '
+            'specialty industrial and healthcare demand for high-quality polyester fiber. The project was '
+            'expected to create at least 250 jobs and bring a new, low-cost domestic supplier of polyester '
+            'fiber to the market.',
         ],
         'units': None,
         'takeaway': 'An idle site keeps costing money every month. Selling the complete property to IPP, '
-                    'environmental obligations included, ended those costs for the owner and gave the plant a route '
-                    'back into production.',
+                    'environmental obligations included, ended those costs for the owner and set the plant up for '
+                    'a restart.',
     },
     {
         'slug': 'mibk-solvent-plant-deer-park-tx',
         'card': 'MIBK solvent plant',
         'h1': 'MIBK Solvent Plant Relocation, Deer Park, TX to India',
-        'title': 'MIBK Solvent Plant Relocation, Texas to India | IPP Case',
+        'title': 'MIBK Plant Relocation Case Study: Texas to India | IPP',
         'desc': 'IPP removed a 208 million lb/yr solvents complex from an operating Texas refinery and managed its dismantling and shipping for reinstallation in India.',
         'standfirst': 'A four-unit solvents complex left an operating refinery in Texas and now runs in '
                       'southeastern India.',
@@ -108,7 +109,6 @@ CASES = [
         'results': [
             'The plant has been reinstalled in southeastern India. IPP reports that it is now the only MIBK plant '
             'in operation in the country.',
-            'The refinery cleared the facility from its site, and the buyer gained a complete solvents complex.',
         ],
         'units': ('Units in the M&H plant complex', [
             'Methyl isobutyl carbinol (MIBC): 78 million lb/yr',
@@ -123,7 +123,7 @@ CASES = [
         'slug': 'synthetic-chemical-site-kirkby-uk',
         'card': 'Synthetic chemical complex',
         'h1': 'Synthetic Chemical Site Repurposing, Kirkby, UK',
-        'title': 'Synthetic Chemical Site Repurposing in Kirkby, UK | IPP',
+        'title': 'Synthetic Chemical Site Case Study: Kirkby, UK | IPP',
         'desc': 'IPP bought a 400,000 sq ft synthetic chemicals complex in Kirkby, UK, took on its environmental liability and turned the site into Knowsley Industrial Park.',
         'standfirst': 'A photographic chemicals complex closed in a bankruptcy restructuring became a '
                       'multi-tenant industrial park.',
@@ -131,12 +131,12 @@ CASES = [
         'alt': 'Aerial view of the synthetic chemical site at Knowsley Industrial Park, Kirkby, UK',
         'cta': 'sell_plant',
         'stats': [('400,000 sq ft', 'Chemicals and engineering complex'), ('1st', 'Environmental liability transfer in UK history'),
-                  ('250+', 'People employed on site'), ('200', 'Further jobs planned')],
+                  ('~250', 'People employed on site')],
         'summary': [('Industry', 'Synthetic photographic chemicals'),
                     ('Location', 'Kirkby, Knowsley, UK'),
                     ('Site', '400,000 sq ft chemicals and engineering complex'),
                     ('IPP’s role', 'Bought the complex and took on its environmental liability'),
-                    ('Result', 'Knowsley Industrial Park, employing 250+ people with 200 more jobs planned')],
+                    ('Result', 'Knowsley Industrial Park, employing approximately 250 people')],
         'challenge': [
             'A bankruptcy restructuring required the owner of a 400,000 sq ft synthetic photographic chemicals '
             'and engineering complex to close and sell it quickly. The complex had employed nearly 500 people, '
@@ -152,7 +152,8 @@ CASES = [
         ],
         'results': [
             'The site now operates as Knowsley Industrial Park. Tenants run new and existing units there, and the '
-            'park employs more than 250 people, with growth plans for 200 additional jobs.',
+            'park employs approximately 250 people. Growth plans at the time pointed to approximately 200 '
+            'additional jobs.',
         ],
         'units': ('Units operated by park tenants', [
             'Solvent recovery plant', 'Silver recovery plant', 'Pilot plant']),
@@ -163,20 +164,20 @@ CASES = [
         'slug': 'methanol-plant-brazil-to-west-virginia',
         'card': 'Methanol plant',
         'h1': 'Methanol Plant Relocation, Brazil to West Virginia',
-        'title': 'Methanol Plant Relocation, Brazil to West Virginia | IPP',
-        'desc': 'IPP bought a 750 ton/day methanol plant idled by gas costs in Brazil and relocated it to West Virginia, where it supplies a major consumer over-the-fence.',
-        'standfirst': 'A methanol plant idled by gas prices in Brazil now runs on low-cost gas in West Virginia, '
-                      'next to its customer.',
+        'title': 'Methanol Plant Relocation Case Study: Brazil to US | IPP',
+        'desc': 'IPP bought a 750 ton/day methanol plant idled by gas costs in Brazil and relocated it for re-erection in West Virginia to supply a major methanol consumer.',
+        'standfirst': 'A methanol plant idled by high gas costs in Brazil was dismantled and relocated for '
+                      're-erection in West Virginia.',
         'img': 'methanol-plant-brazil.jpg',
         'alt': 'Methanol plant distillation columns in Brazil before relocation',
         'cta': 'buy_plant',
         'stats': [('750 tons/day', 'Methanol capacity'), ('Brazil to USA', 'Relocation route'),
-                  ('Over-the-fence', 'Supply to a major consumer')],
+                  ('Over-the-fence', 'Planned supply to a major consumer')],
         'summary': [('Industry', 'Methanol'),
-                    ('Location', 'Brazil; re-erected in West Virginia, USA'),
+                    ('Location', 'Brazil; relocated to West Virginia, USA'),
                     ('Capacity', '750 tons/day'),
                     ('IPP’s role', 'Bought the idle plant, marketed it to US buyers, dismantled and relocated it'),
-                    ('Result', 'Re-erected in West Virginia, supplying methanol over-the-fence to a major consumer')],
+                    ('Result', 'Being re-erected in West Virginia to supply methanol over-the-fence to a major consumer')],
         'challenge': [
             'A methanol plant in Brazil had just completed a turnaround that raised its maximum capacity to '
             '750 tons/day. High natural gas costs in Brazil then forced the plant to shut down, leaving the '
@@ -188,29 +189,30 @@ CASES = [
             'The plant was then dismantled in Brazil and relocated to West Virginia for re-erection.',
         ],
         'results': [
-            'The plant was re-erected in West Virginia, where it provides methanol over-the-fence to a major '
-            'consumer. The company produces methanol locally with low-cost gas and avoids expensive freight '
-            'charges.',
+            'The plant is being re-erected in West Virginia, where it will provide methanol over-the-fence to a '
+            'major consumer. The arrangement lets the company produce methanol locally with low-cost gas and '
+            'avoid expensive freight charges.',
         ],
         'units': None,
         'takeaway': 'A plant that cannot compete on feedstock cost in one country can compete in another. '
-                    'IPP matched this unit to a market where its gas costs worked.',
+                    'IPP marketed this unit in the United States, where natural gas was attractive for methanol '
+                    'production.',
     },
     {
         'slug': 'nitric-acid-plant-pasadena-tx',
         'card': 'Nitric acid plant',
         'h1': 'Nitric Acid Plant Relocation, Pasadena, TX to India',
-        'title': 'Nitric Acid Plant Relocation from Texas to India | IPP Case',
-        'desc': 'IPP bought a shut-down 500 ton/day nitric acid plant in Pasadena, TX to free space for new installations, then sold it to a producer for relocation to India.',
-        'standfirst': 'A shut-down nitric acid plant made room for new installations in Texas and went to a '
-                      'producer in India.',
+        'title': 'Nitric Acid Plant Relocation Case Study, Pasadena | IPP',
+        'desc': 'IPP bought a 500 ton/day nitric acid plant in Pasadena, TX to free space for new installations and sold it to a manufacturer for relocation to India.',
+        'standfirst': 'A shut-down nitric acid plant made room for new installations in Texas and was sold to be '
+                      'relocated to India.',
         'img': 'nitric-acid-plant-pasadena-tx.jpg',
         'alt': 'Nitric acid plant piping and process structure in Pasadena, Texas',
         'cta': 'clear_site',
         'stats': [('500 tons/day', 'Rated capacity'), ('65%', 'Nitric acid concentration'),
                   ('300 tons/day', 'Turn-down capability')],
         'summary': [('Industry', 'Industrial chemicals (nitric acid)'),
-                    ('Location', 'Pasadena, Texas, USA; relocated to India'),
+                    ('Location', 'Pasadena, Texas, USA; sold for relocation to India'),
                     ('Capacity', '500 tons/day of 65% nitric acid, turn-down to 300 tons/day'),
                     ('IPP’s role', 'Bought the shut-down plant to clear the site, then resold it'),
                     ('Result', 'Sold to a major global nitric acid manufacturer for relocation to India')],
@@ -225,25 +227,24 @@ CASES = [
             'complete unit for relocation.',
         ],
         'results': [
-            'IPP sold the plant to a major global nitric acid manufacturer for relocation to India. The site '
-            'gained the space it needed, and the plant went to a producer in the same business.',
+            'IPP sold the plant to a major global nitric acid manufacturer, to be relocated to India.',
         ],
         'units': None,
-        'takeaway': 'Clearing a shut-down unit does not have to mean paying for demolition. Selling it as a '
-                    'working plant freed the site and sent the unit to a producer that could use it.',
+        'takeaway': 'A shut-down unit can leave a site as a complete plant. Selling it for relocation freed '
+                    'the space for new installations and placed the plant with a nitric acid manufacturer.',
     },
     {
         'slug': 'oleochemical-plant-bromborough-uk',
         'card': 'Oleochemical plant',
-        'h1': 'Oleochemical Plant Relocation and Site Redevelopment, Bromborough, UK',
-        'title': 'Oleochemical Plant Relocation in Bromborough, UK | IPP Case',
+        'h1': 'Oleochemical Plant Relocation, Bromborough, UK',
+        'title': 'Oleochemical Plant Relocation Case Study, Bromborough | IPP',
         'desc': 'IPP bought a 30-acre oleochemical site in Bromborough, UK, moved its units to Germany and the USA and turned the land into a mixed-use waterfront development.',
         'standfirst': 'One site, two exits: the process units moved to Germany and the USA, and the land became a '
                       'waterfront development.',
         'img': 'oleochemical-plant-bromborough-uk.jpg',
         'alt': 'Oleochemical plant distillation columns in Bromborough, UK',
         'cta': 'sell_plant',
-        'stats': [('30 acres', 'Fatty acids facility'), ('2', 'Countries the units moved to'),
+        'stats': [('30 acres', 'Fatty acids facility'), ('2 countries', 'Germany and the USA'),
                   ('2016', 'Planning & Placemaking Awards winner')],
         'summary': [('Industry', 'Oleochemicals'),
                     ('Location', 'Bromborough, UK'),
@@ -279,7 +280,8 @@ REVIEW = {
         'sources': 'Deck slide 7; live /case-studies/ PET tab.',
         'open': [
             'Restart: the deck says IPP "announced" a restart in 2016 and the jobs were "expected"; the live page says the plant '
-            'was restarted in 2016 and "created at least 250 jobs". The page follows the live page. Confirm the restart and job count.',
+            'was restarted in 2016 and "created at least 250 jobs". The page follows the deck. If IPP confirms the restart, '
+            'switch the page, hub and meta to past tense.',
             'Carrying cost: deck "over $300,000 per month", live "$300,000/month". Page uses "more than $300,000".',
             'Capacity basis: neither source gives a time unit for 550M lb / 250M lb. Pounds per year?',
             'The live page says "low-cost cosmetic supplier"; the deck says "domestic". Page uses "domestic".',
@@ -300,16 +302,18 @@ REVIEW = {
         'open': [
             'Seller: the deck names Kodak; the live page does not. Page leaves the seller unnamed until IPP confirms.',
             'Location: the deck title says Liverpool, the text says Kirkby and Knowsley Industrial Park. Page uses Kirkby, Knowsley.',
-            'Employees: deck "nearly 500", live "500". Park jobs: deck "approx. 250", live "250+". Page uses "nearly 500" and "more than 250".',
+            'Employees: deck "nearly 500", live "500". Park jobs: deck "approx. 250", live "250+". Page follows the deck: '
+            '"nearly 500" and "approximately 250".',
             '"First environmental liability transfer in UK history": published by IPP on both, written as an IPP report. Source?',
-            'Did the 200 planned jobs happen? Year of purchase?',
+            'The 200 additional jobs come from growth plans at the time; the page says so. Did they happen? Year of purchase?',
         ],
     },
     'methanol-plant-brazil-to-west-virginia': {
         'sources': 'Deck slide 11; live /case-studies/ Methanol tab.',
         'open': [
             'Outcome: the deck says "currently being re-erected"; the live page says it was re-erected and "continues to provide '
-            'methanol". The page follows the live page. Confirm it is still running.',
+            'methanol". The page follows the deck ("is being re-erected", "will provide"). If IPP confirms it is running, '
+            'switch to past tense.',
             'City: the deck heading says Rio de Janeiro; both texts say only Brazil. Page uses Brazil.',
             'Year, buyer and consumer names: not stated.',
         ],
@@ -317,7 +321,8 @@ REVIEW = {
     'nitric-acid-plant-pasadena-tx': {
         'sources': 'Deck slide 13 only (not on the live case-studies page).',
         'open': [
-            'Was the plant reinstalled in India, and is it running?',
+            'Was the plant reinstalled in India, and is it running? The page says only "sold, to be relocated to India".',
+            'The CTA no longer says sellers avoid demolition costs; add it back only if IPP approves that line.',
             'Whose "new installations" needed the space: the seller’s own expansion?',
             'Year, seller and buyer names: not stated.',
             'Thin source: about 90 words on the slide, so the page stays short.',
@@ -338,7 +343,8 @@ GLOBAL_OPEN = [
     'Where these pages will live on internationalprocessplants.com (the live /case-studies/ page is one tabbed page with 4 of these projects).',
     'Equipment links: the deck names no equipment for PET, Methanol or Nitric acid, so no equipment or listing links were added. '
     'Each page links to IPP’s plants or sell pages and to the other case studies.',
-    'Photos are cropped from the corporate deck slides. Original files would be sharper; please confirm they can be published.',
+    'Photos are cropped from the corporate deck slides. Ask IPP for the original files and confirm they can be published.',
+    'This list is internal: it is not deployed to Vercel and must not be migrated to WordPress.',
     'Savings figures were left out: the deck says 60% in one place and 30-50% / 50-60% in another, and the live page says 50%.',
 ]
 
@@ -347,7 +353,7 @@ def schema(c):
     url = f'{LIVE}/case-studies/{c["slug"]}/'
     return json.dumps({'@context': 'https://schema.org', '@graph': [
         {'@type': 'Article', 'headline': c['h1'], 'description': c['desc'], 'url': url,
-         'image': f'{LIVE}/case-studies/{c["img"]}',
+         'image': f'{LIVE}/assets/case-studies/{c["img"]}',
          'author': {'@type': 'Organization', 'name': 'International Process Plants'},
          'publisher': {'@type': 'Organization', 'name': 'International Process Plants', 'url': LIVE}},
         {'@type': 'BreadcrumbList', 'itemListElement': [
@@ -482,28 +488,23 @@ def hub_page():
                 f'{LIVE}/case-studies/', body)
 
 
-def review_page():
-    rows = ''.join(f'''<section class="cs-review-item"><h2><a href="/case-studies/{c['slug']}/">{escape(c['h1'])}</a></h2>
-  <p><strong>Sources:</strong> {escape(REVIEW[c['slug']]['sources'])}</p>
-  <ul>{''.join(f'<li>{escape(i)}</li>' for i in REVIEW[c['slug']]['open'])}</ul></section>''' for c in CASES)
-    body = f'''<section class="cs-hero cs-hero-hub"><div class="container">
-  {crumbs(('Case studies', '/case-studies/'), ('Fact check', None))}
-  <h1>Case studies: fact check for IPP</h1>
-  <p class="cs-standfirst">Internal review page, not for publishing. Each draft uses only figures from IPP’s corporate deck and the live case-studies page. These points need IPP to confirm before the pages go live.</p>
-</div></section>
-<div class="container cs-review">
-  <section class="cs-review-item"><h2>All pages</h2><ul>{''.join(f'<li>{escape(i)}</li>' for i in GLOBAL_OPEN)}</ul></section>
-  {rows}
-</div>'''
-    return page('Case studies fact check | IPP review', 'Internal fact-check list for the IPP case-study drafts.',
-                f'{LIVE}/case-studies/', body)
+def fact_check_md():
+    lines = ['# IPP case studies: fact check', '',
+             'Internal list, not for publishing. The drafts use figures from the IPP corporate deck and the live '
+             'case-studies page; where they differ, the pages follow the deck. IPP should confirm these points '
+             'before the pages go live.', '', '## All pages', '']
+    lines += [f'- {i}' for i in GLOBAL_OPEN]
+    for c in CASES:
+        lines += ['', f'## {c["h1"]}', '', f'Page: /case-studies/{c["slug"]}/', '',
+                  f'Sources: {REVIEW[c["slug"]]["sources"]}', '']
+        lines += [f'- {i}' for i in REVIEW[c['slug']]['open']]
+    return '\n'.join(lines) + '\n'
 
 
 def main():
     OUT.mkdir(exist_ok=True)
     (OUT / 'index.html').write_text(hub_page(), encoding='utf-8')
-    (OUT / 'review').mkdir(exist_ok=True)
-    (OUT / 'review' / 'index.html').write_text(review_page(), encoding='utf-8')
+    (ROOT / 'docs' / 'case-studies-fact-check.md').write_text(fact_check_md(), encoding='utf-8')
     for c in CASES:
         d = OUT / c['slug']
         d.mkdir(exist_ok=True)
