@@ -13,6 +13,7 @@ import re
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'case-studies'
 LIVE = 'https://internationalprocessplants.com'
+REVIEW_SITE = 'https://international-process-plants-update-one.vercel.app'
 CHEM_SRC = (ROOT / 'src' / 'chemical-page.html').read_text(encoding='utf-8')
 HEADER = re.search(r'<header class="site-header">.*?</header>', CHEM_SRC, re.S).group(0)
 FOOTER = re.search(r'<footer class="site-footer">.*?</footer>', CHEM_SRC, re.S).group(0)
@@ -521,7 +522,9 @@ def schema(c):
             {'@type': 'ListItem', 'position': 3, 'name': c['h1'], 'item': url}]}]}, ensure_ascii=False)
 
 
-def page(title, desc, canonical, body, extra_head=''):
+def page(title, desc, canonical, body, og_slug, og_alt, extra_head=''):
+    # Preview images are served from the review site, so link previews work before the pages move to WordPress.
+    og_img = f'{REVIEW_SITE}/assets/case-studies/og/{og_slug}.jpg'
     return f'''<!doctype html>
 <html lang="en">
 <head>
@@ -535,6 +538,14 @@ def page(title, desc, canonical, body, extra_head=''):
   <meta property="og:site_name" content="International Process Plants">
   <meta property="og:title" content="{escape(title)}">
   <meta property="og:description" content="{escape(desc)}">
+  <meta property="og:image" content="{og_img}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{escape(og_alt)}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{escape(title)}">
+  <meta name="twitter:description" content="{escape(desc)}">
+  <meta name="twitter:image" content="{og_img}">
   <link rel="stylesheet" href="/assets/chemical/fonts.css">
   <link rel="stylesheet" href="/assets/chemical/page.css">
   <link rel="stylesheet" href="/assets/case-studies/case.css">
@@ -623,7 +634,7 @@ def case_page(c):
 <section class="cs-related">
   <div class="container"><h2>More IPP case studies</h2><div class="cs-related-grid">{related}</div></div>
 </section>'''
-    return page(c['title'], c['desc'], f'{LIVE}/case-studies/{c["slug"]}/', body,
+    return page(c['title'], c['desc'], f'{LIVE}/case-studies/{c["slug"]}/', body, c['slug'], c['alt'],
                 f'<script type="application/ld+json">{schema(c)}</script>')
 
 
@@ -729,7 +740,8 @@ def hub_page():
     return page('IPP Case Studies: Plant Repurposing and Relocation | IPP',
                 'Six IPP case studies: idle plants bought, repurposed or relocated, from a PET plant in South Carolina '
                 'to a methanol plant moved from Brazil to West Virginia.',
-                f'{LIVE}/case-studies/', body)
+                f'{LIVE}/case-studies/', body, 'case-studies',
+                'IPP case study plants: a PET plant, an MIBK solvent plant and a methanol plant')
 
 
 def fact_check_md():
