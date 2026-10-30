@@ -94,7 +94,7 @@ CASES = [
                     ('IPP’s role', 'Bought and removed the facility, sold it, managed dismantling and shipping'),
                     ('Result', 'Reinstalled in southeastern India, now the only MIBK plant operating in the country')],
         'challenge': [
-            'IPP agreed to purchase and remove a solvents facility from a refinery complex in Deer Park, Texas. '
+            'IPP agreed to purchase and remove a solvents facility from a world-class refinery complex in Deer Park, Texas. '
             'The facility was a 208 million lb/yr M&H Plant complex built from four units.',
             'Its equipment was intertwined with several units that stayed in operation, so the dismantling had to '
             'happen inside a working refinery.',
@@ -295,7 +295,7 @@ REVIEW = {
             '"Only MIBK plant in operation in India": published by IPP on both. Confirm it is still true.',
             'Project year and timeline from agreement to reinstallation: not stated.',
             'Refinery and buyer names: not stated, left out.',
-            'Deck phrase "World Class Texas Refinery Complex" dropped as hype.',
+            'The deck’s "World Class Texas Refinery Complex" is now on the page as "world-class refinery complex" (all deck facts used, 2026-10-30).',
         ],
     },
     'synthetic-chemical-site-kirkby-uk': {
@@ -348,8 +348,159 @@ GLOBAL_OPEN = [
     'Each page links to IPP’s plants or sell pages and to the other case studies.',
     'Photos are cropped from the corporate deck slides. Ask IPP for the original files and confirm they can be published.',
     'This list is internal: it is not deployed to Vercel and must not be migrated to WordPress.',
-    'Savings figures were left out: the deck says 60% in one place and 30-50% / 50-60% in another, and the live page says 50%.',
+    'Savings (hub page): the deck gives "as much as 60%" on equipment (slide 15) and an average of 30-50% on used '
+    'equipment and 50-60% on complete plants (slide 21); both are on the hub as client statements. The live site '
+    'says 50% of capital cost and an 85% shorter lead time, which the hub does not use.',
+    'Company facts on the hub come from deck slides 2-6, 10, 14-21. Left out as slogans: "world’s leading source", '
+    '"World’s most trusted name", the tagline, and slide 2’s mission line (its title is missing a word). '
+    'The deck’s website, www.ippe.com, does not redirect to the current site, so the pages link to '
+    'internationalprocessplants.com instead.',
+    'Offices: slide 2 says 15 offices and slide 3 lists 15 countries; slide 17 names the HQ and 8 regional facilities. '
+    'The hub shows both lists as given.',
+    'Equipment photos (slide 16) carry no captions in the deck; the alt text describes what each photo shows.',
 ]
+
+# IPP business lines (deck slides 4, 6, 10, 14, 15). Each case study links to its line.
+SERVICES = {
+    'plants': {
+        'name': 'Complete process plants',
+        'img': 'service-complete-process-plants.jpg',
+        'alt': 'Aerial view of a complete process plant site with buildings, process units and ponds',
+        'text': [
+            'IPP buys and sells complete idled process plants, including the real estate, complete production '
+            'systems, buildings and intellectual property, for operation in place or for relocation.',
+            'By reusing the existing site infrastructure, IPP revitalizes dormant facilities so a new owner can get '
+            'its product to market with less CAPEX and in significantly less time. IPP purchases closed or idle '
+            'manufacturing facilities, including the real estate, buildings, complete production systems and '
+            'available intellectual assets, and may assume the environmental liabilities to remove the risk of '
+            'additional cleanup costs for the seller.',
+        ],
+    },
+    'units': {
+        'name': 'Process units and systems',
+        'img': 'service-process-units.jpg',
+        'alt': 'Process units and distillation columns at a coastal refinery site',
+        'text': [
+            'IPP buys and sells individual process lines when only part of a plant becomes available for sale, or '
+            'when the real estate is not available, and offers the line as a complete unit for relocation.',
+            'When a process unit shuts down, the owner often wants it removed to reduce carrying costs and make room '
+            'for future expansion. Instead of demolition, the most costly option, IPP resells the unit as a usable '
+            'second-hand system and weighs the value of the process equipment against the cost of demolition. IPP has '
+            'saved individual clients millions of dollars by taking responsibility for site dismantling and clean-up, '
+            'equipment removal and complete plant relocation.',
+            'IPP has purchased and relocated process units from virtually every major process manufacturing company '
+            'and hundreds of medium-sized enterprises, from units inside active plant sites to complete plant '
+            'closures. Most demolition projects cost the owner money; selling the plant for reuse yields a '
+            'bottom-line profit, at a significantly higher value than scrap.',
+        ],
+    },
+    'equipment': {
+        'name': 'Process equipment',
+        'img': 'service-process-equipment.jpg',
+        'alt': 'Stainless steel reactor, piping and columns inside a process plant',
+        'text': [
+            'IPP buys individual pieces of process equipment from customers worldwide, either surplus to ongoing '
+            'operations or from the liquidation of IPP’s complete plants, and offers them at significant '
+            'savings versus new, with immediate delivery.',
+            'The inventory covers second-hand, unused (from cancelled projects), rebuilt and re-glassed equipment, '
+            'much of it in exotic alloy, stainless steel and glass-lined construction. More than 15,000 pieces built '
+            'by hundreds of OEMs are available from IPP’s yards in the US, UK, Germany and Romania and from '
+            'plant sites around the globe, including ASME coded, TÜV certified and National Board stamped '
+            'equipment.',
+            'IPP often ships equipment directly from its original plant site, so buyers can also relocate the '
+            'ancillary equipment, such as valves, controls, piping and instrumentation, to further increase the value.',
+        ],
+    },
+}
+SERVICE_OF = {
+    'pet-plant-darlington-sc': 'plants', 'synthetic-chemical-site-kirkby-uk': 'plants',
+    'oleochemical-plant-bromborough-uk': 'plants', 'mibk-solvent-plant-deer-park-tx': 'units',
+    'methanol-plant-brazil-to-west-virginia': 'units', 'nitric-acid-plant-pasadena-tx': 'units',
+}
+
+# Company facts for the hub (deck slides 2, 3, 5, 15-22).
+ABOUT = [
+    'International Process Plants (IPP) buys and sells second-hand industrial process plants, process systems '
+    'and individual process equipment. Its portfolio holds more than 100 complete process plants, 15 complete '
+    'industrial sites including the real estate, manufacturing assets and intellectual property, and more than '
+    '15,000 individual pieces of ready-to-ship process equipment.',
+    'IPP is headquartered in Princeton Junction, New Jersey, between New York City and Philadelphia, and works '
+    'through 15 offices around the world. Over the past 40 years its customer base has grown to 160,000 '
+    'relationships, including all of the Fortune 100 members within the process industries and tens of thousands '
+    'of small and midsize manufacturers.',
+]
+ABOUT_STATS = [('100+', 'Complete process plants'), ('15', 'Complete industrial sites'),
+               ('15,000+', 'Pieces of process equipment'), ('15', 'Offices worldwide'),
+               ('160,000', 'Customer relationships'), ('40 years', 'In the process industries')]
+APPROACH = [
+    'Primarily a buyer, not a broker, of plants and equipment worldwide.',
+    'A relationship company rather than a transactional one, working with plant owners and buyers on their '
+    'overall strategy over decades, not just one plant.',
+    'A 40+ year reputation for honesty, integrity and fairness.',
+    'Sales professionals with more than 275 combined years of experience in the process plant and equipment business.',
+    'An extensive, diverse portfolio of plants, systems and equipment; if IPP does not have what a buyer needs, it '
+    'finds out what is available on the market.',
+    'Turnkey relocation and dismantling/demolition projects worldwide, inside active plants and during complete '
+    'plant closures.',
+    'Experience assuming environmental remediation responsibilities in certain plant real estate transactions.',
+]
+INDUSTRIES = ['Petrochemical', 'Industrial chemical', 'Agrichemical and fertilizer', 'Oil refining',
+              'Fine and specialty chemical', 'Polymers', 'Artificial fiber', 'Power generation',
+              'Oil and gas processing', 'Pharmaceutical', 'Food processing', 'Paper',
+              'Metals processing and refining', 'Alternative fuels']
+EQUIPMENT_CATEGORIES = ['Agitators', 'Bins and silos', 'Blowers', 'Boilers', 'Briquetters and Chilsonators',
+                        'Calciners and kilns', 'Centrifuges', 'Chillers and ice systems', 'Columns', 'Compressors',
+                        'Conveyors', 'Cooling towers', 'Cutters', 'Dryers', 'Dust collectors',
+                        'Electrical generators', 'Evaporators', 'Extruders', 'Fermenters and bioreactors',
+                        'Filters', 'Glass parts', 'Heat exchangers', 'Incinerators', 'Mills', 'Mixers',
+                        'Packaging equipment', 'Plastics equipment', 'Pulp and paper equipment', 'Pulverizers',
+                        'Pumps', 'Reactors', 'Screens and separators', 'Scrubbers', 'Tanks']
+EQUIPMENT_PHOTOS = [('equipment-centrifuge.jpg', 'Blue industrial centrifuge on a skid'),
+                    ('equipment-vessel.jpg', 'Blue horizontal process vessel with nozzles'),
+                    ('equipment-dryer.jpg', 'Stainless steel fluid bed unit'),
+                    ('equipment-compressor.jpg', 'Machinery package with insulated piping'),
+                    ('equipment-heat-exchanger.jpg', 'Shell and tube heat exchanger'),
+                    ('equipment-turbine-generator.jpg', 'Turbine generator set in a plant hall')]
+SAVINGS = [
+    'Clients tell IPP they save as much as 60% when they buy equipment from IPP instead of new from the OEM.',
+    'On average, clients report savings of 30 to 50% on used equipment and 50 to 60% on complete plants, '
+    'compared with buying new from the OEM.',
+    'For many clients in mature, global industries, buying an existing plant was the only economically viable '
+    'way to meet their expansion plans.',
+]
+SELLER_INTRO = ('IPP manages and executes the entire process of selling process plants and equipment to end '
+                'users, so the previous owner can focus on its business instead of selling parts and pieces and '
+                'managing their removal. Removal is planned to minimize the impact on the seller’s ongoing '
+                'operations on site.')
+SELLER_AVOIDS = ['Demolition', 'Real estate taxes', 'Removing idle assets from the site',
+                 'Trying to sell redundant assets', 'Managing demolition projects',
+                 'Hours of personnel time spent managing closure activities instead of the core business']
+SELLER_SIMPLER = ['One buyer and one contact, not 50 buyers', 'IPP manages the dismantling project',
+                  'IPP manages the clean-up project']
+REUSE = ('When plants or equipment fall out of use at one manufacturer, they are traditionally scrapped, usually '
+         'while they still have useful life left. IPP’s mission is to reduce the need for new equipment by '
+         'reusing existing equipment elsewhere in the world. That lowers the environmental impact and gets '
+         'customers into production faster and at a lower cost.')
+ONE_STOP = ('From selling and purchasing to demolishing, dismantling and shipping, IPP covers every step in one '
+            'place, so owners can focus on their plant or process.')
+FAQ = [
+    ('A used plant comes without a performance warranty. How do I know it will work?',
+     'IPP buys and offers plants with documentation of their performance and operating condition before '
+     'shutdown. Once the plant is dismantled, packed, shipped, reconditioned as required and reinstalled with '
+     'consideration for climate differences, it will produce the same quantity and quality of product from the '
+     'same inputs. IPP considers this better than the 10% performance guarantee offered with a new plant.'),
+    ('Do second-hand plants and equipment have a limited useful life?',
+     'Most of IPP’s equipment was operated by companies with aggressive maintenance programs, so even rotating '
+     'equipment and equipment in heavy service was properly maintained. As long as the new owner continues the '
+     'manufacturer’s required maintenance, the plants and equipment can have their useful lives extended.'),
+]
+HQ = ('IPP World Headquarters', '410 Princeton-Hightstown Road, Princeton Junction, NJ 08550, USA', '+1 609 586 8004')
+FACILITIES = [('IPP U.K.', 'Storage facility and sales office'), ('IPP India & Far East', 'Sales office'),
+              ('IPP Czech Republic', 'Sales office'), ('IPP China', 'Representative office'),
+              ('IPP Germany', 'Storage facility and workshop'), ('UPE Romania', 'Reglass facility and workshop'),
+              ('IPP Egypt', 'Representative office'), ('IPP Windsor, NJ, USA', 'Storage facility and workshop')]
+OFFICE_COUNTRIES = ['Argentina', 'China', 'Czech Republic', 'Egypt', 'France', 'Germany', 'India', 'Italy', 'Poland',
+                    'Portugal', 'Romania', 'Russia', 'Turkey', 'United Kingdom', 'United States']
 
 
 def schema(c):
@@ -415,7 +566,12 @@ def paras(items):
 
 def case_page(c):
     stats = ''.join(f'<li><strong>{escape(v)}</strong><span>{escape(k)}</span></li>' for v, k in c['stats'])
-    summary = ''.join(f'<div><dt>{escape(k)}</dt><dd>{escape(v)}</dd></div>' for k, v in c['summary'])
+    service = SERVICES[SERVICE_OF[c['slug']]]
+    rows = c['summary'][:-1] + [('IPP service', service['name'])] + c['summary'][-1:]
+    summary = ''.join(f'<div><dt>{escape(k)}</dt><dd>{escape(v)}</dd></div>' for k, v in rows)
+    service_block = (f'<section class="cs-block cs-service"><h2>IPP service: {escape(service["name"])}</h2>'
+                     f'{paras(service["text"])}<p><a href="/case-studies/#ipp-services">How IPP works across '
+                     f'plants, units and equipment <span aria-hidden="true">→</span></a></p></section>')
     units = ''
     if c['units']:
         head, items = c['units']
@@ -446,6 +602,7 @@ def case_page(c):
     <section class="cs-block"><h2>The results</h2>{paras(c['results'])}</section>
     {units}
     <section class="cs-block cs-takeaway"><h2>What this means for plant owners</h2><p>{escape(c['takeaway'])}</p></section>
+    {service_block}
   </article>
   <aside class="cs-summary" aria-label="Project summary">
     <h2>Project summary</h2>
@@ -465,6 +622,83 @@ def case_page(c):
                 f'<script type="application/ld+json">{schema(c)}</script>')
 
 
+def bullets(items, cls=''):
+    return f'<ul class="{cls}">' + ''.join(f'<li>{escape(i)}</li>' for i in items) + '</ul>'
+
+
+def company_sections():
+    stats = ''.join(f'<li><strong>{escape(v)}</strong><span>{escape(k)}</span></li>' for v, k in ABOUT_STATS)
+    services = ''
+    for key, s in SERVICES.items():
+        cases = [c for c in CASES if SERVICE_OF[c['slug']] == key]
+        links = (('<p class="cs-service-cases"><strong>Case studies:</strong> '
+                  + ', '.join(f'<a href="/case-studies/{c["slug"]}/">{escape(c["card"])}</a>' for c in cases)
+                  + '</p>') if cases else '')
+        services += (f'<article class="cs-service-card"><img src="/assets/case-studies/{s["img"]}" '
+                     f'alt="{escape(s["alt"])}" loading="lazy" width="500" height="300"><div>'
+                     f'<h3>{escape(s["name"])}</h3>{paras(s["text"])}{links}</div></article>')
+    photos = ''.join(f'<figure><img src="/assets/case-studies/{f}" alt="{escape(a)}" loading="lazy" width="360" '
+                     f'height="260"></figure>' for f, a in EQUIPMENT_PHOTOS)
+    faq = ''.join(f'<details><summary>{escape(q)}</summary><p>{escape(a)}</p></details>' for q, a in FAQ)
+    facilities = ''.join(f'<li><strong>{escape(n)}</strong><span>{escape(r)}</span></li>' for n, r in FACILITIES)
+    return f'''<section class="cs-section" id="about-ipp">
+  <div class="container">
+    <h2>About International Process Plants</h2>
+    <div class="cs-two-col"><div>{paras(ABOUT)}</div>
+    <div><h3>How IPP works with plant owners and buyers</h3>{bullets(APPROACH, 'cs-checks')}</div></div>
+    <ul class="cs-about-stats">{stats}</ul>
+  </div>
+</section>
+<section class="cs-section cs-section-alt" id="ipp-services">
+  <div class="container">
+    <h2>IPP’s three business areas</h2>
+    <div class="cs-service-grid">{services}</div>
+  </div>
+</section>
+<section class="cs-section" id="equipment">
+  <div class="container">
+    <h2>Process equipment inventory categories</h2>
+    <p>IPP’s process equipment inventory is organized into these categories:</p>
+    {bullets(EQUIPMENT_CATEGORIES, 'cs-chips')}
+    <div class="cs-photo-grid">{photos}</div>
+  </div>
+</section>
+<section class="cs-section cs-section-alt" id="industries">
+  <div class="container">
+    <h2>Industries IPP focuses on</h2>
+    {bullets(INDUSTRIES, 'cs-chips')}
+  </div>
+</section>
+<section class="cs-section" id="savings">
+  <div class="container cs-two-col">
+    <div><h2>What clients report saving</h2>{bullets(SAVINGS, 'cs-checks')}</div>
+    <div><h2>Reduce, reuse, recycle</h2><p>{escape(REUSE)}</p><h3>One stop shop</h3><p>{escape(ONE_STOP)}</p></div>
+  </div>
+</section>
+<section class="cs-section cs-section-alt" id="sellers">
+  <div class="container">
+    <h2>Why plant owners sell to IPP</h2>
+    <p>{escape(SELLER_INTRO)}</p>
+    <div class="cs-two-col"><div><h3>Costs a seller avoids</h3>{bullets(SELLER_AVOIDS, 'cs-checks')}</div>
+    <div><h3>Simpler, quicker and more cost-effective than selling alone</h3>{bullets(SELLER_SIMPLER, 'cs-checks')}</div></div>
+  </div>
+</section>
+<section class="cs-section" id="questions">
+  <div class="container cs-faq">
+    <h2>Common questions about used plants and equipment</h2>
+    {faq}
+  </div>
+</section>
+<section class="cs-section cs-section-alt" id="offices">
+  <div class="container">
+    <h2>IPP headquarters and regional offices</h2>
+    <div class="cs-two-col"><div><h3>{escape(HQ[0])}</h3><p>{escape(HQ[1])}<br><a href="tel:+16095868004">{escape(HQ[2])}</a></p>
+    <h3>Countries with IPP offices</h3>{bullets(OFFICE_COUNTRIES, 'cs-chips')}</div>
+    <div><h3>Regional facilities</h3><ul class="cs-facilities">{facilities}</ul></div></div>
+  </div>
+</section>'''
+
+
 def hub_page():
     cards = ''.join(f'''<a class="cs-card" href="/case-studies/{c['slug']}/">
   <img src="/assets/case-studies/{c['img']}" alt="{escape(c['alt'])}" loading="lazy" width="400" height="260">
@@ -479,6 +713,7 @@ def hub_page():
   </div>
 </section>
 <section class="cs-hub"><div class="container cs-card-grid">{cards}</div></section>
+{company_sections()}
 <section class="cs-cta">
   <div class="container cs-cta-inner">
     <div><h2>{escape(CTA['sell_plant'][0])}</h2><p>{escape(CTA['sell_plant'][1])}</p></div>
