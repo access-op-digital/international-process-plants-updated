@@ -358,7 +358,7 @@ GLOBAL_OPEN = [
     'is still left out because its title is missing a word. '
     'The deck’s website, www.ippe.com, does not redirect to the current site, so the pages link to '
     'internationalprocessplants.com instead.',
-    'Offices: slide 2 says 15 offices and slide 3 lists 15 countries; slide 17 names the HQ and 8 regional facilities. '
+    'Offices: slide 2 says 15 offices and slide 3 lists 15 countries; slide 17 names the HQ and 8 regional facilities. The hub says "offices in 15 countries" everywhere (QC round 2). '
     'The hub shows both lists as given.',
     'Equipment photos (slide 16) carry no captions in the deck; the alt text describes what each photo shows.',
 ]
@@ -430,13 +430,13 @@ ABOUT = [
     'leading source of good quality, second-hand industrial process plants, process systems and individual '
     'process equipment.',
     'IPP is headquartered in Princeton Junction, New Jersey, between New York City and Philadelphia, and works '
-    'through 15 offices around the world. Over the past 40 years its customer base has grown to 160,000 '
+    'through offices in 15 countries. Over the past 40 years its customer base has grown to 160,000 '
     'relationships, including all of the Fortune 100 members within the process industries and tens of thousands '
     'of small and midsize manufacturers.',
     'IPP’s tagline sums up the offer: Your Partner for Complete Plant Solutions.',
 ]
 ABOUT_STATS = [('100+', 'Complete process plants'), ('15', 'Complete industrial sites'),
-               ('15,000+', 'Pieces of process equipment'), ('15', 'Offices worldwide'),
+               ('15,000+', 'Pieces of process equipment'), ('15', 'Countries with offices'),
                ('160,000', 'Customer relationships'), ('40 years', 'In the process industries')]
 APPROACH = [
     'Primarily a buyer, not a broker, of plants and equipment worldwide.',
@@ -500,7 +500,7 @@ FAQ = [
      'equipment and equipment in heavy service was properly maintained. As long as the new owner continues the '
      'manufacturer’s required maintenance, the plants and equipment can have their useful lives extended.'),
 ]
-HQ = ('IPP World Headquarters', '410 Princeton-Hightstown Road, Princeton Junction, NJ 08550, USA', '+1 609 586 8004')
+HQ = ('IPP World Headquarters', '410 Princeton Hightstown Road, Princeton Junction, NJ 08550, USA', '+1 609-586-8004')
 FACILITIES = [('IPP U.K.', 'Storage facility and sales office'), ('IPP India & Far East', 'Sales office'),
               ('IPP Czech Republic', 'Sales office'), ('IPP China', 'Representative office'),
               ('IPP Germany', 'Storage facility and workshop'), ('UPE Romania', 'Reglass facility and workshop'),

@@ -10,7 +10,7 @@ Internal list, not for publishing. The drafts use figures from the IPP corporate
 - This list is internal: it is not deployed to Vercel and must not be migrated to WordPress.
 - Savings (hub page): the deck gives "as much as 60%" on equipment (slide 15) and an average of 30-50% on used equipment and 50-60% on complete plants (slide 21); both are on the hub as client statements. The live site says 50% of capital cost and an 85% shorter lead time, which the hub does not use.
 - Company facts on the hub come from deck slides 2-6, 10, 14-21. The slogans are on the hub too (added 2026-10-30 at the user’s request): "world’s leading source", "world’s most trusted name in idled manufacturing plants" (the deck heading drops "in"; it was added) and the tagline. Slide 2’s mission line is still left out because its title is missing a word. The deck’s website, www.ippe.com, does not redirect to the current site, so the pages link to internationalprocessplants.com instead.
-- Offices: slide 2 says 15 offices and slide 3 lists 15 countries; slide 17 names the HQ and 8 regional facilities. The hub shows both lists as given.
+- Offices: slide 2 says 15 offices and slide 3 lists 15 countries; slide 17 names the HQ and 8 regional facilities. The hub says "offices in 15 countries" everywhere (QC round 2). The hub shows both lists as given.
 - Equipment photos (slide 16) carry no captions in the deck; the alt text describes what each photo shows.
 
 ## PET Plant Repurposing, Darlington, SC
