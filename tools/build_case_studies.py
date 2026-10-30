@@ -90,17 +90,17 @@ CASES = [
                   ('Texas to India', 'Relocation route')],
         'summary': [('Industry', 'Industrial solvents'),
                     ('Location', 'Deer Park, Texas, USA; reinstalled in southeastern India'),
-                    ('Capacity', '208 million lb/yr M&H plant complex'),
+                    ('Capacity', '208 million lb/yr M&H Plant complex'),
                     ('IPP’s role', 'Bought and removed the facility, sold it, managed dismantling and shipping'),
                     ('Result', 'Reinstalled in southeastern India, now the only MIBK plant operating in the country')],
         'challenge': [
             'IPP agreed to purchase and remove a solvents facility from a refinery complex in Deer Park, Texas. '
-            'The facility was a 208 million lb/yr M&H plant complex built from four units.',
+            'The facility was a 208 million lb/yr M&H Plant complex built from four units.',
             'Its equipment was intertwined with several units that stayed in operation, so the dismantling had to '
             'happen inside a working refinery.',
         ],
         'solution': [
-            'After several months of evaluation and feasibility studies, IPP sold the M&H plant to an IPP '
+            'After several months of evaluation and feasibility studies, IPP sold the M&H Plant to an IPP '
             'customer for relocation to India and took responsibility for dismantling and shipping.',
             'IPP and its contractors worked under the refinery’s Environmental Health and Safety policies, '
             'which were stricter because of the live units around the equipment. The dismantling was surgical, '
@@ -110,7 +110,7 @@ CASES = [
             'The plant has been reinstalled in southeastern India. IPP reports that it is now the only MIBK plant '
             'in operation in the country.',
         ],
-        'units': ('Units in the M&H plant complex', [
+        'units': ('Units in the M&H Plant complex', [
             'Methyl isobutyl carbinol (MIBC): 78 million lb/yr',
             'Methyl isobutyl ketone (MIBK): 78 million lb/yr',
             'Di-acetone alcohol (DAA): 34 million lb/yr',
