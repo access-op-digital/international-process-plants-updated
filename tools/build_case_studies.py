@@ -405,7 +405,7 @@ SERVICES = {
             'IPP buys individual pieces of process equipment from customers worldwide, either surplus to ongoing '
             'operations or from the liquidation of IPP’s complete plants, and offers them at significant '
             'savings versus new, with immediate delivery.',
-            'The inventory covers second-hand, unused (from cancelled projects), rebuilt and re-glassed equipment, '
+            'The inventory covers second-hand, unused (from canceled projects), rebuilt and re-glassed equipment, '
             'much of it in exotic alloy, stainless steel and glass-lined construction. More than 15,000 pieces built '
             'by hundreds of OEMs are available from IPP’s yards in the US, UK, Germany and Romania and from '
             'plant sites around the globe, including ASME coded, TÜV certified and National Board stamped '
