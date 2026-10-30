@@ -472,7 +472,7 @@ def hub_page():
   <div class="container">
     {crumbs(('Case studies', None))}
     <h1>IPP Case Studies</h1>
-    <p class="cs-standfirst">Six projects where International Process Plants bought an idle plant, a process unit or a complete site, and found it a new use: a restart, a relocation or a new industrial park.</p>
+    <p class="cs-standfirst">Six projects where International Process Plants bought an idle plant, a process unit or a complete site, and found it a new use: a planned restart, a relocation or a new industrial park.</p>
   </div>
 </section>
 <section class="cs-hub"><div class="container cs-card-grid">{cards}</div></section>
@@ -482,8 +482,8 @@ def hub_page():
     <div class="cs-cta-buttons"><a class="cs-button" href="{LIVE}/sell-plants/">Sell your plant to IPP <span aria-hidden="true">→</span></a><a class="cs-button cs-button-outline" href="{LIVE}/plants/">Browse IPP plants</a></div>
   </div>
 </section>'''
-    return page('IPP Case Studies: Plant Restarts and Relocations | IPP',
-                'Six IPP case studies: idle plants bought, restarted or relocated, from a PET plant in South Carolina '
+    return page('IPP Case Studies: Plant Repurposing and Relocation | IPP',
+                'Six IPP case studies: idle plants bought, repurposed or relocated, from a PET plant in South Carolina '
                 'to a methanol plant moved from Brazil to West Virginia.',
                 f'{LIVE}/case-studies/', body)
 
