@@ -148,7 +148,7 @@ CASES = [
             'IPP purchased the complex and took on its environmental liability. IPP reports this as the first '
             'environmental liability transfer in the history of the United Kingdom, and it absolved Kodak of '
             'further responsibility for environmental cleanup.',
-            'The site’s flexible unit operations were then put to new use, and IPP created an active '
+            'The site’s flexible and profitable unit operations were then put to new use, and IPP created an active '
             'industrial business park on the site.',
         ],
         'results': [
