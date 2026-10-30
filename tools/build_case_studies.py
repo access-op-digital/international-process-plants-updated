@@ -351,8 +351,10 @@ GLOBAL_OPEN = [
     'Savings (hub page): the deck gives "as much as 60%" on equipment (slide 15) and an average of 30-50% on used '
     'equipment and 50-60% on complete plants (slide 21); both are on the hub as client statements. The live site '
     'says 50% of capital cost and an 85% shorter lead time, which the hub does not use.',
-    'Company facts on the hub come from deck slides 2-6, 10, 14-21. Left out as slogans: "world’s leading source", '
-    '"World’s most trusted name", the tagline, and slide 2’s mission line (its title is missing a word). '
+    'Company facts on the hub come from deck slides 2-6, 10, 14-21. The slogans are on the hub too (added '
+    '2026-10-30 at the user’s request): "world’s leading source", "world’s most trusted name in idled '
+    'manufacturing plants" (the deck heading drops "in"; it was added) and the tagline. Slide 2’s mission line '
+    'is still left out because its title is missing a word. '
     'The deck’s website, www.ippe.com, does not redirect to the current site, so the pages link to '
     'internationalprocessplants.com instead.',
     'Offices: slide 2 says 15 offices and slide 3 lists 15 countries; slide 17 names the HQ and 8 regional facilities. '
@@ -423,11 +425,14 @@ ABOUT = [
     'International Process Plants (IPP) buys and sells second-hand industrial process plants, process systems '
     'and individual process equipment. Its portfolio holds more than 100 complete process plants, 15 complete '
     'industrial sites including the real estate, manufacturing assets and intellectual property, and more than '
-    '15,000 individual pieces of ready-to-ship process equipment.',
+    '15,000 individual pieces of ready-to-ship process equipment. This inventory has made IPP the world’s '
+    'leading source of good quality, second-hand industrial process plants, process systems and individual '
+    'process equipment.',
     'IPP is headquartered in Princeton Junction, New Jersey, between New York City and Philadelphia, and works '
     'through 15 offices around the world. Over the past 40 years its customer base has grown to 160,000 '
     'relationships, including all of the Fortune 100 members within the process industries and tens of thousands '
     'of small and midsize manufacturers.',
+    'IPP’s tagline sums up the offer: Your Partner for Complete Plant Solutions.',
 ]
 ABOUT_STATS = [('100+', 'Complete process plants'), ('15', 'Complete industrial sites'),
                ('15,000+', 'Pieces of process equipment'), ('15', 'Offices worldwide'),
@@ -692,6 +697,7 @@ def company_sections():
 <section class="cs-section cs-section-alt" id="offices">
   <div class="container">
     <h2>IPP headquarters and regional offices</h2>
+    <p>The world’s most trusted name in idled manufacturing plants, IPP works through offices in 15 countries.</p>
     <div class="cs-two-col"><div><h3>{escape(HQ[0])}</h3><p>{escape(HQ[1])}<br><a href="tel:+16095868004">{escape(HQ[2])}</a></p>
     <h3>Countries with IPP offices</h3>{bullets(OFFICE_COUNTRIES, 'cs-chips')}</div>
     <div><h3>Regional facilities</h3><ul class="cs-facilities">{facilities}</ul></div></div>
