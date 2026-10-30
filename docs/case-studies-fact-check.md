@@ -39,8 +39,8 @@ Page: /case-studies/synthetic-chemical-site-kirkby-uk/
 
 Sources: Deck slide 8; live /case-studies/ Synthetic Chemical tab.
 
-- Seller: the deck names Kodak; the live page does not. Page leaves the seller unnamed until IPP confirms.
-- Location: the deck title says Liverpool, the text says Kirkby and Knowsley Industrial Park. Page uses Kirkby, Knowsley.
+- Seller: the deck names Kodak and the page now does too (decided 2026-10-30: the deck is client data). IPP’s live case-studies page does not name Kodak, so confirm IPP is happy to publish it.
+- Location: the deck title says Liverpool, the text says Kirkby and Knowsley Industrial Park. Page uses "Kirkby, near Liverpool".
 - Employees: deck "nearly 500", live "500". Park jobs: deck "approx. 250", live "250+". Page follows the deck: "nearly 500" and "approximately 250".
 - "First environmental liability transfer in UK history": published by IPP on both, written as an IPP report. Source?
 - The 200 additional jobs come from growth plans at the time; the page says so. Did they happen? Year of purchase?
@@ -52,7 +52,7 @@ Page: /case-studies/methanol-plant-brazil-to-west-virginia/
 Sources: Deck slide 11; live /case-studies/ Methanol tab.
 
 - Outcome: the deck says "currently being re-erected"; the live page says it was re-erected and "continues to provide methanol". The page follows the deck ("is being re-erected", "will provide"). If IPP confirms it is running, switch to past tense.
-- City: the deck heading says Rio de Janeiro; both texts say only Brazil. Page uses Brazil.
+- City: the deck heading says Rio de Janeiro; the page now uses it. Both texts say only Brazil.
 - Year, buyer and consumer names: not stated.
 
 ## Nitric Acid Plant Relocation, Pasadena, TX to India

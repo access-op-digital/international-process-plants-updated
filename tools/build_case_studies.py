@@ -124,29 +124,30 @@ CASES = [
         'card': 'Synthetic chemical complex',
         'h1': 'Synthetic Chemical Site Repurposing, Kirkby, UK',
         'title': 'Synthetic Chemical Site Case Study: Kirkby, UK | IPP',
-        'desc': 'IPP bought a 400,000 sq ft synthetic chemicals complex in Kirkby, UK, took on its environmental liability and turned the site into Knowsley Industrial Park.',
-        'standfirst': 'A photographic chemicals complex closed in a bankruptcy restructuring became a '
-                      'multi-tenant industrial park.',
+        'desc': 'IPP bought Kodak’s 400,000 sq ft synthetic chemicals complex in Kirkby, UK, took on its environmental liability and turned it into Knowsley Industrial Park.',
+        'standfirst': 'Kodak’s synthetic photographic chemicals complex, closed in a bankruptcy restructuring, '
+                      'became a multi-tenant industrial park.',
         'img': 'synthetic-chemical-site-kirkby-uk.jpg',
-        'alt': 'Aerial view of the synthetic chemical site at Knowsley Industrial Park, Kirkby, UK',
+        'alt': 'Aerial view of the former Kodak synthetic chemicals site, now Knowsley Industrial Park, Kirkby, UK',
         'cta': 'sell_plant',
         'stats': [('400,000 sq ft', 'Chemicals and engineering complex'), ('1st', 'Environmental liability transfer in UK history'),
                   ('~250', 'People employed on site')],
         'summary': [('Industry', 'Synthetic photographic chemicals'),
-                    ('Location', 'Kirkby, Knowsley, UK'),
+                    ('Location', 'Kirkby, near Liverpool, UK'),
+                    ('Seller', 'Kodak, as part of its bankruptcy restructuring'),
                     ('Site', '400,000 sq ft chemicals and engineering complex'),
                     ('IPP’s role', 'Bought the complex and took on its environmental liability'),
                     ('Result', 'Knowsley Industrial Park, employing approximately 250 people')],
         'challenge': [
-            'A bankruptcy restructuring required the owner of a 400,000 sq ft synthetic photographic chemicals '
-            'and engineering complex to close and sell it quickly. The complex had employed nearly 500 people, '
-            'and 100 remained at the time of shutdown.',
+            'As part of its bankruptcy restructuring, Kodak needed to close and sell its 400,000 sq ft synthetic '
+            'photographic chemicals and engineering complex in Kirkby, near Liverpool, quickly. The complex had '
+            'employed nearly 500 people, and 100 remained at the time of shutdown.',
             'Digital photography had also changed the synthetic photographic chemicals business dramatically.',
         ],
         'solution': [
             'IPP purchased the complex and took on its environmental liability. IPP reports this as the first '
-            'environmental liability transfer in the history of the United Kingdom, and it absolved the '
-            'restructuring company of further responsibility for environmental cleanup.',
+            'environmental liability transfer in the history of the United Kingdom, and it absolved Kodak of '
+            'further responsibility for environmental cleanup.',
             'The site’s flexible unit operations were then put to new use, and IPP created an active '
             'industrial business park on the site.',
         ],
@@ -174,12 +175,12 @@ CASES = [
         'stats': [('750 tons/day', 'Methanol capacity'), ('Brazil to USA', 'Relocation route'),
                   ('Over-the-fence', 'Planned supply to a major consumer')],
         'summary': [('Industry', 'Methanol'),
-                    ('Location', 'Brazil; relocated to West Virginia, USA'),
+                    ('Location', 'Rio de Janeiro, Brazil; relocated to West Virginia, USA'),
                     ('Capacity', '750 tons/day'),
                     ('IPP’s role', 'Bought the idle plant, marketed it to US buyers, dismantled and relocated it'),
                     ('Result', 'Being re-erected in West Virginia to supply methanol over-the-fence to a major consumer')],
         'challenge': [
-            'A methanol plant in Brazil had just completed a turnaround that raised its maximum capacity to '
+            'A methanol plant in Rio de Janeiro, Brazil, had just completed a turnaround that raised its maximum capacity to '
             '750 tons/day. High natural gas costs in Brazil then forced the plant to shut down, leaving the '
             'recently upgraded unit idle.',
         ],
@@ -300,8 +301,10 @@ REVIEW = {
     'synthetic-chemical-site-kirkby-uk': {
         'sources': 'Deck slide 8; live /case-studies/ Synthetic Chemical tab.',
         'open': [
-            'Seller: the deck names Kodak; the live page does not. Page leaves the seller unnamed until IPP confirms.',
-            'Location: the deck title says Liverpool, the text says Kirkby and Knowsley Industrial Park. Page uses Kirkby, Knowsley.',
+            'Seller: the deck names Kodak and the page now does too (decided 2026-10-30: the deck is client data). '
+            'IPP’s live case-studies page does not name Kodak, so confirm IPP is happy to publish it.',
+            'Location: the deck title says Liverpool, the text says Kirkby and Knowsley Industrial Park. Page uses '
+            '"Kirkby, near Liverpool".',
             'Employees: deck "nearly 500", live "500". Park jobs: deck "approx. 250", live "250+". Page follows the deck: '
             '"nearly 500" and "approximately 250".',
             '"First environmental liability transfer in UK history": published by IPP on both, written as an IPP report. Source?',
@@ -314,7 +317,7 @@ REVIEW = {
             'Outcome: the deck says "currently being re-erected"; the live page says it was re-erected and "continues to provide '
             'methanol". The page follows the deck ("is being re-erected", "will provide"). If IPP confirms it is running, '
             'switch to past tense.',
-            'City: the deck heading says Rio de Janeiro; both texts say only Brazil. Page uses Brazil.',
+            'City: the deck heading says Rio de Janeiro; the page now uses it. Both texts say only Brazil.',
             'Year, buyer and consumer names: not stated.',
         ],
     },
