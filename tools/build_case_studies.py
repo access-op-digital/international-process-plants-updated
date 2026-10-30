@@ -51,9 +51,9 @@ CASES = [
                     ('IPP’s role', 'Bought the site, took over its carrying costs and environmental obligations'),
                     ('Result', 'Restart announced in 2016, expected to create at least 250 jobs')],
         'challenge': [
-            'The Darlington site combined polyester fiber production with two resin lines: 550 million pounds '
-            'of capacity for PET bottle resin and 250 million pounds for amorphous PET resin. The property covers '
-            '760 acres, with 1.1 million square feet of covered manufacturing space and 100 acres inside the fence.',
+            'The Darlington site combined polyester fiber production with two resin lines: 550 million lb '
+            'of capacity for PET bottle resin and 250 million lb for amorphous PET resin. The property covers '
+            '760 acres, with 1.1 million sq ft of covered manufacturing space and 100 acres inside the fence.',
             'Holding the site cost the owner more than $300,000 every month, and the land carried environmental '
             'obligations on top of that cost.',
         ],
@@ -86,7 +86,7 @@ CASES = [
         'img': 'mibk-solvent-plant-deer-park-tx.jpg',
         'alt': 'MIBK solvent plant distillation columns in Deer Park, Texas',
         'cta': 'buy_plant',
-        'stats': [('208M lb/yr', 'Complex capacity'), ('4', 'Production units'),
+        'stats': [('208 million lb/yr', 'Complex capacity'), ('4', 'Production units'),
                   ('Texas to India', 'Relocation route')],
         'summary': [('Industry', 'Industrial solvents'),
                     ('Location', 'Deer Park, Texas, USA; reinstalled in southeastern India'),
@@ -166,7 +166,7 @@ CASES = [
         'card': 'Methanol plant',
         'h1': 'Methanol Plant Relocation, Brazil to West Virginia',
         'title': 'Methanol Plant Relocation Case Study: Brazil to US | IPP',
-        'desc': 'IPP bought a 750 ton/day methanol plant idled by gas costs in Brazil and relocated it for re-erection in West Virginia to supply a major methanol consumer.',
+        'desc': 'IPP bought a 750 tons/day methanol plant idled by gas costs in Brazil and relocated it for re-erection in West Virginia to supply a major methanol consumer.',
         'standfirst': 'A methanol plant idled by high gas costs in Brazil was dismantled and relocated for '
                       're-erection in West Virginia.',
         'img': 'methanol-plant-brazil.jpg',
@@ -204,7 +204,7 @@ CASES = [
         'card': 'Nitric acid plant',
         'h1': 'Nitric Acid Plant Relocation, Pasadena, TX to India',
         'title': 'Nitric Acid Plant Relocation Case Study, Pasadena | IPP',
-        'desc': 'IPP bought a 500 ton/day nitric acid plant in Pasadena, TX to free space for new installations and sold it to a manufacturer for relocation to India.',
+        'desc': 'IPP bought a 500 tons/day nitric acid plant in Pasadena, TX to free space for new installations and sold it to a manufacturer for relocation to India.',
         'standfirst': 'A shut-down nitric acid plant made room for new installations in Texas and was sold to be '
                       'relocated to India.',
         'img': 'nitric-acid-plant-pasadena-tx.jpg',
@@ -250,7 +250,7 @@ CASES = [
         'summary': [('Industry', 'Oleochemicals'),
                     ('Location', 'Bromborough, UK'),
                     ('Site', '30-acre fatty acids facility'),
-                    ('IPP’s role', 'Bought the site, took on carry costs and environmental liabilities, relocated the units'),
+                    ('IPP’s role', 'Bought the site, took on carrying costs and environmental liabilities, relocated the units'),
                     ('Result', 'Units relocated to Germany and the USA; site converted into an award-winning waterfront development')],
         'challenge': [
             'A 30-acre fatty acids facility in Bromborough held esters, sorbitan, triacetin and glycerin '
@@ -258,7 +258,7 @@ CASES = [
             'the plant was no longer viable to operate in the UK.',
         ],
         'solution': [
-            'IPP purchased the facility and took over all carry costs and environmental liabilities. The process units '
+            'IPP purchased the facility and took over all carrying costs and environmental liabilities. The process units '
             'were relocated to Germany and the USA.',
             'With the units gone, IPP converted the site into a mixed-use commercial and residential waterfront '
             'development.',
@@ -284,7 +284,7 @@ REVIEW = {
             'was restarted in 2016 and "created at least 250 jobs". The page follows the deck. If IPP confirms the restart, '
             'switch the page, hub and meta to past tense.',
             'Carrying cost: deck "over $300,000 per month", live "$300,000/month". Page uses "more than $300,000".',
-            'Capacity basis: neither source gives a time unit for 550M lb / 250M lb. Pounds per year?',
+            'Capacity basis: neither source gives a time unit for 550 million lb / 250 million lb. Pounds per year?',
             'The live page says "low-cost cosmetic supplier"; the deck says "domestic". Page uses "domestic".',
             'Year IPP bought the site, and who operates it now: not stated.',
         ],

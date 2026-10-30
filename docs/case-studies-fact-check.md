@@ -18,7 +18,7 @@ Sources: Deck slide 7; live /case-studies/ PET tab.
 
 - Restart: the deck says IPP "announced" a restart in 2016 and the jobs were "expected"; the live page says the plant was restarted in 2016 and "created at least 250 jobs". The page follows the deck. If IPP confirms the restart, switch the page, hub and meta to past tense.
 - Carrying cost: deck "over $300,000 per month", live "$300,000/month". Page uses "more than $300,000".
-- Capacity basis: neither source gives a time unit for 550M lb / 250M lb. Pounds per year?
+- Capacity basis: neither source gives a time unit for 550 million lb / 250 million lb. Pounds per year?
 - The live page says "low-cost cosmetic supplier"; the deck says "domestic". Page uses "domestic".
 - Year IPP bought the site, and who operates it now: not stated.
 
