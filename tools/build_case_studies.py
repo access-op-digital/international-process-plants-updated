@@ -24,9 +24,9 @@ CTA = {
                    'and can take on the environmental liabilities that come with the site.',
                    ('Sell your plant to IPP', f'{LIVE}/sell-plants/'), ('Contact IPP', f'{LIVE}/contact/')),
     'buy_plant': ('Looking for a complete plant or process unit?',
-                  'IPP offers complete process plants and process lines for relocation, with IPP handling '
+                  'IPP offers complete process plants and process lines for relocation, and handles the '
                   'dismantling and shipping.',
-                  ('Browse IPP plants', f'{LIVE}/plants/'), ('Contact IPP', f'{LIVE}/contact/')),
+                  ('Browse available plants', f'{LIVE}/plants/'), ('Contact IPP', f'{LIVE}/contact/')),
     'clear_site': ('Need to clear a shut-down unit from your site?',
                    'IPP buys shut-down process units and complete plants, and offers them for relocation.',
                    ('Sell your plant to IPP', f'{LIVE}/sell-plants/'), ('Contact IPP', f'{LIVE}/contact/')),
@@ -101,8 +101,8 @@ CASES = [
             'happen inside a working refinery.',
         ],
         'solution': [
-            'After several months of evaluation and feasibility studies, IPP sold the M&H Plant to an IPP '
-            'customer for relocation to India and took responsibility for dismantling and shipping.',
+            'After several months of evaluation and feasibility studies, IPP sold the M&H Plant to one of its '
+            'customers for relocation to India and took responsibility for dismantling and shipping.',
             'IPP and its contractors worked under the refinery’s Environmental Health and Safety policies, '
             'which were stricter because of the live units around the equipment. The dismantling was surgical, '
             'to protect those operating units.',
@@ -403,7 +403,7 @@ SERVICES = {
         'alt': 'Stainless steel reactor, piping and columns inside a process plant',
         'text': [
             'IPP buys individual pieces of process equipment from customers worldwide, either surplus to ongoing '
-            'operations or from the liquidation of IPP’s complete plants, and offers them at significant '
+            'operations or from the liquidation of its complete plants, and offers them at significant '
             'savings versus new, with immediate delivery.',
             'The inventory covers second-hand, unused (from canceled projects), rebuilt and re-glassed equipment, '
             'much of it in exotic alloy, stainless steel and glass-lined construction. More than 15,000 pieces built '
@@ -468,7 +468,7 @@ EQUIPMENT_PHOTOS = [('equipment-centrifuge.jpg', 'Blue industrial centrifuge on 
                     ('equipment-heat-exchanger.jpg', 'Shell and tube heat exchanger'),
                     ('equipment-turbine-generator.jpg', 'Turbine generator set in a plant hall')]
 SAVINGS = [
-    'Clients tell IPP they save as much as 60% when they buy equipment from IPP instead of new from the OEM.',
+    'Clients tell IPP they save as much as 60% when they buy its equipment instead of new from the OEM.',
     'On average, clients report savings of 30 to 50% on used equipment and 50 to 60% on complete plants, '
     'compared with buying new from the OEM.',
     'For many clients in mature, global industries, buying an existing plant was the only economically viable '
@@ -522,7 +522,21 @@ def schema(c):
             {'@type': 'ListItem', 'position': 3, 'name': c['h1'], 'item': url}]}]}, ensure_ascii=False)
 
 
+BRAND = 'International Process Plants'
+
+
+def brand(text):
+    """The client wants the full brand name on these pages, never the IPP abbreviation (2026-11-03).
+
+    The copy above still says IPP for brevity; this swaps it in titles, meta, body, alt text and schema.
+    The shared site header and footer are left as the live site has them."""
+    text = text.replace(f'{BRAND} (IPP)', BRAND)
+    text = re.sub(r"\bIPP(’|')s\b", BRAND + '’', text)
+    return re.sub(r'\bIPP\b', BRAND, text)
+
+
 def page(title, desc, canonical, body, og_slug, og_alt, extra_head=''):
+    title, desc, body, og_alt, extra_head = map(brand, (title, desc, body, og_alt, extra_head))
     # Preview images are served from the review site, so link previews work before the pages move to WordPress.
     og_img = f'{REVIEW_SITE}/assets/case-studies/og/{og_slug}.jpg'
     return f'''<!doctype html>
@@ -734,10 +748,10 @@ def hub_page():
 <section class="cs-cta">
   <div class="container cs-cta-inner">
     <div><h2>{escape(CTA['sell_plant'][0])}</h2><p>{escape(CTA['sell_plant'][1])}</p></div>
-    <div class="cs-cta-buttons"><a class="cs-button" href="{LIVE}/sell-plants/">Sell your plant to IPP <span aria-hidden="true">→</span></a><a class="cs-button cs-button-outline" href="{LIVE}/plants/">Browse IPP plants</a></div>
+    <div class="cs-cta-buttons"><a class="cs-button" href="{LIVE}/sell-plants/">Sell your plant to IPP <span aria-hidden="true">→</span></a><a class="cs-button cs-button-outline" href="{LIVE}/plants/">Browse available plants</a></div>
   </div>
 </section>'''
-    return page('IPP Case Studies: Plant Repurposing and Relocation | IPP',
+    return page('Case Studies: Plant Repurposing and Relocation | IPP',
                 'Six IPP case studies: idle plants bought, repurposed or relocated, from a PET plant in South Carolina '
                 'to a methanol plant moved from Brazil to West Virginia.',
                 f'{LIVE}/case-studies/', body, 'case-studies',

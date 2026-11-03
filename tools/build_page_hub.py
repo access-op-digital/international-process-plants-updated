@@ -9,7 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CHEMICAL = '/chemical-process-plant-equipment-used-systems-for-sale/'
 GROUPS = {
     'chemical-plants': ('Chemical process plants', 'Complete plants, process lines and individual chemical equipment.', 'plant'),
-    'case-studies': ('Case studies', 'Idle plants IPP bought, repurposed or relocated, with the results of each project.', 'plant'),
+    'case-studies': ('Case studies', 'Idle plants International Process Plants bought, repurposed or relocated, with the results of each project.', 'plant'),
     'reactor': ('Reactors', 'Batch-type, fixed bed, fluid bed, hydrogenation and more.', 'vessel'),
     'heat-exchanger': ('Heat exchangers', 'Shell and tube, plate and frame, air cooled and other designs.', 'heat'),
     'centrifuge': ('Centrifuges', 'Basket, disc bowl, decanter and specialty centrifuge pages.', 'cycle'),
@@ -42,7 +42,7 @@ rewrites = {item['destination']: item['source'] for item in config.get('rewrites
 catalog = {key: [] for key in GROUPS}
 catalog['chemical-plants'].append({'title': 'Chemical process plants', 'url': CHEMICAL,
     'file': CHEMICAL.strip('/') + '/index.html', 'overview': True})
-catalog['case-studies'].append({'title': 'IPP case studies', 'url': '/case-studies/',
+catalog['case-studies'].append({'title': 'International Process Plants case studies', 'url': '/case-studies/',
     'file': 'case-studies/index.html', 'overview': True})
 for page in sorted((ROOT / 'case-studies').glob('*/index.html')):
     if page.parent.name == 'review':
