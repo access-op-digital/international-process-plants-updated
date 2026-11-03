@@ -1,0 +1,92 @@
+/* Live internationalprocessplants.com header and footer, measured in Chrome on 2026-11-03.
+   Markup: tools/live_site_chrome.py. Values override the chemical page's global h2/h3/ul/a rules. */
+
+/* Header: sticky white bar, 4px #134a62 top line, 1248px content, 226px logo, Montserrat 600 14px menu */
+.ipp-header{position:sticky;top:0;z-index:1000;background:#fff;border-top:4px solid #134a62;box-shadow:0 1px 0 rgba(0,0,0,.04)}
+.ipp-header-inner{max-width:1248px;margin:0 auto;padding:6px 24px 7px;min-height:102px;display:flex;align-items:center;position:relative}
+.ipp-logo{flex:0 0 auto;line-height:0}
+.ipp-logo img{display:block;width:226px;height:auto}
+.ipp-nav{flex:1 1 auto;margin-left:21px}
+.ipp-nav ul{list-style:none;margin:0;padding:0}
+.ipp-nav>ul{display:flex;justify-content:space-between;align-items:center}
+.ipp-nav li{position:relative;margin:0}
+.ipp-nav a{display:flex;align-items:center;font:600 14px/56px Montserrat,Arial,Helvetica,sans-serif;letter-spacing:0;text-transform:uppercase;color:#134a62;text-decoration:none;padding:0 5px;white-space:nowrap}
+.ipp-nav a:hover,.ipp-nav a:focus-visible{color:#1a8fc4;text-decoration:none}
+.ipp-caret{width:10px;height:10px;margin-left:7px;flex:0 0 auto}
+.ipp-sub{position:absolute;top:100%;left:0;min-width:220px;background:#fff;box-shadow:0 4px 10px -2px rgba(0,0,0,.1);opacity:0;visibility:hidden;transition:opacity .15s ease,visibility .15s ease;z-index:1001}
+.ipp-nav li:hover>.ipp-sub,.ipp-nav li:focus-within>.ipp-sub{opacity:1;visibility:visible}
+.ipp-sub a{line-height:22px;padding:11px 25px}
+.ipp-burger{display:none;margin-left:auto;background:none;border:0;padding:9px 7px;cursor:pointer;color:#494c4f}
+.ipp-burger svg{width:25px;height:25px;display:block}
+.ipp-lang{position:fixed;top:4px;right:16px;z-index:1002;display:flex;align-items:center;gap:6px;height:36px;padding:0 18px;background:#134a62;color:#fff;border-radius:0 0 10px 10px;box-shadow:0 0 8px rgba(0,0,0,.25);font:400 14px/1 Roboto,Arial,sans-serif}
+.ipp-lang img{width:18px;height:12px;display:block}
+
+/* Footer: grey gradient, four columns, offices, copyright bar */
+.ipp-footer{font:400 16px/1.72 Roboto,Arial,Helvetica,sans-serif;letter-spacing:.24px;color:#333}
+.ipp-footer a{text-decoration:none}
+.ipp-footer a:hover{text-decoration:underline;color:#1a8fc4}
+.ipp-footer-main,.ipp-footer-offices{background:linear-gradient(65deg,#dadada 2%,#f2f2f2 27%,#e6e6e6 56%,#f2f2f2 80%,#cecece 100%)}
+.ipp-footer-main{padding:45px 0 40px}
+.ipp-footer-offices{padding:0 0 40px}
+.ipp-footer-inner{max-width:1248px;margin:0 auto;padding:0 24px}
+.ipp-footer-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:30px}
+.ipp-footer-logo img{display:block;width:226px;height:auto;margin-top:6px}
+.ipp-footer h2{font:700 20px/34.4px Roboto,Arial,sans-serif;letter-spacing:.24px;text-transform:uppercase;color:#333;margin:18px 0 18px}
+.ipp-footer-links{list-style:none;margin:0;padding:0}
+.ipp-footer-links li{margin:0}
+.ipp-footer-links a{font:700 16px/27.2px Roboto,Arial,sans-serif;text-transform:uppercase;color:#134a62}
+.ipp-group{background:#134a62;padding:6px 8px 12px;margin-top:10px;max-width:265px}
+.ipp-group h3{white-space:nowrap;font:600 15px/1.4 Montserrat,Arial,sans-serif;letter-spacing:-.24px;text-transform:uppercase;color:#fff;margin:6px 0 4px}
+.ipp-group ul{list-style:none;margin:0;padding:0}
+.ipp-group li{margin:0}
+.ipp-group a{display:flex;align-items:center;gap:12px;padding:7px 0 7px 6px;border-bottom:1px solid rgba(255,255,255,.7);font:700 14px/16.8px Roboto,Arial,sans-serif;text-transform:uppercase;color:#fff}
+.ipp-group a:hover{color:#fff;opacity:.85}
+.ipp-group svg{width:10px;height:10px;flex:0 0 10px}
+.ipp-connect{display:inline-flex;align-items:center;gap:10px;background:#134a62;color:#fff;border-radius:4px;padding:13px 29px;font:500 16px/19.2px Roboto,Arial,sans-serif;text-transform:uppercase;margin-bottom:16px}
+.ipp-connect:hover{background:#1a8fc4;color:#fff;text-decoration:none}
+.ipp-connect svg{width:16px;height:16px}
+.ipp-phones{margin:0 0 22px;font-size:16px;line-height:27.5px}
+.ipp-phones strong{color:#333}
+.ipp-phones a{color:#134a62}
+.ipp-social{display:flex;gap:6px}
+.ipp-social a{width:30px;height:30px;border-radius:50%;background:#134a62;color:#fff;display:inline-flex;align-items:center;justify-content:center}
+.ipp-social a:hover{background:#1a8fc4;color:#fff}
+.ipp-social svg{width:16px;height:16px}
+.ipp-footer-offices .ipp-footer-inner{border-top:1px solid #d4d4d4;padding-top:20px}
+.ipp-office-links{margin:0;display:flex;gap:18px;flex-wrap:wrap}
+.ipp-office-links a,.ipp-offices summary{display:inline-flex;align-items:center;gap:6px;font:700 13px/1.6 Roboto,Arial,sans-serif;text-transform:uppercase;color:#134a62}
+.ipp-office-links svg{width:15px;height:15px}
+.ipp-offices{margin-top:14px}
+.ipp-offices summary{cursor:pointer;list-style:none}
+.ipp-offices summary::-webkit-details-marker{display:none}
+.ipp-offices summary svg{width:13px;height:13px;transition:transform .2s}
+.ipp-offices[open] summary svg{transform:rotate(180deg)}
+.ipp-office-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:26px 30px;margin-top:26px}
+.ipp-office{display:flex;flex-direction:column}
+.ipp-office-label{font:700 11px/1.6 Roboto,Arial,sans-serif;text-transform:uppercase;color:#134a62}
+.ipp-office strong{font:700 17px/1.5 Roboto,Arial,sans-serif;color:#134a62}
+.ipp-office em{font-size:12px;line-height:20.6px;color:#333}
+.ipp-office a{font-size:13px;line-height:22px;color:#134a62}
+.ipp-copyright{background:#dcdcdc;text-align:center;padding:16px 30px;font:400 16px/27.5px Roboto,Arial,sans-serif;color:#333}
+.ipp-copyright a{color:#134a62}
+
+@media(max-width:1200px){.ipp-nav a{font-size:12px;padding:0 3px}.ipp-logo img{width:190px}}
+@media(max-width:1024px){
+  .ipp-header-inner{min-height:90px;padding:8px 16px}
+  .ipp-logo img{width:178px}
+  .ipp-burger{display:block}
+  .ipp-lang{display:none}
+  .ipp-nav{display:none;position:absolute;top:100%;left:0;right:0;margin:0;background:#fff;box-shadow:0 10px 18px rgba(0,0,0,.08)}
+  .ipp-header.open .ipp-nav{display:block}
+  .ipp-nav>ul{flex-direction:column;align-items:stretch}
+  .ipp-nav a{font-size:14px;line-height:22px;padding:14px 20px;border-top:1px solid #eef1f3}
+  .ipp-caret{display:none}
+  .ipp-sub{position:static;opacity:1;visibility:visible;box-shadow:none;min-width:0}
+  .ipp-sub a{padding-left:40px}
+  .ipp-footer-grid,.ipp-office-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:560px){
+  .ipp-footer-inner{padding:0 16px}
+  .ipp-footer-grid,.ipp-office-grid{grid-template-columns:1fr}
+  .ipp-copyright{font-size:14px;padding:14px 16px}
+}

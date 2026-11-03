@@ -9,14 +9,16 @@ from pathlib import Path
 from html import escape
 import json
 import re
+import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'case-studies'
 LIVE = 'https://internationalprocessplants.com'
 REVIEW_SITE = 'https://international-process-plants-update-one.vercel.app'
-CHEM_SRC = (ROOT / 'src' / 'chemical-page.html').read_text(encoding='utf-8')
-HEADER = re.search(r'<header class="site-header">.*?</header>', CHEM_SRC, re.S).group(0)
-FOOTER = re.search(r'<footer class="site-footer">.*?</footer>', CHEM_SRC, re.S).group(0)
+sys.path.insert(0, str(ROOT / 'tools'))
+from live_site_chrome import header_html, footer_html, MENU_SCRIPT  # noqa: E402  (the live site's header and footer)
+HEADER = header_html()
+FOOTER = footer_html()
 
 CTA = {
     'sell_plant': ('Have an idle plant?',
@@ -563,6 +565,7 @@ def page(title, desc, canonical, body, og_slug, og_alt, extra_head=''):
   <link rel="stylesheet" href="/assets/chemical/fonts.css">
   <link rel="stylesheet" href="/assets/chemical/page.css">
   <link rel="stylesheet" href="/assets/case-studies/case.css">
+  <link rel="stylesheet" href="/assets/case-studies/site.css">
   {extra_head}
   <script>document.documentElement.classList.add('js')</script>
 </head>
@@ -573,10 +576,7 @@ def page(title, desc, canonical, body, og_slug, og_alt, extra_head=''):
 {body}
 </main>
 {FOOTER}
-<script>
-(function(){{var b=document.getElementById('menu-toggle'),n=document.getElementById('main-nav');if(!b||!n)return;b.hidden=false;
-b.addEventListener('click',function(){{var o=n.classList.toggle('is-open');b.setAttribute('aria-expanded',o)}})}})();
-</script>
+{MENU_SCRIPT}
 </body>
 </html>
 '''

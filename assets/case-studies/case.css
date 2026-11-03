@@ -1,5 +1,5 @@
 /* Case-study pages. Header, footer, fonts and tokens come from /assets/chemical/page.css. */
-.cs-page .container{max-width:1200px;margin:0 auto;padding-inline:32px}
+.cs-page .container{max-width:1248px;margin:0 auto;padding-inline:24px}
 .cs-page h1,.cs-page h2,.cs-page h3{font-family:var(--heading);color:var(--ink);line-height:1.25}
 
 .cs-hero{background:var(--navy);color:#e2ecf0;padding:0 0 40px}
