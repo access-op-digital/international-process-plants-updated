@@ -13,7 +13,7 @@ Internal list, not for publishing. The drafts use figures from the IPP corporate
 - Offices: slide 2 says 15 offices and slide 3 lists 15 countries; slide 17 names the HQ and 8 regional facilities. The hub says "offices in 15 countries" everywhere (QC round 2). The hub shows both lists as given.
 - Equipment photos (slide 16) carry no captions in the deck; the alt text describes what each photo shows.
 
-## PET Plant Repurposing, Darlington, SC
+## How International Process Plants Saved a PET Plant Owner $300,000 a Month in Darlington, SC
 
 Page: /case-studies/pet-plant-darlington-sc/
 
@@ -25,7 +25,7 @@ Sources: Deck slide 7; live /case-studies/ PET tab.
 - The live page says "low-cost cosmetic supplier"; the deck says "domestic". Page uses "domestic".
 - Year IPP bought the site, and who operates it now: not stated.
 
-## MIBK Solvent Plant Relocation, Deer Park, TX to India
+## How International Process Plants Relocated a Texas Refinery’s MIBK Solvent Plant to India
 
 Page: /case-studies/mibk-solvent-plant-deer-park-tx/
 
@@ -36,7 +36,7 @@ Sources: Deck slide 12; live /case-studies/ MIBK tab.
 - Refinery and buyer names: not stated, left out.
 - The deck’s "World Class Texas Refinery Complex" is now on the page as "world-class refinery complex" (all deck facts used, 2026-10-30).
 
-## Synthetic Chemical Site Repurposing, Kirkby, UK
+## How International Process Plants Turned Kodak’s Kirkby Chemical Site into an Industrial Park
 
 Page: /case-studies/synthetic-chemical-site-kirkby-uk/
 
@@ -48,7 +48,7 @@ Sources: Deck slide 8; live /case-studies/ Synthetic Chemical tab.
 - "First environmental liability transfer in UK history": published by IPP on both, written as an IPP report. Source?
 - The 200 additional jobs come from growth plans at the time; the page says so. Did they happen? Year of purchase?
 
-## Methanol Plant Relocation, Brazil to West Virginia
+## How International Process Plants Moved an Idled Methanol Plant from Brazil to West Virginia
 
 Page: /case-studies/methanol-plant-brazil-to-west-virginia/
 
@@ -58,7 +58,7 @@ Sources: Deck slide 11; live /case-studies/ Methanol tab.
 - City: the deck heading says Rio de Janeiro; the page now uses it. Both texts say only Brazil.
 - Year, buyer and consumer names: not stated.
 
-## Nitric Acid Plant Relocation, Pasadena, TX to India
+## How International Process Plants Cleared a Texas Site by Relocating Its Nitric Acid Plant to India
 
 Page: /case-studies/nitric-acid-plant-pasadena-tx/
 
@@ -70,7 +70,7 @@ Sources: Deck slide 13 only (not on the live case-studies page).
 - Year, seller and buyer names: not stated.
 - Thin source: about 90 words on the slide, so the page stays short.
 
-## Oleochemical Plant Relocation, Bromborough, UK
+## How International Process Plants Turned a UK Oleochemical Site into an Award-Winning Waterfront Development
 
 Page: /case-studies/oleochemical-plant-bromborough-uk/
 

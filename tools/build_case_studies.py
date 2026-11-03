@@ -38,7 +38,7 @@ CASES = [
     {
         'slug': 'pet-plant-darlington-sc',
         'card': 'PET plant',
-        'h1': 'PET Plant Repurposing, Darlington, SC',
+        'h1': 'How International Process Plants Saved a PET Plant Owner $300,000 a Month in Darlington, SC',
         'title': 'PET Plant Repurposing Case Study, Darlington, SC | IPP',
         'desc': 'IPP bought a 760-acre PET plant in Darlington, SC, took over $300,000+ monthly carrying costs and environmental obligations, and announced a 2016 restart.',
         'standfirst': 'A polyester fiber and PET resin site that cost its owner more than $300,000 a month to '
@@ -81,7 +81,7 @@ CASES = [
     {
         'slug': 'mibk-solvent-plant-deer-park-tx',
         'card': 'MIBK solvent plant',
-        'h1': 'MIBK Solvent Plant Relocation, Deer Park, TX to India',
+        'h1': 'How International Process Plants Relocated a Texas Refinery’s MIBK Solvent Plant to India',
         'title': 'MIBK Plant Relocation Case Study: Texas to India | IPP',
         'desc': 'IPP removed a 208 million lb/yr solvents complex from an operating Texas refinery and managed its dismantling and shipping for reinstallation in India.',
         'standfirst': 'A four-unit solvents complex left an operating refinery in Texas and now runs in '
@@ -125,7 +125,7 @@ CASES = [
     {
         'slug': 'synthetic-chemical-site-kirkby-uk',
         'card': 'Synthetic chemical complex',
-        'h1': 'Synthetic Chemical Site Repurposing, Kirkby, UK',
+        'h1': 'How International Process Plants Turned Kodak’s Kirkby Chemical Site into an Industrial Park',
         'title': 'Synthetic Chemical Site Case Study: Kirkby, UK | IPP',
         'desc': 'IPP bought Kodak’s 400,000 sq ft synthetic chemicals complex in Kirkby, UK, took on its environmental liability and turned it into Knowsley Industrial Park.',
         'standfirst': 'Kodak’s synthetic photographic chemicals complex, closed in a bankruptcy restructuring, '
@@ -167,7 +167,7 @@ CASES = [
     {
         'slug': 'methanol-plant-brazil-to-west-virginia',
         'card': 'Methanol plant',
-        'h1': 'Methanol Plant Relocation, Brazil to West Virginia',
+        'h1': 'How International Process Plants Moved an Idled Methanol Plant from Brazil to West Virginia',
         'title': 'Methanol Plant Relocation Case Study: Brazil to US | IPP',
         'desc': 'IPP bought a 750 tons/day methanol plant idled by gas costs in Brazil and relocated it for re-erection in West Virginia to supply a major methanol consumer.',
         'standfirst': 'A methanol plant idled by high gas costs in Brazil was dismantled and relocated for '
@@ -205,7 +205,7 @@ CASES = [
     {
         'slug': 'nitric-acid-plant-pasadena-tx',
         'card': 'Nitric acid plant',
-        'h1': 'Nitric Acid Plant Relocation, Pasadena, TX to India',
+        'h1': 'How International Process Plants Cleared a Texas Site by Relocating Its Nitric Acid Plant to India',
         'title': 'Nitric Acid Plant Relocation Case Study, Pasadena | IPP',
         'desc': 'IPP bought a 500 tons/day nitric acid plant in Pasadena, TX to free space for new installations and sold it to a manufacturer for relocation to India.',
         'standfirst': 'A shut-down nitric acid plant made room for new installations in Texas and was sold to be '
@@ -240,7 +240,7 @@ CASES = [
     {
         'slug': 'oleochemical-plant-bromborough-uk',
         'card': 'Oleochemical plant',
-        'h1': 'Oleochemical Plant Relocation, Bromborough, UK',
+        'h1': 'How International Process Plants Turned a UK Oleochemical Site into an Award-Winning Waterfront Development',
         'title': 'Oleochemical Plant Relocation Case Study, Bromborough | IPP',
         'desc': 'IPP bought a 30-acre oleochemical site in Bromborough, UK, moved its units to Germany and the USA and turned the land into a mixed-use waterfront development.',
         'standfirst': 'One site, two exits: the process units moved to Germany and the USA, and the land became a '
