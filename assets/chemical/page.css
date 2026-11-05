@@ -166,4 +166,3 @@
 @media(max-width:560px){.inventory-bottom-links{width:100%}}
 .hero-more-toggle{display:none}
 @media(max-width:560px){.js .hero-copy:not(.is-open) .hero-more-rest{display:none}.js .hero-more-toggle{display:inline-flex;align-items:center;gap:8px;margin:-6px 0 0;padding:6px 0;background:none;border:0;color:#fff;font:600 15px/1.5 var(--button)}.js .hero-more-label{text-decoration:underline;text-underline-offset:4px;text-decoration-thickness:1px}.js .hero-more-icon{display:inline-block;transition:transform .15s}.js .hero-copy.is-open .hero-more-icon{transform:rotate(180deg)}}
-.intro+.types-section{border-top:1px solid var(--line)}

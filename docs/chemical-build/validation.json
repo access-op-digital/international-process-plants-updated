@@ -318,6 +318,10 @@
       "pass": true
     },
     {
+      "check": "Meaningful image alt /assets/chemical/intro/reactor-removal.webp",
+      "pass": true
+    },
+    {
       "check": "Meaningful image alt /assets/chemical/603031.webp",
       "pass": true
     },
@@ -387,10 +391,6 @@
     },
     {
       "check": "Meaningful image alt /assets/chemical/239007.webp",
-      "pass": true
-    },
-    {
-      "check": "Meaningful image alt /assets/chemical/intro/reactor-removal.webp",
       "pass": true
     },
     {
@@ -518,7 +518,7 @@
       "pass": true
     },
     {
-      "check": "Listings sit in the second fold and the company intro in the third",
+      "check": "Company intro sits in the second fold and the listings in the third",
       "pass": true
     },
     {

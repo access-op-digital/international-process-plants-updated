@@ -4,6 +4,10 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision 14, November 5, 2026: company intro back in the second fold
+
+- Section order after the hero and logo band: "Buy and sell used chemical plants and equipment with International Process Plants (IPP)" second, then "Chemical process plants and equipment for sale" (listings) third, matching the staging page and the reviewer's request. This reverses Revision 13. The Word deliverable was not regenerated and still shows the Revision 13 order.
+
 ## Revision 13, October 23, 2026: listings in the second fold
 
 - Section order after the hero and logo band: "Chemical process plants and equipment for sale" (listings) second, then "Buy and sell used chemical plants and equipment with International Process Plants (IPP)" (company intro) third, then the equipment types. Outline indices and data-section values are unchanged; content_order swaps rows 2 and 3. A divider separates the white intro and types sections. The validator checks the order.
