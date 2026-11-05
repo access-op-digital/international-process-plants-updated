@@ -6,7 +6,7 @@ This is a complete **optimization draft for the existing URL**. It is not a publ
 
 ## Revision 15, November 5, 2026: listing figures follow the content doc
 
-- Fourteen listing values now match the content doc and the staging page, for example 15,142 L (4,000 US gal) on IPP# 232498 and 1,120 tpd (1,234.6 US TPD) on the ammonium nitrate plant. Not taken from the doc: "1,030 tpd (16,534.7 US short tons/year)" (wrong conversion) and "Carbon DiOxide (CO2)" (typo). The category lines keep the doc's own "12,500 L (3,300 gal)" and "1,150 L (300 gal)". The Word deliverable was not regenerated.
+- Fourteen listing values now match the content doc and the staging page, for example 15,142 L (4,000 US gal) on IPP# 232498 and 1,120 tpd (1,234.6 US TPD) on the ammonium nitrate plant. Not taken from the doc: "1,030 tpd (16,534.7 US short tons/year)" (wrong conversion; IMS lists 1030 tpd). The methanol feedstock reads "carbon dioxide (CO2)", the doc's wording without its "DiOxide" typo. The category lines keep the doc's own "12,500 L (3,300 gal)" and "1,150 L (300 gal)". The Word deliverable was not regenerated.
 
 ## Revision 14, November 5, 2026: company intro back in the second fold
 

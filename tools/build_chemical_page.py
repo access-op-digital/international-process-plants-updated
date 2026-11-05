@@ -29,7 +29,7 @@ facts = {
  '603031': [('Capacity','105 million lb/year at 40 to 45% concentration (capable of 37-51%)'),('Technology','Metal oxide'),('Feedstocks','Methanol, oxygen'),('Location','Allentown, Pennsylvania, USA')],
  '603039': [('Capacity','1,030 tpd'),('Technology','Grand-Paroisse / Uhde'),('Feedstock','Ammonia'),('Location','Montoir-de-Bretagne, France')],
  '603040': [('Capacity','1,120 tpd (1,234.6 US TPD)'),('Feedstocks','Nitric acid (HNO3), ammonia'),('Location','Montoir-de-Bretagne, France')],
- '601610': [('Capacity','275 TPD (82,500 TPY)'),('Technology','ICI / Johnson Matthey'),('Feedstocks','Natural gas, CO₂'),('Location','Camaçari, Bahia, Brazil')],
+ '601610': [('Capacity','275 TPD (82,500 TPY)'),('Technology','ICI / Johnson Matthey'),('Feedstocks','Natural gas, carbon dioxide (CO2)'),('Location','Camaçari, Bahia, Brazil')],
  '601813': [('Reactor volume','Approx. 1,200 m³ (42,378 ft³) total'),('Location','Grimsby, England, UK')],
  '603016': [('Capacity','15,000 metric tonnes/year (16,534.7 US TPY)'),('Feedstocks','Sulfur, soda ash')],
  '242492': [('Capacity','12,300 L (3,250 US gal)'),('Material','Stainless steel 316L'),('Pressure','6 bar (87 psi)'),('Temperature','185 °C (365 °F)')],
