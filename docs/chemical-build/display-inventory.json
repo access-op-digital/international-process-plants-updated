@@ -104,7 +104,7 @@
     "condition": "New",
     "material": "Stainless steel 316L",
     "display_specs": {
-      "Capacity": "15,150 L (4,000 US gal)",
+      "Capacity": "15,142 L (4,000 US gal)",
       "Material": "Stainless steel 316L",
       "Pressure": "10 bar (145 psi)",
       "Temperature": "150 °C (302 °F)"
@@ -180,7 +180,7 @@
     "condition": "Used",
     "material": "Stainless steel 316L",
     "display_specs": {
-      "Capacity": "34,000 L (9,000 US gal)",
+      "Capacity": "34,000 L (8,982 US gal)",
       "Material": "Stainless steel 316L",
       "Pressure": "3.5 bar (50.8 psi)",
       "Temperature": "100 °C (212 °F)"
@@ -256,7 +256,7 @@
     "condition": "Used",
     "material": "Stainless steel 316",
     "display_specs": {
-      "Diameter": "1,250 mm (49 in)",
+      "Diameter": "1,245 mm (49 in)",
       "Material": "Stainless steel 316",
       "Evaporation": "31.8 kg/h (70 lb/h)",
       "Inlet temp.": "354.4 °C (670 °F)"
@@ -296,7 +296,7 @@
     "condition": "Used",
     "material": "Polypropylene",
     "display_specs": {
-      "Filtration area": "37 m² (398.3 ft²)",
+      "Filtration area": "37 m² (398 ft²)",
       "Material": "Polypropylene",
       "Pressure": "6.9 bar (100 psi)",
       "Temperature": "21.1 °C (70 °F)"
@@ -327,8 +327,8 @@
     "condition": "",
     "material": "",
     "display_specs": {
-      "Capacity": "1,120 tpd",
-      "Feedstocks": "Nitric acid, ammonia",
+      "Capacity": "1,120 tpd (1,234.6 US TPD)",
+      "Feedstocks": "Nitric acid (HNO3), ammonia",
       "Location": "Montoir-de-Bretagne, France"
     }
   },
@@ -390,7 +390,7 @@
     "condition": "",
     "material": "",
     "display_specs": {
-      "Capacity": "105 million lb/year at 40 to 45% concentration",
+      "Capacity": "105 million lb/year at 40 to 45% concentration (capable of 37-51%)",
       "Technology": "Metal oxide",
       "Feedstocks": "Methanol, oxygen",
       "Location": "Allentown, Pennsylvania, USA"
@@ -415,7 +415,7 @@
     "condition": "",
     "material": "",
     "display_specs": {
-      "Capacity": "15,000 metric tonnes/year",
+      "Capacity": "15,000 metric tonnes/year (16,534.7 US TPY)",
       "Feedstocks": "Sulfur, soda ash"
     }
   },
@@ -443,7 +443,7 @@
     "condition": "",
     "material": "",
     "display_specs": {
-      "Reactor volume": "Approx. 1,200 m³ total",
+      "Reactor volume": "Approx. 1,200 m³ (42,378 ft³) total",
       "Location": "Grimsby, England, UK"
     }
   },
@@ -555,7 +555,7 @@
     "condition": "Used",
     "material": "Stainless steel 316",
     "display_specs": {
-      "Capacity": "12,500 L (3,300 US gal)",
+      "Capacity": "12,500 L (3,303 US gal)",
       "Material": "Stainless steel 316",
       "Pressure": "4 bar (58 psi)",
       "Temperature": "160 °C (320 °F)"
@@ -573,8 +573,8 @@
       "Condition": "Used",
       "Material": "Hastelloy - C22",
       "Clad": "Yes",
-      "Evaporation Rate": "340.2 kg/h (750 lb/h)",
-      "Total Heat Transfer Surface Area": "14 m² (150.7 ft²)",
+      "Evaporation Rate": "340 kg/h (750 lb/h)",
+      "Total Heat Transfer Surface Area": "14 m² (151 ft²)",
       "Orientation": "Vertical",
       "Diameter": "850 mm (33.5 in)",
       "Height": "6,300 mm (248.8 in)",
@@ -607,9 +607,9 @@
     "condition": "Used",
     "material": "Hastelloy C22",
     "display_specs": {
-      "Evaporation": "340.2 kg/h (750 lb/h)",
+      "Evaporation": "340 kg/h (750 lb/h)",
       "Material": "Hastelloy C22 clad",
-      "Surface area": "14 m² (150.7 ft²)",
+      "Surface area": "14 m² (151 ft²)",
       "Temperature": "250 °C (482 °F)"
     }
   },
@@ -626,7 +626,7 @@
       "Length": "3 m (9.9 ft)",
       "Orientation": "Vertical",
       "Still Type": "Column Still",
-      "Pressure": "15 bar (217.6 psi)",
+      "Pressure": "15 bar (218 psi)",
       "Temperature": "300 °C (572 °F)",
       "Support Type": "Legs",
       "Column": "Yes",
@@ -654,7 +654,7 @@
     "display_specs": {
       "Diameter": "2,200 mm (86.6 in)",
       "Material": "Stainless steel 321",
-      "Pressure": "15 bar (217.6 psi)",
+      "Pressure": "15 bar (218 psi)",
       "Temperature": "300 °C (572 °F)"
     }
   },
@@ -697,7 +697,7 @@
     "condition": "Re-glassed",
     "material": "Glass-lined",
     "display_specs": {
-      "Vessel size": "1,150 L (300 US gal)",
+      "Vessel size": "1,136 L (300 US gal)",
       "Material": "Glass-lined, re-glassed",
       "Agitator type": "3-blade retreat curve",
       "Span": "914 mm (36 in)"

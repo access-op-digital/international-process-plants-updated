@@ -4,6 +4,10 @@ Built October 7, 2026 on `codex/chemical-process-plants` in the user-requested r
 
 This is a complete **optimization draft for the existing URL**. It is not a published page or a new competing SEO destination. The revised workbook and the user's latest request supersede the earlier equipment-only, staged-update proposal in `docs/chemical-equipment-analysis.md`.
 
+## Revision 15, November 5, 2026: listing figures follow the content doc
+
+- Fourteen listing values now match the content doc and the staging page, for example 15,142 L (4,000 US gal) on IPP# 232498 and 1,120 tpd (1,234.6 US TPD) on the ammonium nitrate plant. Not taken from the doc: "1,030 tpd (16,534.7 US short tons/year)" (wrong conversion) and "Carbon DiOxide (CO2)" (typo). The category lines keep the doc's own "12,500 L (3,300 gal)" and "1,150 L (300 gal)". The Word deliverable was not regenerated.
+
 ## Revision 14, November 5, 2026: company intro back in the second fold
 
 - Section order after the hero and logo band: "Buy and sell used chemical plants and equipment with International Process Plants (IPP)" second, then "Chemical process plants and equipment for sale" (listings) third, matching the staging page and the reviewer's request. This reverses Revision 13. The Word deliverable was not regenerated and still shows the Revision 13 order.
