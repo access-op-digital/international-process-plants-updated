@@ -103,9 +103,9 @@ def panel_ok(c):
 check('Each equipment type follows the reference section shape: summary, context opener, lead-in, list, close',len(panels)==11 and all(panel_ok(c) for c in panels))
 type_tabs=doc.xpath('//div[@class="type-tab-list"]/button[@role="tab"]')
 check('Eleven vertical type tabs control the eleven panels',len(type_tabs)==11 and [t.get('aria-controls') for t in type_tabs]==[c.get('id') for c in panels] and doc.xpath('//div[@class="type-tab-list"]/@aria-orientation')==['vertical'])
-type_links={h.rsplit('/',1)[-1] for h in doc.xpath('//section[@id="equipment-types"]//div[@class="category-links"]/a/@href')}
+type_hrefs=doc.xpath('//section[@id="equipment-types"]//div[@class="category-links"]/a/@href')
 check('Every plant card links its IMS plant type',all(c.get('data-ims') for c in cards if c.get('data-group')=='plants'))
-check('Types section links every IMS chemical processing family type and reactor parts',{'reactor','reactor-parts','agitator','column','evaporator','fermenter','glass-lined-parts','heat-exchanger','still','tank'}<=type_links)
+check('Types section Browse links go only to our own /process-equipment/ pages (9 types; none for agitators, columns, stills, reactor parts)',sorted(type_hrefs)==sorted('https://internationalprocessplants.com/process-equipment/'+t+'/' for t in ('reactor','fermenter','heat-exchanger','evaporator','centrifuge','filter','dryer','tank','glass-lined-parts')) and not doc.xpath('//section[@id="equipment-types"]//a[contains(@href,"ims.internationalprocessplants.com")]'))
 check('Types heading follows the reference question form',doc.xpath('//section[@id="equipment-types"]//h2/text()')==['What used chemical process equipment do we supply?'])
 check('Recognition shown as four badges',len(doc.xpath('//ul[@class="recognition-badges"]/li/a'))==4 and not doc.xpath('//*[contains(@class,"evidence-links")]'))
 check('Global inventory section removed',not doc.xpath('//section[contains(@class,"locations-section")]'))

@@ -542,7 +542,7 @@
       "pass": true
     },
     {
-      "check": "Types section links every IMS chemical processing family type and reactor parts",
+      "check": "Types section Browse links go only to our own /process-equipment/ pages (9 types; none for agitators, columns, stills, reactor parts)",
       "pass": true
     },
     {

@@ -279,11 +279,16 @@ type_panels = [
 ]
 
 type_tabs=''.join(f'<button type="button" role="tab" id="tab-type-{path}" aria-controls="type-{path}" aria-selected="{"true" if i==0 else "false"}"{"" if i==0 else " tabindex=\"-1\""}>{E(name)}</button>' for i,(name,path,*_) in enumerate(type_panels))
+# Browse links go to our own category pages on the live site (user, 2026-11-19), not to IMS.
+# Types with no own page (agitators, columns, stills, reactor parts) get no Browse link.
+# Link wording stays as before: TranslatePress keys its 14 translations on the exact English text.
+own_page={'reactor':'reactor','fermenter':'fermenter','heat-exchanger':'heat-exchanger','evaporator':'evaporator',
+ 'centrifuge':'centrifuge','filter':'filter','dryer':'dryer','tank':'tank','glass-lined-parts':'glass-lined-parts'}
 categories=[]
 for name,path,summary,opener,lead,items,close,featured,*more in type_panels:
- links=more[0] if more else [(f'Browse used {name.lower()}',path)]
+ links=[(label,f'{SITE}/process-equipment/{own_page[p]}/') for label,p in (more[0] if more else [(f'Browse used {name.lower()}',path)]) if p in own_page]
  subtypes=''.join(f'<li>{E(i)}</li>' for i in items)
- categories.append(f'<div class="category-card type-panel" id="type-{path}" role="tabpanel" aria-labelledby="tab-type-{path}"><div class="category-heading"><h3>{name}</h3></div><p class="type-summary">{summary}</p><p>{E(opener)}</p><p class="type-lead">{E(lead)}</p><ul class="type-list">{subtypes}</ul><p class="type-close">{E(" ".join(close))}</p><p class="material-note">{featured}</p><div class="category-links">{"".join(f'<a href="{IMS}/inventory/search/equipment/{p}">{E(label)} ↗</a>' for label,p in links)}</div></div>')
+ categories.append(f'<div class="category-card type-panel" id="type-{path}" role="tabpanel" aria-labelledby="tab-type-{path}"><div class="category-heading"><h3>{name}</h3></div><p class="type-summary">{summary}</p><p>{E(opener)}</p><p class="type-lead">{E(lead)}</p><ul class="type-list">{subtypes}</ul><p class="type-close">{E(" ".join(close))}</p><p class="material-note">{featured}</p>{('<div class="category-links">'+"".join(f'<a href="{href}">{E(label)} ↗</a>' for label,href in links)+'</div>') if links else ""}</div>')
 
 faq_data=[
  ('Does IPP offer full chemical plants for sale?',f'Yes. In addition to individual equipment, we sell <a href="{IMS}/inventory/search/plants">complete chemical process plants</a>, including teardown and relocation services.'),
