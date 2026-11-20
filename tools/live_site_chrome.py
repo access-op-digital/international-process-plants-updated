@@ -60,6 +60,8 @@ OFFICES = [
     ('Portugal', 'IPP Portugal', 'Rua João Luís de Moura, N 4-A, 1 Esq, 2750-387 Cascais, Portugal', '',
      'PortugalRep@ippe.com'),
 ]
+# Numbers shown in local format but dialled internationally on the live site.
+TEL_OVERRIDE = {'010-8435 1598': '+861084351598'}
 PIN = ('<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" '
        'd="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5" fill="none" '
        'stroke="currentColor" stroke-width="2"/></svg>')
@@ -101,6 +103,7 @@ def footer_html(year=2026):
     offices = ''
     for label, name, addr, phone, mail in OFFICES:
         tel = ''.join(ch for ch in phone if ch.isdigit() or ch == '+')
+        tel = TEL_OVERRIDE.get(phone, tel)
         offices += (f'<div class="ipp-office"><span class="ipp-office-label">{_e(label)}</span><strong>{_e(name)}</strong>'
                     f'<em>{_e(addr)}</em>'
                     + (f'<a href="tel:{tel}">{_e(phone)}</a>' if phone else '')

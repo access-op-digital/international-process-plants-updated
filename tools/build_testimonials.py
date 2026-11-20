@@ -22,10 +22,8 @@ Inputs:
 
 Rules:
   - Review text and owner replies are Google's, untouched (HTML-escaped only).
-  - Every written review is shown. Rating-only reviews are shown when they are
-    4 or 5 stars; the one 1-star rating-only review on the Eastover profile is
-    not shown, but it stays in Google's rating, which the page prints as Google
-    reports it (with a link to the profile).
+  - Every review is shown, written or rating-only, so the cards match the counts
+    Google reports for each profile (user review, 2026-11-20).
   - No Review or AggregateRating markup (self-serving reviews).
   - Copy: full brand name, then we/our; no "you"; no em dash.
 """
@@ -39,7 +37,7 @@ DATA = ROOT / "data" / "testimonials"
 OUT = ROOT / "testimonials" / "index.html"
 PLAYLIST = "https://www.youtube.com/playlist?list=PLRlhdb05DXKSO3XMiN2gd5-DduvcVPWHx"
 CHANNEL = "https://www.youtube.com/@internationalprocessplants2946"
-MIN_RATING_ONLY = 4
+MIN_RATING_ONLY = 1  # show every review, so the cards match Google's counts
 
 PROFILES = [
     ("gbp-reviews-princeton-junction-nj.json", "Princeton Junction, NJ"),
